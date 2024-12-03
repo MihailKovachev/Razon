@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"39ac09ca60276fae","type":"group","x":2493,"y":2358,"width":2258,"height":1741,"label":"Trigonometric Identities"},
+		{"id":"f98ed53db24977b9","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Real Sine Function/Real Sine Function.md","x":-143,"y":-167,"width":603,"height":587,"color":"1"},
+		{"id":"c36c9ee9efa5d660","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Real Sine Function/Properties of the Real Sine Function.md","x":560,"y":-350,"width":543,"height":954,"color":"5"},
+		{"id":"79103ebf97ef4f9b","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Real Cosine Function/Real Cosine Function.md","x":2060,"y":43,"width":560,"height":577,"color":"1"},
+		{"id":"28b45d2e1b8b7f03","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Real Cosine Function/Properties of the Cosine Function.md","x":2740,"y":-140,"width":561,"height":943,"color":"5"},
+		{"id":"7360f20ce066cfc7","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Real Cotangent Substitution/Real Cotangent Function.md","x":2178,"y":1440,"width":462,"height":512,"color":"1"},
+		{"id":"73615c93e15ddcb9","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Real Cotangent Substitution/Properties of the Real Cotangent Function.md","x":2740,"y":1448,"width":627,"height":496,"color":"5"},
+		{"id":"e8df6a3f0ea00961","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Real Tangent Function/Real Tangent Function.md","x":-87,"y":1560,"width":492,"height":520,"color":"1"},
+		{"id":"75cb19f13e9b2742","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Real Tangent Function/Properties of the Real Tangent Function.md","x":525,"y":1565,"width":616,"height":511,"color":"5"},
+		{"id":"2ec247999b10b91e","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Trigonometric Identities/Fundamental Trigonometric Identities.md","x":2575,"y":2378,"width":577,"height":342,"color":"5"},
+		{"id":"d719fbe7529a0777","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Trigonometric Functions of Standard Angles.md","x":1398,"y":3020,"width":644,"height":478,"color":"5"},
+		{"id":"14d123d988e28839","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Trigonometric Identities/Trigonometric Identities for Function Sums.md","x":2540,"y":2800,"width":645,"height":571,"color":"5"},
+		{"id":"ead8331633fdad5c","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Trigonometric Identities/Trigonometric Identities for Function Products.md","x":2513,"y":3455,"width":700,"height":624,"color":"5"},
+		{"id":"0ae23acc574e64b7","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Trigonometric Identities/Trigonometric Identities for Angle Sums.md","x":3360,"y":2378,"width":597,"height":464,"color":"5"},
+		{"id":"59bbc9b7d3c3dd6e","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Trigonometric Identities/Trigonometric Identities for Angle Products.md","x":3335,"y":2917,"width":648,"height":1162,"color":"5"},
+		{"id":"7dddda5d3ebfda4b","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Trigonometric Identities/Universal Trigonometric Substitution.md","x":4119,"y":3225,"width":571,"height":546,"color":"5"},
+		{"id":"b3050eec497529e0","x":4009,"y":2390,"width":681,"height":441,"color":"5","type":"file","file":"Analysis/Real Analysis/Functions/Trigonometric Functions/Trigonometric Identities/Trigonometric Identities for Argument Offsets.md"}
+	],
+	"edges":[
+		{"id":"5a5a2a4219d5acc8","fromNode":"f98ed53db24977b9","fromSide":"right","toNode":"c36c9ee9efa5d660","toSide":"left"},
+		{"id":"6df683461a0ae7a5","fromNode":"79103ebf97ef4f9b","fromSide":"right","toNode":"28b45d2e1b8b7f03","toSide":"left"},
+		{"id":"320f10397999bc5e","fromNode":"7360f20ce066cfc7","fromSide":"right","toNode":"73615c93e15ddcb9","toSide":"left"},
+		{"id":"6878ea2d2d0ffba2","fromNode":"e8df6a3f0ea00961","fromSide":"right","toNode":"75cb19f13e9b2742","toSide":"left"},
+		{"id":"2df0f1f1fe82962f","fromNode":"0ae23acc574e64b7","fromSide":"right","toNode":"b3050eec497529e0","toSide":"left"}
+	]
+}

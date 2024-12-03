@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"f50d1775b0564d42","type":"group","x":740,"y":-284,"width":1319,"height":1064,"label":"Sentential Connectives"},
+		{"id":"73ad8549d63e507a","type":"file","file":"Logic/Two-Valued Logic/Propositional Logic/Negation.md","x":760,"y":-264,"width":400,"height":264,"color":"1"},
+		{"id":"bf71dfdf5820066d","type":"file","file":"Logic/Two-Valued Logic/Propositional Logic/Disjunction.md","x":760,"y":62,"width":600,"height":218,"color":"1"},
+		{"id":"5be87faf2f21e55c","type":"file","file":"Logic/Two-Valued Logic/Propositional Logic/Conjunction.md","x":1240,"y":-264,"width":605,"height":240,"color":"1"},
+		{"id":"43e4653db5490466","type":"file","file":"Logic/Two-Valued Logic/Propositional Logic/Conditional.md","x":1440,"y":62,"width":599,"height":370,"color":"1"},
+		{"id":"ec0b70f5ac8f2740","type":"file","file":"Logic/Two-Valued Logic/Propositional Logic/Biconditional.md","x":760,"y":355,"width":600,"height":405,"color":"1"},
+		{"id":"42e6c676f22cdea9","type":"file","file":"Logic/Two-Valued Logic/Propositional Logic/Propositional Logic.md","x":610,"y":-840,"width":450,"height":377,"color":"1"},
+		{"id":"29d46139b648c338","type":"file","file":"Logic/Two-Valued Logic/Propositional Logic/The Formal Language of Propositional Logic.md","x":-35,"y":-279,"width":645,"height":837,"color":"1"},
+		{"id":"4dcdc4dd35425fa1","type":"file","file":"Logic/Two-Valued Logic/Propositional Logic/Proposition.md","x":68,"y":-832,"width":440,"height":361,"color":"1"},
+		{"id":"90294a42d0b9bce2","x":-920,"y":-419,"width":657,"height":1659,"color":"1","type":"file","file":"Logic/Two-Valued Logic/Propositional Logic/Truth Assignment.md"}
+	],
+	"edges":[]
+}

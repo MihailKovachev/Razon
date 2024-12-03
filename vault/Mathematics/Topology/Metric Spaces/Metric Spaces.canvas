@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"84e01fa32613205c","type":"file","file":"Topology/Metric Spaces/Metric.md","x":40,"y":-94,"width":480,"height":474,"color":"1"},
+		{"id":"366a5c3ba3fcab6c","type":"file","file":"Topology/Metric Spaces/Metric Space.md","x":80,"y":480,"width":400,"height":240,"color":"1"},
+		{"id":"823d5b3479687837","type":"file","file":"Topology/Metric Spaces/Open Ball.md","x":-20,"y":820,"width":600,"height":380,"color":"1"},
+		{"id":"ca88aca187ee93f4","type":"file","file":"Topology/Metric Spaces/The Metric Topology.md","x":-10,"y":1300,"width":580,"height":740,"color":"1"},
+		{"id":"2b9fa407065723d2","type":"file","file":"Topology/Metric Spaces/Metric Equivalence.md","x":700,"y":1530,"width":400,"height":281,"color":"1"},
+		{"id":"a8acec78c097b2c6","type":"file","file":"Topology/Metric Spaces/Distance in Metric Spaces.md","x":740,"y":320,"width":524,"height":559,"color":"1"},
+		{"id":"a5d2853da9f7929f","type":"file","file":"Topology/Metric Spaces/Diameter of a Subset.md","x":1380,"y":400,"width":360,"height":400,"color":"1"},
+		{"id":"23ac9a707864c769","type":"file","file":"Topology/Metric Spaces/Metrizable Space.md","x":-1000,"y":1032,"width":548,"height":229,"color":"1"},
+		{"id":"84d5af91cdb588e1","x":2080,"y":920,"width":661,"height":347,"color":"5","type":"file","file":"Topology/Metric Spaces/Convergence of Sequences in Metric Spaces.md"},
+		{"id":"22fb7fc059de13c9","x":2860,"y":897,"width":597,"height":394,"color":"5","type":"file","file":"Topology/Metric Spaces/Continuity in Metric Spaces.md"},
+		{"id":"5b672dd103c798bd","x":43,"y":2180,"width":475,"height":457,"color":"5","type":"file","file":"Topology/Metric Spaces/Properties of Metric Spaces.md"}
+	],
+	"edges":[
+		{"id":"e5eb630b2c5b44ee","fromNode":"84e01fa32613205c","fromSide":"bottom","toNode":"366a5c3ba3fcab6c","toSide":"top"},
+		{"id":"899bdc3c1ade9eb8","fromNode":"366a5c3ba3fcab6c","fromSide":"bottom","toNode":"823d5b3479687837","toSide":"top"},
+		{"id":"c9444fd05f0fa17b","fromNode":"823d5b3479687837","fromSide":"bottom","toNode":"ca88aca187ee93f4","toSide":"top"},
+		{"id":"6534247d5de30bd1","fromNode":"ca88aca187ee93f4","fromSide":"right","toNode":"2b9fa407065723d2","toSide":"left"},
+		{"id":"4cbec251194ae863","fromNode":"366a5c3ba3fcab6c","fromSide":"right","toNode":"a8acec78c097b2c6","toSide":"left"},
+		{"id":"319b672132f0b23c","fromNode":"a8acec78c097b2c6","fromSide":"right","toNode":"a5d2853da9f7929f","toSide":"left"},
+		{"id":"8319752b0da92c14","fromNode":"ca88aca187ee93f4","fromSide":"bottom","toNode":"5b672dd103c798bd","toSide":"top"}
+	]
+}
