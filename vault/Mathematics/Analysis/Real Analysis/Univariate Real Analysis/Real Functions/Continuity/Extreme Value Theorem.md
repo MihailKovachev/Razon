@@ -1,7 +1,7 @@
 >[!THEOREM] The Extreme Value Theorem
 >Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real-valued function](../../Real-Valued%20Function.md) on a closed interval $D = [a;b]$.
 >
->If $f$ is [continuous](Continuity.md) on $D$, then there exist at least one $x_{\text{of min}} \in D$ and at least one $x_{\text{of max}} \in D$ such that
+>If $f$ is [continuous](Continuity%20of%20Real%20Functions.md) on $D$, then there exist at least one $x_{\text{of min}} \in D$ and at least one $x_{\text{of max}} \in D$ such that
 >
 >$$f(x_{\text{of min}}) \le f(x) \le f(x_{\text{of max}}) \qquad \forall x \in D$$
 >

@@ -2,13 +2,13 @@
 >
 >Let $f: D \to \mathbb{R}$ be a [real function](../Real%20Functions/Real%20Function.md) on a [closed interval](../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b]$.
 >
->If $f$ is [continuous](../Real%20Functions/Continuity/Continuity.md), then $F: D \to \mathbb{R}$ defined by the [definite integral](Definite%20Integrals/Definite%20Integral.md)
+>If $f$ is [Riemann-integrable](Definite%20Integrals/Riemann-Integrability.md), then $F: D \to \mathbb{R}$ defined by the [definite integral](Definite%20Integrals/Definite%20Integral.md)
 >
 >$$
->F(x) \overset{\text{def}}{=} \int_a^x f(t) \mathop{\mathrm{d}t}
+>F(x) \overset{\text{def}}{=} \int_a^x f
 >$$
 >
->is an [antiderivative](Indefinite%20Integrals/Antiderivative.md) of $f$.
+>is [continuous](../Real%20Functions/Continuity/Continuity%20of%20Real%20Functions.md). Furthermore, if $f$ is [continuous](../Real%20Functions/Continuity/Continuity%20of%20Real%20Functions.md) at some $c \in D$, then $F$ is an [antiderivative](Indefinite%20Integrals/Antiderivative.md) of $f$ at $c$, i.e. $F'(c) = f(c)$.
 >
 >>[!PROOF]-
 >>

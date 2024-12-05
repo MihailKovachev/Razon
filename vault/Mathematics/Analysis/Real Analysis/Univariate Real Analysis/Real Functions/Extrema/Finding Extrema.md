@@ -1,6 +1,6 @@
 >[!ALGORITHM] Algorithm: Finding the Extrema of a Function
 >
->Requirements: $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is [continuous](../Continuity/Continuity.md).
+>Requirements: $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is [continuous](../Continuity/Continuity%20of%20Real%20Functions.md).
 >
 >1. Determine the [critical points](../../Differentiation/Critical%20Point.md) $x_1, x_2, \cdots, x_n \in D$ of $f$ by solving $f'(x) = 0$ and also seeing where $f$ is not [differentiable](../../Differentiation/Differentiability%20of%20Real%20Functions.md).
 >2. Use the above criteria to check at which [critical points](../../Differentiation/Critical%20Point.md) $f$ has [local extrema](Local%20Extrema.md).

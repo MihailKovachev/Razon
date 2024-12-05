@@ -1,6 +1,6 @@
 >[!THEOREM]
 >
->If $f$ and $g$ are [continuous](../../Real%20Functions/Continuity/Continuity.md) on a closed interval $[a;b]$, then for all $\alpha, \beta \in \mathbb{R}$
+>If $f$ and $g$ are [continuous](../../Real%20Functions/Continuity/Continuity%20of%20Real%20Functions.md) on a closed interval $[a;b]$, then for all $\alpha, \beta \in \mathbb{R}$
 >
 >$$\int \alpha \, f(x) + \beta \, g(x) \mathop{\mathrm{d}x} = \alpha \int f(x) \mathop{\mathrm{d}x} + \beta \int g(x) \mathop{\mathrm{d}x}$$
 >

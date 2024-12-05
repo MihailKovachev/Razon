@@ -1,4 +1,5 @@
->[!DEFINITION] Definition: Improper Integrals
+>[!NOTATION] Notation: Improper Integrals
+>
 >An **improper integral** is a [definite integral](Definite%20Integral.md) for a [real function](../../Real-Valued%20Function.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ on an open or a semi-open interval $D$:
 >- If $D = [a;b)$ where $a, b \in \mathbb{R}$, the improper integral is defined through the [left-sided limit](../../Real%20Functions/Limits%20of%20Functions/One-Sided%20Limits.md)
 >

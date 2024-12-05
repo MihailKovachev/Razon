@@ -42,5 +42,5 @@
 >
 >We say that $f$ is **differentiable at** some $x \in D$ if the first-order derivative of $f$ in $x$ exists.
 >
->We say that $f$ is $k$**-times (continuously) differentiable on** $D$ if its $k$-th derivative exists (and is [continuous](../Real%20Functions/Continuity/Continuity.md)).
+>We say that $f$ is $k$**-times (continuously) differentiable on** $D$ if its $k$-th derivative exists (and is [continuous](../Real%20Functions/Continuity/Continuity%20of%20Real%20Functions.md)).
 

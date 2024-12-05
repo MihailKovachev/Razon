@@ -1,6 +1,6 @@
 >[!THEOREM] Mean Value Theorem for Derivatives
 >
->If $f: D \to \mathbb{R}$ is [continuous](../Real%20Functions/Continuity/Continuity.md) on the [closed interval](../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$ and [differentiable](Differentiability%20of%20Real%20Functions.md) on the [open interval](../../../../Set%20Theory/Ordering/Intervals.md) $(a;b)$, then there exists at least one $x_0 \in (a;b)$ such that
+>If $f: D \to \mathbb{R}$ is [continuous](../Real%20Functions/Continuity/Continuity%20of%20Real%20Functions.md) on the [closed interval](../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$ and [differentiable](Differentiability%20of%20Real%20Functions.md) on the [open interval](../../../../Set%20Theory/Ordering/Intervals.md) $(a;b)$, then there exists at least one $x_0 \in (a;b)$ such that
 >
 >$$
 >f'(x_0) = \frac{f(b) - f(a)}{b - a}

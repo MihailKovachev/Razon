@@ -56,8 +56,8 @@
 >Let $f: R \subset \mathbb{R}^2 \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) on some [rectangle](TODO) $R = [a;b] \times [c;d]$.
 >
 >If $f$ is [continuous](../Continuity%20of%20Real%20Scalar%20Fields.md) on $R$, then:
->- the [parametric integral](Parametric%20Integrals.md) $\int_c^d f(x,y)\mathop{\mathrm{d}y}$ is [continuous](../../../Univariate%20Real%20Analysis/Real%20Functions/Continuity/Continuity.md) on $[a;b]$.
->- the [parametric integral](Parametric%20Integrals.md) $\int_a^b f(x,y)\mathop{\mathrm{d}x}$ is [continuous](../../../Univariate%20Real%20Analysis/Real%20Functions/Continuity/Continuity.md) on $[c;d]$.
+>- the [parametric integral](Parametric%20Integrals.md) $\int_c^d f(x,y)\mathop{\mathrm{d}y}$ is [continuous](../../../Univariate%20Real%20Analysis/Real%20Functions/Continuity/Continuity%20of%20Real%20Functions.md) on $[a;b]$.
+>- the [parametric integral](Parametric%20Integrals.md) $\int_a^b f(x,y)\mathop{\mathrm{d}x}$ is [continuous](../../../Univariate%20Real%20Analysis/Real%20Functions/Continuity/Continuity%20of%20Real%20Functions.md) on $[c;d]$.
 >
 >>[!PROOF]-
 >>
