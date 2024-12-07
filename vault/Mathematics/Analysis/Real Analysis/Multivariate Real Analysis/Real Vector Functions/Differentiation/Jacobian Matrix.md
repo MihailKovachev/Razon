@@ -5,7 +5,7 @@
 >The **Jacobian matrix** of $f$ is the $n \times n$-[matrix](../../../../../Algebra/Linear%20Algebra/Matrices/Square%20Matrices/Square%20Matrix.md) $Df$ whose rows are the [gradients](../../Scalar%20Fields/Differentiation/Gradient.md) of $f_1,\cdots,f_n$:
 >
 >$$
->\mathop{D} f \overset{\text{def}}{=} \begin{bmatrix}\textemdash & \nabla^\mathsf{T} f_1 & \textemdash \\ \textemdash & \vdots & \textemdash \\ \textemdash & \nabla^\mathsf{T} f_n & \textemdash \end{bmatrix}
+>\mathop{D} f \overset{\text{def}}{=} \begin{bmatrix} - & \nabla^\mathsf{T} f_1 & - \\ - & \vdots & - \\ - & \nabla^\mathsf{T} f_n & - \end{bmatrix}
 >$$
 >
 >>[!NOTATION]-

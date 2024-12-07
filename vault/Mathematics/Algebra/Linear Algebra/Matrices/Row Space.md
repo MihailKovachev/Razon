@@ -3,7 +3,7 @@
 >The **Row space** of a [matrix](Matrix.md) $A \in F^{m \times n}$
 >
 >$$
->A = \begin{bmatrix}\textemdash & \vec{a}_1 & \textemdash \\ \textemdash & \vdots & \textemdash \\ \textemdash & \vec{a}_n & \textemdash\end{bmatrix}
+>A = \begin{bmatrix} - & \vec{a}_1 & - \\ - & \vdots & - \\ - & \vec{a}_n & - \end{bmatrix}
 >$$
 >
 >is the [span](../Vector%20Spaces/Span.md) $\langle \vec{a}_1, \cdots, \vec{a}_n \rangle$ of its rows.
