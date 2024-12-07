@@ -45,7 +45,7 @@
 
 >[!DEFINITION] Definition: Division of Complex Numbers
 >
->The **division** of two [complex numbers](Complex%20Number.md) $z_1 = a + \mathrm{i}b$ and $z_2 = c +\mathrm{i}d$ is defined through the [absolute value](Absolute%20Value%20of%20a%20Complex%20Number.md) and the [complex conjugation](Complex%20Conjugation/Complex%20Conjugate.md):
+>The **division** of two [complex numbers](Complex%20Number.md) $z_1 = a + \mathrm{i}b$ and $z_2 = c +\mathrm{i}d$ is defined through the [absolute value](Absolute%20Value%20of%20a%20Complex%20Number.md) and the [complex conjugation](Complex%20Conjugation/Complex%20Conjugation.md):
 >
 >$$
 >\frac{z_1}{z_2} \overset{\text{def}}{=} \frac{z_1\cdot \bar{z}_2}{|z_2|^2}

@@ -2,7 +2,7 @@
 >
 >Let $f: D \subseteq \mathbb{R}^n \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md).
 >
->The **directional derivative** of $f$ at $\vec{x} \in D$ along the [unit vector](../../../../../Algebra/Linear%20Algebra/Vector%20Spaces/Normed%20Vector%20Spaces/Unit%20Vector.md) $\hat{r}$ is the [limit](../../../Univariate%20Real%20Analysis/Real%20Functions/Limits%20of%20Functions/Real%20Limits%20of%20a%20Function.md)
+>The **directional derivative** of $f$ at $\vec{x} \in D$ along the [unit vector](../../../../../Algebra/Linear%20Algebra/Vector%20Spaces/Normed%20Vector%20Spaces/Unit%20Vector.md) $\hat{r}$ is the [limit](../../../Univariate%20Real%20Analysis/Real%20Functions/Limits%20of%20Functions/Limits%20of%20a%20Function.md)
 >
 >$$\lim_{h\to 0}\frac{f(\vec{x}+h\cdot \hat{r})-f(\vec{x})}{h},$$
 >

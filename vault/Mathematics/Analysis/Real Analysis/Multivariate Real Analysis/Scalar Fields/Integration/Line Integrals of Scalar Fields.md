@@ -120,7 +120,7 @@
 >
 >Let $f: D \subseteq \mathbb{R}^n \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) and $\mathcal{C} \subset D$ be a [curve](../../../../../Geometry/Euclidean%20Geometry/Curves/Curve.md).
 >
->If $f$ is [continuous](../Continuity%20of%20Real%20Scalar%20Fields.md), then there exists a point $\vec{x} \in \mathcal{C}$ on the curve such that the [line integral](../../../../Geometry/Line.md) of $f$ over $\mathcal{C}$ is
+>If $f$ is [continuous](../Continuity%20of%20Real%20Scalar%20Fields.md), then there exists a point $\vec{x} \in \mathcal{C}$ on the curve such that the [line integral](Line%20Integrals%20of%20Scalar%20Fields.md) of $f$ over $\mathcal{C}$ is
 >
 >$$\int_\mathcal{C} f\mathop{\mathrm{d}s} = f(\vec{x})\cdot L$$
 >

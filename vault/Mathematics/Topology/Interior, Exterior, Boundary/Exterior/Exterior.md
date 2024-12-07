@@ -22,7 +22,7 @@
 >
 >Let $(X, \tau_X)$ be a [topological space](../../Topological%20Spaces/Topological%20Space.md) and let $S$ be a [subset](../../../Set%20Theory/Subset.md) of $X$.
 >
->A point $p \in X$ is an **exterior point** of $S$ iff it belongs to the [exterior](.md) of $S$.
+>A point $p \in X$ is an **exterior point** of $S$ iff it belongs to the [exterior](Exterior.md) of $S$.
 >
 >^exterior-point
 >

@@ -2,7 +2,7 @@
 >
 >Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions/Real%20Function.md).
 >
->The **derivative of** $f$ **in** $x_0 \in D$ is the [limit](../Real%20Functions/Limits%20of%20Functions/Real%20Limits%20of%20a%20Function.md)
+>The **derivative of** $f$ **in** $x_0 \in D$ is the [limit](../Real%20Functions/Limits%20of%20Functions/Limits%20of%20a%20Function.md)
 >
 >$$
 >\lim_{\Delta x \to 0} \frac{f(x_0 + \Delta x) - f(x_0)}{\Delta x}
