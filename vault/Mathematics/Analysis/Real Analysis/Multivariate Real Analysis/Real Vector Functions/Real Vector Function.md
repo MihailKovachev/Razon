@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Vector Function
 >
->A **vector function** $f: D \subseteq \mathbb{R}^m \to \mathbb{R}^n$ is a [function](../../../Functions/Function.md) from a [subset](../../../../Set%20Theory/Subset.md) $D$ of the [real vector space](../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Structure%20of%20the%20Real%20Vector%20Space.md) $\mathbb{R}^m$ to the [real vector space](../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Structure%20of%20the%20Real%20Vector%20Space.md) $\mathbb{R}^n$.
+>A **vector function** $f: D \subseteq \mathbb{R}^m \to \mathbb{R}^n$ is a [real vector-valued function](../Real%20Vector-Valued%20Function.md) whose [domain](../../../Functions/Domain%20of%20a%20Function.md) $D$ is a [subset](../../../../Set%20Theory/Subset.md) of the [real vector space](../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Structure%20of%20the%20Real%20Vector%20Space.md) $\mathbb{R}^m$.
 >
 >>[!NOTATION]-
 >>
@@ -17,15 +17,9 @@
 >>The latter expression is the reason why vector functions are also called *multi-variable functions*.
 >>
 >
->>[!DEFINITION] Definition: Component Functions
+>>[!NOTE] Note: Component Functions
 >>
->>Every [vector function](Real%20Vector%20Function.md) $f: D \subseteq \mathbb{R}^m \to \mathbb{R}^n$ can be described by $n$ [scalar fields](../Scalar%20Fields/Real%20Scalar%20Field.md) $f_1,\cdots,f_n: D \to \mathbb{R}$, where $f_k$ is responsible for the $k$-th component of the resulting [vector](../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md):
->>
->>$$
->>\vec{y} = f(\vec{x}) = f(x_1,\cdots,x_m) = \begin{bmatrix}f_1(\vec{x}) \\ \vdots \\ f_n(\vec{x}) \end{bmatrix} = \begin{bmatrix}f_1(x_1, \cdots, x_m) \\ \vdots \\ f_n(x_1, \cdots, x_m) \end{bmatrix}
->>$$
->>
->>The [scalar fields](../Scalar%20Fields/Real%20Scalar%20Field.md) $f_1,\cdots,f_n$ are called **component functions** of $f$.
+>>The [component functions](../Real%20Vector-Valued%20Function.md) of $f$ are [real scalar fields](../Scalar%20Fields/Real%20Scalar%20Field.md).
 >>
 >
 

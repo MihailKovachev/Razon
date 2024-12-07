@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Point
 >
->A **point** in the [Euclidean space](../Euclidean%20Space.md) $\mathbb{R}^n$ is a [real column vector](../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md).
+>A **point** in the [Euclidean space](../Euclidean%20Space/Euclidean%20Space.md) $\mathbb{R}^n$ is a [real column vector](../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md).
 >
 >>[!INTUITION]-
 >>

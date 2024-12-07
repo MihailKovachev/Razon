@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Vector
 >
->A **vector** in $n$-dimensional [Euclidean space](../Euclidean%20Space.md) is a [real column vector](../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md) $\mathbb{R}^n$.
+>A **vector** in $n$-dimensional [Euclidean space](../Euclidean%20Space/Euclidean%20Space.md) is a [real column vector](../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md) $\mathbb{R}^n$.
 >
 >>[!INTUITION]-
 >>
