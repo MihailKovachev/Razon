@@ -4,7 +4,7 @@
 >
 >>[!THEOREM] Theorem: Uniqueness of the Incircle
 >>
->>The [incircle](Incircle.md) of a [tangential polygon](Tangential%20Polygon.md) is unique.
+>>The [incircle](Incircle.md) of a [tangential polygon](.md) is unique.
 >>
 >>>[!PROOF]-
 >>>

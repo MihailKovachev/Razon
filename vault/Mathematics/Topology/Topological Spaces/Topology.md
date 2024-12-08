@@ -8,7 +8,7 @@
 >
 >>[!INTUITION]-
 >>
->>A [topology](topology.md) $\tau$ on a [set](../../Set%20Theory/Set.md) $X$ can be interpreted as a definition of "closeness" between elements of $X$ without using any notion of distance. Moreover, a topology provides a way for us to define what is "inside" a set, what is "outside" a set and what separates the inside of a set from its outside.
+>>A [topology](.md) $\tau$ on a [set](../../Set%20Theory/Set.md) $X$ can be interpreted as a definition of "closeness" between elements of $X$ without using any notion of distance. Moreover, a topology provides a way for us to define what is "inside" a set, what is "outside" a set and what separates the inside of a set from its outside.
 >> 
 >
 >>[!EXAMPLE]-

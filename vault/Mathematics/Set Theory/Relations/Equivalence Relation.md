@@ -15,7 +15,7 @@
 
 >[!DEFINITION] Definition: Equivalence Class
 >
->Let $A$ be a [set](../Set.md) with an [equivalence relation](Equivalence%20Relation.md) $\sim$.
+>Let $A$ be a [set](../Set.md) with an [equivalence relation](.md) $\sim$.
 >
 >The **equivalence class** of an element $a \in A$ formed by $\sim$ is the [set](../Set.md) of all $x \in A$ which are equivalent to $a$.
 >

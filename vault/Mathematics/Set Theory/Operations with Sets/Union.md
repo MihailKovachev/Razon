@@ -16,7 +16,7 @@
 
 >[!THEOREM] Theorem: Cardinality of the Set Union
 >
->The [union](Union.md) of two [sets](../Set.md) $A$ and $B$ has [cardinality](../Cardinality/Cardinality.md)
+>The [union](.md) of two [sets](../Set.md) $A$ and $B$ has [cardinality](../Cardinality/Cardinality.md)
 >
 >$$
 >|A\cup B| = |A|+|B|-|A \cap B|
@@ -30,7 +30,7 @@
 
 >[!THEOREM] Theorem: Commutativity of the Set Union
 >
->The [union](Union.md) of two [sets](../Set.md) $A$ and $B$ is commutative.
+>The [union](.md) of two [sets](../Set.md) $A$ and $B$ is commutative.
 >
 >$$
 >A\cup B = B \cup A

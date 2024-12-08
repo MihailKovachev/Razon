@@ -11,7 +11,7 @@
 
 >[!THEOREM] Theorem: Equality of $n$-Tuples
 >
->Two $n$-[tuples](Tuple.md) $(a_1,\cdots,a_n)$ and $(b_1,\cdots,b_n)$ are [equal](Axiom%20of%20Extensionality.md) if and only if $a_1 = b_1, \cdots, a_n = b_n$:
+>Two $n$-[tuples](.md) $(a_1,\cdots,a_n)$ and $(b_1,\cdots,b_n)$ are [equal](Axiom%20of%20Extensionality.md) if and only if $a_1 = b_1, \cdots, a_n = b_n$:
 >
 >$$
 >(a_1,\cdots,a_n) = (b_1,\cdots,b_n) \iff a_1 = b_1 \land \cdots \land a_n = b_n

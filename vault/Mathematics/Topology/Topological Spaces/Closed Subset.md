@@ -8,7 +8,7 @@
 >>
 >>Let $(S, \tau)$ be a [topological space](Topological%20Space.md).
 >>
->>A [subset](../../Set%20Theory/Subset.md) $C \subseteq S$ is [closed](Closed%20Subset.md) if and only if for each $x$ in its [complement](../../Set%20Theory/Complement.md) $S \setminus C$ there exists a [neighbourhood](Neighbourhoods.md) $N$ of $x$ such that $N \subseteq S \setminus C$.
+>>A [subset](../../Set%20Theory/Subset.md) $C \subseteq S$ is [closed](.md) if and only if for each $x$ in its [complement](../../Set%20Theory/Complement.md) $S \setminus C$ there exists a [neighbourhood](Neighbourhoods.md) $N$ of $x$ such that $N \subseteq S \setminus C$.
 >>
 >>>[!PROOF]-
 >>>
@@ -21,7 +21,7 @@
 >
 >Let $(S, \tau)$ be a [topological space](Topological%20Space.md).
 >
->The [intersection](../../Set%20Theory/Collections/Intersection%20of%20a%20Collection.md) of any [collection](../../Set%20Theory/Collections/Collection.md) of [closed subsets](Closed%20Subset.md) is also closed.
+>The [intersection](../../Set%20Theory/Collections/Intersection%20of%20a%20Collection.md) of any [collection](../../Set%20Theory/Collections/Collection.md) of [closed subsets](.md) is also closed.
 >
 >>[!PROOF]-
 >>
@@ -33,7 +33,7 @@
 >
 >Let $(S, \tau)$ be a [topological space](Topological%20Space.md).
 >
->The [union](../../Set%20Theory/Collections/Union%20of%20a%20Collection.md) of any finite [collection](../../Set%20Theory/Collections/Collection.md) of [closed subsets](Closed%20Subset.md) is also closed.
+>The [union](../../Set%20Theory/Collections/Union%20of%20a%20Collection.md) of any finite [collection](../../Set%20Theory/Collections/Collection.md) of [closed subsets](.md) is also closed.
 >
 >>[!PROOF]-
 >>

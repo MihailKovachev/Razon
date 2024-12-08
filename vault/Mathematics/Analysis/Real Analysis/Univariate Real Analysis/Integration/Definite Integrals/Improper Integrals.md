@@ -9,11 +9,11 @@
 >
 >$$\int_a^b f(x) \mathop{\mathrm{d}x} \overset{\text{def}}{=} \lim_{\alpha \to a^+} \int_\alpha^b f(x) \mathop{\mathrm{d}x}$$
 >
->- If $D = [a;\infty)$ where $a \in \mathbb{R}$, the improper integral is defined through the [limit](../../Real%20Functions/Limits%20of%20Functions/Limits%20of%20a%20Function.md)
+>- If $D = [a;\infty)$ where $a \in \mathbb{R}$, the improper integral is defined through the [limit](../../Real%20Functions/Limits%20of%20Functions/Real%20Limits%20of%20a%20Function.md)
 >
 >$$\int_a^\infty f(x) \mathop{\mathrm{d}x} \overset{\text{def}}{=} \lim_{\beta \to \infty} \int_a^\beta f(x) \mathop{\mathrm{d}x}$$
 >
->- If $D = (-\infty;b]$ where $b \in \mathbb{R}$, the improper integral is defined through the [limit](../../Real%20Functions/Limits%20of%20Functions/Limits%20of%20a%20Function.md)
+>- If $D = (-\infty;b]$ where $b \in \mathbb{R}$, the improper integral is defined through the [limit](../../Real%20Functions/Limits%20of%20Functions/Real%20Limits%20of%20a%20Function.md)
 >
 >$$\int_{-\infty}^b f(x) \mathop{\mathrm{d}x} \overset{\text{def}}{=} \lim_{\alpha \to -\infty} \int_\alpha^b f(x) \mathop{\mathrm{d}x}$$
 >

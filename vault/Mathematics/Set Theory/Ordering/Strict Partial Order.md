@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Strict Partial Order
 >
->A **strict partial order** of a [set](../Set.md) $A$ is a [relation](../Relations/Relation.md) $R \subseteq A \times A$ which is [irreflexive](../Relations/Reflexivity.md), [transitive](../Relations/Transitivity.md) and [antisymmetric](../Relations/Symmetry.md).
+>A **strict partial order** of a [set](../../Set.md) $A$ is any [relation](../../Relations/Relation.md) $R \subseteq A \times A$ which is [](../../Relations/Reflexivity.md#^irreflexivity), [transitive](../../Relations/Transitivity.md) and [](../../Relations/Symmetry.md#^asymmetric).
 >
 >>[!NOTATION]-
 >>

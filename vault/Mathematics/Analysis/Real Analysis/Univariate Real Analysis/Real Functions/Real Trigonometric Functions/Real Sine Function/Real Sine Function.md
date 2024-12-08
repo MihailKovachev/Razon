@@ -1,6 +1,6 @@
 >[!THEOREM] Theorem: Convergence of the Sine Power Series
 >
->The [real power series](../../../Real%20Series/Power%20Series/Real%20Power%20Series.md) $\displaystyle \sum_{n=0}^\infty (-1)^n\frac{x^{2n+1}}{(2n+1)!}$ is [convergent](../../../Real%20Series/Power%20Series/Convergence%20of%20Real%20Power%20Series.md) for all $x \in \mathbb{R}$.
+>The [real power series](../../../Real%20Series/Power%20Series/Real%20Power%20Series.md) $\displaystyle \sum_{n=0}^\infty (-1)^n\frac{x^{2n+1}}{(2n+1)!}$ is [convergent](../../../Real%20Series/Power%20Series/Convergence%20of%20Power%20Series.md) for all $x \in \mathbb{R}$.
 >
 >>[!PROOF]-
 >>

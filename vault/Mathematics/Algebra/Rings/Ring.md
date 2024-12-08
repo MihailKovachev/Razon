@@ -36,7 +36,7 @@
 >
 >>[!THEOREM]- Theorem: Uniqueness of the Additive Identity
 >>
->>The additive identity $0_R$ of a [ring](Ring.md) $R$ is unique.
+>>The additive identity $0_R$ of a [ring](.md) $R$ is unique.
 >>
 >>>[!PROOF]-
 >>>
@@ -66,7 +66,7 @@
 >
 >>[!THEOREM]- Theorem: Uniqueness of the Multiplicative Identity
 >>
->>The multiplicative identity $1_R$ of a [ring](Ring.md) $R$ is unique.
+>>The multiplicative identity $1_R$ of a [ring](.md) $R$ is unique.
 >>
 >>>[!PROOF]-
 >>>
@@ -89,7 +89,7 @@
 >
 >>[!THEOREM]- Theorem: Uniqueness of Additive Inverses
 >>
->>The additive inverse $-a$ of each element $a$ in a [ring](Ring.md) is unique.
+>>The additive inverse $-a$ of each element $a$ in a [ring](.md) is unique.
 >>
 >>>[!PROOF]-
 >>>

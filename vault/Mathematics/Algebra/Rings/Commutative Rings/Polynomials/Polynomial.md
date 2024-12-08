@@ -9,6 +9,6 @@
 >
 >>[!DEFINITION] Definition: Leading Coefficient
 >>
->>The **leading coefficient** of a [polynomial](polynomial.md) is the [coefficient](Monomials/Monomial.md) of its highest-[degree](Monomials/Degree%20of%20a%20Monomial.md) [monomial](Monomials/Monomial.md).
+>>The **leading coefficient** of a [polynomial](.md) is the [](Monomials/Monomial.md#^coefficient) of its highest-[](Monomials/Monomial.md#^degree) [monomial](Monomials/Monomial.md).
 >>
 >

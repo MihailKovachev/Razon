@@ -9,7 +9,7 @@
 
 >[!THEOREM] Theorem: Cardinality of the Cartesian Product
 >
->The [Cartesian product](Cartesian%20Product.md) of two [sets](../Set.md) $A$ and $B$ has [cardinality](../Cardinality/Cardinality.md)
+>The [Cartesian product](.md) of two [sets](../Set.md) $A$ and $B$ has [cardinality](../Cardinality/Cardinality.md)
 >
 >$$
 >|A \times B| = |B \times A| = |A|\cdot |B|

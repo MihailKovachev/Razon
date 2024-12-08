@@ -5,7 +5,7 @@
 
 >[!THEOREM] Theorem: Absolute Convergence $\implies$ Convergence
 >
->Every [absolutely convergent](Absolute%20Convergence%20of%20Infinite%20Series.md) [infinite series](../Infinite%20Series.md) is also [convergent](Convergence%20of%20an%20Infinite%20Series.md).
+>Every [absolutely convergent](.md) [infinite series](../Infinite%20Series.md) is also [convergent](Convergence%20of%20an%20Infinite%20Series.md).
 >
 >>[!PROOF]-
 >>

@@ -9,7 +9,7 @@
 >
 >Let $(S, \tau)$ be a [topological space](Topological%20Space.md).
 >
->The [union](../../Set%20Theory/Collections/Union%20of%20a%20Collection.md) of any [collection](../../Set%20Theory/Collections/Collection.md) of [open subsets](Open%20Subset.md) is also open.
+>The [union](../../Set%20Theory/Collections/Union%20of%20a%20Collection.md) of any [collection](../../Set%20Theory/Collections/Collection.md) of [open subsets](.md) is also open.
 >
 >>[!PROOF]-
 >>
@@ -21,11 +21,11 @@
 >
 >Let $(S, \tau)$ be a [topological space](Topological%20Space.md).
 >
->The [intersection](../../Set%20Theory/Collections/Intersection%20of%20a%20Collection.md) of any finite [collection](../../Set%20Theory/Collections/Collection.md) of [open sets](Open%20Subset.md) is also open.
+>The [intersection](../../Set%20Theory/Collections/Intersection%20of%20a%20Collection.md) of any finite [collection](../../Set%20Theory/Collections/Collection.md) of [open sets](.md) is also open.
 >
 >>[!PROOF]-
 >>
->>We consider $n \ge 2$ arbitrary [open subsets](Open%20Subset.md) $U_1,\cdots, U_n$.
+>>We consider $n \ge 2$ arbitrary [open subsets](.md) $U_1,\cdots, U_n$.
 >>
 >>For $n = 2$, the definition of the [topology](Topology.md) $\tau$ tells us that $U_1 \cap U_2 \in \tau$.
 >>
