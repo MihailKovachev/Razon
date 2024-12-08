@@ -17,7 +17,7 @@
 
 >[!TIP] Corollary: Open Sets in the Metric Topology
 >
->Let $(S,d)$ be a [metric space](Metric%20Space.md) and let $\tau$ be the [topology](.md) induced on it by $d$.
+>Let $(S,d)$ be a [metric space](Metric%20Space.md) and let $\tau$ be the [topology](Metric%20Topology.md) induced on it by $d$.
 >
 >A [subset](../../Set%20Theory/Subset.md) $U$ of $S$ is [open](../Topological%20Spaces/Open%20Subset.md) if and only if for each $u \in U$ there exists an [open ball](Open%20Ball.md) $B_\varepsilon (u)$ which is contained entirely in $U$.
 >

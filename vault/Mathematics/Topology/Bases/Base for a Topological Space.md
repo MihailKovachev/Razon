@@ -13,17 +13,17 @@
 >>
 >>Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/Topological%20Space.md).
 >>
->>A [collection](../../Set%20Theory/Collections/Collection.md) $\mathcal{B}$ of [open sets](../Topological%20Spaces/Open%20Subset.md) is a [base](.md) for $(X, \tau)$ if and only if for each [open set](../Topological%20Spaces/Open%20Subset.md) $U$ and each $u \in U$, there exists some $B \in \mathcal{B}$ such that $B \subseteq U$ and $u \in B$.
+>>A [collection](../../Set%20Theory/Collections/Collection.md) $\mathcal{B}$ of [open sets](../Topological%20Spaces/Open%20Subset.md) is a [base](Base%20for%20a%20Topological%20Space.md) for $(X, \tau)$ if and only if for each [open set](../Topological%20Spaces/Open%20Subset.md) $U$ and each $u \in U$, there exists some $B \in \mathcal{B}$ such that $B \subseteq U$ and $u \in B$.
 >>
 >>>[!PROOF]-
 >>>
 >>>We need to prove two things:
->>>- (I) If $\mathcal{B}$ is a [base](.md) for $(X, \tau)$, then for each [open set](../Topological%20Spaces/Open%20Subset.md) $U$ and each $u \in U$, there exists some $B \in \mathcal{B}$ such that $B \subseteq U$ and $u \in B$.
->>>- (II) If for each [open set](../Topological%20Spaces/Open%20Subset.md) $U$ and each $u \in U$, there exists some $B \in \mathcal{B}$ such that $B \subseteq U$ and $u \in B$, then $\mathcal{B}$ is a  [base](.md) for $(X, \tau)$.
+>>>- (I) If $\mathcal{B}$ is a [base](Base%20for%20a%20Topological%20Space.md) for $(X, \tau)$, then for each [open set](../Topological%20Spaces/Open%20Subset.md) $U$ and each $u \in U$, there exists some $B \in \mathcal{B}$ such that $B \subseteq U$ and $u \in B$.
+>>>- (II) If for each [open set](../Topological%20Spaces/Open%20Subset.md) $U$ and each $u \in U$, there exists some $B \in \mathcal{B}$ such that $B \subseteq U$ and $u \in B$, then $\mathcal{B}$ is a  [base](Base%20for%20a%20Topological%20Space.md) for $(X, \tau)$.
 >>>
 >>>**Part I:**
 >>>
->>>Suppose $\mathcal{B}$ is a [base](.md) for $(X, \tau)$. Let $U$ be [open](../Topological%20Spaces/Open%20Subset.md) and let $u \in U$. Since $\mathcal{B}$ is a [base](.md), $U$ can be represented as a [union](../../Set%20Theory/Collections/Union%20of%20a%20Collection.md) of some [subset](../../Set%20Theory/Subset.md) $\mathcal{B}_U \subseteq \mathcal{B}$, i.e. $U = \bigcup \mathcal{B}_U$. This implies that every $B \in \mathcal{B}_U$ is a [subset](../../Set%20Theory/Subset.md) of $U$. Moreover, since $u \in U$, there must exist at least one $B \in \mathcal{B}_U$ which contains $u$.
+>>>Suppose $\mathcal{B}$ is a [base](Base%20for%20a%20Topological%20Space.md) for $(X, \tau)$. Let $U$ be [open](../Topological%20Spaces/Open%20Subset.md) and let $u \in U$. Since $\mathcal{B}$ is a [base](Base%20for%20a%20Topological%20Space.md), $U$ can be represented as a [union](../../Set%20Theory/Collections/Union%20of%20a%20Collection.md) of some [subset](../../Set%20Theory/Subset.md) $\mathcal{B}_U \subseteq \mathcal{B}$, i.e. $U = \bigcup \mathcal{B}_U$. This implies that every $B \in \mathcal{B}_U$ is a [subset](../../Set%20Theory/Subset.md) of $U$. Moreover, since $u \in U$, there must exist at least one $B \in \mathcal{B}_U$ which contains $u$.
 >>>
 >>>**Part II:**
 >>>

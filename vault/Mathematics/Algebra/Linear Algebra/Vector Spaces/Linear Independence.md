@@ -24,7 +24,7 @@
 >
 >>[!PROOF]-
 >>
->>Let $B = \{\mathbf{b}_1, \cdots, \mathbf{b}_n,\}$ be a [basis](Bases/Basis.md) of $V$ and let $I = \{\mathbf{v}_1, \cdots, \mathbf{v}_m\}$ be a [set](../../../Set%20Theory/Set.md) of [linearly independent](.md) [vectors](Vector%20Space.md).
+>>Let $B = \{\mathbf{b}_1, \cdots, \mathbf{b}_n,\}$ be a [basis](Bases/Basis.md) of $V$ and let $I = \{\mathbf{v}_1, \cdots, \mathbf{v}_m\}$ be a [set](../../../Set%20Theory/Set.md) of [linearly independent](Linear%20Independence.md) [vectors](Vector%20Space.md).
 >>
 >>According to the [Steinitz exchange lemma](Bases/Steinitz%20Exchange%20Lemma.md) there are $n-m$ [vectors](Vector%20Space.md) in $B$ which form a basis with the vectors from $I$. This means that $n-m$ cannot be negative and thus the proof is complete.
 >>

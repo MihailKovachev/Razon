@@ -21,7 +21,7 @@
 
 >[!THEOREM] Theorem: Majorant Criterion
 >
->An [infinite series](../Infinite%20Series.md) $\displaystyle \sum_{k = 1}^\infty a_k$  [converges absolutely](Absolute%20Convergence%20of%20an%20Infinite%20Series.md) if there are a [convergent](Convergence%20of%20an%20Infinite%20Series.md) [series](../Infinite%20Series.md) $\displaystyle \sum_{k = 1}^\infty b_k$ and some $N \in \mathbb{N}$ such that
+>An [infinite series](../Infinite%20Series.md) $\displaystyle \sum_{k = 1}^\infty a_k$  [converges absolutely](Absolute%20Convergence%20of%20Infinite%20Series.md) if there are a [convergent](Convergence%20of%20an%20Infinite%20Series.md) [series](../Infinite%20Series.md) $\displaystyle \sum_{k = 1}^\infty b_k$ and some $N \in \mathbb{N}$ such that
 >
 >$$|a_k| \le b_k \qquad \forall k\ge N$$
 >
@@ -33,11 +33,11 @@
 >[!THEOREM] Theorem: Quotient Criterion
 >
 >An [infinite series](../Infinite%20Series.md) $\displaystyle \sum_{k = 1}^\infty a_k$ is:
->- [absolutely convergent](Absolute%20Convergence%20of%20an%20Infinite%20Series.md) if the following [limit](../../Real%20Functions/Limits%20of%20Functions/Real%20Limits%20of%20a%20Function.md) exists and is smaller than $1$
+>- [absolutely convergent](Absolute%20Convergence%20of%20Infinite%20Series.md) if the following [limit](../../Real%20Functions/Limits%20of%20Functions/Limit%20of%20a%20Function.md) exists and is smaller than $1$
 >
 >$$\lim_{k\to\infty} \left|\frac{a_{k+1}}{a_k}\right| \lt 1$$
 >
->- [divergent](Divergence%20of%20an%20Infinite%20Series.md) if the [limit](../../Real%20Functions/Limits%20of%20Functions/Real%20Limits%20of%20a%20Function.md) exists but is greater than $1$
+>- [divergent](Divergence%20of%20an%20Infinite%20Series.md) if the [limit](../../Real%20Functions/Limits%20of%20Functions/Limit%20of%20a%20Function.md) exists but is greater than $1$
 >
 >$$\lim_{k\to\infty} \left|\frac{a_{k+1}}{a_k}\right| \gt 1$$
 >
@@ -55,11 +55,11 @@
 >[!THEOREM] Theorem: Square Root Criterion
 >
 >An [infinite series](../Infinite%20Series.md) $\displaystyle \sum_{k = 1}^\infty a_k$ is:
->- [absolutely convergent](Absolute%20Convergence%20of%20an%20Infinite%20Series.md) if the following [limit](../../Real%20Functions/Limits%20of%20Functions/Real%20Limits%20of%20a%20Function.md) exists and is smaller than $1$
+>- [absolutely convergent](Absolute%20Convergence%20of%20Infinite%20Series.md) if the following [limit](../../Real%20Functions/Limits%20of%20Functions/Limit%20of%20a%20Function.md) exists and is smaller than $1$
 >
 >$$\lim_{k\to\infty} \sqrt[k]{|a_k|} \lt 1$$
 >
->- [divergent](Divergence%20of%20an%20Infinite%20Series.md) if the [limit](../../Real%20Functions/Limits%20of%20Functions/Real%20Limits%20of%20a%20Function.md) exists but is greater than $1$
+>- [divergent](Divergence%20of%20an%20Infinite%20Series.md) if the [limit](../../Real%20Functions/Limits%20of%20Functions/Limit%20of%20a%20Function.md) exists but is greater than $1$
 >
 >$$\lim_{k\to\infty} \sqrt[k]{|a_k|} \gt 1$$
 >

@@ -19,7 +19,7 @@
 
 >[!THEOREM] Theorem: Uniqueness of the Zero Vector
 >
->Every [vector space](.md) has exactly one zero vector.
+>Every [vector space](Vector%20Space.md) has exactly one zero vector.
 >
 >>[!PROOF]-
 >>
@@ -41,7 +41,7 @@
 
 >[!THEOREM] Theorem: Uniqueness of Vector Inverses
 >
->For every vector $\mathbf{v} \in V$ in a [vector space](.md) $(V,F,+,\cdot)$ there is exactly one inverse vector $-\mathbf{v} \in V$ such that
+>For every vector $\mathbf{v} \in V$ in a [vector space](Vector%20Space.md) $(V,F,+,\cdot)$ there is exactly one inverse vector $-\mathbf{v} \in V$ such that
 >
 >$$
 >\mathbf{v} + (-\mathbf{v}) = \mathbf{0}

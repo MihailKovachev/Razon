@@ -10,7 +10,7 @@
 >
 >>[!THEOREM] Theorem: Uniqueness of the Infimum
 >>
->>The [infimum](.md) of $T$ is unique.
+>>The [infimum](Infimum.md) of $T$ is unique.
 >>
 >>>[!PROOF]-
 >>>

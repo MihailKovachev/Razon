@@ -11,13 +11,13 @@
 >
 >Let $(X,\tau_X)$ and $(Y,\tau_Y)$ be [topological spaces](../Topological%20Spaces/Topological%20Space.md).
 >
->A [function](../../Analysis/Functions/Function.md) $f: X \to Y$ is **continuous on** $X$ or simply **continuous** iff it is [#^continuity-at-a-point](#^continuity-at-a-point) at each $x \in X$.
+>A [function](../../Analysis/Functions/Function.md) $f: X \to Y$ is **continuous on** $X$ or simply **continuous** iff it is [continuous](Continuity.md) at each $x \in X$.
 >
 >>[!THEOREM]- Theorem: Equivalent Definition - Continuity via Openness
 >>
 >>Let $(X,\tau_X)$ and $(Y,\tau_Y)$ be [topological spaces](../Topological%20Spaces/Topological%20Space.md).
 >>
->>A [function](../../Analysis/Functions/Function.md) $f: X \to Y$ is [#^continuity](#^continuity) if and only if the [inverse image](../../Analysis/Functions/Inverse%20Image.md) of each [open subset](../Topological%20Spaces/Open%20Subset.md) of $Y$ is an open subset of $X$.
+>>A [function](../../Analysis/Functions/Function.md) $f: X \to Y$ is [continuous](Continuity.md) if and only if the [inverse image](../../Analysis/Functions/Inverse%20Image.md) of each [open subset](../Topological%20Spaces/Open%20Subset.md) of $Y$ is an open subset of $X$.
 >>
 >>>[!PROOF]-
 >>>

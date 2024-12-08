@@ -5,11 +5,11 @@
 >
 >>[!THEOREM] Theorem: Uniqueness of Group Inverses
 >>
->>Each element of a [group](.md) has a unique inverse.
+>>Each element of a [group](Group.md) has a unique inverse.
 >>
 >>>[!PROOF]-
 >>>
->>>Let $a$ be an element of a [group](.md) $(G, \circ)$.
+>>>Let $a$ be an element of a [group](Group.md) $(G, \circ)$.
 >>>
 >>>Suppose there are two distinct inverses $a_{\text{inv}}$  and $a_{\text{inv}}'$ of $a$. By definition,
 >>>

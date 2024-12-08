@@ -10,7 +10,7 @@
 >
 >>[!THEOREM] Theorem: Uniqueness of the Supremum
 >>
->>The [supremum](.md) of $T$ is unique.
+>>The [supremum](Supremum.md) of $T$ is unique.
 >>
 >>>[!PROOF]-
 >>>
