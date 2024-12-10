@@ -4,15 +4,19 @@
 >
 >>[!NOTATION]-
 >>
->>$$C$$
+>>$$
+>>C
+>>$$
 >>
 >
 
 >[!THEOREM] Theorem: Circumference and Radius
 >
->The ratio of a [circle](Circle.md)'s [circumference](.md) $C$ to its [radius](Radius.md) $R$ is always $2\pi$.
+>The ratio of a [circle](Circle.md)'s [circumference](Circumference.md) $C$ to its [radius](Radius.md) $R$ is always $2\pi$.
 >
->$$C = 2\pi R$$
+>$$
+>C = 2\pi R
+>$$
 >
 >>[!PROOF]-
 >>

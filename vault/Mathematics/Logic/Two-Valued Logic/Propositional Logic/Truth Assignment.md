@@ -14,7 +14,7 @@
 
 >[!DEFINITION] Definition: Extended Truth Assignment
 >
->Let $v$ be an [atomic truth assignment](.md) in the [formal language of propositional logic](The%20Formal%20Language%20of%20Propositional%20Logic.md) $\mathcal{L}_{PL}$.
+>Let $v$ be an [atomic truth assignment](Truth%20Assignment.md) in the [formal language of propositional logic](The%20Formal%20Language%20of%20Propositional%20Logic.md) $\mathcal{L}_{PL}$.
 >
 >An **extended truth assignment** is a [function](../../../Analysis/Functions/Function.md) $\bar{v}$ which assigns a [truth value](../Truth%20Values.md) to every [well-formed formula](../../Formal%20Languages/Well-Formed%20Formula.md) in $\mathcal{L}_\text{PL}$ according to the following rules:
 >1. The truth value assigned to each atomic formula by $\bar{v}$ is the same as the truth value assigned to it by $v$.

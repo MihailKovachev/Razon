@@ -11,19 +11,23 @@
 >>
 >>The **real exponential function** is the [real analytic function](../Real%20Analytic%20Functions/Real%20Analytic%20Function.md) $\exp: \mathbb{R} \to \mathbb{R}$ defined by the [power series](../../Real%20Series/Power%20Series/Real%20Power%20Series.md) $\displaystyle \sum_{n = 0}^\infty \frac{x^n}{n!}$.
 >>
->>$$\exp(x) \overset{\text{def}}{=} \sum_{n = 0}^\infty \frac{x^n}{n!}$$
+>>$$
+>>\exp(x) \overset{\text{def}}{=} \sum_{n = 0}^\infty \frac{x^n}{n!}
+>>$$
 >>
 >>
 >>>[!NOTATION]
 >>>
->>>$$\exp(x) \qquad \mathrm{e}^x$$
+>>>$$
+>>>\exp(x) \qquad \mathrm{e}^x
+>>>$$
 >>>
 >>
 >
 
 >[!THEOREM] Theorem: Image of the Real Exponential Function
 >
->The [image](../../../../Functions/Function.md) of the [real exponential function](.md) is $(0;+\infty)$, i.e. its values are always positive.
+>The [image](../../../../Functions/Function.md) of the [real exponential function](Real%20Exponential%20Function.md) is $(0;+\infty)$, i.e. its values are always positive.
 >
 >>[!PROOF]-
 >>
@@ -33,9 +37,11 @@
 
 >[!THEOREM] Theorem: Monotony of the Real Exponential Function
 >
->The [real exponential function](.md) is [strictly increasing](../Monotony/Monotony%20of%20Real-Valued%20Functions.md).
+>The [real exponential function](Real%20Exponential%20Function.md) is [strictly increasing](../Monotony/Monotony%20of%20Real-Valued%20Functions.md).
 >
->$$\mathrm{e}^x \lt \mathrm{e}^y \iff x \lt y$$
+>$$
+>\mathrm{e}^x \lt \mathrm{e}^y \iff x \lt y
+>$$
 >
 >>[!PROOF]-
 >>
@@ -45,12 +51,14 @@
 
 >[!THEOREM] Addition Theorem for the Real Exponential Function
 >
->The [real exponential function](.md) has the following property for all $x,y \in \mathbb{R}$:
+>The [real exponential function](Real%20Exponential%20Function.md) has the following property for all $x,y \in \mathbb{R}$:
 >
->$$\mathrm{e}^x \mathrm{e}^y = \mathrm{e}^{x + y}$$
+>$$
+>\mathrm{e}^x \mathrm{e}^y = \mathrm{e}^{x + y}
+>$$
 >
 >>[!PROOF]-
 >>
->>
+>>TODO
 >>
 >

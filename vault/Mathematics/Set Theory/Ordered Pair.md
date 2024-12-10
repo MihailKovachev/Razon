@@ -9,7 +9,7 @@
 
 >[!THEOREM] Theorem: Equality of Ordered Pairs
 >
->Two [ordered pairs](.md) $(a;b)$ and $(c;d)$ are [equal](Axiom%20of%20Extensionality.md) if and only if $a = b$ and $c = d$.
+>Two [ordered pairs](Ordered%20Pair.md) $(a;b)$ and $(c;d)$ are [equal](Axiom%20of%20Extensionality.md) if and only if $a = b$ and $c = d$.
 >
 >$$
 >(a;b) = (c;d) \iff (a = b \land c=d)

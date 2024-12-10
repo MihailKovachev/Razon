@@ -9,7 +9,7 @@
 
 >[!THEOREM] Theorem: Distributivity of Complex Conjugation
 >
->The [complex conjugation](.md) of is distributive over [addition](../Arithmetic%20with%20Complex%20Numbers.md) and [multiplication](../Arithmetic%20with%20Complex%20Numbers.md):
+>The [complex conjugation](Complex%20Conjugate.md) of is distributive over [addition](../Arithmetic%20with%20Complex%20Numbers.md) and [multiplication](../Arithmetic%20with%20Complex%20Numbers.md):
 >
 >$$
 >\overline{z_1 + z_2} = \bar{z}_1 + \bar{z}_2

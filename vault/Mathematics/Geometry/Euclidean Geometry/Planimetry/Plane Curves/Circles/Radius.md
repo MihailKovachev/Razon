@@ -4,7 +4,7 @@
 >
 >>[!THEOREM] Theorem
 >>
->>All [radii](.md) of a [circle](Circle.md) have the same [length](../../../Curves/Arcs/Arc%20Length.md).
+>>All [radii](Radius.md) of a [circle](Circle.md) have the same [length](../../../Curves/Arcs/Arc%20Length.md).
 >>
 >>>[!PROOF]-
 >>>
@@ -13,6 +13,8 @@
 >
 >>[!NOTATION]-
 >>
->>$$r \qquad R$$
+>>$$
+>>r \qquad R
+>>$$
 >>
 >

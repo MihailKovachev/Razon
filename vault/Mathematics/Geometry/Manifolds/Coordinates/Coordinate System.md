@@ -6,19 +6,24 @@
 >
 >>[!DEFINITION] Definition: Coordinates on a Subset
 >>
->>The [component functions](../../../Analysis/Real%20Analysis/Multivariate%20Real%20Analysis/Real%20Vector-Valued%20Function.md) $\phi_1, \dotsc, \phi_n: U \to \mathbb{R}$ of $\phi$ are known as **local coordinates** or simply **coordinates** on $U$.
+>>The [component functions](../../../Analysis/Real%20Analysis/Multivariate%20Real%20Analysis/Real%20Vector-Valued%20Function.md) $\phi^1, \dotsc, \phi^n: U \to \mathbb{R}$ of $\phi$ are known as **local coordinates** or simply **coordinates** on $U$.
+>>
+>>>[!NOTATION]-
+>>>
+>>>The component functions of a coordinate system $\phi$ are usually denoted using superscripts instead of subscripts, i.e. $\phi^1, \dotsc, \phi^n$ instead of $\phi_1, \dotsc, \phi_n$.
+>>>
 >>
 >
 >>[!DEFINITION] Definition: Coordinates of a Point
 >>
->>Given a point $p \in U$, we call $\phi_k(p)$ the $k$-th **coordinate** of $p$.
+>>Given a point $p \in U$, we call $\phi^k(p)$ the $k$-th **coordinate** of $p$.
 >>
 >>>[!NOTATION]-
 >>>
 >>>The coordinates of a point $p$ are usually written together as an $n$-[tuple](../../../Set%20Theory/Tuple.md):
 >>>
 >>>$$
->>>(\phi_1(p), \dotsc, \phi_n(p))
+>>>(\phi^1(p), \dotsc, \phi^n(p))
 >>>$$
 >>>
 >>>Oftentimes, we denote the coordinates of $p$ using superscripts in order to make it clear that they are coordinates of some point:
