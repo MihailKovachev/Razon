@@ -1,28 +1,29 @@
 ---
 name: Bug report
-about: ""
+about: "Report an issue with Razon."
 title: ""
 labels: bug
 assignees: ""
 ---
 
+**Scope**
+
+Which pages are affected by this bug? Is it a website-wide problem?
+
 **Describe the bug**
-A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
+Please, provide a clear and concise description of the issue.
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Steps to reproduce**
+
+Please, provide the steps necessary to reproduce the bug. Essentially, you should recount what it is you did that made the issue appear.
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
 
-**Screenshots and Source**
-If applicable, add screenshots to help explain your problem.
+Please, provide a description of what the correct behavior is that you expect to see.
 
+**Other**
 
-**Additional context**
-Add any other context about the problem here.
+Here you can provide any other information which you deem relevant to issue or think might be of help in resolving it.
+
+*If applicable, add screenshots to help explain your problem.*
