@@ -1,12 +1,6 @@
 >[!THEOREM] Theorem: Cartesian Coordinate System
 >
->The [function](../../../../Analysis/Real%20Analysis/Multivariate%20Real%20Analysis/Real%20Vector%20Functions/Real%20Vector%20Function.md) $\phi: \mathbb{R}^n \to \mathbb{R}^n$ defined as the identity
->
->$$
->\phi(p) \overset{\text{def}} = p
->$$
->
->is a [global coordinate system](../../../Manifolds/Coordinates/Global%20Coordinate%20System.md) for the [Euclidean space](../Euclidean%20Space.md) $\mathbb{R}^n$.
+>The [identity function](../../../../Analysis/Functions/Identity%20Function.md) $\phi: \mathbb{R}^n \to \mathbb{R}^n$ on the [Euclidean space](../Euclidean%20Space.md) $\mathbb{R}^n$ is a [global coordinate system](../../../Manifolds/Coordinates/Global%20Coordinate%20System.md) for it.
 >
 >>[!PROOF]-
 >>
