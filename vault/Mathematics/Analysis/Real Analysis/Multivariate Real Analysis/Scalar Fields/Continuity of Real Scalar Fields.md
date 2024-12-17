@@ -1,12 +1,13 @@
->[!DEFINITION] Definition: Continuity of a Real Scalar Field
+>[!THEOREM] Theorem: Continuity of Real Scalar Fields
 >
->Let $f: D \subseteq \mathbb{R}^n \to \mathbb{R}$ be a [real scalar field](Real%20Scalar%20Field.md).
+>Let $f,g: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ be [real scalar fields](Real%20Scalar%20Field.md).
 >
->We say that $f$ is **continuous at** $\vec{a} \in D$ if its [limit](Limits%20of%20Real%20Scalar%20Fields.md) as its argument approaches $\vec{a}$ is the value $f(\vec{a})$:
+>If $f$ and $g$ are [continuous](../Real%20Vector%20Functions/Continuity%20of%20Real%20Vector%20Functions.md) at $\mathbf{x}_0 \in \mathcal{D}$, then so is their product $fg$.
 >
->$$
->\lim_{\vec{x}\to \vec{a}} f(\vec{x}) = f(\vec{a})
->$$
+>Furthermore, if $g(\mathbf{x}) \ne 0$ for all $\mathbf{x} \in \mathcal{D}$, then their quotient $f / g$ is also [continuous](../Real%20Vector%20Functions/Continuity%20of%20Real%20Vector%20Functions.md) at $\mathbf{x}_0$.
 >
->We say that $f$ is **continuous on** $D$ if it is continuous at every $\vec{a} \in D$.
+>>[!PROOF]-
+>>
+>>TODO
+>>
 >

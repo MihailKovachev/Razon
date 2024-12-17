@@ -1,13 +1,15 @@
->[!DEFINITION] Definition: Limit Point
+>[!DEFINITION] Definition: Accumulation Point
 >
 >Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/Topological%20Space.md) and let $S$ be a [subset](../../Set%20Theory/Subset.md) of $X$.
 >
->A point $x \in X$ is a **limit point** of $S$ iff every [neighbourhood](../Topological%20Spaces/Neighbourhoods.md) of $x$ contains a point of $S$ different from $x$.
+>A point $p \in X$ is an **accumulation point** of $S$ iff every [neighbourhood](../Topological%20Spaces/Neighbourhoods.md) of $p$ contains a point of $S$ different from $p$.
 >
 >>[!NOTE]
 >>
->>Accumulation points are also known as **accumulation points** or **cluster points**.
+>>Limit points are also known as **limit points** or **cluster points**.
 >>
+>
+>![](res/Accumulation%20Point.jpg)
 >
 >>[!EXAMPLE]-
 >>

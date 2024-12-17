@@ -17,3 +17,46 @@
 >>
 >
 >^chainrule
+>
+
+>[!THEOREM] Theorem: Product Rule
+>
+>Let $f, g: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ be [real scalar fields](../Real%20Scalar%20Field.md).
+>
+>If $f$ and $g$ are [differentiable](../../../Univariate%20Real%20Analysis/Differentiation/Differentiability%20of%20Real%20Functions.md) at $\mathbf{a} \in \mathcal{D}$, then the product $fg: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ is also [differentiable](../../../Univariate%20Real%20Analysis/Differentiation/Differentiability%20of%20Real%20Functions.md) at $\mathbf{a} \in \mathcal{D}$ with
+>
+>$$
+>\mathop{\mathrm{d}(fg)_{\mathcal{a}}} = g(\mathcal{a})\mathop{\mathrm{d}f_{\mathcal{a}}} + f(\mathcal{a})\mathop{\mathrm{d}g_{\mathcal{a}}}
+>$$
+>
+>>[!IMPORTANT]
+>>
+>>You should remember that $\mathrm{d}(fg)_{\mathcal{a}}$ is a *function* and so are $\mathop{\mathrm{d}f_{\mathcal{a}}}$ and $\mathop{\mathrm{d}g_{\mathcal{a}}}$
+>>
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
+>[!THEOREM] Theorem: Quotient Rule
+>
+>Let $f, g: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ be [real scalar fields](../Real%20Scalar%20Field.md).
+>
+>If $f$ and $g$ are [differentiable](../../../Univariate%20Real%20Analysis/Differentiation/Differentiability%20of%20Real%20Functions.md) at $\mathbf{a} \in \mathcal{D}$ and $g(\mathcal{a}) \ne 0$, then the quotient $f/g: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ is also [differentiable](../../../Univariate%20Real%20Analysis/Differentiation/Differentiability%20of%20Real%20Functions.md) at $\mathbf{a} \in \mathcal{D}$ with
+>
+>$$
+>\mathop{\mathrm{d}(f/g)_{\mathcal{a}}} = \frac{g(\mathcal{a})\mathop{\mathrm{d}f_{\mathcal{a}}} - f(\mathcal{a})\mathop{\mathrm{d}g_{\mathcal{a}}}}{g(\mathcal{a})^2}
+>$$
+>
+>>[!IMPORTANT]
+>>
+>>You should remember that $\mathrm{d}(f/g)_{\mathcal{a}}$ is a *function* and so are $\mathop{\mathrm{d}f_{\mathcal{a}}}$ and $\mathop{\mathrm{d}g_{\mathcal{a}}}$
+>>
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
