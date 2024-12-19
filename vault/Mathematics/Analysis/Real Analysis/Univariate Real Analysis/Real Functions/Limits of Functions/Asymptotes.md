@@ -19,7 +19,7 @@
 >
 >Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Function.md).
 >
->The line $y = a \in \mathbb{R}$ is a **horizontal asymptote** of $f$ if the [limit](Limit%20of%20a%20Function.md) of $f$ as $x$ approaches positive or negative infinity is $a$, i.e. if at least one of the following holds:
+>The line $y = a \in \mathbb{R}$ is a **horizontal asymptote** of $f$ if the [limit](Limit%20of%20a%20Real%20Function.md) of $f$ as $x$ approaches positive or negative infinity is $a$, i.e. if at least one of the following holds:
 >
 >- $\displaystyle \lim_{x \to -\infty} f(x) = a$
 >- $\displaystyle \lim_{x \to \infty} f(x) = a$

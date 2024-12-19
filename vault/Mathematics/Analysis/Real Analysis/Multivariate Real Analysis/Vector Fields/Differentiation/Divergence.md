@@ -1,32 +1,37 @@
 >[!DEFINITION] Definition: Divergence
 >
->Let $\boldsymbol{v}: D \subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) with [component functions](../../Real%20Vector%20Functions/Real%20Vector%20Function.md) $v_1, \cdots, v_n$, where $v_i$ is [partially differentiable](../../Scalar%20Fields/Differentiation/Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md) differentiable with respect to the $i$-th variable.
+>Let $\boldsymbol{v}: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) with [component functions](../../Real%20Vector%20Functions/Real%20Vector%20Function.md) $v_1, \cdots, v_n$, where $v_i$ is [partially differentiable](../../Scalar%20Fields/Differentiation/Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md) with respect to the $i$-th variable.
 >
->The **divergence** of $\boldsymbol{v}$ is the [real scalar field](../../Scalar%20Fields/Real%20Scalar%20Field.md)
+>The **divergence** of $\boldsymbol{v}$ at $\mathbf{x} \in \mathcal{D}$ is
 >
 >$$
->\sum_{i=1}^n \partial_i v_i
+>\sum_{i=1}^n \partial_i v_i (\mathbf{x})
 >$$
 >
->>[!NOTE]
+>>[!NOTATION]-
 >>
->>The divergence can be thought of as the [dot product](../../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Dot%20Product.md) of the [del operator](../Del%20Operator.md) with $\boldsymbol{v}$.
+>>$$
+>>\nabla \cdot \boldsymbol{v}(\mathbf{x}) \qquad \mathop{\operatorname{div}}\boldsymbol {v}(\mathbf{x})
+>>$$
+>>
+>
+>>[!TIP]- Tip: Divergence as a Dot Product
+>>
+>>The divergence can be thought of as the [dot product](../../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Dot%20Product.md) of the [del operator](../Del%20Operator.md) with $\boldsymbol{v}(\mathbf{x})$.
 >>
 >>$$
 >>\nabla \cdot \boldsymbol{v} = \begin{bmatrix}\frac{\partial}{\partial x_1} \\ \vdots \\ \frac{\partial}{\partial x_n}\end{bmatrix}\begin{bmatrix}v_1 & \cdots & v_n \end{bmatrix} = \frac{\partial v_1}{\partial x_1} + \cdots + \frac{\partial v_n}{\partial x_n}
 >>$$
 >>
 >
->>[!NOTATION]-
->>
->>$$
->>\nabla \cdot \boldsymbol{v} \qquad \mathop{\operatorname{div}}\boldsymbol {v}
->>$$
->>
->
 >>[!INTUITION]- Intuition: Geometric Meaning of Divergence
 >>
 >>The divergence at a given point is a measure of how much the surrounding vector field flows into or out of it.
+>>
+>
+>>[!NOTE] Note: Divergence as a Function
+>>
+>>When there is no specific $\mathbf{x} \in \mathcal{D}$ mentioned, the term "divergence" is used to refer to the [scalar field](../../Scalar%20Fields/Real%20Scalar%20Field.md) $\mathop{\operatorname{div}}\boldsymbol {v}: \mathcal{D} \to \mathbb{R}$ which maps each $\mathbf{x}$ to its divergence $\nabla \cdot \boldsymbol{v}(\mathbf{x})$.
 >>
 >
 

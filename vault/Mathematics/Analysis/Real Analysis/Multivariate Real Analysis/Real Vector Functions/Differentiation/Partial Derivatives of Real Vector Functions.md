@@ -31,43 +31,6 @@
 >
 >>[!DEFINITION] Definition: Piecewise (Continuous) Partial Differentiability
 >>
->>A [real vector function](../Real%20Vector%20Function.md) $f: D\subseteq \mathbb{R}^m \to \mathbb{R}^n$ is **piecewise (continuously) partially differentiable** if $D$ can be represented as a [disjoint](../../../../../Set%20Theory/Disjoint%20Sets.md) [union](../../../../../Set%20Theory/Operations%20with%20Sets/Union.md) $D = D_1 \cup \cdots \cup D_k$ of finitely many [subsets](../../../../../Set%20Theory/Subset.md) $D_1,\cdots, D_k$ of $\mathbb{R}^n$ and there exist (continuously) partially differentiable real vector functions $\mathcal{F}_1,\cdots,\mathcal{F}_k$ such that
->>
->>$$
->>f(\mathbf{x}) = \begin{cases}\mathcal{F}_1(\mathbf{x}) \qquad \text{ if } \mathbf{x} \in D_1 \\ \vdots \\ \mathcal{F}_k (\mathbf{x}) \qquad \text{ if } \mathbf{x} \in D_k\end{cases}
->>$$
->>
->>>[!INTUITION]-
->>>
->>>Intuitively, this means that $D$ can be partitioned into finitely many parts such that $f$ is (continuously) partially differentiable on each part and is not (continuously) partially differentiable only at a finite number of points in $D$.
->>>
->>
->
->>[!DEFINITION] Definition: Smoothness of a Real Vector Function
->>
->>If $f$ is $k$-times continuously partially differentiable for *every* $k \in \mathbb{N}$, then $f$ is called **smooth** or **of class** $C^\infty$.
->>
->>>[!NOTATION]-
->>>
->>>$$
->>>f \in C^\infty
->>>$$
->>>
->>
->>>[!DEFINITION] Definition: Piecewise Smoothness
->>>
->>>A [real vector function](../Real%20Vector%20Function.md) $f: D\subseteq \mathbb{R}^m \to \mathbb{R}^n$ is **piecewise smooth** if $D$ can be represented as a [disjoint](../../../../../Set%20Theory/Disjoint%20Sets.md) [union](../../../../../Set%20Theory/Operations%20with%20Sets/Union.md) $D = D_1 \cup \cdots \cup D_k$ of finitely many [subsets](../../../../../Set%20Theory/Subset.md) $D_1,\cdots, D_k$ of $\mathbb{R}^n$ and there exist $C^\infty$ functions $\mathcal{F}_1,\cdots,\mathcal{F}_k$ such that
->>>
->>>$$
->>>f(\mathbf{x}) = \begin{cases}\mathcal{F}_1(\mathbf{x}) \qquad \text{ if } \mathbf{x} \in D_1 \\ \vdots \\ \mathcal{F}_k (\mathbf{x}) \qquad \text{ if } \mathbf{x} \in D_k\end{cases}
->>>$$
->>>
->>>>[!INTUITION]-
->>>>
->>>>Intuitively, this means that $D$ can be partitioned into finitely many parts such that $f$ is smooth on each part and is not smooth only at a finite number of points in $D$.
->>>>
->>>
->>
->>^smoothness
+>>A [real vector function](../Real%20Vector%20Function.md) $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ is $k$-times **piecewise (continuously) partially differentiable** iff $\mathcal{D}$ can be represented as a [disjoint](../../../../../Set%20Theory/Disjoint%20Sets.md) [union](../../../../../Set%20Theory/Operations%20with%20Sets/Union.md) $\mathcal{D} = \mathcal{D}_1 \cup \cdots \cup \mathcal{D}_k$ of finitely many [subsets](../../../../../Set%20Theory/Subset.md) $\mathcal{D}_1, \dotsc, \mathcal{D}_k$ of $\mathbb{R}^m$ such that the [restrictions](../../../../Functions/Restriction.md) $f_{\mathcal{D}_1}, \dotsc, f_{\mathcal{D}_k}$ are $k$-times [(continuously) partially differentiable](Partial%20Derivatives%20of%20Real%20Vector%20Functions.md).
 >>
 >

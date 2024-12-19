@@ -35,7 +35,7 @@
 >>\frac{F(x_0+\Delta x) - F(x_0)}{\Delta x} = f(\xi)
 >>$$
 >>
->>We now take the [limit](../Real%20Functions/Limits%20of%20Functions/Limit%20of%20a%20Function.md) as $\Delta x \to 0$.
+>>We now take the [limit](../Real%20Functions/Limits%20of%20Functions/Limit%20of%20a%20Real%20Function.md) as $\Delta x \to 0$.
 >>
 >>$$
 >>\lim_{\Delta x \to 0}\frac{F(x_0+\Delta x) - F(x_0)}{\Delta x} = \lim_{\Delta x \to 0}f(\xi)

@@ -5,7 +5,7 @@
 >The **Hessian matrix** of $f$ is the $n \times n$-[matrix](../../../../../Algebra/Linear%20Algebra/Matrices/Square%20Matrices/Square%20Matrix.md) $H_f$ whose columns are the [gradients](Gradient.md) of $f$'s first order [partial derivatives](Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md):
 >
 >$$
->H_f(\mathbf{x}) \overset{\text{def}}{=} \begin{bmatrix}\vert & \vert & \vert \\ \nabla(\partial_1 f) & \cdots & \nabla(\partial_n f) \\ \vert & \vert & \vert \end{bmatrix} = \begin{bmatrix}\partial_1 \partial_1 f & \cdots & \partial_1\partial_n f \\ \vdots & \ddots & \vdots \\ \partial_n\partial_1 f & \cdots & \partial_n\partial_n f\end{bmatrix}
+>H_f \overset{\text{def}}{=} \begin{bmatrix}\vert & \vert & \vert \\ \nabla(\partial_1 f) & \cdots & \nabla(\partial_n f) \\ \vert & \vert & \vert \end{bmatrix} = \begin{bmatrix}\partial_1 \partial_1 f & \cdots & \partial_1\partial_n f \\ \vdots & \ddots & \vdots \\ \partial_n\partial_1 f & \cdots & \partial_n\partial_n f\end{bmatrix}
 >$$
 >
 >>[!NOTATION]-

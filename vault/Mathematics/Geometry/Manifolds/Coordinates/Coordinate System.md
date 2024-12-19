@@ -6,7 +6,7 @@
 >
 >>[!DEFINITION] Definition: Coordinates on a Subset
 >>
->>The [component functions](../../../Analysis/Real%20Analysis/Multivariate%20Real%20Analysis/Real%20Vector-Valued%20Function.md) $\phi^1, \dotsc, \phi^n: U \to \mathbb{R}$ of $\phi$ are known as **local coordinates** or simply **coordinates** on $U$.
+>>The [component functions](../../../Analysis/Analysis%20on%20Manifolds/Real%20Vector-Valued%20Function.md) $\phi^1, \dotsc, \phi^n: U \to \mathbb{R}$ of $\phi$ are known as **local coordinates** or simply **coordinates** on $U$.
 >>
 >>>[!NOTATION]-
 >>>
