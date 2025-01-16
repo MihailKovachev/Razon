@@ -23,9 +23,13 @@
 >The [local minima](Local%20Extrema.md) and [local maxima](Local%20Extrema.md) of a [real scalar field](../Real%20Scalar%20Field.md) are collectively known as its **local extrema**.
 >
 
->[!THEOREM] Theorem: Locations of Local Extrema
+>[!THEOREM] Theorem: Finding Local Extrema
 >
->All [local extrema](Local%20Extrema.md) of a [real scalar field](../Real%20Scalar%20Field.md) occur at [critical points](../Differentiation/Critical%20Point.md).
+>Let $f: \mathcal{D} \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md).
+>
+>If $f$ has a [local extremum](Local%20Extrema.md) at $\mathbf{a} \in \mathcal{D}$, then there are two possibilities:
+>- $f$ is not [differentiable](../Differentiation/Differentiability%20of%20Real%20Scalar%20Fields.md) at $\mathbf{a}$;
+>- $f$ is differentiable at $\mathbf{a}$ and its [gradient](../Differentiation/Gradient.md) there (in [Cartesian coordinates](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems%20of%20Euclidean%20Space/Cartesian%20Coordinate%20System.md)) is zero.
 >
 >>[!PROOF]-
 >>
