@@ -8,8 +8,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "google",
-      tagId: "<script async src='https://www.googletagmanager.com/gtag/js?id=G-V4HDP14SH9'></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag('js',new Date),gtag('config','G-V4HDP14SH9')</script>"
+      provider: "plausible",
     },
     locale: "en-US",
     baseUrl: "mihailkovachev.github.io",
