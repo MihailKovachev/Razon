@@ -3,7 +3,7 @@
 WPA, WPA2, and WPA3 are consecutive versions of the most-widely used WiFi security standard today. All versions support two authentication modes:
 
 - **Personal Mode** - this mode uses a pre-shared key (PSK) for authentication and is commonly referred to as WPA-PSK. This is typically utilised in home and small office networks. The PSK is derived from the WiFi network's password and its SSID, but is actually never sent over the air for security reasons. Instead, it is used for the derivation of other encryption keys.
-- **Enterprise Mode** - this mode uses [802.1X authentication](Authentication%20&%20Association.md#the-extensible-authentication-protocol-eap) and supports all EAP methods. As the name implies, this authentication mode is typically used in larger enterprise networks.
+- **Enterprise Mode** - this mode uses [802.1X authentication](Authentication%20and%20Association.md#the-extensible-authentication-protocol-eap) and supports all EAP methods. As the name implies, this authentication mode is typically used in larger enterprise networks.
 
 WPA was developed after WEP was found to be vulnerable. Its encryption and MIC were provided by [TKIP](Encryption%20and%20Integrity.md).
 

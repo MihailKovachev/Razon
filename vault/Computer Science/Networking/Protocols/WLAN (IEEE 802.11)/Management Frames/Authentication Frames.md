@@ -1,5 +1,5 @@
 # Introduction
-The authentication phase follows the discovery phase. Note that this is not the same authentication phase as the one which establishes encryption in WPA2. The latter is built on top of this system, which in turn only pertains to [Open System Authentication](../Authentication%20&%20Association.md#open%20authentication) and [Shared Key Authentication](../Authentication%20&%20Association.md#shared%20key%20authentication).
+The authentication phase follows the discovery phase. Note that this is not the same authentication phase as the one which establishes encryption in WPA2. The latter is built on top of this system, which in turn only pertains to [Open System Authentication](../Authentication%20and%20Association.md#open%20authentication) and [Shared Key Authentication](../Authentication%20and%20Association.md#shared%20key%20authentication).
 
 The purpose of this phase is to only check and confirm and the station which wants to join the network matches the capabilities required. Shared-Key Authentication was introduced as an extension to this phase in order to enable [WEP encryption](../Encryption%20and%20Integrity.md#wireless-equivalent-privacy-wep).
 

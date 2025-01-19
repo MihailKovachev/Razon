@@ -1,6 +1,6 @@
 # Introduction
 
-When 802.11 [authentication](../Authentication%20&%20Association.md) is complete, the station and AP will move onto to the association phase. The purpose of this exchange is for the station to obtain an Association Identifier (AID). This is achieved by the client sending an *Association Request* to the AP which then responds with an *Association Response*.
+When 802.11 [authentication](../Authentication%20and%20Association.md) is complete, the station and AP will move onto to the association phase. The purpose of this exchange is for the station to obtain an Association Identifier (AID). This is achieved by the client sending an *Association Request* to the AP which then responds with an *Association Response*.
 
 After the association phase, a second authentication may occur depending on whether a protocol like WPA is set up.
 

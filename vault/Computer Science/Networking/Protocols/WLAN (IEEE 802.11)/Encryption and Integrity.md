@@ -14,7 +14,7 @@ In order to achieve this, a *Message Integrity Check (MIC)* is calculated by the
 
 ## Wireless Equivalent Privacy (WEP)
 
-This is the original encryption method introduced by the 802.11 standard which was later found to be vulnerable and insecure. It supports only two authentication modes - [Open System Authentication (OSA)](Authentication%20&%20Association.md#open-authentication) and [Shared Key Authentication (SKA)](Authentication%20&%20Association.md#shared-key-authentication).
+This is the original encryption method introduced by the 802.11 standard which was later found to be vulnerable and insecure. It supports only two authentication modes - [Open System Authentication (OSA)](Authentication%20and%20Association.md#open-authentication) and [Shared Key Authentication (SKA)](Authentication%20and%20Association.md#shared-key-authentication).
 
 Under the hood, WEP uses a [stream cipher](../../../Cryptography/Private-Key%20Cryptography/Stream%20Ciphers/index.md) called RC4 with a key and a 24-bit *initialisation vector (IV)* which is generated anew with every encryption. 
 
