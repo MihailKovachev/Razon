@@ -28,7 +28,3 @@ format: fen
 
 Here, White's knight is pinned - if it moves, then Black's queen would take White's queen.
 
- # Breaking Pins
-
-The two main ways of breaking a pin are by either capturing the offending piece or moving the high-value piece so that it will no longer be under attack if the pinned piece moves.
-

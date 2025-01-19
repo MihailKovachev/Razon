@@ -1,9 +1,9 @@
 
 >[!THEOREM] Theorem: Gradient
 >
->Let $f: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md).
+>Let $f: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md), let $\hat{\mathbf{r}}$ be some [unit vector](../../../../../Algebra/Linear%20Algebra/Vector%20Spaces/Normed%20Vector%20Spaces/Unit%20Vector.md) and let $\mathbf{a} \in \mathcal{D}$.
 >
->If $f$ is [differentiable](Differentiability%20of%20Real%20Scalar%20Fields.md), then there exists a unique [vector field](../../Vector%20Fields/Real%20Vector%20Field.md) $\nabla f: \mathcal{D} \to \mathbb{R}^n$ such that the [directional derivative](Directional%20Derivatives%20of%20Real%20Scalar%20Fields.md) of $f$ at each $\mathbf{a} \in \mathcal{D}$ along each $\hat{\mathbf{r}}$ is the [dot product](../../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Dot%20Product.md) of $\nabla f(\mathbf{a})$ and $\hat{\mathbf{r}}$:
+>If $f$'s [directional derivative](Directional%20Derivatives%20of%20Real%20Scalar%20Fields.md) $\partial_{\hat{\mathbf{r}}}f(\mathbf{a})$ along $\hat{\mathbf{r}}$ exists at $\mathbf{a}$, then there exists a unique [vector](../../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md) $\nabla f(\mathbf{a})$, which depends on $\mathbf{a}$ but not on $\hat{\mathbf{r}}$, such that $\partial_{\hat{\mathbf{r}}}f(\mathbf{a})$ is the [dot product](../../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Dot%20Product.md) of $\nabla f(\mathbf{a})$ and $\hat{\mathbf{r}}$:
 >
 >$$
 >(\nabla f(\mathbf{a})) \cdot \hat{\mathbf{r}} = \partial_{\hat{\mathbf{r}}}f(\mathbf{a})
@@ -16,7 +16,7 @@
 >
 >>[!DEFINITION] Definition: Gradient
 >>
->>The **gradient** of $f$ at $\mathbf{a} \in \mathcal{D}$ is the [vector](../../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md) $\nabla f(\mathbf{a})$.
+>>The [vector](../../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md) $\nabla f(\mathbf{a})$ is known as the **gradient** of $f$ at $\mathbf{a} \in \mathcal{D}$.
 >>
 >>>[!INTUITION]-
 >>>
@@ -34,7 +34,7 @@
 >>
 >>>[!NOTE] Note: Gradient as a Function
 >>>
->>>If there is no specific $\mathbf{a}$ mentioned, then the term "gradient" usually refers to the entire [vector field](../../Vector%20Fields/Real%20Vector%20Field.md) $\nabla f$.
+>>>If there is no specific $\mathbf{a}$ mentioned, then the term "gradient" usually refers to the entire [vector field](../../Vector%20Fields/Real%20Vector%20Field.md) $\nabla f: \mathcal{D} \to \mathbb{R}^n$ which to each $\mathbf{a}$ assigns $\nabla f(\mathbf{a})$.
 >>>
 >>
 >
