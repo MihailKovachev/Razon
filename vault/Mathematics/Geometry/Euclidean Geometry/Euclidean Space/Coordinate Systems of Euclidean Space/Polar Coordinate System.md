@@ -1,6 +1,22 @@
+# Polar Coordinate System
+
+Polar coordinates uniquely identify each point in the [Euclidean space](../Euclidean%20Space.md) $\mathbb{R}^2$ by its distance $r$ from the origin and the angle $\theta$ it makes with the $x$-axis.
+
+![](res/Polar%20Coordinates.drawio.svg)
+
+## Conventions
+
+Technically, each point has infinitely many polar coordinates, since adding or substracting a multiple of $2\pi$ to an angle has no effect. However, it is often required that polar coordinates are unique for each point which means that the range of values for $\theta$ needs to be restricted. The most common conventions for the possible values of $\theta$ are $[0;2\pi)$ and $(-\pi; \pi]$.
+
 >[!THEOREM] Theorem: Polar Coordinate System
 >
->The [function](../../../../Analysis/Real%20Analysis/Multivariate%20Real%20Analysis/Real%20Vector%20Functions/Real%20Vector%20Function.md) $\phi: \mathbb{R}^2 \to \mathbb{R}^2$ defined as $p \to (r, \theta)$ where
+>The [function](../../../../Analysis/Real%20Analysis/Multivariate%20Real%20Analysis/Vector%20Fields/Real%20Vector%20Field.md) $s: \mathbb{R}^2 \to \mathbb{R}^2$ defined for each $\mathbf{p} = \begin{bmatrix} x & y\end{bmatrix}^\mathsf{T} \in \mathbb{R}^2$ as
+>
+>$$
+>s(\mathbf{p}) \overset{\text{def}}{=} (r, \theta)
+>$$
+>
+>where $r \ge 0$, $\theta \in (-\pi; \pi]$ and
 >
 >$$
 >\begin{align*}
@@ -27,22 +43,10 @@
 >\end{align*}
 >$$
 >
->for every [point](../../Points%20and%20Vectors/Points%20vs%20Vectors.md) $p = \begin{bmatrix}x \\ y\end{bmatrix} \in \mathbb{R}^2$ is a [global coordinate system](../../../Manifolds/Coordinates/Global%20Coordinate%20System.md) for the [Euclidean space](../Euclidean%20Space.md) $\mathbb{R}^2$.
+>is a [global coordinate system](../../../Manifolds/Coordinates/Global%20Coordinate%20System.md) for the [Euclidean space](../Euclidean%20Space.md) $\mathbb{R}^2$.
 >
 >>[!PROOF]-
 >>
 >>TODO
->>
->
->>[!INTUITION]-
->>
->>Polar coordinates specify each point in $\mathbb{R}^2$ by its distance $r$ from the origin and the angle $\theta$ it makes with the positive x-axis.
->>
->>![Polar Coordinate System](res/Polar%20Coordinate%20System.jpg)
->>
->
->>[!NOTE]- Note: Polar Coordinates of the Origin
->>
->>The way we have defined the polar coordinate system entails that the polar coordinates of the origin are $r = 0$ and $\theta = 0$. However, the origin is the only point whose distance from the origin is $0$. This means that the value of $\theta$ is irrelevant when $r = 0$. Nevertheless, defining the coordinates of the origin to be $r = 0$, $\theta = 0$ is a useful convention which fits into the topological formalism of coordinates.
 >>
 >
