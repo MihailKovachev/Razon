@@ -15,3 +15,8 @@
 >>In the context of [column vectors](Column%20Vector.md), $F^{m\times 1}$ is usually denoted as just $F^m$.
 >>
 >
+>>[!DEFINITION] Definition: Component
+>>
+>>The number $v_k$ ($k = 1,\dotsc,m$) is known as the $k$-th **component** of the vector.
+>>
+>

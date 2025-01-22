@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: (Continuous) Partial Differentiability of Real Scalar Fields
 >
->A [real scalar field](../Real%20Scalar%20Field.md) $f: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ and let $\phi$ be a [coordinate system](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems%20of%20Euclidean%20Space/Coordinate%20Systems%20of%20Euclidean%20Space.md) for $\mathbb{R}^n$.
+>A [real scalar field](../Real%20Scalar%20Field.md) $f: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ and let $\phi$ be a [coordinate system](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems/index.md) for $\mathbb{R}^n$.
 >
 >We say that $f$ is $k$**-times (continuously) partially differentiable at** some $\mathbf{a} \in \mathcal{D}$ iff all of its $k$-th order [partial derivatives](Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md) with respect to all coordinates of $\phi$ exist at $\mathbf{a}$ (and are [continuous](../Continuity%20of%20Real%20Scalar%20Fields.md) there).
 >
@@ -8,7 +8,7 @@
 >
 >>[!NOTE]
 >>
->>If there is no specific coordinate system mentioned, then we mean that $f$ is $k$-times (continuously) partially differentiable with respect to [Cartesian coordinates](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems%20of%20Euclidean%20Space/Cartesian%20Coordinate%20System.md).
+>>If there is no specific coordinate system mentioned, then we mean that $f$ is $k$-times (continuously) partially differentiable with respect to [Cartesian coordinates](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems/Cartesian%20Coordinate%20System.md).
 >>
 >
 
@@ -16,7 +16,7 @@
 >
 >If $f$ is partially differentiable in *one* coordinate system, then that does not necessarily mean that it is partially differentiable in *every* coordinate system.
 >
->Consider the function $f: \mathbb{R}^2 \to \mathbb{R}$ defined in [Cartesian coordinates](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems%20of%20Euclidean%20Space/Cartesian%20Coordinate%20System.md) as
+>Consider the function $f: \mathbb{R}^2 \to \mathbb{R}$ defined in [Cartesian coordinates](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems/Cartesian%20Coordinate%20System.md) as
 >
 >$$
 >f(x,y) \overset{\text{def}}{=}

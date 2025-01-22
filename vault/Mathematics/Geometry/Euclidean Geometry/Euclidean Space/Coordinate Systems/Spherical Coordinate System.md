@@ -28,17 +28,7 @@ The radial distance can be denoted either by $r$ or $\rho$. Some people also swi
 >Instead of inclination, some people prefer to use **elevation**. This is the angle between the point and the $xy$-plane and is equal to $\frac{\pi}{2}$ minus the inclination.
 >
 
-### Value Ranges
-
-If the range of values for the angles is not restricted, then every point has infinitely many different spherical coordinates because adding or substracting an integer multiple of $2\pi$ to an angle does not change the point it correaponds to. However, using the formalism of [coordinate systems](../../../Manifolds/Coordinates/Coordinate%20System.md) requires that coordinates are always unique. To guarantee this, the set of possible values for the angles needs to be restricted.
-
-Most commonly, the following conventions are used:
-
-|Coordinate|Range|
-|:--:|:--:|
-|$r$|$[0; \infty)$|
-|$\theta$|$[0; \pi]$|
-|$\phi$|$[0; 2\pi)$|
+If the range of values for the angles is not restricted, then every point has infinitely many different spherical coordinates because adding or substracting an integer multiple of $2\pi$ to an angle does not change the point it correaponds to. However, using the formalism of [coordinate systems](../../../Manifolds/Coordinates/Coordinate%20System.md) requires that coordinates are always unique. To guarantee this, the set of possible values for the angles needs to be restricted. Two of the most common conventions are $\theta \in [0;\pi]$, $\phi \in [0; 2\pi)$ and $\theta \in [0;\pi]$, $\phi \in (-\pi; \pi]$.
 
 >[!THEOREM] Theorem: Spherical Coordinate System
 >

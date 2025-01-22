@@ -27,9 +27,7 @@
 >
 >Let $f: \mathcal{D} \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md).
 >
->If $f$ has a [local extremum](Local%20Extrema.md) at $\mathbf{a} \in \mathcal{D}$, then there are two possibilities:
->- $f$ is not [differentiable](../Differentiation/Differentiability%20of%20Real%20Scalar%20Fields.md) at $\mathbf{a}$;
->- $f$ is differentiable at $\mathbf{a}$ and its [gradient](../Differentiation/Gradient.md) there (in [Cartesian coordinates](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems%20of%20Euclidean%20Space/Cartesian%20Coordinate%20System.md)) is zero.
+>If $f$ has a [local extremum](Local%20Extrema.md) at $\mathbf{a} \in \mathcal{D}$, then $\mathbf{a}$ is a [critical point](Critical%20Point.md) of $f$.
 >
 >>[!PROOF]-
 >>
@@ -38,15 +36,16 @@
 >
 
 >[!THEOREM] Theorem: Hessian Matrix Criteria for Local Extrema
->Let $f: D\subseteq\mathbb{R}^n\to\mathbb{R}$ be a [twice continuously partially differentiable](../Differentiation/Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md) [real scalar field](../Real%20Scalar%20Field.md) on an [](../../../../../Topology/Metric%20Spaces/Metric%20Topology.md#^opensets) $D$ of $\mathbb{R}^n$.
 >
->A [critical point](../Differentiation/Critical%20Point.md) $\vec{x}_0 \in D$ is:
->- a place of a [local maximum](Local%20Extrema.md) if the [Hessian matrix](../Differentiation/Hessian%20Matrix.md) $H_f(\vec{x}_0)$ is [negative-definite](../../../../../Algebra/Linear%20Algebra/Matrices/Real%20Matrices/Real%20Symmetric%20Matrices/Definiteness%20of%20Real%20Symmetric%20Matrices.md);
->- a place of a [local minimum](Local%20Extrema.md) if the [Hessian matrix](../Differentiation/Hessian%20Matrix.md) $H_f(\vec{x}_0)$ is [positive-definite](../../../../../Algebra/Linear%20Algebra/Matrices/Real%20Matrices/Real%20Symmetric%20Matrices/Definiteness%20of%20Real%20Symmetric%20Matrices.md);
->- a place of a [saddle point](Saddle%20Point.md) if the [Hessian matrix](../Differentiation/Hessian%20Matrix.md) $H_f(\vec{x}_0)$ is [indefinite](../../../../../Algebra/Linear%20Algebra/Matrices/Real%20Matrices/Real%20Symmetric%20Matrices/Definiteness%20of%20Real%20Symmetric%20Matrices.md);
+>Let $f: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) which is [twice continuously partially differentiable](../Differentiation/Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md) in [Cartesian coordinates](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems/Cartesian%20Coordinate%20System.md) on an [open subset](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Open%20Sets%20in%20Euclidean%20Space.md) $\mathcal{D} \subseteq \mathbb{R}^n$.
+>
+>A [critical point](Critical%20Point.md) $\mathbf{p} \in \mathcal{D}$ is:
+>- a place of a [local maximum](Local%20Extrema.md) if the [Hessian matrix](../Differentiation/Hessian%20Matrix.md) $H_f(\mathbf{p})$ is [negative-definite](../../../../../Algebra/Linear%20Algebra/Matrices/Real%20Matrices/Real%20Symmetric%20Matrices/Definiteness%20of%20Real%20Symmetric%20Matrices.md);
+>- a place of a [local minimum](Local%20Extrema.md) if the [Hessian matrix](../Differentiation/Hessian%20Matrix.md) $H_f(\mathbf{p})$ is [positive-definite](../../../../../Algebra/Linear%20Algebra/Matrices/Real%20Matrices/Real%20Symmetric%20Matrices/Definiteness%20of%20Real%20Symmetric%20Matrices.md);
+>- a place of a [saddle point](Saddle%20Point.md) if the [Hessian matrix](../Differentiation/Hessian%20Matrix.md) $H_f(\mathbf{p})$ is [indefinite](../../../../../Algebra/Linear%20Algebra/Matrices/Real%20Matrices/Real%20Symmetric%20Matrices/Definiteness%20of%20Real%20Symmetric%20Matrices.md);
 >
 >
->If the [Hessian matrix](../Differentiation/Hessian%20Matrix.md) $H_f(\vec{x}_0)$ is [semi-definite](../../../../../Algebra/Linear%20Algebra/Matrices/Real%20Matrices/Real%20Symmetric%20Matrices/Definiteness%20of%20Real%20Symmetric%20Matrices.md), then it cannot be used to make any predictions.
+>If the [Hessian matrix](../Differentiation/Hessian%20Matrix.md) $H_f(\mathbf{p})$ is [semi-definite](../../../../../Algebra/Linear%20Algebra/Matrices/Real%20Matrices/Real%20Symmetric%20Matrices/Definiteness%20of%20Real%20Symmetric%20Matrices.md), then it cannot be used to make any predictions.
 >
 >>[!PROOF]-
 >>

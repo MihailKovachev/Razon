@@ -43,7 +43,7 @@
 >
 >Let $f: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md).
 >
->If $f$ is [partially differentiable](Partial%20Differentiability%20of%20Real%20Scalar%20Fields.md) with respect to [Cartesian coordinates](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems%20of%20Euclidean%20Space/Cartesian%20Coordinate%20System.md) at $\mathbf{a}$, then the components of its [gradient](Gradient.md) there are precisely its [partial derivatives](Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md) with respect to [Cartesian coordinates](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems%20of%20Euclidean%20Space/Cartesian%20Coordinate%20System.md) at $\mathbf{a}$:
+>If $f$ is [partially differentiable](Partial%20Differentiability%20of%20Real%20Scalar%20Fields.md) with respect to [Cartesian coordinates](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems/Cartesian%20Coordinate%20System.md) at $\mathbf{a}$, then the components of its [gradient](Gradient.md) there are precisely its [partial derivatives](Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md) with respect to [Cartesian coordinates](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems/Cartesian%20Coordinate%20System.md) at $\mathbf{a}$:
 >
 >$$
 >\nabla f(\mathbf{a}) = \begin{bmatrix}\frac{\partial f}{\partial x^1} (\mathbf{a}) \\ \vdots \\ \frac{\partial f}{\partial x^n}(\mathbf{a}) \end{bmatrix}
