@@ -35,6 +35,22 @@
 >>
 >
 
+>[!THEOREM] Theorem: Divergence in Cartesian Coordinates
+>
+>Let $\boldsymbol{v}: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) with [component functions](../../Real%20Vector%20Functions/Real%20Vector%20Function.md) $v_1, \cdots, v_n$.
+>
+>If for every $i \in \{1, \dotsc, n\}$, the component function $v_i$ is [partially differentiable](../../Scalar%20Fields/Differentiation/Partial%20Differentiability%20of%20Real%20Scalar%20Fields.md) at $\mathbf{a} \in \mathcal{D}$ with respect to the $i$-th [Cartesian coordinate](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems/Cartesian%20Coordinate%20System.md) $x^i$, then the [divergence](Divergence.md) of $\boldsymbol{v}$ at $\mathbf{a}$ is given by
+>
+>$$
+>\nabla \cdot \boldsymbol{v}(\mathbf{a}) = \sum_{i = 1}^n \frac{\partial v_i}{\partial x^i}(\mathbf{a}) = \frac{\partial v_1}{\partial x^1}(\mathbf{a}) + \cdots + \frac{\partial v_n}{\partial x^n}(\mathbf{a})
+>$$
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
 >[!THEOREM] Theorem: Linearity of the Divergence
 >
 >The [divergence](Divergence.md) is [linear transformation](../../../../../Algebra/Linear%20Algebra/Linear%20Transformations/Linear%20Transformation.md) - for all $\lambda, \gamma \in \mathbb{R}$ and all [vector fields](../Real%20Vector%20Field.md) $\boldsymbol{u}, \boldsymbol{v}: D \subseteq \mathbb{R}^n \to \mathbb{R}^n$ whose $i$-th [component functions](../../Real%20Vector%20Functions/Real%20Vector%20Function.md) are [partially differentiable](../../Scalar%20Fields/Differentiation/Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md) with respect to the $i$-th variable:

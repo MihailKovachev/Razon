@@ -1,6 +1,6 @@
 # Cylindrical Coordinate System
 
-Cylindrical coordinates are a natural extension of the [polar coordinate system](Polar%20Coordinate%20System.md) to three dimensions. They identify each point in the [Euclidean space](../Euclidean%20Space.md) $\mathbb{R}^3$ by its distance from the $z$-axis, the angle $\theta$ its projection in the $xy$-plane makes with the $x$-axis and its $z$ component.
+Cylindrical coordinates are a natural extension of the [polar coordinate system](Polar%20Coordinate%20System.md) to three dimensions. They identify each point in the [Euclidean space](../Euclidean%20Space.md) $\mathbb{R}^3$ by its distance from the $z$-axis, the angle $\phi$ its projection in the $xy$-plane makes with the $x$-axis and its $z$ component.
 
 ![](res/Cylindrical%20Coordinates.drawio.svg)
 
@@ -31,14 +31,16 @@ Cylindrical coordinates are a natural extension of the [polar coordinate system]
 
 ## Conventions
 
-A single point has infinitely many possible values for its azimuth, since adding or subtracting a multiple of $2\pi$ to an angle has no effect. To use the formalism of coordinate systems and insure uniqueness of the azimuthal angle for each point, however, one needs to restricts the possible values for it. Common conventions are for the range of $\phi$ are $[0; 2\pi)$ and $(-\pi, \pi]$.
+Some people prefer to use $\theta$ or $\varphi$ for the azimuth.
+
+Additionally, a single point has infinitely many possible values for its azimuth, since adding or subtracting a multiple of $2\pi$ to an angle has no effect. To use the formalism of coordinate systems and insure uniqueness of the azimuthal angle for each point, however, one needs to restricts the possible values for it. Common conventions are for the range of $\phi$ are $[0; 2\pi)$ and $(-\pi, \pi]$.
 
 >[!THEOREM] Theorem: Cylindrical Coordinate System
 >
 >The [function](../../../../Analysis/Real%20Analysis/Multivariate%20Real%20Analysis/Vector%20Fields/Real%20Vector%20Field.md) $s: \mathbb{R}^3 \to \mathbb{R}^3$ defined for each $\mathbf{p} = \begin{bmatrix}x & y & z\end{bmatrix}^\mathsf{T} \in \mathbb{R}^n$ as 
 >
 >$$
->s(\mathbf{p}) \overset{\text{def}}{=} (\rho, \theta, z) 
+>s(\mathbf{p}) \overset{\text{def}}{=} (\rho, \phi, z) 
 >$$
 >
 >where
