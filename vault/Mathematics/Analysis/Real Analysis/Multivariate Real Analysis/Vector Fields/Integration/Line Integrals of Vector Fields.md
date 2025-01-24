@@ -1,6 +1,6 @@
 >[!THEOREM] Theorem: Line Integrals of Vector Fields
 >
->Let $\boldsymbol{v}: D\subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) and let $\gamma: [a;b] \to \mathbb{R}^n$ and $\varphi: [c;d] \to \mathbb{R}^n$ be [reparameterisations](../../../../../Geometry/Euclidean%20Geometry/Curves/Parameterisation/Equivalence%20of%20Parameterisations.md) of a [curve](../../../../../Geometry/Euclidean%20Geometry/Curves/Curve.md) $\mathcal{C} \subset D$.
+>Let $\boldsymbol{v}: D\subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) and let $\gamma: [a;b] \to \mathbb{R}^n$ and $\varphi: [c;d] \to \mathbb{R}^n$ be [reparameterisations](../../Parametric%20Curves/Equivalence%20of%20Parametric%20Curves.md) of a [curve](../../../../../Geometry/Euclidean%20Geometry/Curves/Curve.md) $\mathcal{C} \subset D$.
 >
 >If $\gamma$ and $\varphi$ have the [same orientation](../../../../../Geometry/Euclidean%20Geometry/Curves/Curve.md), then the following [definite integrals](../../../Univariate%20Real%20Analysis/Integration/Definite%20Integrals/Definite%20Integral.md) (where "$\cdot$" denotes the [dot product](../../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Dot%20Product.md)) are equal :
 >
@@ -24,7 +24,7 @@
 >>\varphi(u(t)) = \gamma (t)
 >>$$
 >>
->>The [chain rule](../../Curve%20Parameterisations/Differentiation/Differentiation%20Rules%20for%20Curve%20Parameterisations.md#^chainrule) gives us
+>>The [chain rule](../../Parametric%20Curves/Differentiation/Differentiation%20Rules%20for%20Curve%20Parameterisations.md#^chainrule) gives us
 >>
 >>$$
 >>\int_a^b \boldsymbol{v}(\gamma(t))\cdot \gamma' (t)\mathop{\mathrm{d}t} = \int_a^b \boldsymbol{v}(\varphi(u(t))) \cdot \varphi' (u(t)) \,u'(t) \mathop{\mathrm{d}t}
@@ -53,7 +53,7 @@
 >
 >>[!DEFINITION] Definition: Line Integral of a Vector Field
 >>
->>Let $\boldsymbol{v}: D \subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a a [real vector field](../Real%20Vector%20Field.md) and let $\mathcal{C} \subseteq D$ be a [curve](../../../../../Geometry/Euclidean%20Geometry/Curves/Curve.md) with a [parameterisation](../../Curve%20Parameterisations/Curve%20Parameterisation.md) $\gamma: [a;b] \to \mathbb{R}^n$.
+>>Let $\boldsymbol{v}: D \subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a a [real vector field](../Real%20Vector%20Field.md) and let $\mathcal{C} \subseteq D$ be a [curve](../../../../../Geometry/Euclidean%20Geometry/Curves/Curve.md) with a [parameterisation](../../Parametric%20Curves/Parametric%20Curve.md) $\gamma: [a;b] \to \mathbb{R}^n$.
 >>
 >>$$
 >>\int \boldsymbol{v}(t) \cdot \gamma'(t) \mathop{\mathrm{d}t}

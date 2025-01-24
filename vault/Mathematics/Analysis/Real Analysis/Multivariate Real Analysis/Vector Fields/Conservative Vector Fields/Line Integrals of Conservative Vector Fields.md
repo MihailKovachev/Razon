@@ -1,6 +1,6 @@
 >[!THEOREM] Gradient Theorem (Fundamental Theorem of Analysis for Line Integrals)
 >
->If $\boldsymbol{v}: D \to \mathbb{R}^n$ is the  [gradient field](Conservative%20Vector%20Field.md) of a [scalar field](../../Scalar%20Fields/Real%20Scalar%20Field.md) $f: D\to\mathbb{R}$ on an [open subset](../../../../../Topology/Metric%20Spaces/Metric%20Topology.md#^opensets) $D \subseteq \mathbb{R}^n$, then its [line integral](../Integration/Line%20Integrals%20of%20Vector%20Fields.md) over a [piecewise continuously differentiable](../../Curve%20Parameterisations/Differentiation/Differentiability%20of%20Curve%20Parameterisations.md) [curve parameterisation](../../Curve%20Parameterisations/Curve%20Parameterisation.md) $\gamma: [a;b] \to D$ can be calculated as
+>If $\boldsymbol{v}: D \to \mathbb{R}^n$ is the  [gradient field](Conservative%20Vector%20Field.md) of a [scalar field](../../Scalar%20Fields/Real%20Scalar%20Field.md) $f: D\to\mathbb{R}$ on an [open subset](../../../../../Topology/Metric%20Spaces/Metric%20Topology.md#^opensets) $D \subseteq \mathbb{R}^n$, then its [line integral](../Integration/Line%20Integrals%20of%20Vector%20Fields.md) over a [piecewise continuously differentiable](../../Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [curve parameterisation](../../Parametric%20Curves/Parametric%20Curve.md) $\gamma: [a;b] \to D$ can be calculated as
 >
 >$$
 >\int_\gamma \boldsymbol{v} \cdot \mathop{\mathrm{d}\boldsymbol{s}} = f(\gamma (b)) - f(\gamma (a))
@@ -34,7 +34,7 @@
 
 >[!THEOREM] Theorem: Path Independence of Line Integrals of Conservative Vector Fields
 >
->A [real vector field](../Real%20Vector%20Field.md) $\boldsymbol{v}: D\subseteq \mathbb{R}^n \to \mathbb{R}^n$ is [conservative](Conservative%20Vector%20Field.md) if and only if its [line integrals](../Integration/Line%20Integrals%20of%20Vector%20Fields.md) over all [simple curves](../../../../../Geometry/Euclidean%20Geometry/Curves/Simple%20Curve.md) with [piecewise continuously differentiable](../../Real%20Vector%20Functions/Differentiation/Partial%20Derivatives%20of%20Real%20Vector%20Functions.md) [reparameterisations](../../../../../Geometry/Euclidean%20Geometry/Curves/Parameterisation/Equivalence%20of%20Parameterisations.md) $\gamma_1: [a;b] \to \mathbb{R}^n$ and $\gamma_2: [a;b] \to \mathbb{R}^n$ (i.e. $\gamma_1(a) = \gamma_2(a)$ and $\gamma_1(b) = \gamma_2(b)$) are equal.
+>A [real vector field](../Real%20Vector%20Field.md) $\boldsymbol{v}: D\subseteq \mathbb{R}^n \to \mathbb{R}^n$ is [conservative](Conservative%20Vector%20Field.md) if and only if its [line integrals](../Integration/Line%20Integrals%20of%20Vector%20Fields.md) over all [simple curves](../../../../../Geometry/Euclidean%20Geometry/Curves/Simple%20Curve.md) with [piecewise continuously differentiable](../../Real%20Vector%20Functions/Differentiation/Partial%20Derivatives%20of%20Real%20Vector%20Functions.md) [reparameterisations](../../Parametric%20Curves/Equivalence%20of%20Parametric%20Curves.md) $\gamma_1: [a;b] \to \mathbb{R}^n$ and $\gamma_2: [a;b] \to \mathbb{R}^n$ (i.e. $\gamma_1(a) = \gamma_2(a)$ and $\gamma_1(b) = \gamma_2(b)$) are equal.
 >
 >$$
 >\int_{\gamma_1} \boldsymbol{v}\cdot \mathop{\mathrm{d}\boldsymbol{s}} = \int_{\gamma_2} \boldsymbol{v}\cdot \mathop{\mathrm{d}\boldsymbol{s}}
