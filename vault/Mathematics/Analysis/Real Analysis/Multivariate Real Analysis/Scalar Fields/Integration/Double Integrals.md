@@ -1,1 +1,1 @@
-# Integrals over Rectangles
+# Double Riemann Sums
