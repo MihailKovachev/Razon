@@ -8,3 +8,14 @@
 >>
 >
 
+>[!THEOREM]
+>
+>Let $\gamma: I_{\gamma} \subseteq \mathbb{R} \to \mathbb{R}^n$ and $\phi: I_{\phi} \subseteq \mathbb{R} \to \mathbb{R}^n$ be [parametric curves](Parametric%20Curve.md).
+>
+>If $\gamma$ and $\phi$ have the same [image](../../../Functions/Image%20of%20a%20Function.md) and are [regular](Regularity.md) and [injective](../../../Functions/Types%20of%20Functions/Injection.md), then they are [equivalent](Equivalence%20of%20Parametric%20Curves.md).
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
