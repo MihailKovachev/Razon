@@ -1,8 +1,4 @@
->[!DEFINITION] Definition: Closed Path
+>[!DEFINITION] Definition: Closed Curve
 >
->A [curve](Curve.md) is **closed** if it has a [parameterisation](../../../Analysis/Real%20Analysis/Multivariate%20Real%20Analysis/Curve%20Parameterisations/Curve%20Parameterisation.md) $\gamma: [a;b] \to \mathbb{R}^n$ such that
->
->$$
->\gamma(a) = \gamma (b)
->$$
+>A [curve](Curve.md) is **closed** iff it is [compact](../Euclidean%20Space/Compactness%20in%20Euclidean%20Space.md) and without [boundary](../../../Topology/Interior,%20Exterior,%20Boundary/Boundary.md).
 >

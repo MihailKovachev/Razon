@@ -1,3 +1,6 @@
+
+
+
 >[!DEFINITION] Definition: Parametric Integrals
 >
 >Let $f: D \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) on a [rectangle](TODO) $D = [a;b] \times [c;d]$.

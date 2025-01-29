@@ -1,4 +1,4 @@
->[!TIP] Tip: Differentiability of Real Scalar Fields
+>[!THEOREM] Theorem: Differentiability of Real Scalar Fields
 >
 >Let $f: \mathcal{D} \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) on an [open subset](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Open%20Sets%20in%20Euclidean%20Space.md) $\mathcal{D} \subseteq \mathbb{R}^n$ and let $\mathbf{a} = \begin{bmatrix}a_1 & \cdots & a_n\end{bmatrix}^\mathsf{T} \in \mathcal{D}$.
 >
@@ -9,6 +9,18 @@
 >$$
 >
 >where $\nabla f(\mathbf{a}) \cdot (\mathbf{x} - \mathbf{a})$ is the [dot product](../../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Dot%20Product.md) between the [gradient](Gradient.md) of $f$ at $\mathbf{a}$ and $(\mathbf{x} - \mathbf{a})$.
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
+>[!THEOREM] Theorem: Differentiability implies Directional Differentiability
+>
+>Let $f: \mathcal{D} \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) on an [open subset](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Open%20Sets%20in%20Euclidean%20Space.md) $\mathcal{D} \subseteq \mathbb{R}^n$.
+>
+>If $f$ is [differentiable](Differentiability%20of%20Real%20Scalar%20Fields.md) at $\mathbf{a}$, then its [directional derivative](Directional%20Derivatives%20of%20Real%20Scalar%20Fields.md) $\partial_{\hat{\mathbf{r}}}f(\mathbf{a})$ at $\mathbf{a}$ exists along every direction $\hat{\mathbf{r}}$.
 >
 >>[!PROOF]-
 >>

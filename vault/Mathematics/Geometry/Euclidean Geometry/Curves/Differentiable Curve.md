@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Differentiable Curve
 >
->A **differentiable curve** is a [curve](Curve.md) which has a [differentiable parameterisation](../../../Analysis/Real%20Analysis/Multivariate%20Real%20Analysis/Curve%20Parameterisations/Differentiation/Differentiability%20of%20Curve%20Parameterisations.md).
+>A **differentiable curve** is a [curve](Curve.md) which has a [differentiable parameterisation](../../../Analysis/Real%20Analysis/Multivariate%20Real%20Analysis/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md).
 >
 >>[!WARNING]
 >>
