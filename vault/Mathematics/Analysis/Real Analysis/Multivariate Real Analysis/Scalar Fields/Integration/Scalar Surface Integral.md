@@ -16,12 +16,7 @@
 >>\iint_S f \qquad \iint_S f \mathop{\mathrm{d}S}
 >>$$
 >>
->>If $S(\mathcal{D}_S)$ is a [closed surface](../../../../../Geometry/Euclidean%20Geometry/Surfaces/Closed%20Surface.md), then we write
->>
->>$$
->>\newcommand{\oiint}{{\subset\!\supset} \mathllap{\iint}}
->>\oiint_S f \qquad \oiint_S f \mathop{\mathrm{d}S}
->>$$
+>>If $S(\mathcal{D}_S)$ is a [closed surface](../../../../../Geometry/Euclidean%20Geometry/Surfaces/Closed%20Surface.md), then a circle can be put through the two integral signs.
 >>
 >
 

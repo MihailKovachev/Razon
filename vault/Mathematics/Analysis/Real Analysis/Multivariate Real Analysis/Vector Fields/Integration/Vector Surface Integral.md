@@ -16,12 +16,7 @@
 >>\iint_S \mathbf{F} \qquad \iint_S \mathbf{F} \cdot \mathrm{d}\mathbf{S}
 >>$$
 >>
->>If $S(\mathcal{D}_S)$ is a [closed surface](../../../../../Geometry/Euclidean%20Geometry/Surfaces/Closed%20Surface.md), then we write
->>
->>$$
->>\newcommand{\oiint}{{\subset\!\supset} \mathllap{\iint}}
->>\oiint_S \mathbf{F} \qquad \oiint_S \mathbf{F} \cdot \mathrm{d}\mathbf{S}
->>$$
+>>If $S(\mathcal{D}_S)$ is a [closed surface](../../../../../Geometry/Euclidean%20Geometry/Surfaces/Closed%20Surface.md), then a circle can be put through the two integral signs.
 >
 
 >[!THEOREM] Theorem: Vector Surface Integral to Scalar Surface Integral

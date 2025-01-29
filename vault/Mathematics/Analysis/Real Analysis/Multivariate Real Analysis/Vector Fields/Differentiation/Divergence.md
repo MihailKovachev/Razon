@@ -4,7 +4,7 @@ In physics, it is often necessary to be able to get a sense of how much a [vecto
 
 # Divergence 
 
-Imagine a [vector field](../Real%20Vector%20Field.md) $\mathbf{F}$ and some point $\mathbf{p}$ in $\mathbb{R}^3$. To quantify the extent to which $\mathbf{F}$ points towards or away from $\mathbf{p}$, we can construct a sphere $S_r$ of radius $r$ which is centred at $\mathbf{p}$ and then see how much of the field enters and exits through $S_r$. This can be done by using the [integral](../Integration/Vector%20Surface%20Integral.md) of $\mathbf{F}$ over $S_r$, which is equal to $\newcommand{\oiint}{{\subset\!\supset}\mathllap{\iint}} \displaystyle \oiint_{S_r} \mathbf{F} \cdot \mathbf{n} \mathop{\mathrm{d}S_r}$, where $\mathbf{n}$ is the [unit surface normal](../../Parametric%20Surfaces/Surface%20Normal%20Vector.md). 
+Imagine a [vector field](../Real%20Vector%20Field.md) $\mathbf{F}$ and some point $\mathbf{p}$ in $\mathbb{R}^3$. To quantify the extent to which $\mathbf{F}$ points towards or away from $\mathbf{p}$, we can construct a sphere $S_r$ of radius $r$ which is centred at $\mathbf{p}$ and then see how much of the field enters and exits through $S_r$. This can be done by using the [integral](../Integration/Vector%20Surface%20Integral.md) of $\mathbf{F}$ over $S_r$, which is equal to $\displaystyle \iint_{S_r} \mathbf{F} \cdot \mathbf{n} \mathop{\mathrm{d}S_r}$, where $\mathbf{n}$ is the [unit surface normal](../../Parametric%20Surfaces/Surface%20Normal%20Vector.md). 
 
 ![](res/Divergence.drawio.svg)
 
@@ -19,11 +19,10 @@ Moreover, as we make the radius $r$ smaller and smaller, the sphere closes in on
 >If there exists some [neighbourhood](../../../../../Topology/Topological%20Spaces/Neighbourhoods.md) of $\mathbf{p}$ where $\mathbf{F}$ is [continuously differentiable](../../Real%20Vector%20Functions/Differentiation/Differentiability%20of%20Real%20Vector%20Functions.md), then the [limit](../../../Univariate%20Real%20Analysis/Real%20Functions/Limits%20of%20Functions/One-Sided%20Limits.md)
 >
 >$$
->\newcommand{\oiint}{{\subset\!\supset} \mathllap{\iint}}
->\lim_{r \to 0^+} \frac{3}{4\pi r^3} \oiint_{S_r} \mathbf{F} \cdot \mathrm{d}\mathbf{S}_r,
+>\lim_{r \to 0^+} \frac{1}{V_r} \iint_{S_r} \mathbf{F} \cdot \mathrm{d}\mathbf{S}_r,
 >$$
 >
->where $\newcommand{\oiint}{{\subset\!\supset} \mathllap{\iint}} \displaystyle \oiint_{S_r} \mathbf{F} \cdot \mathrm{d}\mathbf{S}_r$ is the [surface integral](../Integration/Vector%20Surface%20Integral.md) of $\mathbf{F}$ over $S_r$, exists.
+>where $\displaystyle \iint_{S_r} \mathbf{F} \cdot \mathrm{d}\mathbf{S}_r$ is the [surface integral](../Integration/Vector%20Surface%20Integral.md) of $\mathbf{F}$ over $S_r$ and $V_r$ is the volume of $S_r$, exists.
 >
 >>[!PROOF]-
 >>
@@ -32,17 +31,11 @@ Moreover, as we make the radius $r$ smaller and smaller, the sphere closes in on
 >
 >>[!DEFINITION] Definition: Divergence
 >>
->>The **divergence** of $\mathbf{F}$ at $\mathbf{p}$ is precisely
+>>The **divergence** of $\mathbf{F}$ at $\mathbf{p}$ is defined as precisely
 >>
 >>$$
->>\newcommand{\oiint}{{\subset\!\supset} \mathllap{\iint}}
->>\lim_{r \to 0^+} \frac{3}{4\pi r^3} \oiint_{S_r} \mathbf{F} \cdot \mathop{\mathrm{d}\mathbf{S}_r}
+>>\lim_{r \to 0^+} \frac{1}{V_r} \iint_{S_r} \mathbf{F} \cdot \mathop{\mathrm{d}\mathbf{S}_r},
 >>$$
->>
->>>[!INTUITION]-
->>>
->>>The factor of $\displaystyle \frac{3}{4\pi r^3}$ is equivalent to dividing by the volume of the sphere and accounts for the fact that spheres of different volumes will always result in different values for the surface integral.
->>>
 >>
 >>>[!NOTATION]-
 >>>
