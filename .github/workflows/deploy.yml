@@ -24,7 +24,7 @@ jobs:
           fetch-depth: 0 # Fetch all history for git info
 
       - name: Patch Quartz
-        working-directory: patches
+        working-directory: ./patches
         run: bash patch.sh
 
   build:
