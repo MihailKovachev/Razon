@@ -25,7 +25,7 @@ jobs:
 
       - name: Patch Quartz
         working-directory: ./patches
-        run: bash patch.sh
+        run: bash patch.sh | true # If the folders are empty, do not return an error
 
   build:
     needs: patch
