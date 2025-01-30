@@ -20,13 +20,13 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
-      with:
+        with:
         fetch-depth: 0 # Fetch all history for git info
       - uses: actions/setup-node@v4
-      with:
+        with:
         node-version: 22
 
-      -name: Install Quartz
+      - name: Install Quartz
         working-directory: ./quartz
         run: npm i
 
