@@ -21,7 +21,8 @@ jobs:
     steps:
       - name: Patch Quartz
         working-directory: ./patches
-        run: bash ./patch.sh
+        run: bash patch.sh
+
   build:
     needs: patch
     runs-on: ubuntu-22.04
