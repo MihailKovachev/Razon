@@ -35,11 +35,6 @@ jobs:
     needs: install
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # Fetch all history for git info
-          submodules: true
-
       - name: Patch Quartz
         working-directory: ./patches
         run: bash patch.sh | true # If the folders are empty, do not return an error
@@ -48,10 +43,6 @@ jobs:
     needs: patch
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # Fetch all history for git info
-          submodules: true
       - uses: actions/setup-node@v4
         with:
           node-version: 22
