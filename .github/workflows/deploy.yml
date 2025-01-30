@@ -19,6 +19,10 @@ jobs:
   patch:
     runs-on: ubuntu-22.04
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history for git info
+
       - name: Patch Quartz
         working-directory: patches
         run: bash patch.sh
