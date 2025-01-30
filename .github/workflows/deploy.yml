@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
  
 jobs:
-  install:
+  build:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
@@ -31,25 +31,13 @@ jobs:
         working-directory: ./quartz
         run: npm i
 
-  patch:
-    needs: install
-    runs-on: ubuntu-22.04
-    steps:
-      - name: Patch Quartz
-        working-directory: ./patches
-        run: bash patch.sh | true # If the folders are empty, do not return an error
-
-  build:
-    needs: patch
-    runs-on: ubuntu-22.04
-    steps:
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-
       - name: Install Dependencies
         working-directory: ./quartz
         run: npm ci
+
+      - name: Patch Quartz
+        working-directory: ./patches
+        run: bash patch.sh | true # If the folders are empty, do not return an error
 
       - name: Build Quartz
         working-directory: ./quartz
