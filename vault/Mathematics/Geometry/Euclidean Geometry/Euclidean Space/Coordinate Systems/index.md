@@ -4,7 +4,7 @@ title: Coordinate Systems of Euclidean Space
 
 # Coordinate Systems for Euclidean Space
 
-A [coordinate system](../../../Manifolds/Coordinates/Coordinate%20System.md) for the [Euclidean space](../Euclidean%20Space.md) $\mathbb{R}^n$ is simply a way to uniquely identify each [point (vector)](../../Points%20and%20Vectors/Points%20vs%20Vectors.md) $\mathbf{p} \in \mathbb{R}^n$. More specifically, each coordinate system $\phi$ consists of $n$ [functions](../../../../Analysis/Real%20Analysis/Multivariate%20Real%20Analysis/Scalar%20Fields/Real%20Scalar%20Field.md) $\phi^1, \dotsc, \phi^n: \mathbb{R}^n \to \mathbb{R}$. These functions are known as coordinates *on* $\mathbb{R}^n$. Given a specific $\mathbf{p} \in \mathbb{R}^n$, the value $p^i = \phi^i (\mathbf{p})$ is known as the $i$-th coordinate *of* $\mathbf{p}$.
+A [coordinate system](../../../Manifolds/Coordinates/Coordinate%20System.md) for the [Euclidean space](../Euclidean%20Space.md) $\mathbb{R}^n$ is simply a way to uniquely identify each [point (vector)](../../Points%20and%20Vectors/Points%20vs%20Vectors.md) $\mathbf{p} \in \mathbb{R}^n$. More specifically, each coordinate system $\phi$ consists of $n$ [functions](../../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Scalar%20Fields/Real%20Scalar%20Field.md) $\phi^1, \dotsc, \phi^n: \mathbb{R}^n \to \mathbb{R}$. These functions are known as coordinates *on* $\mathbb{R}^n$. Given a specific $\mathbf{p} \in \mathbb{R}^n$, the value $p^i = \phi^i (\mathbf{p})$ is known as the $i$-th coordinate *of* $\mathbf{p}$.
 
 >[!NOTATION]
 >

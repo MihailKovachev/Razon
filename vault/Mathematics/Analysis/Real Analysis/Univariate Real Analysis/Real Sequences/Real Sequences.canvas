@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"7e282f1838073677","x":-72,"y":-191,"width":512,"height":351,"color":"1","type":"file","file":"Mathematics/Analysis/Real Analysis/Univariate Real Analysis/Real Sequences/Real Sequence.md"},
-		{"id":"f0b6c0e44467e311","x":560,"y":-288,"width":543,"height":546,"color":"5","type":"file","file":"Mathematics/Analysis/Real Analysis/Univariate Real Analysis/Real Sequences/Limits of Sequences/Convergence of Real Sequences.md"}
-	],
-	"edges":[]
-}
