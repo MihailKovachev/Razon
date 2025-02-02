@@ -34,3 +34,27 @@
 >>TODO
 >>
 >
+
+>[!THEOREM] Theorem: Vector Surface Integrals of Reparameterisations
+>
+>Let $\mathbf{F}: \mathcal{D}_{\mathbf{F}} \subseteq \mathbb{R}^3 \to \mathbb{R}^3$ be a [real vector field](../Real%20Vector%20Field.md) and let $\phi: \mathcal{D}_{\phi} \subseteq \mathbb{R}^2 \to \mathbb{R}^3$ and $\psi: \mathcal{D}_{\psi} \subseteq \mathbb{R}^2 \to \mathbb{R}^3$ be [equivalent](../../Parametric%20Surfaces/Equivalence%20of%20Parametric%20Surfaces.md) [parametric surfaces](../../Parametric%20Surfaces/Parametric%20Surface.md) whose [image](../../../../Functions/Image%20of%20a%20Function.md) is a [subset](../../../../../Set%20Theory/Subset.md) of $\mathcal{D}_{\mathbf{F}}$.
+>
+>If $\phi$ and $\psi$ have the [same orientation](../../Parametric%20Surfaces/Equivalence%20of%20Parametric%20Surfaces.md), then the [surface integrals](Vector%20Surface%20Integral.md) of $\mathbf{F}$ over $\phi$ and $\psi$ are equal:
+>
+>$$
+>\iint_{\phi} \mathbf{F} = \iint_{\psi} \mathbf{F}
+>$$
+>
+>If $\phi$ and $\psi$ have [opposite orientations](../../Parametric%20Surfaces/Equivalence%20of%20Parametric%20Surfaces.md), then the [surface integrals](Vector%20Surface%20Integral.md) of $\mathbf{F}$ over $\phi$ and $\psi$ are equal in magnitude but differ in algebraic sign:
+>
+>$$
+>\iint_{\phi} \mathbf{F} = -\iint_{\psi} \mathbf{F}
+>$$
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
+

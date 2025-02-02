@@ -1,6 +1,6 @@
 >[!THEOREM] Theorem: Local Compactness of Manifolds
 >
->Every [manifold](Manifold.md) is [locally compact](../../Topology/Compactness/Local%20Compactness.md).
+>Every [manifold](Manifolds.md) is [locally compact](../../Topology/Compactness/Local%20Compactness.md).
 >
 >>[!PROOF]-
 >>

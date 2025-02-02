@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Smooth Manifold
 >
->A **smooth manifold** $(M, \mathcal{S})$ is a [manifold](../../../Geometry/Manifolds/Manifold.md) $M$ equipped with a [smooth structure](Smooth%20Structure.md) $\mathcal{S}$.
+>A **smooth manifold** $(M, \mathcal{S})$ is a [manifold](../../../Geometry/Manifolds/Manifolds.md) $M$ equipped with a [smooth structure](Smooth%20Structure.md) $\mathcal{S}$.
 >
 >>[!NOTE]
 >>

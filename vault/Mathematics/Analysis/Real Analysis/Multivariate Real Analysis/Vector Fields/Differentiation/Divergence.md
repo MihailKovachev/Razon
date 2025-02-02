@@ -68,6 +68,8 @@ Moreover, as we make the radius $r$ smaller and smaller, the sphere closes in on
 >>
 >
 
+## Properties of Divergence 
+
 >[!THEOREM] Theorem: Linearity of the Divergence
 >
 >

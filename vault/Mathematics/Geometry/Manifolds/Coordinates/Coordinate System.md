@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Coordinate System
 >
->Let $U$ be an [open subset](../../../Topology/Topological%20Spaces/Open%20Subset.md) of an $n$-[dimensional](Dimension%20of%20a%20Manifold.md) [manifold](Manifold.md) $M$.
+>Let $U$ be an [open subset](../../../Topology/Topological%20Spaces/Open%20Subset.md) of an $n$-[manifold](../Manifolds.md) $M$.
 >
 >A **coordinate system** or **coordinate map** on $U$ is a [homeomorphism](../../../Topology/Continuity/Homeomorphisms/Homeomorphism.md) $\phi: U \to \mathbb{R}^n$ from the [subspace](../../../Topology/Subspaces/Topological%20Subspace.md) $U$ to an [open subset](../../../Topology/Topological%20Spaces/Open%20Subset.md) of the [Euclidean space](../../Euclidean%20Geometry/Euclidean%20Space/Euclidean%20Space.md) $\mathbb{R}^n$.
 >

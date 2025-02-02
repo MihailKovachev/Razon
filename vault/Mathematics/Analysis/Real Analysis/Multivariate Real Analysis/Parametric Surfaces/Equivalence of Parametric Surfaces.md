@@ -18,3 +18,19 @@
 >>>
 >>
 >
+
+>[!THEOREM] Theorem: Surface Normals of Smooth Parameterisations
+>
+>If $\phi: \mathcal{D}_{\phi} \subseteq \mathbb{R}^2 \to \mathbb{R}^n$ and $\psi: \mathcal{D}_{\psi} \subseteq \mathbb{R}^2 \to \mathbb{R}^n$ are [smooth reparameterisations](Equivalence%20of%20Parametric%20Surfaces.md), then their [surface normal vectors](Surface%20Normal%20Vector.md) $\mathbf{N}_{\psi}$ and $\mathbf{N}_{\phi}$ at each $\mathbf{p} \in \phi(\mathcal{D}_{\phi})$ (or equivalently $\mathbf{p} \in \psi(\mathcal{D}_{\psi})$) are related by
+>
+>$$
+>\mathbf{N}_{\phi} = k(\mathbf{p}) \mathbf{N}_{\psi},
+>$$
+>
+>where $k(\mathbf{p}) \in \mathbb{R}$.
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
