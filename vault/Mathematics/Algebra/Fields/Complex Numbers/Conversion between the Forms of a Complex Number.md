@@ -1,6 +1,6 @@
 >[!THEOREM] Theorem: Cartesian $\to$ Polar
 >
->Let $z = a +\mathrm{i}b$ be a [complex number](Complex%20Number.md) in [cartesian form](Cartesian%20Form%20of%20Complex%20Numbers.md).
+>Let $z = a +\mathrm{i}b$ be a [complex number](Complex%20Numbers.md) in [cartesian form](Cartesian%20Form%20of%20Complex%20Numbers.md).
 >
 >The [polar form](Polar%20Form%20of%20Complex%20Numbers.md) of $z$ is $r(\cos \varphi +\mathrm{i}\sin \varphi)$, where
 >
@@ -16,7 +16,7 @@
 
 >[!THEOREM] Theorem: Polar $\to$ Cartesian
 >
->Let $z = r(\cos \varphi + \mathrm{i}\sin \varphi)$ be a [complex number](Complex%20Number.md) in [polar form](Polar%20Form%20of%20Complex%20Numbers.md).
+>Let $z = r(\cos \varphi + \mathrm{i}\sin \varphi)$ be a [complex number](Complex%20Numbers.md) in [polar form](Polar%20Form%20of%20Complex%20Numbers.md).
 >
 >The [cartesian form](Cartesian%20Form%20of%20Complex%20Numbers.md) of $z$ is $a +\mathrm{i}b$, where
 >

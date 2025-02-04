@@ -149,7 +149,7 @@ Masculine nouns and adjectives have multiple forms for the definite article whic
 >>
 >>>[!EXAMPLE]
 >>>
->>>Дякона беше заловен.
+>>>Дякон**а** беше заловен.
 >>>
 >>
 >
