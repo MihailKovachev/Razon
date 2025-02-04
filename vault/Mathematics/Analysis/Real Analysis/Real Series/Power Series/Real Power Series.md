@@ -8,7 +8,7 @@
 >
 >>[!INTUITION]-
 >>
->>By plugging in a concrete value $x^\ast \in \mathbb{R}$ for $x$ one obtains the [infinite series](../Infinite%20Series.md)
+>>By plugging in a concrete value $x^\ast \in \mathbb{R}$ for $x$ one obtains the [infinite series](../Real%20Series.md)
 >>
 >>$$\sum_{n=0}^\infty c_n (x^\ast - a)^n$$
 >>

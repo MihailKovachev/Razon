@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Convergence of Power Series
 >
->We say that a [real power series](Real%20Power%20Series.md) $\sum_{n=0}^\infty c_n (x-a)^n$ **converges for** $x^\ast \in \mathbb{R}$ if the resultant [infinite series](../Infinite%20Series.md) $\sum_{n=0}^\infty c_n (x^\ast - a)^n$ [converges](../Convergence%20of%20Infinite%20Series/Convergence%20of%20an%20Infinite%20Series.md).
+>We say that a [real power series](Real%20Power%20Series.md) $\sum_{n=0}^\infty c_n (x-a)^n$ **converges for** $x^\ast \in \mathbb{R}$ if the resultant [infinite series](../Real%20Series.md) $\sum_{n=0}^\infty c_n (x^\ast - a)^n$ [converges](../Convergence%20of%20Infinite%20Series/Convergence.md).
 >
 
 >[!THEOREM] Theorem: Interval of Convergence

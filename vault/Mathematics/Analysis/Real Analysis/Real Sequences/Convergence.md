@@ -1,18 +1,18 @@
 ---
-title: Convergence of Complex Sequences
+title: Convergence of Real Sequences
 tags:
     - convergence
-    - complex-sequences
-    - complex-analysis
+    - real-sequences
+    - real-analysis
 ---
 
 # Convergence and Limits
 
->[!DEFINITION] Definition: Convergence of Complex Sequences
+>[!DEFINITION] Definition: Convergence of Real Sequences
 >
->Let $\{a_n\}$ be a [complex sequence](./index.md).
+>Let $\{a_n\}$ be a [real sequence](./index.md).
 >
->We say that $\{a_n\}$ **converges** to $L \in \mathbb{C}$ iff for each $\varepsilon \gt 0$, there exists some integer $N$ such that
+>We say that $\{a_n\}$ **converges** to $L \in \mathbb{R}$ iff for each $\varepsilon \gt 0$, there exists some integer $N$ such that
 >
 >$$
 >|a_n - L| \lt \varepsilon \qquad \forall n \ge N
@@ -33,7 +33,7 @@ tags:
 >
 >>[!THEOREM] Theorem: Uniqueness of the Limit
 >>
->>The [limit](Convergence.md) of a [complex sequence](./index.md), if it exists, is unique - if $\{a_n\}$ [converges](Convergence.md) to both $L$ and $M$, then $L = M$.
+>>The [limit](Convergence.md) of a [real sequence](./index.md), if it exists, is unique - if $\{a_n\}$ [converges](Convergence.md) to both $L$ and $M$, then $L = M$.
 >>
 >>>[!PROOF]-
 >>>
@@ -68,19 +68,14 @@ tags:
 >>
 >
 
->[!DEFINITION] Definition: Divergence of Complex Sequences
->
->If a [complex sequence](./index.md)  does not [converge](Convergence.md) to any $L \in \mathbb{C}$, then we say that it **diverges**.
->
-
 ## Convergence Criteria
 
->[!THEOREM] Theorem: Component-Wise Convergence
+>[!THEOREM]
 >
->A [complex sequence](./index.md) $\{a_n\}$ [converges](Convergence.md) to $L \in \mathbb{C}$ if and only if the [sequences](../../Real%20Analysis/Real%20Sequences/Real%20Sequence.md) of its real and imaginary part [converge](../../Real%20Analysis/Real%20Sequences/Convergence.md) to the real and imaginary part of $L$, respectively.
+>A [real sequence](./index.md) $\{a_n\}$ [converges](Convergence.md) to $L \in \mathbb{R}$ if and only if
 >
 >$$
->\lim_{n \to \infty} a_n = L \iff \lim_{n \to \infty} \operatorname{Re}(a_n) = \operatorname{Re}(L) \qquad \text{and} \qquad \lim_{n \to \infty} \operatorname{Im}(a_n) = \operatorname{Im}(L)
+>\lim_{n \to \infty} |a_n - L| = 0
 >$$
 >
 >>[!PROOF]-
@@ -91,7 +86,7 @@ tags:
 
 >[!THEOREM] Theorem: Cauchy Sequences
 >
->A [complex sequence](./index.md) $\{a_n\}$ is [convergent](Convergence.md) if and only if, for each $\varepsilon \gt 0$, there exists some integer $N$ such that
+>A [real sequence](./index.md) $\{a_n\}$ is [convergent](Convergence.md) if and only if, for each $\varepsilon \gt 0$, there exists some integer $N$ such that
 >
 >$$
 >\lim_{n \to \infty} |a_n - a_m| = 0 \qquad \forall n,m \ge N 
@@ -108,15 +103,15 @@ tags:
 >>
 >
 
-# Limit Properties
+## Limit Properties
 
 >[!THEOREM] Theorem: Boundedness of Convergent Sequences
 >
->Every [convergent](Convergence.md) [complex sequence](./index.md) is [bounded](Boundedness.md).
+>Every [convergent](Convergence.md) [real sequence](./index.md) is [bounded](../Real%20Functions/Function%20Bounds.md).
 >
 >>[!PROOF]-
 >>
->>Suppose that $\{a_n\}$ [converges](Convergence.md) to some $L \in \mathbb{C}$. Then, by definition, for each $\varepsilon \gt 0$, there exists some integer $N$ such that
+>>Suppose that $\{a_n\}$ [converges](Convergence.md) to some $L \in \mathbb{R}$. Then, by definition, for each $\varepsilon \gt 0$, there exists some integer $N$ such that
 >>
 >>$$
 >>|a_n - L| \lt \varepsilon \qquad \forall n \ge N.
@@ -157,7 +152,7 @@ tags:
 
 >[!THEOREM] Theorem: Convergence to Zero
 >
->A [complex sequence](./index.md) $\{a_n\}$ [converges](Convergence.md) to zero if and only if $\{|a_n|\}$ converges to zero.
+>A [real sequence](./index.md) $\{a_n\}$ [converges](Convergence.md) to zero if and only if $\{|a_n|\}$ converges to zero.
 >
 >$$
 >\lim_{n \to \infty} a_n = 0 \iff \lim_{n \to \infty} |a_n| = 0
@@ -171,7 +166,7 @@ tags:
 
 >[!THEOREM]
 >
->Let $\{a_n\}$ and $\{b_n\}$ be [complex sequences](./index.md).
+>Let $\{a_n\}$ and $\{b_n\}$ be [real sequences](./index.md).
 >
 >If $\{a_n\}$ [converges](Convergence.md) to zero and there exists some integer $N$ such that $|b_n| \le |a_n|$ for all $n \ge N$, then $\{b_n\}$ also [converges](Convergence.md) to zero.
 >
@@ -183,12 +178,12 @@ tags:
 
 >[!THEOREM] Theorem: Limit Arithmetic
 >
->If $\{a_n\}$ and $\{b_n\}$ are both [convergent](Convergence.md) [complex sequences](./index.md), then
+>If $\{a_n\}$ and $\{b_n\}$ are both [convergent](Convergence.md) [real sequences](./index.md), then
 >
 >$$
 >\begin{align*}
 >
->&\lim_{n \to \infty} (\alpha a_n + \beta b_n) = \alpha \lim_{n \to \infty} a_n + \beta \lim_{n \to \infty} b_n \qquad \forall \alpha, \beta \in \mathbb{C} \\
+>&\lim_{n \to \infty} (\alpha a_n + \beta b_n) = \alpha \lim_{n \to \infty} a_n + \beta \lim_{n \to \infty} b_n \qquad \forall \alpha, \beta \in \mathbb{R} \\
 >
 >\\
 >
@@ -197,10 +192,6 @@ tags:
 >\\
 >
 >&\lim_{n \to \infty} \frac{a_n}{b_n} = \frac{\displaystyle \lim_{n \to \infty} a_n}{\displaystyle \lim_{n \to \infty} b_n}, \qquad \lim_{n \to \infty} b_n \ne 0 \\
->
->\\
->
->&\lim_{n \to \infty} \overline{a_n} = \overline{\lim_{n \to \infty} a_n} \\
 >
 >\\
 >
@@ -345,8 +336,97 @@ tags:
 >>
 >>TODO
 >>
->>**Proof of (5):**
+>
+
+>[!THEOREM] The Squeeze Theorem for Sequences
+>
+>Let $\{a_n\}$, $\{b_n\}$ and $\{c_n\}$ be [real sequences](Real%20Sequence.md) such that both $\{a_n\}$ and $\{b_n\}$ [converge](Convergence.md) to $L \in \mathbb{R}$.
+>
+>If there exists an integer $N$ such that $a_n \le c_n \le b_n$ for all $n \ge N$, then $\{c_n\}$ also [converges](Convergence.md) to $L$.
+>
+>$$
+>\lim_{n\to\infty} c_n = \lim_{n\to\infty} a_n = \lim_{n\to\infty} b_n = L
+>$$
+>
+>>[!PROOF]-
 >>
->>TODO
+>>Let $\varepsilon \gt 0$. Since $(a_n)_{n \in \mathbb{N}}$ and $(b_n)_{n \in \mathbb{N}}$ are convergent, there exist $N_a, N_b \in \mathbb{N}$ such that
+>>
+>>$$
+>>|a_n - L| \lt \varepsilon \qquad \forall n \gt N_a
+>>$$
+>>
+>>$$
+>>|b_n - L| \lt \varepsilon \qquad \forall n \gt N_b
+>>$$
+>>
+>>We also assumed that there is an integer $N$ such that
+>>
+>>$$
+>>a_n \le c_n \le b_n \qquad \forall n \gt N
+>>$$
+>>
+>>It follows then
+>>
+>>$$
+>>L - \varepsilon \lt a_n \le c_n \le b_n \lt L + \varepsilon \qquad \forall n \ge \max \{N, N_a, N_b\}
+>>$$
+>>
+>>From this we see that
+>>
+>>$$
+>>L - \varepsilon \le c_n \le L + \varepsilon \qquad \forall n \ge \max \{N, N_a, N_b\}
+>>$$
+>>
+>>This is the same as
+>>
+>>$$
+>>|c_n - L| \lt \varepsilon \qquad n \ge \max \{N, N_a, N_b\}
+>>$$
+>>
+>
+
+# Divergence
+
+>[!DEFINITION] Definition: Divergence of Real Sequences
+>
+>A [real sequence](./index.md) is **divergent** iff it does not [converge](Convergence.md) to any $\mathbb{R}$.
+>
+>
+>>[!DEFINITION] Definition: Divergence towards Positive Infinity
+>>
+>>A [real sequence](./index.md) $\{a_n\}$ **diverges towards positive infinity** iff for each $A \in \mathbb{R}$ there is some integer $N$ such that
+>>
+>>$$
+>>a_n \gt A \qquad \forall n \ge N
+>>$$
+>>
+>>>[!NOTATION]-
+>>>
+>>>$$
+>>>\lim_{n \to \infty} a_n = \infty
+>>>$$
+>>>
+>>
+>
+>>[!DEFINITION] Definition: Divergence towards Negative Infinity
+>>
+>>A [real sequence](./index.md) $\{a_n\}$ **diverges towards negative infinity** iff for each $A \in \mathbb{R}$ there is some integer $N$ such that
+>>
+>>$$
+>>a_n \lt A \qquad \forall n \ge N
+>>$$
+>>
+>>>[!NOTATION]-
+>>>
+>>>$$
+>>>\lim_{n \to \infty} a_n = -\infty
+>>>$$
+>>>
+>>
+>
+>>[!WARNING]
+>>
+>>Even though we use limit notation for sequences that diverge towards positive or negative infinity, these sequences are NOT [convergent](Convergence.md) and their limits do NOT exist.
 >>
 >

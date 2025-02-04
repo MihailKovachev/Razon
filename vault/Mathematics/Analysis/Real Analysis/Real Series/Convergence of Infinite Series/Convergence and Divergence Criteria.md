@@ -1,6 +1,6 @@
 >[!THEOREM] Theorem
 >
->An [infinite series](../Infinite%20Series.md) $\displaystyle \sum_{k = 1}^\infty a_k$ [diverges](Divergence%20of%20an%20Infinite%20Series.md) if $(a_n)_{n\in \mathbb{N}}$ does not [approach](../../Real%20Sequences/Limits%20of%20Sequences/Convergence%20of%20Real%20Sequences.md) $0$.
+>An [infinite series](../Real%20Series.md) $\displaystyle \sum_{k = 1}^\infty a_k$ [diverges](Divergence%20of%20an%20Infinite%20Series.md) if $(a_n)_{n\in \mathbb{N}}$ does not [approach](../../Real%20Sequences/Limits%20of%20Sequences/Convergence%20of%20Real%20Sequences.md) $0$.
 >
 >>[!PROOF]-
 >>
@@ -9,7 +9,7 @@
 
 >[!THEOREM] Theorem: Minorant Criterion
 >
->An [infinite series](../Infinite%20Series.md) $\displaystyle \sum_{k = 1}^\infty a_k$ [diverges](Divergence%20of%20an%20Infinite%20Series.md) if there are a [divergent](Divergence%20of%20an%20Infinite%20Series.md) [series](../Infinite%20Series.md) $\displaystyle \sum_{k = 1}^\infty b_k$ and some $N \in \mathbb{N}$ such that
+>An [infinite series](../Real%20Series.md) $\displaystyle \sum_{k = 1}^\infty a_k$ [diverges](Divergence%20of%20an%20Infinite%20Series.md) if there are a [divergent](Divergence%20of%20an%20Infinite%20Series.md) [series](../Real%20Series.md) $\displaystyle \sum_{k = 1}^\infty b_k$ and some $N \in \mathbb{N}$ such that
 >
 >$$0 \le b_k \le a_k \qquad \forall k \ge N$$
 >
@@ -21,7 +21,7 @@
 
 >[!THEOREM] Theorem: Majorant Criterion
 >
->An [infinite series](../Infinite%20Series.md) $\displaystyle \sum_{k = 1}^\infty a_k$  [converges absolutely](Absolute%20Convergence%20of%20Infinite%20Series.md) if there are a [convergent](Convergence%20of%20an%20Infinite%20Series.md) [series](../Infinite%20Series.md) $\displaystyle \sum_{k = 1}^\infty b_k$ and some $N \in \mathbb{N}$ such that
+>An [infinite series](../Real%20Series.md) $\displaystyle \sum_{k = 1}^\infty a_k$  [converges absolutely](Absolute%20Convergence%20of%20Infinite%20Series.md) if there are a [convergent](Convergence.md) [series](../Real%20Series.md) $\displaystyle \sum_{k = 1}^\infty b_k$ and some $N \in \mathbb{N}$ such that
 >
 >$$|a_k| \le b_k \qquad \forall k\ge N$$
 >
@@ -32,7 +32,7 @@
 
 >[!THEOREM] Theorem: Quotient Criterion
 >
->An [infinite series](../Infinite%20Series.md) $\displaystyle \sum_{k = 1}^\infty a_k$ is:
+>An [infinite series](../Real%20Series.md) $\displaystyle \sum_{k = 1}^\infty a_k$ is:
 >- [absolutely convergent](Absolute%20Convergence%20of%20Infinite%20Series.md) if the following [limit](../../Real%20Functions/Limits%20of%20Functions/Limit%20of%20a%20Real%20Function.md) exists and is smaller than $1$
 >
 >$$\lim_{k\to\infty} \left|\frac{a_{k+1}}{a_k}\right| \lt 1$$
@@ -54,7 +54,7 @@
 
 >[!THEOREM] Theorem: Square Root Criterion
 >
->An [infinite series](../Infinite%20Series.md) $\displaystyle \sum_{k = 1}^\infty a_k$ is:
+>An [infinite series](../Real%20Series.md) $\displaystyle \sum_{k = 1}^\infty a_k$ is:
 >- [absolutely convergent](Absolute%20Convergence%20of%20Infinite%20Series.md) if the following [limit](../../Real%20Functions/Limits%20of%20Functions/Limit%20of%20a%20Real%20Function.md) exists and is smaller than $1$
 >
 >$$\lim_{k\to\infty} \sqrt[k]{|a_k|} \lt 1$$

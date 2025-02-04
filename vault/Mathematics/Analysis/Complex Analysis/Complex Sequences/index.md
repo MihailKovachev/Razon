@@ -11,7 +11,7 @@ tags:
 >
 >>[!NOTATION]-
 >>
->>We usually denote $a$ by $(a_n)_{n \in \mathcal{D}}$ or $\{a_n\}_{n \in \mathcal{D}}$. If $\mathcal{D} = \mathbb{N}_0$ or $\mathcal{D} = \mathbb{N}$, we write $\{a_n\}_{n = 0}^{\infty}$ and $\{a_n\}_{n = 1}^{\infty}$, respectively.
+>>We usually denote $a$ by $(a_n)_{n \in \mathcal{D}}$ or $\{a_n\}_{n \in \mathcal{D}}$. If $\mathcal{D}$ is not really relevant, we can drop it and write just $(a_n)$ or $\{a_n\}$. If $\mathcal{D} = \mathbb{N}_0$ or $\mathcal{D} = \mathbb{N}$, we write $\{a_n\}_{n = 0}^{\infty}$ and $\{a_n\}_{n = 1}^{\infty}$, respectively.
 >>
 >>Instead of $a(0), a(1), a(2), \dotsc, a(k)$, we write $a_0, a_1, a_2, \dotsc, a_k$.
 >>
