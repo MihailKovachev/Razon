@@ -42,7 +42,7 @@ The maximal period of an LFSR is $2^n-1$, where $n$ is the degree of the LFSR, f
 LFSRs are inherently insecure due to their linearity. Given known feedback coefficients, the first $n$ output bits will reveal the initial state and from then on it is possible to determine the entirety of all future bits. Even with unknown feedback coefficients, an attacker needs at most $2n$ output bits to determine both the feedback coefficients and the initial state. If we denote the first $n$ output bits as $y_0,...,y_{n-1}$ and the next $n$ bits as $y_n,...,y_{2n-1}$, we can construct the following system of linear equations:
 
 $$
-\begin{align} y_n &= c_{n-1} y_{n-1} \bigoplus \cdots \bigoplus c_0 y_0 \\ \vdots \\ y_{2n-1} &= c_{n-1} y_{2n-2} \bigoplus \cdots \bigoplus c_0 y_{n-1} \end{align}
+\begin{align*} y_n &= c_{n-1} y_{n-1} \bigoplus \cdots \bigoplus c_0 y_0 \\ \vdots \\ y_{2n-1} &= c_{n-1} y_{2n-2} \bigoplus \cdots \bigoplus c_0 y_{n-1} \end{align*}
 $$
 
 It is possible to show that for a maximal period LFSR the equations in the system are linearly independent ($\mod 2$) and can be solved through basic linear algebra.

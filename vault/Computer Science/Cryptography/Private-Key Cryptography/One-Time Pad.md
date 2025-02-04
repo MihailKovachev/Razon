@@ -15,7 +15,7 @@ $$
 >To ensure that OTP is a *valid* Shannon cipher, we check the decryption function.
 >
 >$$
->\begin{align}\textit{Dec}(k, \textit{Enc}(k, m)) &= \\ &= k \oplus (k \oplus m) \\ &= (k \oplus k) \oplus m \\ &= 0 \oplus m = m \end{align}
+>\begin{align*}\textit{Dec}(k, \textit{Enc}(k, m)) &= \\ &= k \oplus (k \oplus m) \\ &= (k \oplus k) \oplus m \\ &= 0 \oplus m = m \end{align*}
 >$$
 >
 >This indeed proves that decryption undoes encryption and so OTP is a valid private-key encryption scheme.

@@ -45,7 +45,7 @@
 >>$$
 >>
 >>$$
->>\begin{align}W = m \int_{t_1}^{t_2} \boldsymbol{a}\cdot \boldsymbol{v}\mathop{\mathrm{d}t} &= m \int_{t_1}^{t_2} (\boldsymbol{a}\mathop{\mathrm{d}t}) \cdot \boldsymbol{v} \\ &= m \int_{t_1}^{t_2} \boldsymbol{v} \cdot \mathop{\mathrm{d}\boldsymbol{v}}\end{align}
+>>\begin{align*}W = m \int_{t_1}^{t_2} \boldsymbol{a}\cdot \boldsymbol{v}\mathop{\mathrm{d}t} &= m \int_{t_1}^{t_2} (\boldsymbol{a}\mathop{\mathrm{d}t}) \cdot \boldsymbol{v} \\ &= m \int_{t_1}^{t_2} \boldsymbol{v} \cdot \mathop{\mathrm{d}\boldsymbol{v}}\end{align*}
 >>$$
 >>
 >>Let's see what the temporal derivative of $\boldsymbol{v}\cdot\boldsymbol{v}$ is. Using the product rule, we obtain

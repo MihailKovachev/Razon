@@ -35,7 +35,7 @@ The probability that Eve guesses correctly is then the probability that she pick
 >$$
 >
 >$$
->\begin{align} &= \frac{1}{2^n} + \left(1 - \frac{1}{2^n}\right)\times \frac{1}{2} \\ &= \frac{1}{2^n} + \frac{2^n - 1}{2^n}\times\frac{1}{2} \\ &= \frac{2 + 2^n - 1}{2^{n+1}} \\ &= \frac{1}{2} + \frac{1}{2^{n+1}}\end{align}
+>\begin{align*} &= \frac{1}{2^n} + \left(1 - \frac{1}{2^n}\right)\times \frac{1}{2} \\ &= \frac{1}{2^n} + \frac{2^n - 1}{2^n}\times\frac{1}{2} \\ &= \frac{2 + 2^n - 1}{2^{n+1}} \\ &= \frac{1}{2} + \frac{1}{2^{n+1}}\end{align*}
 >$$
 >
 

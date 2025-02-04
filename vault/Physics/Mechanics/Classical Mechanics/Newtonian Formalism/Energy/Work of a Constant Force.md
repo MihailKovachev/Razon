@@ -17,7 +17,7 @@
 >>Since $\boldsymbol{F}=\text{const}$, we have
 >>
 >>$$
->>\begin{align}\int_{t_1}^{t_2} \boldsymbol{F} \cdot \boldsymbol{v} \mathop{\mathrm{d}t} &= \boldsymbol{F} \cdot \int_{t_1}^{t_2} \boldsymbol{v}\mathop{\mathrm{d}t} \\ &= \boldsymbol{F} \cdot (\boldsymbol{r}(t_2)-\boldsymbol{r}(t_1)) \\ &= \boldsymbol{F}\cdot \Delta \boldsymbol{r}\end{align}
+>>\begin{align*}\int_{t_1}^{t_2} \boldsymbol{F} \cdot \boldsymbol{v} \mathop{\mathrm{d}t} &= \boldsymbol{F} \cdot \int_{t_1}^{t_2} \boldsymbol{v}\mathop{\mathrm{d}t} \\ &= \boldsymbol{F} \cdot (\boldsymbol{r}(t_2)-\boldsymbol{r}(t_1)) \\ &= \boldsymbol{F}\cdot \Delta \boldsymbol{r}\end{align*}
 >>$$
 >>
 >

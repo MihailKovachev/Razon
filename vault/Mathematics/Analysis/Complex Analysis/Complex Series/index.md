@@ -14,7 +14,7 @@ tags:
 >The $k$-th **partial sum** of $\{a_n\}$ is the sum of its first $k$ numbers:
 >
 >$$
->\sum_{\begin{align}j &\in \mathcal{D} \\ j &\le k \end{align}} a_j
+>\sum_{\begin{align*}j &\in \mathcal{D} \\ j &\le k \end{align*}} a_j
 >$$
 >
 >>[!NOTATION]-

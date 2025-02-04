@@ -48,7 +48,7 @@ $$
 $$
 
 $$
-\begin{align}c \oplus c' &= \\ &= (m \oplus (\textit{Enc}_k(IV||1) || \textit{Enc}_k(IV||2) \cdots)) \oplus (m' \oplus (\textit{Enc}_k(IV||1) || \textit{Enc}_k(IV||2) \cdots)) \\ &= (m \oplus m') \oplus ((\textit{Enc}_k(IV||1) || \textit{Enc}_k(IV||2) \cdots) \oplus (\textit{Enc}_k(IV||1) || \textit{Enc}_k(IV||2) \cdots))\\ &= m \oplus m'\end{align}
+\begin{align*}c \oplus c' &= \\ &= (m \oplus (\textit{Enc}_k(IV||1) || \textit{Enc}_k(IV||2) \cdots)) \oplus (m' \oplus (\textit{Enc}_k(IV||1) || \textit{Enc}_k(IV||2) \cdots)) \\ &= (m \oplus m') \oplus ((\textit{Enc}_k(IV||1) || \textit{Enc}_k(IV||2) \cdots) \oplus (\textit{Enc}_k(IV||1) || \textit{Enc}_k(IV||2) \cdots))\\ &= m \oplus m'\end{align*}
 $$
 
 The second and final step is to XOR this result with the known message $m$ to recover the unknown message $m'$:

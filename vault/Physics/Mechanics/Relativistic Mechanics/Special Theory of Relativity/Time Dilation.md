@@ -30,7 +30,7 @@
 >>We can now use these to calculate $\Delta t = |t_2 - t_1|$:
 >>
 >>$$
->>\begin{align}\Delta t &= \left|\frac{\gamma}{c}\left(ct_2' - \frac{u_x}{c} x' - \frac{u_y}{c} y' - \frac{u_z}{c} z' \right) - \frac{\gamma}{c} \left(ct_1' - \frac{u_x}{c} x' - \frac{u_y}{c} y' - \frac{u_z}{c} z' \right)\right| \\ &= \left| \frac{\gamma}{c} \left(ct_2' - \frac{u_x}{c} x' - \frac{u_y}{c} y' - \frac{u_z}{c} z' - ct_1 + \frac{u_x}{c} x' + \frac{u_y}{c} y' + \frac{u_z}{c} z' \right) \right| \\ &= |\gamma(t_2' - t_1')| = \gamma|(t_2' - t_1')| = \gamma \Delta t'\end{align}
+>>\begin{align*}\Delta t &= \left|\frac{\gamma}{c}\left(ct_2' - \frac{u_x}{c} x' - \frac{u_y}{c} y' - \frac{u_z}{c} z' \right) - \frac{\gamma}{c} \left(ct_1' - \frac{u_x}{c} x' - \frac{u_y}{c} y' - \frac{u_z}{c} z' \right)\right| \\ &= \left| \frac{\gamma}{c} \left(ct_2' - \frac{u_x}{c} x' - \frac{u_y}{c} y' - \frac{u_z}{c} z' - ct_1 + \frac{u_x}{c} x' + \frac{u_y}{c} y' + \frac{u_z}{c} z' \right) \right| \\ &= |\gamma(t_2' - t_1')| = \gamma|(t_2' - t_1')| = \gamma \Delta t'\end{align*}
 >>$$
 >>
 >
