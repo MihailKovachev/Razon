@@ -10,18 +10,18 @@ tags:
 >
 >A **real power series** is an [expression](../../../../../Logic/Formal%20Languages/Expression.md) of the form
 >
->$$\sum_{n=0}^\infty c_n (x-a)^n,$$
+>$$
+>\sum_{n\in \mathcal{D}} a_n (x-c)^n,
+>$$
 >
->where $c_0, c_1, \cdots \in \mathbb{R}$ are called the **coefficients** of the power series and the number $a \in \mathbb{R}$ is called its **expansion point**.
+>where $(a_n)_{n \in \mathcal{D}}$ is a [real sequence](../Real%20Sequences/index.md) and $c \in \mathbb{R}$.
 >
->>[!INTUITION]-
+>>[!INTUITION]
 >>
->>By plugging in a concrete value $x^\ast \in \mathbb{R}$ for $x$ one obtains the [real series](../Real%20Series/index.md)
+>>By plugging in a concrete value $x^\ast \in \mathbb{R}$ for $x$, one obtains the [real series](../Real%20Series/index.md)
 >>
 >>$$
->>\sum_{n=0}^\infty c_n (x^\ast - a)^n
+>>\sum_{n \in \mathcal{D}}^\infty a_n (x^{\ast} - a)^n
 >>$$
->>
->>In this way, a real power series can be thought of as a way to generate a specific type of infinite series - each value for $x^\ast$ results in a different series.
 >>
 >
