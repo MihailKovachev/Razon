@@ -3,6 +3,7 @@ title: Complex Series
 tags:
     - complex-series
     - complex-analysis
+    - mathematics
 ---
 
 # Partial Sums

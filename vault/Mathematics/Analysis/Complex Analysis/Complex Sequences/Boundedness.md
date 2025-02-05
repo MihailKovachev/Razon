@@ -4,6 +4,7 @@ tags:
     - boundedness
     - complex-sequences
     - complex-analysis
+    - mathematics
 ---
 
 >[!DEFINITION] Definition: Boundedness of Complex Sequences
