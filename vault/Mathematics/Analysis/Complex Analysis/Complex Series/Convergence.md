@@ -4,6 +4,7 @@ tags:
     - convergence
     - complex-series
     - complex-analysis
+    - mathematics
 ---
 
 # Convergence
@@ -36,6 +37,13 @@ Since a [complex series](./index.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n
 >>
 >>TODO
 >>
+>
+
+## Conditional Convergence
+
+>[!DEFINITION] Definition: Conditional Convergence
+>
+>A [complex series](./index.md) is **conditionally convergent** iff it is [convergent](Convergence.md) but not [absolutely convergent](Convergence.md#absolute%20convergence).
 >
 
 # Criteria for Convergence and Divergence

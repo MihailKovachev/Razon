@@ -3,6 +3,7 @@ title: Complex Sequences
 tags:
     - complex-sequences
     - complex-analysis
+    - mathematics
 ---
 
 >[!DEFINITION] Definition: Complex Sequence

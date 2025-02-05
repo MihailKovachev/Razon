@@ -1,6 +1,6 @@
 >[!THEOREM] Theorem: The Real Exponential Function
 >
->The [real power series](../../Real%20Series/Power%20Series/Real%20Power%20Series.md) $\displaystyle \sum_{n = 0}^\infty \frac{x^n}{n!}$ [converges](../../Real%20Series/Power%20Series/Convergence%20of%20Power%20Series.md) for all $x \in \mathbb{R}$.
+>The [real power series](../../Real%20Power%20Series/Real%20Power%20Series.md) $\displaystyle \sum_{n = 0}^\infty \frac{x^n}{n!}$ [converges](../../Real%20Power%20Series/Convergence.md) for all $x \in \mathbb{R}$.
 >
 >>[!PROOF]-
 >>
@@ -9,7 +9,7 @@
 >
 >>[!DEFINITION] Definition: The Real Exponential Function
 >>
->>The **real exponential function** is the [real analytic function](../Real%20Analytic%20Functions/Real%20Analytic%20Function.md) $\exp: \mathbb{R} \to \mathbb{R}$ defined by the [power series](../../Real%20Series/Power%20Series/Real%20Power%20Series.md) $\displaystyle \sum_{n = 0}^\infty \frac{x^n}{n!}$.
+>>The **real exponential function** is the [real analytic function](../Real%20Analytic%20Functions/Real%20Analytic%20Function.md) $\exp: \mathbb{R} \to \mathbb{R}$ defined by the [power series](../../Real%20Power%20Series/Real%20Power%20Series.md) $\displaystyle \sum_{n = 0}^\infty \frac{x^n}{n!}$.
 >>
 >>$$
 >>\exp(x) \overset{\text{def}}{=} \sum_{n = 0}^\infty \frac{x^n}{n!}
