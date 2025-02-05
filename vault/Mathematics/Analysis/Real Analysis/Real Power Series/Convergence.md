@@ -6,27 +6,51 @@ tags:
     - mathematics
 ---
 
->[!DEFINITION] Definition: Convergence of Power Series
+# Convergence
+>[!DEFINITION] Definition: Convergence and Divergence of Power Series
 >
->We say that a [real power series](Real%20Power%20Series.md) $\sum_{n=0}^\infty c_n (x-a)^n$ **converges for** $x^\ast \in \mathbb{R}$ if the resultant [real series](../Real%20Series/index.md) $\sum_{n=0}^\infty c_n (x^\ast - a)^n$ [converges](../Real%20Series/Convergence.md).
+>Let $\displaystyle \sum_{n \in \mathcal{D}} a_n (x-c)^n$ be [real power series](Real%20Power%20Series.md) and let $x^{\ast} \in \mathbb{R}$.
 >
+>We say that $\displaystyle \sum_{n \in \mathcal{D}} a_n (x-c)^n$
+>- **is convergent** or **converges** for $x^{\ast}$ if the resultant [real series](../Real%20Series/index.md) $\sum_{n \in \mathcal{D}} a_n (x^{\ast} - c)^n$ is [convergent](../Real%20Series/Convergence.md);
+>- **is absolutely convergent** or **converges absolutely** for $x^{\ast}$ if the resultant [real series](../Real%20Series/index.md) $\sum_{n \in \mathcal{D}} a_n (x^{\ast} - c)^n$ is [absolutely convergent](../Real%20Series/Convergence.md#absolute%20convergence);
+>- **is divergent** or **diverges** for $x^{\ast}$ if the resultant [real series](../Real%20Series/index.md) $\sum_{n \in \mathcal{D}} a_n (x^{\ast} - c)^n$ is [divergent](../Real%20Series/Convergence.md).
+>
+
+## Interval of Convergence
 
 >[!THEOREM] Theorem: Interval of Convergence
 >
->For a [real power series](Real%20Power%20Series.md) $\displaystyle \sum_{n=0}^\infty c_n (x-a)^n$ and a point $x^\ast \in \mathbb{R}$ there are only three possibilities:
->- The series [converges](Convergence.md) only for $x^\ast = a$.
->- The series converges for all $x^\ast \in \mathbb{R}$.
->- There exists an $r \gt 0$ such that the series converges if $|x^\ast - a| \lt r$ and diverges if $|x^\ast - a| \gt r$.
+>There are only three possibilities for the [convergence](Convergence.md) of every [real power series](Real%20Power%20Series.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n (x - c)^n$:
+>- The power series [converges](Convergence.md) only for $x = c$.
+>- The power series [converges](Convergence.md) for all $x \in \mathbb{R}$.
+>- There exists some $r \gt 0$ such that the power series [converges](Convergence.md) if $x \in (c - r; c + r)$ and [diverges](Convergence.md) if $|x - c| \gt r$. In this case, the power series may or may not [converge](Convergence.md) for $x = c + r$ or $x = c - r$ or both 
 >
 >>[!PROOF]-
 >>
 >>TODO
->>
 >
 >>[!DEFINITION] Definition: Interval of Convergence
 >>
->>The [set](../../../../Set%20Theory/Set.md) of all $x \in \mathbb{R}$ for which a [power series](Real%20Power%20Series.md) $\displaystyle \sum_{n=0}^\infty c_n (x-a)^n$ [converges](Convergence.md) is known as its **interval of convergence** and if this interval is finite, then we call half of its length the **radius of convergence**.
+>>The [set](../../../../Set%20Theory/Set.md) of all $x \in \mathbb{R}$ for which a [power series](Real%20Power%20Series.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n (x-c)^n$ [converges](Convergence.md) is known as its **interval of convergence** and if this interval is finite, then we call half of its length the **radius of convergence**.
 >>
->>^intervalofconvergence
+>>![](res/Interval%20of%20convergence.drawio.svg)
 >>
+>
+
+### Determining the Interval of Convergence
+
+>[!ALGORITHM] Algorithm: Determining the Interval of Convergence
+>
+>We are given a [real power series](Real%20Power%20Series.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n (x-c)^n$ and want to determine its [interval of convergence](Convergence.md).
+>
+>1. Evaluate either one of the [limits](../Real%20Sequences/Convergence.md) $\lim_{n \to \infty} \left| \frac{a_n}{a_{n+1}}\right|$ and $\lim_{n\to \infty} \frac{1}{\sqrt[n]{|a_n|}}$. Choose whichever one is easier to calculate.
+>
+>2. If the limit is zero, then the power series [converges](Convergence.md) only for $x = c$.
+> 
+>3. If the limit is $+\infty$, then the power series [converges](Convergence.md) for every $x \in \mathbb{R}$.
+>
+>4. If the limit is equal to some nonzero $r \in \mathbb{R}$, then the power series [converges](Convergence.md) for $x \in (c - r; c + r)$. However, we also need to check whether it converges for $x = c -r$ and $x = c + r$.
+>	-  Evaluate the power series at $x = c - r$. If the resultant [series](../Real%20Series/index.md) $\sum_{n \in \mathcal{D}} a_n (-r)^n$ is [convergent](../Real%20Series/Convergence.md), then the power series [converges](Convergence.md) for $x = c - r$ as well.
+>	-  Evaluate the power series at $x = c + r$. If the resultant [series](../Real%20Series/index.md) $\sum_{n \in \mathcal{D}} a_n r^n$ is [convergent](../Real%20Series/Convergence.md), then the power series [converges](Convergence.md) for $x = c + r$ as well.
 >
