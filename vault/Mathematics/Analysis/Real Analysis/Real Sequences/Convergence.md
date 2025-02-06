@@ -340,7 +340,7 @@ tags:
 
 >[!THEOREM] The Squeeze Theorem for Sequences
 >
->Let $\{a_n\}$, $\{b_n\}$ and $\{c_n\}$ be [real sequences](Real%20Sequence.md) such that both $\{a_n\}$ and $\{b_n\}$ [converge](Convergence.md) to $L \in \mathbb{R}$.
+>Let $\{a_n\}$, $\{b_n\}$ and $\{c_n\}$ be [real sequences](index.md) such that both $\{a_n\}$ and $\{b_n\}$ [converge](Convergence.md) to $L \in \mathbb{R}$.
 >
 >If there exists an integer $N$ such that $a_n \le c_n \le b_n$ for all $n \ge N$, then $\{c_n\}$ also [converges](Convergence.md) to $L$.
 >
