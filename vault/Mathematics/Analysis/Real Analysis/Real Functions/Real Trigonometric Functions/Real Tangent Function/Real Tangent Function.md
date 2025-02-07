@@ -8,7 +8,7 @@
 >
 >>[!NOTE]
 >>
->>The [domain](../../../../Functions/Domain%20of%20a%20Function.md) of the [real tangent function](Real%20Tangent%20Function.md) is $\{x \in \mathbb{R}\mid x\ne \frac{\pi}{2}+k\pi, k \in \mathbb{Z}\}$ because $\cos (\frac{\pi}{2}+k\pi) = 0$ for all $k \in \mathbb{Z}$.
+>>The [domain](../../../../Functions/index.md) of the [real tangent function](Real%20Tangent%20Function.md) is $\{x \in \mathbb{R}\mid x\ne \frac{\pi}{2}+k\pi, k \in \mathbb{Z}\}$ because $\cos (\frac{\pi}{2}+k\pi) = 0$ for all $k \in \mathbb{Z}$.
 >>
 >
 >>[!NOTATION]-

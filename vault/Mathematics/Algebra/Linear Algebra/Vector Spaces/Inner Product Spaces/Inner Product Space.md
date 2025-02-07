@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Complex Inner Product Space
 >
->A **complex inner product space** is a [complex vector space](../Complex%20Vector%20Space.md) $(V,F,+,\cdot)$ equipped with an **inner product** [operation](../../../../Analysis/Functions/Function.md) $\langle \cdot, \cdot \rangle: V\times V \to \mathbb{C}$ which has the following properties:
+>A **complex inner product space** is a [complex vector space](../Complex%20Vector%20Space.md) $(V,F,+,\cdot)$ equipped with an **inner product** [operation](../../../../Analysis/Functions/index.md) $\langle \cdot, \cdot \rangle: V\times V \to \mathbb{C}$ which has the following properties:
 >
 >1. Conjugate symmetry
 >
@@ -23,7 +23,7 @@
 
 >[!DEFINITION] Definition: Real Inner Product Space
 >
->A **real inner product space** is a [real vector space](../Real%20Vector%20Space.md) $(V,F,+,\cdot)$ equipped with an **inner product** [operation](../../../../Analysis/Functions/Function.md) $\langle \cdot, \cdot \rangle: V\times V \to \mathbb{R}$ which has the following properties:
+>A **real inner product space** is a [real vector space](../Real%20Vector%20Space.md) $(V,F,+,\cdot)$ equipped with an **inner product** [operation](../../../../Analysis/Functions/index.md) $\langle \cdot, \cdot \rangle: V\times V \to \mathbb{R}$ which has the following properties:
 >
 >1. Symmetry
 >

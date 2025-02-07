@@ -6,7 +6,7 @@
 >
 >>[!NOTE]
 >>
->>The [domain](../../../../Functions/Domain%20of%20a%20Function.md) of the [real cotangent function](Real%20Cotangent%20Function.md) is $\{x \in \mathbb{R}\mid x\ne k\pi, k \in \mathbb{Z}\}$ because $\sin (k\pi) = 0$ for all $k \in \mathbb{Z}$.
+>>The [domain](../../../../Functions/index.md) of the [real cotangent function](Real%20Cotangent%20Function.md) is $\{x \in \mathbb{R}\mid x\ne k\pi, k \in \mathbb{Z}\}$ because $\sin (k\pi) = 0$ for all $k \in \mathbb{Z}$.
 >>
 >
 >>[!NOTATION]-

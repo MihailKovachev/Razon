@@ -21,7 +21,7 @@ tags:
 >>By plugging in a concrete value $x^\ast \in \mathbb{R}$ for $x$, one obtains the [real series](../Real%20Series/index.md)
 >>
 >>$$
->>\sum_{n \in \mathcal{D}}^ a_n (x^{\ast} - c)^n
+>>\sum_{n \in \mathcal{D}} a_n (x^{\ast} - c)^n
 >>$$
 >>
 >

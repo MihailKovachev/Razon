@@ -8,7 +8,7 @@ tags:
 
 >[!DEFINITION] Definition: Complex Sequence
 >
->A **complex sequence** or **sequence of complex numbers** is a [complex-valued function](Complex-Valued%20Function.md) $a: \mathcal{D} \subseteq \mathbb{N}_0 \to \mathbb{C}$ whose [domain](../../Functions/Domain%20of%20a%20Function.md) $\mathcal{D}$ is either $\mathbb{N}_0$ or a finite [subset](../../../Set%20Theory/Subset.md) of $\mathbb{N}$ which has the form $\mathcal{D} = \{0,1,2,3,\dotsc, n\}, n \in \mathbb{N}$.
+>A **complex sequence** or **sequence of complex numbers** is a [complex-valued function](Complex-Valued%20Function.md) $a: \mathcal{D} \subseteq \mathbb{N}_0 \to \mathbb{C}$ whose [domain](../../Functions/index.md) $\mathcal{D}$ is either $\mathbb{N}_0$ or a finite [subset](../../../Set%20Theory/Subset.md) of $\mathbb{N}$ which has the form $\mathcal{D} = \{0,1,2,3,\dotsc, n\}, n \in \mathbb{N}$.
 >
 >>[!DEFINITION] Definition: Finite and Sequences
 >>

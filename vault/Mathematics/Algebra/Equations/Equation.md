@@ -8,7 +8,7 @@
 >f(x) = g(x),
 >$$
 >
->where $f,g: X \to Y$ are arbitrary [functions](../../Analysis/Functions/Function.md).
+>where $f,g: X \to Y$ are arbitrary [functions](../../Analysis/Functions/index.md).
 >
 >>[!DEFINITION] Definition: Solution
 >>
