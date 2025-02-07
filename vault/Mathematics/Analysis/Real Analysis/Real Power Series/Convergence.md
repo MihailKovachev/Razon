@@ -9,7 +9,7 @@ tags:
 # Convergence
 >[!DEFINITION] Definition: Convergence and Divergence of Power Series
 >
->Let $\displaystyle \sum_{n \in \mathcal{D}} a_n (x-c)^n$ be [real power series](Real%20Power%20Series.md) and let $x^{\ast} \in \mathbb{R}$.
+>Let $\displaystyle \sum_{n \in \mathcal{D}} a_n (x-c)^n$ be [real power series](./index.md) and let $x^{\ast} \in \mathbb{R}$.
 >
 >We say that $\displaystyle \sum_{n \in \mathcal{D}} a_n (x-c)^n$
 >- **is convergent** or **converges** for $x^{\ast}$ if the resultant [real series](../Real%20Series/index.md) $\sum_{n \in \mathcal{D}} a_n (x^{\ast} - c)^n$ is [convergent](../Real%20Series/Convergence.md);
@@ -21,7 +21,7 @@ tags:
 
 >[!THEOREM] Theorem: Interval of Convergence
 >
->There are only three possibilities for the [convergence](Convergence.md) of every [real power series](Real%20Power%20Series.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n (x - c)^n$:
+>There are only three possibilities for the [convergence](Convergence.md) of every [real power series](./index.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n (x - c)^n$:
 >- The power series [converges](Convergence.md) only for $x = c$.
 >- The power series [converges](Convergence.md) for all $x \in \mathbb{R}$.
 >- There exists some $r \gt 0$ such that the power series [converges](Convergence.md) if $x \in (c - r; c + r)$ and [diverges](Convergence.md) if $|x - c| \gt r$. In this case, the power series may or may not [converge](Convergence.md) for $x = c + r$ or $x = c - r$ or both 
@@ -32,7 +32,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Interval of Convergence
 >>
->>The [set](../../../../Set%20Theory/Set.md) of all $x \in \mathbb{R}$ for which a [power series](Real%20Power%20Series.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n (x-c)^n$ [converges](Convergence.md) is known as its **interval of convergence** and if this interval is finite, then we call half of its length the **radius of convergence**.
+>>The [set](../../../../Set%20Theory/Set.md) of all $x \in \mathbb{R}$ for which a [power series](./index.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n (x-c)^n$ [converges](Convergence.md) is known as its **interval of convergence** and if this interval is finite, then we call half of its length the **radius of convergence**.
 >>
 >>![](res/Interval%20of%20convergence.drawio.svg)
 >>
@@ -42,7 +42,7 @@ tags:
 
 >[!ALGORITHM] Algorithm: Determining the Interval of Convergence
 >
->We are given a [real power series](Real%20Power%20Series.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n (x-c)^n$ and want to determine its [interval of convergence](Convergence.md).
+>We are given a [real power series](./index.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n (x-c)^n$ and want to determine its [interval of convergence](Convergence.md).
 >
 >1. Evaluate either one of the [limits](../Real%20Sequences/Convergence.md) $\lim_{n \to \infty} \left| \frac{a_n}{a_{n+1}}\right|$ and $\lim_{n\to \infty} \frac{1}{\sqrt[n]{|a_n|}}$. Choose whichever one is easier to calculate.
 >
