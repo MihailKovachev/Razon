@@ -17,11 +17,7 @@
 >>
 >>Let $(X,\tau_X)$ and $(Y,\tau_Y)$ be [topological spaces](../Topological%20Spaces/Topological%20Space.md).
 >>
-<<<<<<< Updated upstream
 >>A [function](../../Analysis/Functions/index.md) $f: X \to Y$ is [continuous](Continuity.md) if and only if the [inverse image](../../Analysis/Functions/index.md) of each [open subset](../Topological%20Spaces/Open%20Subset.md) of $Y$ is an open subset of $X$.
-=======
->>A [function](../../Analysis/Functions/index.md) $f: X \to Y$ is [continuous](Continuity.md) if and only if the [inverse image](../../Analysis/Functions/Inverse%20Image.md) of each [open subset](../Topological%20Spaces/Open%20Subset.md) of $Y$ is an open subset of $X$.
->>>>>>> Stashed changes
 >>
 >>>[!PROOF]-
 >>>
@@ -34,11 +30,7 @@
 >>
 >>Let $(X,\tau_X)$ and $(Y,\tau_Y)$ be [topological spaces](../Topological%20Spaces/Topological%20Space.md).
 >>
-<<<<<<< Updated upstream
 >>A [function](../../Analysis/Functions/index.md) $f: X \to Y$ is [#^continuity](#^continuity) if and only if the [inverse image](../../Analysis/Functions/index.md) of each [closed subset](../Topological%20Spaces/Closed%20Subset.md) of $Y$ is a [closed subset](../Topological%20Spaces/Closed%20Subset.md) of $X$.
-=======
->>A [function](../../Analysis/Functions/index.md) $f: X \to Y$ is [#^continuity](#^continuity) if and only if the [inverse image](../../Analysis/Functions/Inverse%20Image.md) of each [closed subset](../Topological%20Spaces/Closed%20Subset.md) of $Y$ is a [closed subset](../Topological%20Spaces/Closed%20Subset.md) of $X$.
->>>>>>> Stashed changes
 >>
 >>>[!PROOF]-
 >>>

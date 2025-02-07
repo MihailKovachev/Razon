@@ -1,4 +1,11 @@
-<<<<<<< Updated upstream
+---
+title: Functions
+tags:
+    - functions
+    - analysis
+    - mathematics
+---
+
 >[!DEFINITION] Definition: Function
 >
 >A **function** $f: D \to C$ from a [set](../../Set%20Theory/Set.md) $D$ to a [set](../../Set%20Theory/Set.md) $C$ is a [right-unique](../../Set%20Theory/Relations/Right-Unique%20Relation.md) [relation](../../Set%20Theory/Relations/Relation.md) $f \subseteq D\times C$.
@@ -23,6 +30,8 @@
 >>\{f(x) \mid x \in D\}
 >>$$
 >>
+>>![](res/Image.svg)
+>>
 >>>[!NOTATION]-
 >>>
 >>>$$
@@ -42,31 +51,6 @@
 >>
 >
 
->[!DEFINITION] Definition: Image of a Function
->
->Let $f: D \to C$ be a [function](index.md).
->
->The **image** of $f$ is the [set](../../Set%20Theory/Set.md) of all $y \in C$ for which there is at least one $x \in D$ such that $y = f(x)$.
->
->$$
->\{f(x) \mid x \in D\}
->$$
->
->![](res/Image.svg)
->
->>[!NOTATION]-
->>
->>$$
->>f(D) \qquad f[D]
->>$$
->>
->
->>[!INTUITION]-
->>
->>The image of a function is essentially the set of all values in $C$ which $f$ can produce.
->>
->
-
 >[!DEFINITION] Definition: Inverse Image
 >
 >Let $f: X \to Y$ be a [function](index.md).
@@ -83,24 +67,4 @@
 >>f^{-1} [S] \qquad f^{-1}(S) \qquad f^{-}(S)
 >>$$
 >>
-=======
----
-title: Functions
-tags:
-    - functions
-    - analysis
-    - mathematics
----
-
->[!DEFINITION] Definition: Function
->
->A **function** $f: \mathcal{D} \to C$ from a [set](../../Set%20Theory/Set.md) $D$ to a [set](../../Set%20Theory/Set.md) $C$ is a [right-unique](../../Set%20Theory/Relations/Right-Unique%20Relation.md) [relation](../../Set%20Theory/Relations/Relation.md) $f \subseteq \mathcal{D} \times C$.
->
->>[!INTUITION]-
->>
->>A function $f$ is just a rule which to each $x \in \mathcal{D}$ assigns a single $f(x) \in C$.
->>
->
->
->>>>>>> Stashed changes
 >
