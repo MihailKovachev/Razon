@@ -146,7 +146,7 @@ tags:
 >>- $|a_n| \le M$ for every $n \lt N$;
 >>- $|a_n| \lt 1 + |L|$ for every $n \ge N$.
 >>
->>Let $B = \max\{M, 1 + |L|\}$. Therefore, $|a_n| \le B$ for every integer $n$ and so $a_n$ is [bounded](Boundedness.md).
+>>Let $B = \max\{M, 1 + |L|\}$. Therefore, $|a_n| \le B$ for every integer $n$ and so $a_n$ is [bounded](../../Complex%20Analysis/Complex%20Sequences/Boundedness.md).
 >>
 >
 
