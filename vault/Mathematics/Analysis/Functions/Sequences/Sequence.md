@@ -1,17 +1,21 @@
 >[!DEFINITION] Definition: Sequence
 >
->A **sequence** is a [function](../Function.md) whose [domain](../Domain%20of%20a%20Function.md) is an [interval](../../../Set%20Theory/Ordering/Intervals.md) of [integers](TODO).
+<<<<<<< Updated upstream
+>A **sequence** is a [function](../index.md) whose [domain](../index.md) is an [interval](../../../Set%20Theory/Ordering/Intervals.md) of [integers](TODO).
+=======
+>A **sequence** is a [function](../index.md) whose [domain](../Domain%20of%20a%20Function.md) is an [interval](../../../Set%20Theory/Ordering/Intervals.md) of [integers](TODO).
+>>>>>>> Stashed changes
 >
 >>[!DEFINITION] Definition: Finite Sequence
 >>
->>A [sequence](Sequence.md) is **finite** iff its [domain](../Domain%20of%20a%20Function.md) is finite.
+>>A [sequence](Sequence.md) is **finite** iff its [domain](../index.md) is finite.
 >>
 >>^finite-sequence
 >>
 >
 >>[!DEFINITION] Definition: Infinite Sequence
 >>
->>A [sequence](Sequence.md) is **infinite** iff its [domain](../Domain%20of%20a%20Function.md) is not finite.
+>>A [sequence](Sequence.md) is **infinite** iff its [domain](../index.md) is not finite.
 >>
 >>^infinite-sequence
 >

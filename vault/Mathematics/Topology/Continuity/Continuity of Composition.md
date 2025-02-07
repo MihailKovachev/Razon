@@ -10,7 +10,7 @@
 >>
 >>![](Continuity%20of%20Restrictions.md#^continuity-via-openness)
 >>
->>Hence, we need to prove only that if $U$ is [open](../Topological%20Spaces/Open%20Subset.md) in $(Z, \tau_Z)$, then its [inverse image](../../Analysis/Functions/Inverse%20Image.md)  $(g\circ f)^{-1}(U)$ is [open](../Topological%20Spaces/Open%20Subset.md) in $(X, \tau_X)$.
+>>Hence, we need to prove only that if $U$ is [open](../Topological%20Spaces/Open%20Subset.md) in $(Z, \tau_Z)$, then its [inverse image](../../Analysis/Functions/index.md)  $(g\circ f)^{-1}(U)$ is [open](../Topological%20Spaces/Open%20Subset.md) in $(X, \tau_X)$.
 >>
 >>
 >>

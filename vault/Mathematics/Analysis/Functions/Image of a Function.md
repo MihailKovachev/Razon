@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Image of a Function
 >
->Let $f: D \to C$ be a [function](Function.md).
+>Let $f: D \to C$ be a [function](index.md).
 >
 >The **image** of $f$ is the [set](../../Set%20Theory/Set.md) of all $y \in C$ for which there is at least one $x \in D$ such that $y = f(x)$.
 >

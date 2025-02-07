@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Vector Function
 >
->A **vector function** $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ is a [real vector-valued function](../../Analysis%20on%20Manifolds/Real%20Vector-Valued%20Function.md) whose [domain](../../Functions/Domain%20of%20a%20Function.md) $\mathcal{D}$ is a [subset](../../../../Set%20Theory/Subset.md) of a [real vector space](../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Structure%20of%20the%20Real%20Vector%20Space.md) $\mathbb{R}^m$.
+>A **vector function** $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ is a [real vector-valued function](../../Analysis%20on%20Manifolds/Real%20Vector-Valued%20Function.md) whose [domain](../../Functions/index.md) $\mathcal{D}$ is a [subset](../../../../Set%20Theory/Subset.md) of a [real vector space](../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Structure%20of%20the%20Real%20Vector%20Space.md) $\mathbb{R}^m$.
 >
 >>[!NOTATION]- Notation: Multivariate Notation and Coordinate Representations
 >>

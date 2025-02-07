@@ -27,7 +27,7 @@
 
 >[!THEOREM] Theorem: Image of the Real Exponential Function
 >
->The [image](../../../Functions/Function.md) of the [real exponential function](Real%20Exponential%20Function.md) is $(0;+\infty)$, i.e. its values are always positive.
+>The [image](../../../Functions/index.md) of the [real exponential function](Real%20Exponential%20Function.md) is $(0;+\infty)$, i.e. its values are always positive.
 >
 >>[!PROOF]-
 >>

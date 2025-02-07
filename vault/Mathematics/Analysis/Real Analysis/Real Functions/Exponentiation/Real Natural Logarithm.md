@@ -4,7 +4,7 @@
 >
 >>[!NOTE] Note: Domain of the Real Natural Logarithm
 >>
->>The real natural logarithm is only defined on positive real numbers, i.e. its [domain](../../../Functions/Function.md) is $(0;+\infty)$.
+>>The real natural logarithm is only defined on positive real numbers, i.e. its [domain](../../../Functions/index.md) is $(0;+\infty)$.
 >>
 >
 >>[!NOTATION]-
