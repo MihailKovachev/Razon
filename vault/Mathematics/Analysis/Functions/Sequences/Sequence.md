@@ -1,10 +1,6 @@
 >[!DEFINITION] Definition: Sequence
 >
-<<<<<<< Updated upstream
 >A **sequence** is a [function](../index.md) whose [domain](../index.md) is an [interval](../../../Set%20Theory/Ordering/Intervals.md) of [integers](TODO).
-=======
->A **sequence** is a [function](../index.md) whose [domain](../Domain%20of%20a%20Function.md) is an [interval](../../../Set%20Theory/Ordering/Intervals.md) of [integers](TODO).
->>>>>>> Stashed changes
 >
 >>[!DEFINITION] Definition: Finite Sequence
 >>

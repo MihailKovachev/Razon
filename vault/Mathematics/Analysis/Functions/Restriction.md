@@ -1,3 +1,11 @@
+---
+title: Functions
+tags:
+    - functions
+    - analysis
+    - mathematics
+---
+
 >[!DEFINITION] Definition: Restriction
 >
 >Let $f: X \to Y$ be a [function](index.md).
