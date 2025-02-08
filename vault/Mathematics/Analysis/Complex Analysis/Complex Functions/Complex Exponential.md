@@ -43,7 +43,7 @@ tags:
 >>
 >>>[!NOTE]
 >>>
->>>The [restriction](../../Functions/Restriction.md) of the [complex exponential function](Complex%20Exponential.md) to $\mathbb{R}$ is the [real exponential function](../../Real%20Analysis/Real%20Functions/Exponentiation/Real%20Exponential%20Function.md).
+>>>The [restriction](../../Functions/Restriction.md) of the [complex exponential function](Complex%20Exponential.md) to $\mathbb{R}$ is the [real exponential function](../../Real%20Analysis/Real%20Functions/Real%20Exponential%20Function.md).
 >>>
 >>
 >
@@ -94,7 +94,7 @@ tags:
 
 >[!THEOREM] Theorem: Modulus of the Complex Exponential
 >
->For all $z \in \mathbb{C}$, the [modulus](../../../Algebra/Fields/Complex%20Numbers/Absolute%20Value%20of%20a%20Complex%20Number.md) of the [complex exponential](Complex%20Exponential.md) of $z$ is the [real exponential](../../Real%20Analysis/Real%20Functions/Exponentiation/Real%20Exponential%20Function.md) of its real part:
+>For all $z \in \mathbb{C}$, the [modulus](../../../Algebra/Fields/The%20Complex%20Numbers/index.md) of the [complex exponential](Complex%20Exponential.md) of $z$ is the [real exponential](../../Real%20Analysis/Real%20Functions/Real%20Exponential%20Function.md) of its real part:
 >
 >$$
 >|\mathrm{e}^z| = \mathrm{e}^{\operatorname{Re}(z)}

@@ -1,8 +1,8 @@
 >[!DEFINITION] Definition: Limit of a Real Vector Function
 >
->Let $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [real vector function](Real%20Vector%20Function.md) and let $\mathbf{a} \in \mathbb{R}^m$ be an [accumulation point](../../../../Topology/Interior,%20Exterior,%20Boundary/Accumulation%20Point.md) of $\mathcal{D}$.
+>Let $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [real vector function](Real%20Vector%20Function.md) and let $\mathbf{a} \in \mathbb{R}^m$ be an [accumulation point](../../../Topology/Interior,%20Boundary,%20Exterior/Accumulation%20Point.md) of $\mathcal{D}$.
 >
->We say that $\mathbf{L} \in \mathbb{R}^n$ is a **limit** of $f$ for $\mathbf{x} \to \mathbf{a}$ iff for each [open ball](../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Open%20Balls%20in%20Euclidean%20Space.md) $B_{\varepsilon}(\mathbf{L})$ around $\mathbf{L}$ there exists an [open ball](../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Open%20Balls%20in%20Euclidean%20Space.md) $B_{\delta}(\mathbf{a})$ around $\mathbf{a}$ such that for all $\mathbf{x} \in \mathcal{D}$ different from $\mathbf{a}$,
+>We say that $\mathbf{L} \in \mathbb{R}^n$ is a **limit** of $f$ for $\mathbf{x} \to \mathbf{a}$ iff for each [open ball](../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/index.md) $B_{\varepsilon}(\mathbf{L})$ around $\mathbf{L}$ there exists an [open ball](../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/index.md) $B_{\delta}(\mathbf{a})$ around $\mathbf{a}$ such that for all $\mathbf{x} \in \mathcal{D}$ different from $\mathbf{a}$,
 >
 >$$
 >\mathbf{x} \in B_{\delta}(\mathbf{a}) \implies f(\mathbf{x}) \in B_{\varepsilon}(\mathbf{L})
@@ -10,7 +10,7 @@
 >
 >>[!TIP]- Tip: Restatement without Open Balls
 >>
->>For the purposes of many proofs, it useful to define the limit without reference to open balls. This is done simply by taking the above definition and replacing every occurrence of "open ball" with the [definition of an open ball](../../../../Topology/Metric%20Spaces/Open%20Ball.md).
+>>For the purposes of many proofs, it useful to define the limit without reference to open balls. This is done simply by taking the above definition and replacing every occurrence of "open ball" with the [definition of an open ball](../../../Topology/Metric%20Spaces/index.md).
 >>
 >>We say that $\mathbf{L} \in \mathbb{R}^n$ is a **limit** of $f$ for $\mathbf{x} \to \mathbf{a}$ iff for each $\varepsilon \gt 0$, there exists some $\delta \gt 0$ such that for all $\mathbf{x} \in \mathcal{D}$, if $0 \lt ||\mathbf{x} - \mathbf{a}|| \lt \delta$, then $||f(\mathbf{x}) - \mathbf{L}|| \lt \varepsilon$.
 >>

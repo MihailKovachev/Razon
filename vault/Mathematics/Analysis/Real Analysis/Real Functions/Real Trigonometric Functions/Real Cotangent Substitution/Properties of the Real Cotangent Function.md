@@ -12,7 +12,7 @@
 
 >[!THEOREM] Theorem: Periodicity of the Real Cotangent Function
 >
->The [real cotangent function](Real%20Cotangent%20Function.md) has a [period](../../Periodicity/Periodicity.md) of $\pi$. More generally,
+>The [real cotangent function](Real%20Cotangent%20Function.md) has a [period](../../Periodicity.md) of $\pi$. More generally,
 >
 >$$\cot(x + k\pi) = \cot (x) \qquad \forall k \in \mathbb{Z}$$
 >

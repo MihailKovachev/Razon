@@ -2,7 +2,7 @@
 >
 >Let $f: R \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) over some rectangle $R = [a;b] \times [c;d] \subset \mathbb{R}^2$.
 >
->The **double integral of** $f$ **over** $R$ is the [limit](../../../Real%20Functions/Limits%20of%20Functions/Limit%20of%20a%20Real%20Function.md) of all of its [double Riemann sums](Double%20Riemann%20Sum.md), if it exists and is the same for all of them.
+>The **double integral of** $f$ **over** $R$ is the [limit](../../../Real%20Functions/Limits/index.md) of all of its [double Riemann sums](Double%20Riemann%20Sum.md), if it exists and is the same for all of them.
 >
 >$$
 >\lim_{m,n\to\infty} \sum_{i=1}^m\sum_{j=1}^n f(x_{ij}^\ast, y_{ij}^\ast) \Delta A
@@ -43,7 +43,7 @@
 >>
 >>The [double integral](Double%20Integral%20of%20a%20Real%20Scalar%20Field.md) of $f$ over $D$ is the signed volume between the graph of $f$ and $D$.
 >>
->>![](Resources/Geometric%20Meaning%20of%20the%20Double%20Integral.png)
+>>![](res/Geometric%20Meaning%20of%20the%20Double%20Integral.png)
 >>
 >
 
@@ -89,7 +89,7 @@
 >
 >Let $f: D \subset \mathbb{R}^2 \to\mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md).
 >
->If $D$ can be represented as a [union](../../../../../Set%20Theory/Operations%20with%20Sets/Union.md) [disjoint](../../../../../Set%20Theory/Disjoint%20Sets.md) $D = D_1\cup\cdots\cup D_n$ of finitely many [disjoint](../../../../../Set%20Theory/Disjoint%20Sets.md) [general regions](../../../../../Geometry/General%20Regions%20in%202D.md), then the [double integral](Double%20Integral%20of%20a%20Real%20Scalar%20Field.md) of $f$ over $D$ is the sum of the [double integral](Double%20Integral%20of%20a%20Real%20Scalar%20Field.md) of $f$ over $D_1,\cdots, D_n$:
+>If $D$ can be represented as a [union](../../../../../Set%20Theory/Set%20Operations.md) [disjoint](../../../../../Set%20Theory/Disjoint%20Sets.md) $D = D_1\cup\cdots\cup D_n$ of finitely many [disjoint](../../../../../Set%20Theory/Disjoint%20Sets.md) [general regions](../../../../../Geometry/General%20Regions%20in%202D.md), then the [double integral](Double%20Integral%20of%20a%20Real%20Scalar%20Field.md) of $f$ over $D$ is the sum of the [double integral](Double%20Integral%20of%20a%20Real%20Scalar%20Field.md) of $f$ over $D_1,\cdots, D_n$:
 >
 >$$
 >\iint\limits_D f \mathop{\mathrm{d}A} = \iint\limits_{D_1} \mathop{\mathrm{d}D_1} + \cdots + \iint\limits_{D_n} f \mathop{\mathrm{d}D_n}

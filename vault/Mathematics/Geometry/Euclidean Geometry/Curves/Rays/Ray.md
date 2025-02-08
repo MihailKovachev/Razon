@@ -1,4 +1,0 @@
->[!DEFINITION] Definition: Ray
->
->TODO
->

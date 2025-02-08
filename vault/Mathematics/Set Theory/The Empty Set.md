@@ -1,6 +1,13 @@
+---
+title: The Empty Set
+tags:
+    - set-theory
+    - mathematics
+---
+
 >[!AXIOM] Axiom: Existence of an Empty Set
 >
->There exists a [set](Set.md) with no elements.
+>There exists a [set](./index.md) with no elements.
 >
 >$$
 >\exists A \forall x(x \notin A)
@@ -16,8 +23,6 @@
 >^empty-set
 >
 
-
-
 >[!THEOREM] Theorem: Uniqueness of the Empty Set
 >
 >There is only one empty set.
@@ -30,13 +35,13 @@
 >>x \in A \iff x \in B
 >>$$
 >>
->>is vacuously true. Therefore, the [Axiom of Extensionality](Axiom%20of%20Extensionality.md) holds and so $A = B$.
+>>is vacuously true. Therefore, $A = B$.
 >>
 >
 
 >[!THEOREM] Theorem
 >
->The empty set is a [subset](Subset.md) of all [sets](Set.md).
+>The empty set is a [subset](./index.md) of all [sets](./index.md).
 >
 >>[!PROOF]-
 >>

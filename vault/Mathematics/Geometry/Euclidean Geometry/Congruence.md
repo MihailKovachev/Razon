@@ -1,6 +1,14 @@
+---
+title: Congruence
+tags:
+    - euclidean-geometry
+    - geometry
+    - mathematics
+---
+
 >[!DEFINITION] Definition: Congruence
 >
->Two [geometric figures](../Geometric%20Figure.md) $G_1$ and $G_2$ are **congruent** if there exists an [isometry](../../Topology/Metric%20Spaces/Isometry.md) which maps $G_1$ onto $G_2$.
+>Two [geometric figures](Geometric%20Figure.md) $G_1$ and $G_2$ are **congruent** if there exists an [isometry](../../Topology/Metric%20Spaces/Isometry.md) which maps $G_1$ onto $G_2$.
 >
 >>[!NOTATION]-
 >>

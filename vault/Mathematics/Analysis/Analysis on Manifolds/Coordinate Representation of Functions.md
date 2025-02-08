@@ -1,8 +1,17 @@
+---
+title: Coordinate Representation of Functions
+tags:
+    - analysis-on-manifolds
+    - analysis
+    - smooth-manifolds
+    - mathematics
+---
+
 >[!DEFINITION] Definition: Coordinate Representation of a Function
 >
->Let $f: M \to \mathbb{R}^n$ be a [real vector-valued function](Real%20Vector-Valued%20Function.md) on a $k$-[manifold](../../Geometry/Manifolds/Manifolds.md) $M$ and let $(U, \phi)$ be a [chart](../../Geometry/Manifolds/Coordinates/Chart.md) for $M$.
+>Let $f: M \to \mathbb{R}^n$ be a [real vector-valued function](../Real%20Analysis/Real%20Vector-Valued%20Function.md) on a $k$-[manifold](../../Geometry/Manifolds/index.md) $M$ and let $(U, \phi)$ be a [chart](../../Geometry/Manifolds/Coordinates/index.md) for $M$.
 >
->The **coordinate representation** of $f$ on $(U, \phi)$ is the [real vector function](../Real%20Analysis/Real%20Vector%20Functions/Real%20Vector%20Function.md) ${}_{(U, \phi)}f: \phi(U) \subseteq \mathbb{R}^k \to \mathbb{R}^n$ obtained by the [compositions](../Real%20Analysis/Real%20Vector%20Functions/Real%20Vector%20Function.md) of $f$ and the [inverse](../Functions/Types%20of%20Functions/Inverse%20Function.md) of $\phi$.
+>The **coordinate representation** of $f$ on $(U, \phi)$ is the [real vector function](../Real%20Analysis/Real%20Vector%20Functions/Real%20Vector%20Function.md) ${}_{(U, \phi)}f: \phi(U) \subseteq \mathbb{R}^k \to \mathbb{R}^n$ obtained by the [compositions](../Real%20Analysis/Real%20Vector%20Functions/Real%20Vector%20Function.md) of $f$ and the [inverse](../Functions/Types%20of%20Functions/Injection.md) of $\phi$.
 >
 >$$
 >{}_{(U, \phi)}f \overset{\text{def}}{=} f \circ \phi^{-1}

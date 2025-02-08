@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"32ec2fb1f51b998b","x":-52,"y":-111,"width":672,"height":511,"color":"1","type":"file","file":"Algebra/Groups/Group.md"},
-		{"id":"706d88cd36f8a065","x":660,"y":-111,"width":332,"height":254,"color":"1","type":"file","file":"Algebra/Groups/Abelian Group.md"}
-	],
-	"edges":[]
-}

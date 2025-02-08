@@ -1,8 +1,16 @@
+---
+title: Equations
+tags:
+    - equations
+    - algebra
+    - mathematics
+---
+
 >[!DEFINITION] Definition: Equation
 >
->Let $X$ and $Y$ be two not necessarily unique [sets](../../Set%20Theory/Set.md) such that $Y$ has an [equivalence relation](../../Set%20Theory/Relations/Equivalence%20Relation.md) $E_Y$ defined on it.
+>Let $X$ and $Y$ be two not necessarily unique [sets](../../Set%20Theory/index.md) such that $Y$ has an [equivalence relation](../../Set%20Theory/Relations/Equivalence%20Relation.md) $E_Y$ defined on it.
 >
->An **equation** over $X$ is an [expression](../../Logic/Formal%20Languages/Expression.md) of the form
+>An **equation** over $X$ is an [expression](../../Formal%20Logic/Formal%20Languages.md) of the form
 >
 >$$
 >f(x) = g(x),

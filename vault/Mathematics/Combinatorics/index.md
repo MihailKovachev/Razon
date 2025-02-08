@@ -1,5 +1,8 @@
 ---
 title: Combinatorics
+tags:
+    - combinatorics
+    - mathematics
 ---
 
 >[!DEFINITION] Definition: Combinatorics

@@ -61,7 +61,7 @@
 >\frac{\partial }{\partial y}  f(x,y) = \lim_{h \to 0} \frac{f(x, 0 + h) - f(x, 0)}{h} = \lim_{h \to 0} \frac{(x^2 + h^2) - 0}{h} = \lim_{h \to 0} \frac{x^2 + h^2}{h}
 >$$
 >
->However, this [limit](../../../Real%20Functions/Limits%20of%20Functions/Limit%20of%20a%20Real%20Function.md) does not exists, since it depends on whether $h$ approaches $0$ from the left or the right. 
+>However, this [limit](../../../Real%20Functions/Limits/index.md) does not exists, since it depends on whether $h$ approaches $0$ from the left or the right. 
 >
 >Therefore, $f$ is *not* partially differentiable with respect to $y$ on the points $(x, 0)$.
 >

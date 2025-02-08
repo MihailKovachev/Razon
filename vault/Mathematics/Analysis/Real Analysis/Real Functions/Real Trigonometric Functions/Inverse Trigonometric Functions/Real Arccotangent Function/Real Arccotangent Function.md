@@ -1,6 +1,6 @@
 >[!THEOREM] Theorem: Injectivity of the Real Cotangent Function
 >
->The [restriction](../../../../../Functions/Restriction.md) of the [real cotangent function](../../Real%20Cotangent%20Substitution/Real%20Cotangent%20Function.md) on the [interval](../../../../../../../Set%20Theory/Ordering/Intervals.md) $(0; \pi)$ and thus admits an [inverse function](../../../../../Functions/Types%20of%20Functions/Inverse%20Function.md) on it.
+>The [restriction](../../../../../Functions/Restriction.md) of the [real cotangent function](../../Real%20Cotangent%20Substitution/Real%20Cotangent%20Function.md) on the [interval](../../../../../../../Set%20Theory/Ordering/Intervals.md) $(0; \pi)$ and thus admits an [inverse function](../../../../../Functions/Types%20of%20Functions/Injection.md) on it.
 >
 >>[!PROOF]-
 >>
@@ -9,7 +9,7 @@
 >
 >>[!DEFINITION] Definition: Real Arccotangent Function
 >>
->>The **real arccotangent function** is the [inverse function](../../../../../Functions/Types%20of%20Functions/Inverse%20Function.md) of the [restriction](../../../../../Functions/Restriction.md) of the [real cotangent function](../../Real%20Cotangent%20Substitution/Real%20Cotangent%20Function.md) on the [interval](../../../../../../../Set%20Theory/Ordering/Intervals.md) $(0; \pi)$.
+>>The **real arccotangent function** is the [inverse function](../../../../../Functions/Types%20of%20Functions/Injection.md) of the [restriction](../../../../../Functions/Restriction.md) of the [real cotangent function](../../Real%20Cotangent%20Substitution/Real%20Cotangent%20Function.md) on the [interval](../../../../../../../Set%20Theory/Ordering/Intervals.md) $(0; \pi)$.
 >>
 >>>[!NOTATION]-
 >>>

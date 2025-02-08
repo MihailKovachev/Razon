@@ -1,6 +1,13 @@
+---
+title: Binary Operations
+tags:
+    - abstract-algebra
+    - mathematics
+---
+
 >[!DEFINITION] Definition: Binary Operation
 >
->A **binary operation** on a [set](../../../Set%20Theory/Set.md) $S$ is an [operation](Operation.md) $f: S \times S \to S$.
+>A **binary operation** on a [set](../../../Set%20Theory/index.md) $S$ is an [operation](Operation.md) $f: S \times S \to S$.
 >
 >>[!NOTATION]-
 >>

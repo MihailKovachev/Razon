@@ -1,6 +1,15 @@
+---
+title: Polar Coordinate System
+tags:
+    - coordinate-systems
+    - euclidean-geometry
+    - geometry
+    - mathematics
+---
+
 # Polar Coordinates
 
-Polar coordinates uniquely identify each point in the [Euclidean space](../Euclidean%20Space.md) $\mathbb{R}^2$ by its distance $r$ from the origin and the angle $\theta$ it makes with the $x$-axis.
+Polar coordinates uniquely identify each point in the [Euclidean space](../index.md) $\mathbb{R}^2$ by its distance $r$ from the origin and the angle $\theta$ it makes with the $x$-axis.
 
 ![](res/Polar%20Coordinates.drawio.svg)
 

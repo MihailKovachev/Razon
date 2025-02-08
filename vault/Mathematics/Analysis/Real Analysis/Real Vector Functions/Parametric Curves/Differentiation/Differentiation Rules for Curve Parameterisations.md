@@ -11,7 +11,7 @@
 >>
 
 >[!THEOREM] Theorem: Chain Rule
->For every [differentiable real function](../../../Real%20Functions/Differentiation/Differentiability%20of%20Real%20Functions.md) $f:I\subseteq\mathbb{R}\to\mathbb{R}$ and every [differentiable curve parameterisation](Differentiability%20of%20Parametric%20Curves.md) $\mathbf{r}:f(I)\to\mathbb{R}^n$:
+>For every [differentiable real function](../../../Real%20Functions/Differentiation/index.md) $f:I\subseteq\mathbb{R}\to\mathbb{R}$ and every [differentiable curve parameterisation](Differentiability%20of%20Parametric%20Curves.md) $\mathbf{r}:f(I)\to\mathbb{R}^n$:
 >
 >$$\frac{\mathrm{d}}{\mathrm{d}t}\mathbf{r}(f(t)) = f'(t)\,\mathbf{r}'(f(t))$$
 >
@@ -24,7 +24,7 @@
 
 >[!THEOREM] Theorem: Product Rules
 >
->- *Basic Product Rule*: For every [differentiable curve parameterisation](Differentiability%20of%20Parametric%20Curves.md) $\mathbf{r}:I\to\mathbb{R}^n$ and every [differentiable real function](../../../Real%20Functions/Differentiation/Differentiability%20of%20Real%20Functions.md) $f:I\subseteq\mathbb{R}\to\mathbb{R}$
+>- *Basic Product Rule*: For every [differentiable curve parameterisation](Differentiability%20of%20Parametric%20Curves.md) $\mathbf{r}:I\to\mathbb{R}^n$ and every [differentiable real function](../../../Real%20Functions/Differentiation/index.md) $f:I\subseteq\mathbb{R}\to\mathbb{R}$
 >
 >$$\frac{\mathrm{d}}{\mathrm{d}t}[f(t)\mathbf{r}(t)] = f'(t)\mathbf{r}(t) + \mathbf{r}'(t)f(t)$$
 >

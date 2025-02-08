@@ -1,5 +1,7 @@
 ---
-title: "Mathematics"
+title: Mathematics
+tags:
+    - mathematics
 ---
 
 

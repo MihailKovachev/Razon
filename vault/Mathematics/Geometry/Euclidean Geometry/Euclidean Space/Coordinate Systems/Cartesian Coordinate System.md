@@ -1,6 +1,15 @@
+---
+title: Cartesian Coordinate System
+tags:
+    - coordinate-systems
+    - euclidean-geometry
+    - geometry
+    - mathematics
+---
+
 # Cartesian Coordinates
 
-Cartesian coordinates are the simplest and most commonly used coordinates. They identify each [point (vector)](../../Points%20and%20Vectors/Points%20vs%20Vectors.md) in the [Euclidean space](../Euclidean%20Space.md) $\mathbb{R}^n$ by its components. Essentially, the $k$-th Cartesian coordinate of $\mathbf{p}$ is its $k$-th component.
+Cartesian coordinates are the simplest and most commonly used coordinates. They identify each [point (vector)](../Points%20vs%20Vectors/index.md) in the [Euclidean space](../index.md) $\mathbb{R}^n$ by its components. Essentially, the $k$-th Cartesian coordinate of $\mathbf{p}$ is its $k$-th component.
 
 >[!THEOREM] Theorem: Cartesian Coordinate System
 >

@@ -1,6 +1,14 @@
+---
+title: Metric Equivalence
+tags:
+    - metric-spaces
+    - topology
+    - mathematics
+---
+
 >[!DEFINITION] Definition: Metric Equivalence
 >
->Let $X$ be a [set](../../Set%20Theory/Set.md).
+>Let $X$ be a [set](../../Set%20Theory/index.md).
 >
->Two [metrics](Metric.md) on $X$ are **equivalent** iff they induce the same [metric topology](Metric%20Topology.md) on it.
+>Two [metrics](./index.md) on $X$ are **equivalent** iff they induce the same [metric topology](./index.md) on it.
 >

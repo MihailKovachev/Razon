@@ -1,6 +1,6 @@
 # Constraints
 
-In practice, it is rare that we simply need to find the [local](Local%20Extrema.md) and [global extrema](../../../Real%20Functions/Extrema/Global%20Extrema.md) of a [real scalar field](../Real%20Scalar%20Field.md). Usually, we are interested in finding extrema under certain conditions. 
+In practice, it is rare that we simply need to find the [local](Local%20Extrema.md) and [global extrema](../../../Real%20Functions/Extrema.md) of a [real scalar field](../Real%20Scalar%20Field.md). Usually, we are interested in finding extrema under certain conditions. 
 
 >[!EXAMPLE]-
 >

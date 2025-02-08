@@ -1,6 +1,6 @@
 >[!THEOREM] Theorem: Injectivity of the Cosine Function
 >
->The [restriction](../../../../../Functions/Restriction.md) of the [real cosine function](../../Real%20Cosine%20Function/Real%20Cosine%20Function.md) on the [interval](../../../../../../../Set%20Theory/Ordering/Intervals.md) $[0;\pi]$ is [injective](../../../../../Functions/Types%20of%20Functions/Injection.md) on its [image](../../../../../Functions/index.md) and thus admits an [inverse function](../../../../../Functions/Types%20of%20Functions/Inverse%20Function.md).
+>The [restriction](../../../../../Functions/Restriction.md) of the [real cosine function](../../Real%20Cosine%20Function/Real%20Cosine%20Function.md) on the [interval](../../../../../../../Set%20Theory/Ordering/Intervals.md) $[0;\pi]$ is [injective](../../../../../Functions/Types%20of%20Functions/Injection.md) on its [image](../../../../../Functions/index.md) and thus admits an [inverse function](../../../../../Functions/Types%20of%20Functions/Injection.md).
 >
 >>[!PROOF]-
 >>
@@ -9,7 +9,7 @@
 >
 >>[!DEFINITION] Definition: Real Arccosine Function
 >>
->>The **real arccosine function** is the [inverse function](../../../../../Functions/Types%20of%20Functions/Inverse%20Function.md) of the [restriction](../../../../../Functions/Restriction.md) of the [real cosine function](../../Real%20Cosine%20Function/Real%20Cosine%20Function.md) on the [interval](../../../../../../../Set%20Theory/Ordering/Intervals.md) $[0;\pi]$.
+>>The **real arccosine function** is the [inverse function](../../../../../Functions/Types%20of%20Functions/Injection.md) of the [restriction](../../../../../Functions/Restriction.md) of the [real cosine function](../../Real%20Cosine%20Function/Real%20Cosine%20Function.md) on the [interval](../../../../../../../Set%20Theory/Ordering/Intervals.md) $[0;\pi]$.
 >>
 >>>[!NOTATION]-
 >>>

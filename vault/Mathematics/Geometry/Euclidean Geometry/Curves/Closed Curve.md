@@ -1,4 +1,13 @@
+---
+title: Closed Curve
+tags:
+    - curves
+    - euclidean-geometry
+    - geometry
+    - mathematics
+---
+
 >[!DEFINITION] Definition: Closed Curve
 >
->A [curve](Curve.md) is **closed** iff it is [compact](../Euclidean%20Space/Compactness%20in%20Euclidean%20Space.md) and without [boundary](../../../Topology/Interior,%20Exterior,%20Boundary/Boundary.md).
+>A [curve](./index.md) is **closed** iff it is [compact](../Euclidean%20Space/index.md) and without [boundary](../../../Topology/Interior,%20Boundary,%20Exterior/Boundary.md).
 >

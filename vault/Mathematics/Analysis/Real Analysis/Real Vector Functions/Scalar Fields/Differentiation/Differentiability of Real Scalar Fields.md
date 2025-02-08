@@ -1,6 +1,6 @@
 >[!THEOREM] Theorem: Differentiability of Real Scalar Fields
 >
->Let $f: \mathcal{D} \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) on an [open subset](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Open%20Sets%20in%20Euclidean%20Space.md) $\mathcal{D} \subseteq \mathbb{R}^n$ and let $\mathbf{a} = \begin{bmatrix}a_1 & \cdots & a_n\end{bmatrix}^\mathsf{T} \in \mathcal{D}$.
+>Let $f: \mathcal{D} \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) on an [open subset](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/index.md) $\mathcal{D} \subseteq \mathbb{R}^n$ and let $\mathbf{a} = \begin{bmatrix}a_1 & \cdots & a_n\end{bmatrix}^\mathsf{T} \in \mathcal{D}$.
 >
 >Then $f$ is [differentiable](../../../Real%20Vector%20Functions/Differentiation/Differentiability%20of%20Real%20Vector%20Functions.md) at $\mathbf{a}$ if and only if it is [partially differentiable](Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md) there and the following [limit](../Limits%20of%20Real%20Scalar%20Fields.md) is zero.
 >
@@ -18,7 +18,7 @@
 
 >[!THEOREM] Theorem: Differentiability implies Directional Differentiability
 >
->Let $f: \mathcal{D} \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) on an [open subset](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Open%20Sets%20in%20Euclidean%20Space.md) $\mathcal{D} \subseteq \mathbb{R}^n$.
+>Let $f: \mathcal{D} \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) on an [open subset](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/index.md) $\mathcal{D} \subseteq \mathbb{R}^n$.
 >
 >If $f$ is [differentiable](Differentiability%20of%20Real%20Scalar%20Fields.md) at $\mathbf{a}$, then its [directional derivative](Directional%20Derivatives%20of%20Real%20Scalar%20Fields.md) $\partial_{\hat{\mathbf{r}}}f(\mathbf{a})$ at $\mathbf{a}$ exists along every direction $\hat{\mathbf{r}}$.
 >

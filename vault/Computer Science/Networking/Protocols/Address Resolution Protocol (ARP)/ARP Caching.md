@@ -1,6 +1,6 @@
 # Introduction
 
-Since [ARP](index.md) is a dynamic resolution protocol, every address resolution requires the exchange of messages on the network. this consumes bandwidth and inhibits the overall performance of the network. Whilst ARP messages are not big, sending them too often will inevitably take its toll.
+Since [ARP](./index.md) is a dynamic resolution protocol, every address resolution requires the exchange of messages on the network. this consumes bandwidth and inhibits the overall performance of the network. Whilst ARP messages are not big, sending them too often will inevitably take its toll.
 
 The solution to this is **caching**.
 

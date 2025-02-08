@@ -11,7 +11,7 @@
 >
 >>[!DEFINITION] Definition: Piecewise Smoothness
 >>
->>A [real vector function](../Real%20Vector%20Function.md) $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ is **piecewise smooth** if $\mathcal{D}$ can be represented as a [disjoint](../../../../../Set%20Theory/Disjoint%20Sets.md) [union](../../../../../Set%20Theory/Operations%20with%20Sets/Union.md) $\mathcal{D} = \mathcal{D}_1 \cup \cdots \cup \mathcal{D}_k$ of finitely many [subsets](../../../../../Set%20Theory/Subset.md) $\mathcal{D}_1, \dotsc, \mathcal{D}_k$ of $\mathbb{R}^m$ such that the [restrictions](../../../Functions/Restriction.md) $f_{\mathcal{D}_1}, \dotsc, f_{\mathcal{D}_k}$ are [smooth](Smoothness%20of%20Real%20Vector%20Functions.md).
+>>A [real vector function](../Real%20Vector%20Function.md) $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ is **piecewise smooth** if $\mathcal{D}$ can be represented as a [disjoint](../../../../../Set%20Theory/Disjoint%20Sets.md) [union](../../../../Set%20Theory/Set%20Operations.md) $\mathcal{D} = \mathcal{D}_1 \cup \cdots \cup \mathcal{D}_k$ of finitely many [subsets](../../../../Set%20Theory/index.md) $\mathcal{D}_1, \dotsc, \mathcal{D}_k$ of $\mathbb{R}^m$ such that the [restrictions](../../../Functions/Restriction.md) $f_{\mathcal{D}_1}, \dotsc, f_{\mathcal{D}_k}$ are [smooth](Smoothness%20of%20Real%20Vector%20Functions.md).
 >>
 >>>[!INTUITION]-
 >>>

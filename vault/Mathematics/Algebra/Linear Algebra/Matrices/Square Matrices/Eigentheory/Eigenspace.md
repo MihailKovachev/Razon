@@ -2,7 +2,7 @@
 >
 >Let $A \in F^{n \times n}$ be a [square matrix](../Square%20Matrix.md).
 >
->The **eigenspace** of an [eigenvalue](Eigenvalue.md) $\lambda$ is the [set](../../../../../Set%20Theory/Set.md) of all [eigenvectors](Eigenvector.md) which belong to $\lambda$ together with the [zero vector](../../Row%20and%20Column%20Vectors/Column%20Vector.md).
+>The **eigenspace** of an [eigenvalue](Eigenvalue.md) $\lambda$ is the [set](../../../../../Set%20Theory/index.md) of all [eigenvectors](Eigenvector.md) which belong to $\lambda$ together with the [zero vector](../../Row%20and%20Column%20Vectors/Column%20Vector.md).
 >
 >$$\{\vec{v} \in F^n \mid A\vec{v} = \lambda \vec{v}\}$$
 >

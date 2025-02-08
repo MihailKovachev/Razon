@@ -20,7 +20,7 @@ Lagrange multipliers allow us to determine if a [function](../Real%20Scalar%20Fi
 >
 >be some [constraints](Constraints.md#^equality-constraint), where $g_1, \dotsc, g_k: \mathcal{D} \to \mathbb{R}$ are also [continuously partially differentiable](../Differentiation/Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md), and let $S \{\mathbf{x} \mid g_1(\mathbf{x}) = c_1 \text{ and } \cdots \text{ and } g_k(\mathbf{x}) = c_k\}$.
 >
->If $f\big|_S$ has a [local extremum](../../../Real%20Functions/Extrema/Local%20Extrema.md) at $\mathbf{a}$ and the [gradients](../Differentiation/Gradient.md) $\nabla g_1(\mathbf{a}), \dotsc, \nabla g_k(\mathbf{a})$ are [linearly independent](../../../../../Algebra/Linear%20Algebra/Vector%20Spaces/Linear%20Independence.md), then $\nabla f(\mathbf{a})$ is a [linear combination](../../../../../Algebra/Linear%20Algebra/Vector%20Spaces/Linear%20Combination.md) of $\nabla g_1(\mathbf{a}), \dotsc, \nabla g_k(\mathbf{a})$.
+>If $f\big|_S$ has a [local extremum](../../../Real%20Functions/Extrema.md) at $\mathbf{a}$ and the [gradients](../Differentiation/Gradient.md) $\nabla g_1(\mathbf{a}), \dotsc, \nabla g_k(\mathbf{a})$ are [linearly independent](../../../../../Algebra/Linear%20Algebra/Vector%20Spaces/Linear%20Independence.md), then $\nabla f(\mathbf{a})$ is a [linear combination](../../../../../Algebra/Linear%20Algebra/Vector%20Spaces/Linear%20Combination.md) of $\nabla g_1(\mathbf{a}), \dotsc, \nabla g_k(\mathbf{a})$.
 >
 >>[!PROOF]-
 >>

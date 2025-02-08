@@ -1,6 +1,6 @@
 >[!THEOREM] Theorem: Parity of the Real Cosine Function
 >
->The [real cosine function](Real%20Cosine%20Function.md) is [](../../Parity/Function%20Parity.md#^even-function):
+>The [real cosine function](Real%20Cosine%20Function.md) is [](../../Parity.md#^even-function):
 >
 >$$\cos(-x) = \cos(x)$$
 >
@@ -26,7 +26,7 @@
 
 >[!THEOREM] Theorem: Periodicity of the Real Cosine Function
 >
->The [real cosine function](Real%20Cosine%20Function.md) has a [period](../../Periodicity/Periodicity.md) of $2\pi$. More generally,
+>The [real cosine function](Real%20Cosine%20Function.md) has a [period](../../Periodicity.md) of $2\pi$. More generally,
 >
 >$$\cos (x + 2k\pi) = \cos(x) \qquad \forall k\in\mathbb{Z}$$
 >
@@ -40,7 +40,7 @@
 
 >[!THEOREM] Theorem: Antiperiodicity of the Real Cosine Function
 >
->The [real cosine function](Real%20Cosine%20Function.md) has an [antiperiod](../../Periodicity/Antiperiodicity.md) of $\pi$. More generally,
+>The [real cosine function](Real%20Cosine%20Function.md) has an [antiperiod](../../Periodicity.md) of $\pi$. More generally,
 >
 >$$\cos (x + (2k+1) \pi) = -\cos(x) \qquad k \in \mathbb{Z}$$
 >

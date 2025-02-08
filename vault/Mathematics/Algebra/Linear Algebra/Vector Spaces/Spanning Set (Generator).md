@@ -2,7 +2,7 @@
 >
 >Let $(V,F,+,\cdot)$ be a [vector space](Vector%20Space.md).
 >
->A [set](../../../Set%20Theory/Set.md) of [vectors](Vector%20Space.md) $S = \{\mathbf{v}_1, \mathbf{v}_2, \cdots \}$ is called a **spanning set** or a **generator** of $V$ if their [span](Span.md) is equal to $V$, i.e. every vector in $V$ can be expressed as a linear combination of vectors from $\{\mathbf{v}_1, \mathbf{v}_2, \cdots \}$:
+>A [set](../../../Set%20Theory/index.md) of [vectors](Vector%20Space.md) $S = \{\mathbf{v}_1, \mathbf{v}_2, \cdots \}$ is called a **spanning set** or a **generator** of $V$ if their [span](Span.md) is equal to $V$, i.e. every vector in $V$ can be expressed as a linear combination of vectors from $\{\mathbf{v}_1, \mathbf{v}_2, \cdots \}$:
 >
 >$$
 >\operatorname{span}(\mathbf{v}_1, \mathbf{v}_2, \cdots) = V

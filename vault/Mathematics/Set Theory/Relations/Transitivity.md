@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Transitivity
 >
->A [relation](Relation.md) $R \subseteq A \times A$ is **transitive** iff
+>A [relation](./index.md) $R \subseteq A \times A$ is **transitive** iff
 >
 >$$
 >((x\,\, R\,\, y) \land (y\,\, R \,\, z)) \implies x\,\, R \,\, z

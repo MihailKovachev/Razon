@@ -1,8 +1,8 @@
 >[!DEFINITION] Definition: Partial Derivative of a Real Scalar Field
 >
->Let $f: \mathcal{D} \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) on an [open subset](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Open%20Sets%20in%20Euclidean%20Space.md) $\mathcal{D} \subseteq \mathbb{R}^n$, let $\phi: \mathcal{D} \to \mathbb{R}^n$ be a [coordinate system](../../../../../Geometry/Manifolds/Coordinates/Coordinate%20System.md) on $\mathcal{D}$ and let $a^1 = \phi^1(\mathbf{a}), \dotsc, a^n = \phi^n(\mathbf{a})$ be the coordinates of some $\mathbf{a} \in \mathcal{D}$ in $\phi$.
+>Let $f: \mathcal{D} \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) on an [open subset](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/index.md) $\mathcal{D} \subseteq \mathbb{R}^n$, let $\phi: \mathcal{D} \to \mathbb{R}^n$ be a [coordinate system](../../../../../Geometry/Manifolds/Coordinates/index.md) on $\mathcal{D}$ and let $a^1 = \phi^1(\mathbf{a}), \dotsc, a^n = \phi^n(\mathbf{a})$ be the coordinates of some $\mathbf{a} \in \mathcal{D}$ in $\phi$.
 >
->The **partial derivative** of $f$ at $\mathbf{a}$ with respect to the $i$-th coordinate $\phi^i$ is the [limit](../../../Real%20Functions/Limits%20of%20Functions/Limit%20of%20a%20Real%20Function.md)
+>The **partial derivative** of $f$ at $\mathbf{a}$ with respect to the $i$-th coordinate $\phi^i$ is the [limit](../../../Real%20Functions/Limits/index.md)
 >
 >$$
 >\lim_{h\to 0} \frac{f(a^1, \dotsc, a^i + h, \dotsc, a^n) - f(a^1, \dotsc, a^i, \dotsc, a^n)}{h},
