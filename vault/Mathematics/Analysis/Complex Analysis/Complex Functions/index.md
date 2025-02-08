@@ -25,7 +25,7 @@ Visualizing a complex function $f: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{
 
 The simplest way to visualize a complex function is to use two instances of the [complex plane](../../../Algebra/Fields/Complex%20Numbers/The%20Complex%20Plane.md). On one plane, illustrate the [domain](../../Functions/index.md) of $f$. This plane is usually called the $z$-plane. On the other plane, illustrate $f$'s [image](../../Functions/index.md). This plane is usually called the $w$-plane.
 
-![](Complex%20Functions/res/z-w%20Planes.svg)
+![](res/z-w%20Planes.svg)
 
 The main advantage of this type of visualization is that it provides a general idea of how $f$ transforms its domain and what the end result looks like. However, this type of plot does not make it clear what the functional value of each individual point is. Given a specific $w \in \mathbb{C}$, one cannot infer from this visualization which $z \in \mathbb{C}$ result in $w$, i.e. which $z$ give $f(z) = w$.  
 
@@ -37,6 +37,6 @@ There are multiple conventions for how colors should be assigned. The most commo
 
 Here is the domain coloring plot for $\displaystyle f(z) = z^2 + \frac{1}{z}$:
 
-![](Complex%20Functions/res/Domain%20Coloring.png)
+![](res/Domain%20Coloring.png)
 
 The main advantage of domain coloring is that it clearly shows the places where $f(z)$ is zero (dark spots) or shoots off to infinity in some direction (bright spots).
