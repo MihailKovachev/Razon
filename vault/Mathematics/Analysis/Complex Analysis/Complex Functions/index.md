@@ -10,7 +10,7 @@ tags:
 
 >[!DEFINITION] Definition: Univariate Complex Function
 >
->A **complex function** is a [complex-valued function](Complex-Valued%20Function.md), whose [domain](../../Functions/index.md) is a [subset](../../../Set%20Theory/Subset.md) of the [complex numbers](../../../Algebra/Fields/Complex%20Numbers/Complex%20Numbers.md):
+>A **complex function** is a [complex-valued function](Complex-Valued%20Function.md), whose [domain](../../Functions/index.md) is a [subset](../../../Set%20Theory/index.md) of the [complex numbers](../../../Algebra/Fields/The%20Complex%20Numbers/index.md):
 >
 >$$
 >f: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{C}
@@ -23,7 +23,7 @@ Visualizing a complex function $f: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{
 
 ## $z$-$w$ Planes
 
-The simplest way to visualize a complex function is to use two instances of the [complex plane](../../../Algebra/Fields/Complex%20Numbers/The%20Complex%20Plane.md). On one plane, illustrate the [domain](../../Functions/index.md) of $f$. This plane is usually called the $z$-plane. On the other plane, illustrate $f$'s [image](../../Functions/index.md). This plane is usually called the $w$-plane.
+The simplest way to visualize a complex function is to use two instances of the [index](../../../Algebra/Fields/The%20Complex%20Numbers/index.md#the%20complex%20plane). On one plane, illustrate the [domain](../../Functions/index.md) of $f$. This plane is usually called the $z$-plane. On the other plane, illustrate $f$'s [image](../../Functions/index.md). This plane is usually called the $w$-plane.
 
 ![](res/z-w%20Planes.svg)
 
@@ -31,9 +31,9 @@ The main advantage of this type of visualization is that it provides a general i
 
 ## Domain Coloring
 
-Domain coloring uses colors to represent the function's values. The [domain](../../Functions/index.md) $\mathcal{D}$ of $f$ is illustrated on the [complex plane](../../../Algebra/Fields/Complex%20Numbers/The%20Complex%20Plane.md) and each $z \in \mathcal{D}$ is colored depending on $f(z)$. 
+Domain coloring uses colors to represent the function's values. The [domain](../../Functions/index.md) $\mathcal{D}$ of $f$ is illustrated on the [index](../../../Algebra/Fields/The%20Complex%20Numbers/index.md#the%20complex%20plane) and each $z \in \mathcal{D}$ is colored depending on $f(z)$. 
 
-There are multiple conventions for how colors should be assigned. The most common one is to use [argument](../../../Algebra/Fields/Complex%20Numbers/Argument%20of%20a%20Complex%20Number.md) of $f(z)$ to determine the hue (whether the color is red, green, blue, yellow, etc.) and the [absolute value](../../../Algebra/Fields/Complex%20Numbers/Absolute%20Value%20of%20a%20Complex%20Number.md) of $f(z)$ to determine the color's lightness. As the absolute value approaches zero, the color gets darker until it eventually becomes black when $f(z) = 0$. As the absolute value shoots off to infinity, the color gets lighter and lighter, approaching pure white.
+There are multiple conventions for how colors should be assigned. The most common one is to use [argument](../../../Algebra/Fields/The%20Complex%20Numbers/index.md) of $f(z)$ to determine the hue (whether the color is red, green, blue, yellow, etc.) and the [absolute value](../../../Algebra/Fields/The%20Complex%20Numbers/index.md) of $f(z)$ to determine the color's lightness. As the absolute value approaches zero, the color gets darker until it eventually becomes black when $f(z) = 0$. As the absolute value shoots off to infinity, the color gets lighter and lighter, approaching pure white.
 
 Here is the domain coloring plot for $\displaystyle f(z) = z^2 + \frac{1}{z}$:
 

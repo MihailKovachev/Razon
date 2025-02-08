@@ -1,6 +1,15 @@
+---
+title: Bounded Curve
+tags:
+    - curves
+    - euclidean-geometry
+    - geometry
+    - mathematics
+---
+
 >[!DEFINITION] Definition: Bounded Curve
 >
->A [curve](Curve.md) $\mathcal{C}$ is **bounded** if there exists an [open ball](../../../Topology/Metric%20Spaces/Open%20Ball.md) $B$ of finite radius which completely contains it, i.e. $C \subseteq B$.
+>A [curve](./index.md) $\mathcal{C}$ is **bounded** if there exists an [open ball](../../../Topology/Metric%20Spaces/index.md) $B$ of finite radius which completely contains it, i.e. $\mathcal{C} \subseteq B$.
 >
 >>[!INTUITION]-
 >>

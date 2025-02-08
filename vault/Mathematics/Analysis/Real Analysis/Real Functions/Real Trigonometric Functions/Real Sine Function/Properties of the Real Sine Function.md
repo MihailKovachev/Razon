@@ -1,6 +1,6 @@
 >[!THEOREM] Theorem: Parity of the Real Sine Function
 >
->The [real sine function](Real%20Sine%20Function.md) is [](../../Parity/Function%20Parity.md#^odd-function):
+>The [real sine function](Real%20Sine%20Function.md) is [](../../Parity.md#^odd-function):
 >
 >$$\sin(-x) = - \sin(x)$$
 >
@@ -26,7 +26,7 @@
 
 >[!THEOREM] Theorem: Periodicity of the Real Sine Function
 >
->The [real sine function](Real%20Sine%20Function.md) has a [period](../../Periodicity/Periodicity.md) of $2\pi$. More generally,
+>The [real sine function](Real%20Sine%20Function.md) has a [period](../../Periodicity.md) of $2\pi$. More generally,
 >
 >$$\sin (x + 2k\pi) = \sin(x) \qquad \forall k\in\mathbb{Z}$$
 >
@@ -40,7 +40,7 @@
 
 >[!THEOREM] Theorem: Antiperiodicity of the Real Sine Function
 >
->The [real sine function](Real%20Sine%20Function.md) has an [antiperiod](../../Periodicity/Antiperiodicity.md) of $\pi$. More generally,
+>The [real sine function](Real%20Sine%20Function.md) has an [antiperiod](../../Periodicity.md) of $\pi$. More generally,
 >
 >$$\sin (x + (2k+1) \pi) = -\sin(x) \qquad k \in \mathbb{Z}$$
 >

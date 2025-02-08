@@ -1,5 +1,11 @@
 ---
 title: Ordinary Differential Equations (ODEs)
+tags:
+    - ordinary-differential-equations
+    - differential-equations
+    - equations
+    - algebra
+    - mathematics
 ---
 
 # Ordinary Differential Equations
@@ -16,7 +22,7 @@ title: Ordinary Differential Equations (ODEs)
 >
 >>[!DEFINITION] Definition: Solution to an ODE
 >>
->>A **solution** to the ODE on the [subset](../../../../Set%20Theory/Subset.md) $\mathcal{D} \subseteq \mathbb{R}$ is an $n$-times [differentiable](../../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Differentiability%20of%20Real%20Functions.md) [real function](../../../../Analysis/Real%20Analysis/Real%20Functions/Real%20Function.md) $\phi: \mathcal{D} \to \mathbb{R}$ such that
+>>A **solution** to the ODE on the [subset](../../../../Set%20Theory/index.md) $\mathcal{D} \subseteq \mathbb{R}$ is an $n$-times [differentiable](../../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/index.md) [real function](../../../../Analysis/Real%20Analysis/Real%20Functions/index.md) $\phi: \mathcal{D} \to \mathbb{R}$ such that
 >>
 >>$$
 >>F\left(x, \phi(x), \phi'(x), \phi''(x), \dotsc, \phi^{(n)}(x)\right) = 0 \qquad \forall x \in \mathcal{D}
@@ -28,7 +34,7 @@ title: Ordinary Differential Equations (ODEs)
 
 >[!DEFINITION] Definition: Ordinary Initial Value Problem
 >
->An **ordinary initial value problem** of order $n$ consists of an $n$-th order [ODE](index.md)
+>An **ordinary initial value problem** of order $n$ consists of an $n$-th order [ODE](./index.md)
 >
 >$$
 >F\left(x, y, y', y'', \dotsc, y^{(n)}\right) = 0

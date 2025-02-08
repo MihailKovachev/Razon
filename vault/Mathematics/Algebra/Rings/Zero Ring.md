@@ -1,6 +1,15 @@
+---
+title: Zero Ring
+tags:
+    - ring-theory
+    - abstract-algebra
+    - algebra
+    - mathematics
+---
+
 >[!DEFINITION] Definition: Zero Ring
 >
->A **zero ring** is a [ring](Ring.md) with a single element.
+>A **zero ring** is a [ring](./index.md) with a single element.
 >
 >>[!NOTE]
 >>

@@ -1,6 +1,6 @@
 >[!THEOREM] Theorem: Differentiability of Parametric Curves
 >
->Let $\gamma: I \subseteq \mathbb{R} \to \mathbb{R}^n$ be a [parametric curve](../Parametric%20Curve.md) and let $t$ be an [accumulation point](../../../../../Topology/Interior,%20Exterior,%20Boundary/Accumulation%20Point.md) of $I$.
+>Let $\gamma: I \subseteq \mathbb{R} \to \mathbb{R}^n$ be a [parametric curve](../Parametric%20Curve.md) and let $t$ be an [accumulation point](../../../../../Topology/Interior,%20Boundary,%20Exterior/Accumulation%20Point.md) of $I$.
 >
 >Then $\gamma$ is [differentiable](../../../Real%20Vector%20Functions/Differentiation/Differentiability%20of%20Real%20Vector%20Functions.md) at $t_0 \in I$ if and only if the following [limit](../Limits%20of%20Parametric%20Curves.md) exists
 >
@@ -127,7 +127,7 @@
 
 >[!TIP] Tip: Piecewise (Continuous) Differentiability of Curve Parameterisations
 >
->A [curve parameterisation](../Parametric%20Curve.md) $\gamma: I \subseteq \mathbb{R} \to \mathbb{R}^n$ is $k$**-times piecewise (continuously) differentiable** if $I$ can be expressed as a [disjoint](../../../../../Set%20Theory/Disjoint%20Sets.md) [union](../../../../../Set%20Theory/Operations%20with%20Sets/Union.md) $I = I_1 \cup \cdots \cup I_n$ such that the [restrictions](../../../../Functions/Restriction.md) $\gamma \big|_{I_1}, \cdots, \gamma \big|_{I_n}$ are $k$-times [continuously differentiable](Differentiability%20of%20Parametric%20Curves.md).
+>A [curve parameterisation](../Parametric%20Curve.md) $\gamma: I \subseteq \mathbb{R} \to \mathbb{R}^n$ is $k$**-times piecewise (continuously) differentiable** if $I$ can be expressed as a [disjoint](../../../../../Set%20Theory/Disjoint%20Sets.md) [union](../../../../../Set%20Theory/Set%20Operations.md) $I = I_1 \cup \cdots \cup I_n$ such that the [restrictions](../../../../Functions/Restriction.md) $\gamma \big|_{I_1}, \cdots, \gamma \big|_{I_n}$ are $k$-times [continuously differentiable](Differentiability%20of%20Parametric%20Curves.md).
 >
 >^piecewise-continuous-differentiablity
 >
@@ -141,7 +141,7 @@
 
 >[!TIP] Tip: Piecewise Smoothness of Curve Parameterisations
 >
->A [curve parameterisation](../Parametric%20Curve.md) $\gamma: I \subseteq \mathbb{R} \to \mathbb{R}^n$ is **piecewise smooth** if $I$ can be expressed as a [union](../../../../../Set%20Theory/Collections/Union%20of%20a%20Collection.md) of a finite [collection](../../../../../Set%20Theory/Collections/Collection.md) of [intervals](../../../../../Set%20Theory/Ordering/Intervals.md) $I = I_1 \cup \cdots \cup I_p$ such that the [restrictions](../../../../Functions/Restriction.md) $\gamma \big|_{I_1}, \ldots, \gamma \big|_{I_n}$ are [smooth](Differentiability%20of%20Parametric%20Curves.md).
+>A [curve parameterisation](../Parametric%20Curve.md) $\gamma: I \subseteq \mathbb{R} \to \mathbb{R}^n$ is **piecewise smooth** if $I$ can be expressed as a [union](../../../../../Set%20Theory/Collections/Operations%20with%20Collections.md) of a finite [collection](../../../../../Set%20Theory/Collections/index.md) of [intervals](../../../../../Set%20Theory/Ordering/Intervals.md) $I = I_1 \cup \cdots \cup I_p$ such that the [restrictions](../../../../Functions/Restriction.md) $\gamma \big|_{I_1}, \ldots, \gamma \big|_{I_n}$ are [smooth](Differentiability%20of%20Parametric%20Curves.md).
 >
 >^piecewise-smoothness
 >

@@ -1,4 +1,0 @@
->[!DEFINITION] Definition: Polygon
->
->TODO
->

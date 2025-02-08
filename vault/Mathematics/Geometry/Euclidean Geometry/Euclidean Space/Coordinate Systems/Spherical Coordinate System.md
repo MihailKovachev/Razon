@@ -1,6 +1,15 @@
+---
+title: Spherical Coordinate System
+tags:
+    - coordinate-systems
+    - euclidean-geometry
+    - geometry
+    - mathematics
+---
+
 # Spherical Coordinates
 
-Each vector (point) $P$ in the 3-dimensional [Euclidean space](../Euclidean%20Space.md) $\mathbb{R}^3$ can be uniquely identified using its magnitude $r$ (distance from the origin), the angle $\theta$ it makes with the $z$-axis and the angle $\phi$ its projection in the $xy$ plane makes with the $x$-axis.
+Each vector (point) $P$ in the 3-dimensional [Euclidean space](../index.md) $\mathbb{R}^3$ can be uniquely identified using its magnitude $r$ (distance from the origin), the angle $\theta$ it makes with the $z$-axis and the angle $\phi$ its projection in the $xy$ plane makes with the $x$-axis.
 
 ![](res/Spherical%20Coordinates.drawio.svg)
 

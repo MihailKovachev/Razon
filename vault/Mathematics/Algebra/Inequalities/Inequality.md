@@ -1,4 +1,0 @@
->[!DEFINITION] Definition: Inequality
->
->TODO
->

@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Symmetric Relation
 >
->A [relation](Relation.md) $R \subseteq A \times A$ is **symmetric** if
+>A [relation](./index.md) $R \subseteq A \times A$ is **symmetric** if
 >
 >$$
 >x\,\, R\,\, y \implies y\,\, R\,\, x
@@ -13,7 +13,7 @@
 
 >[!DEFINITION] Definition: Asymmetric Relation
 >
->A [relation](Relation.md) $R \subseteq A \times A$ is **asymmetric** if
+>A [relation](./index.md) $R \subseteq A \times A$ is **asymmetric** if
 >
 >$$
 >((x\,\, R\,\, y) \land (y\,\, R \,\, x)) \implies x=y

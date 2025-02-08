@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Identity Matrix
 >
->The $n\times n$**-identity matrix** $I_n \in F^{n \times n}$over the [field](../../../Fields/Field.md) $F$ is the [square matrix](Square%20Matrix.md) which has the [multiplicative identity](../../../Fields/Field.md) of $F$ as its entries on the diagonal and whose other entries are the [additive identity](../../../Fields/Field.md) of $F$:
+>The $n\times n$**-identity matrix** $I_n \in F^{n \times n}$over the [field](../../../Fields/index.md) $F$ is the [square matrix](Square%20Matrix.md) which has the [multiplicative identity](../../../Fields/index.md) of $F$ as its entries on the diagonal and whose other entries are the [additive identity](../../../Fields/index.md) of $F$:
 >
 >$$
 >I_n \overset{\text{def}}{=} \begin{bmatrix} 1_F & \cdots & 0_F \\ \vdots & \ddots & \vdots \\ 0_F & \cdots & 1_F\end{bmatrix}

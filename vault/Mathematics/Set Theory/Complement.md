@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Complement
 >
->Let $B$ be a [subset](Subset.md) of $A$.
+>Let $B$ be a [subset](./index.md) of $A$.
 >
->The **complement** of $B$ in $A$ is the [set difference](Operations%20with%20Sets/Set%20Difference.md) $A \setminus B$.
+>The **complement** of $B$ in $A$ is the [set difference](Set%20Operations.md#set%20difference) $A \setminus B$.
 >

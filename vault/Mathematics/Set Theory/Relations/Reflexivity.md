@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Reflexive Relation
 >
->A [relation](Relation.md) $R \subseteq A \times A$ is **reflexive** iff
+>A [relation](./index.md) $R \subseteq A \times A$ is **reflexive** iff
 >
 >$$
 >x\,\, R\,\, x
@@ -13,7 +13,7 @@
 
 >[!DEFINITION] Definition: Irreflexive Relation
 >
->A [relation](Relation.md) $R \subseteq A \times A$ is **irreflexive** if there is no $x \in A$ such that
+>A [relation](./index.md) $R \subseteq A \times A$ is **irreflexive** if there is no $x \in A$ such that
 >
 >$$
 >x\,\, R\,\, x

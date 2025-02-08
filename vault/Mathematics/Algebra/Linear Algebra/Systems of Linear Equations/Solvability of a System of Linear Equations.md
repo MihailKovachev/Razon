@@ -1,10 +1,10 @@
 >[!DEFINITION] Definition: Solution of a System of Linear Equations
 >
->A **solution** of a [system of linear equations](System%20of%20Linear%20Equations.md) with $n$ unknowns is any $n$-[tuple](../../../../Set%20Theory/Tuple.md) $(l_1, \cdots, l_n)$ such that substituting $l_k$ for the $k$-th unknown variable results in all equations of the system being satisfied.
+>A **solution** of a [system of linear equations](System%20of%20Linear%20Equations.md) with $n$ unknowns is any $n$-[tuple](../../../Set%20Theory/Tuples.md) $(l_1, \cdots, l_n)$ such that substituting $l_k$ for the $k$-th unknown variable results in all equations of the system being satisfied.
 >
 >>[!DEFINITION] Definition: Solution Space
 >>
->>The **solution space** of a [system of linear equations](System%20of%20Linear%20Equations.md) is the [set](../../../../Set%20Theory/Set.md) of all [tuples](../../../../Set%20Theory/Tuple.md) which are [solutions](Solvability%20of%20a%20System%20of%20Linear%20Equations.md) of the system.
+>>The **solution space** of a [system of linear equations](System%20of%20Linear%20Equations.md) is the [set](../../../Set%20Theory/index.md) of all [tuples](../../../Set%20Theory/Tuples.md) which are [solutions](Solvability%20of%20a%20System%20of%20Linear%20Equations.md) of the system.
 >>
 >
 >>[!DEFINITION] Definition: Solvability

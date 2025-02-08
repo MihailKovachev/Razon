@@ -1,6 +1,16 @@
+---
+title: Logarithmic Inequalities
+tags:
+    - logarithms
+    - inequalities
+    - algebra
+    - mathematics
+---
+
+
 >[!DEFINITION] Definition: Logarithmic Inequality
 >
->A **(real) logarithmic inequality** is an [inequality](Inequality.md) which contains variables as part of the base or the argument of a logarithm.
+>A **(real) logarithmic inequality** is an [inequality](./index.md) which contains variables as part of the base or the argument of a logarithm.
 >
 
 >[!ALGORITHM]- Algorithm: Solving Inequalities of the Form $\log_a f(x) \gt \log_a g(x)$

@@ -1,6 +1,15 @@
+---
+title: Cylindrical Coordinate System
+tags:
+    - coordinate-systems
+    - euclidean-geometry
+    - geometry
+    - mathematics
+---
+
 # Cylindrical Coordinates
 
-Cylindrical coordinates are a natural extension of the [polar coordinate system](Polar%20Coordinate%20System.md) to three dimensions. They identify each point in the [Euclidean space](../Euclidean%20Space.md) $\mathbb{R}^3$ by its distance from the $z$-axis, the angle $\phi$ its projection in the $xy$-plane makes with the $x$-axis and its $z$ component.
+Cylindrical coordinates are a natural extension of the [polar coordinate system](Polar%20Coordinate%20System.md) to three dimensions. They identify each point in the [Euclidean space](../index.md) $\mathbb{R}^3$ by its distance from the $z$-axis, the angle $\phi$ its projection in the $xy$-plane makes with the $x$-axis and its $z$ component.
 
 ![](res/Cylindrical%20Coordinates.drawio.svg)
 

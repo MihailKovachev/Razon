@@ -1,8 +1,8 @@
 >[!TIP] Tip: Limit of a Real Scalar Field
 >
->Let $f: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ be a [real scalar field](Real%20Scalar%20Field.md) and let $\mathbf{a} \in \mathbb{R}^n$ be an [accumulation point](../../../../Topology/Interior,%20Exterior,%20Boundary/Accumulation%20Point.md) of $\mathcal{D}$.
+>Let $f: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ be a [real scalar field](Real%20Scalar%20Field.md) and let $\mathbf{a} \in \mathbb{R}^n$ be an [accumulation point](../../../../Topology/Interior,%20Boundary,%20Exterior/Accumulation%20Point.md) of $\mathcal{D}$.
 >
->A number $L \in \mathbb{R}$ is the [limit](../../Real%20Vector%20Functions/Limits%20of%20Real%20Vector%20Functions.md) of $f$ for $\mathbf{x} \to \mathbf{a}$ iff for each $\varepsilon \gt 0$ there exists some [open ball](../../../../Topology/Metric%20Spaces/Open%20Ball.md) $B_{\delta}(\mathbf{a})$ around $\mathbf{a}$ such that for all $\mathbf{x} \in \mathcal{D}$
+>A number $L \in \mathbb{R}$ is the [limit](../../Real%20Vector%20Functions/Limits%20of%20Real%20Vector%20Functions.md) of $f$ for $\mathbf{x} \to \mathbf{a}$ iff for each $\varepsilon \gt 0$ there exists some [open ball](../../../../Topology/Metric%20Spaces/index.md) $B_{\delta}(\mathbf{a})$ around $\mathbf{a}$ such that for all $\mathbf{x} \in \mathcal{D}$
 >
 >$$
 >\mathbf{x} \in B_{\delta}(\mathbf{a}) \implies |f(\mathbf{x}) - L| \lt \varepsilon

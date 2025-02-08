@@ -8,7 +8,7 @@ tags:
 
 >[!DEFINITION] Definition: Real Power Series
 >
->A **real power series** is an [expression](../../../../../Logic/Formal%20Languages/Expression.md) of the form
+>A **real power series** is an [expression](../../../Formal%20Logic/Formal%20Languages.md) of the form
 >
 >$$
 >\sum_{n\in \mathcal{D}} a_n (x-c)^n,

@@ -1,3 +1,13 @@
+---
+title: Derivatives of Elementary Functions
+tags:
+  - differentiability
+  - real-functions
+  - real-analysis
+  - analysis
+  - mathematics
+---
+
 >[!THEOREM] Theorem: Power Rule
 >
 >$$

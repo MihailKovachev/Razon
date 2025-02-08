@@ -14,7 +14,7 @@ title: Smoothness of Parametric Surfaces
 
 >[!DEFINITION] Definition: Piecewise Smoothness
 >
->A **piecewise smooth parametric surface** is a [function](../../Real%20Vector%20Functions/Real%20Vector%20Function.md) $\phi: \mathcal{D} \subseteq \mathbb{R}^2 \to \mathbb{R}^3$ such that $\mathcal{D}$ can be represented as the [union](../../../../Set%20Theory/Collections/Union%20of%20a%20Collection.md) of finitely many [disjoint sets](../../../../Set%20Theory/Disjoint%20Sets.md) $\mathcal{D}_1, \dotsc, \mathcal{D}_k$ and $\phi$ can be represented as
+>A **piecewise smooth parametric surface** is a [function](../../Real%20Vector%20Functions/Real%20Vector%20Function.md) $\phi: \mathcal{D} \subseteq \mathbb{R}^2 \to \mathbb{R}^3$ such that $\mathcal{D}$ can be represented as the [union](../../../../Set%20Theory/Collections/Operations%20with%20Collections.md) of finitely many [disjoint sets](../../../../Set%20Theory/Disjoint%20Sets.md) $\mathcal{D}_1, \dotsc, \mathcal{D}_k$ and $\phi$ can be represented as
 >
 >$$
 >\phi (\mathbf{x}) = 

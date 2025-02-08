@@ -1,6 +1,14 @@
+---
+title: Limit of a Sequence
+tags:
+    - sequences
+    - analysis
+    - mathematics
+---
+
 >[!DEFINITION] Definition: Limit of a Sequence
 >
->Let $(X, \tau)$ be a [topological space](../../../Topology/Topological%20Spaces/Topological%20Space.md) and let $(x_n)_{n \in I}$ be a [sequence](Sequence.md) of points in $X$.
+>Let $(X, \tau)$ be a [topological space](../../../Topology/Topological%20Spaces/index.md) and let $(x_n)_{n \in I}$ be a [sequence](Sequences.md) of points in $X$.
 >
 >A point $l \in X$ is a **limit** of $(x_n)_{n \in I}$ iff $(x_n)_{n \in I}$ [converges](Convergence%20of%20Sequences.md) to $l$.
 >

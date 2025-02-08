@@ -1,6 +1,15 @@
+---
+title: Homeomorphic Spaces
+tags:
+  - homeomorphisms
+  - continuity
+  - topology
+  - mathematics
+---
+
 >[!DEFINITION] Definition: Homeomorphic Spaces
 >
->Two [topological spaces](../../Topological%20Spaces/Topological%20Space.md) $(X, \tau_X)$ and $(Y, \tau_Y)$ are **homeomorphic** if there exists a [homeomorphism](Homeomorphism.md) between them.
+>Two [topological spaces](../../Topological%20Spaces/index.md) $(X, \tau_X)$ and $(Y, \tau_Y)$ are **homeomorphic** if there exists a [homeomorphism](./index.md) between them.
 >
 >>[!NOTATION]-
 >>
@@ -9,7 +18,7 @@
 >
 >>[!THEOREM] Theorem
 >>
->>The existence of a [homeomorphism](Homeomorphism.md) is an [equivalence relation](../../../Set%20Theory/Relations/Equivalence%20Relation.md).
+>>The existence of a [homeomorphism](./index.md) is an [equivalence relation](../../../Set%20Theory/Relations/Equivalence%20Relation.md).
 >>
 >>>[!PROOF]-
 >>>

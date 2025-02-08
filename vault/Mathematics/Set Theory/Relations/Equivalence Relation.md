@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Equivalence Relation
 >
->An **equivalence relation** on the [set](../Set.md) $A$ is any [relation](Relation.md) $R \subseteq A \times A$ which is [reflexive](Reflexivity.md), [transitive](Transitivity.md) and [symmetric](Symmetry.md).
+>An **equivalence relation** on the [set](../index.md) $A$ is any [relation](./index.md) $R \subseteq A \times A$ which is [reflexive](Reflexivity.md), [transitive](Transitivity.md) and [symmetric](Symmetry.md).
 >
 >>[!NOTATION]-
 >>
@@ -15,9 +15,9 @@
 
 >[!DEFINITION] Definition: Equivalence Class
 >
->Let $A$ be a [set](../Set.md) with an [equivalence relation](Equivalence%20Relation.md) $\sim$.
+>Let $A$ be a [set](../index.md) with an [equivalence relation](Equivalence%20Relation.md) $\sim$.
 >
->The **equivalence class** of an element $a \in A$ formed by $\sim$ is the [set](../Set.md) of all $x \in A$ which are equivalent to $a$.
+>The **equivalence class** of an element $a \in A$ formed by $\sim$ is the [set](../index.md) of all $x \in A$ which are equivalent to $a$.
 >
 >
 >$$
