@@ -55,7 +55,9 @@ Imagine the line joining Earth's center and an observer. This line is perpendicu
 >
 >>[!NOTATION]
 >>
->>$$Z$$
+>>$$
+>>Z
+>>$$
 >>
 
 >[!DEFINITION] Definition: Nadir
@@ -64,7 +66,9 @@ Imagine the line joining Earth's center and an observer. This line is perpendicu
 >
 >>[!NOTATION]
 >>
->>$$Z'$$
+>>$$
+>>Z'
+>>$$
 >>
 >
 
