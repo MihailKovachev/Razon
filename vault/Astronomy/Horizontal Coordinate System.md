@@ -11,7 +11,7 @@ Due to its size, the Earth always obstructs about half of the celestial sphere, 
 
 >[!DEFINITION] Definition: The Celestial Horizon
 >
->The plane tangent to the Earth at the location of an observer intersects the celestial sphere in a great circle known as the **celestial horizon** of the observer.
+>The plane tangent to the Earth at the location of an observer intersects the [celestial sphere](The%20Celestial%20Sphere.md) in a great circle known as the **celestial horizon** of the observer.
 >
 >![](res/The%20Celestial%20Horizon.svg)
 >
@@ -79,7 +79,14 @@ Usually, $N$ is placed on the left of the celestial horizon and $S$ on the right
 >Each of the points $N$, $S$, $E$ and $W$ is at $90 \degree$ angles with the observer and its two neighbors.
 >
 
-We do not draw the Earth itself as it is largely irrelevant for the coordinate assignment. We just have to keep in mind that the observer cannot see celestial bodies which are under their celestial horizon.
+We do not draw the Earth itself as it is largely irrelevant for the coordinate assignment. We just have to keep in mind that the observer cannot see celestial bodies which are under their celestial horizon. Nevertheless, at any location, the observer is standing on some geographical meridian on the Earth. Often times, it is useful to project this meridian onto the [celestial sphere](The%20Celestial%20Sphere.md).
+
+>[!DEFINITION] Definition: The Celestial Meridian
+>
+>The **celestial meridian** of an observer is the projection onto the the [celestial sphere](The%20Celestial%20Sphere.md) of the meridian on which they are currently standing. It passes through $Z$, $Z'$, $N$ and $S$.
+>
+>![](res/The%20Celestial%20Meridian.svg)
+>
 
 ## Altitude and Azimuth
 
@@ -133,6 +140,10 @@ The azimuth $A$ lies in the range $[0 \degree; 360 \degree)$. The point $N$ is a
 
 ## Pros and Cons
 
-The horizontal coordinate system is the most natural choice of a coordinate system for each observer because it allows them to easily determine the positions of celestial bodies relative to them as they are in the current moment. It is particularly useful for quickly finding and observing objects as it requires little more than a compass to determine where the cardinal directions for the observer are. For example, if you want to look at Venus tonight, then you will be using its altitude and azimuth.
+The horizontal coordinate system is easy to use for an individual observer as they only need to know which direction is north and the altitude and azimuth of a celestial body in order to be able to observe it. For example, if you want to look at Venus tonight at 01:46 a.m., then you will be using its altitude and azimuth at that time.
 
-The main disadvantage of this system is that the coordinates of celestial bodies depend on the observer's location on Earth and are always changing due to Earth's rotation.
+The main disadvantage of this system is that the coordinates of celestial bodies depend on the observer's location on Earth and are always changing due to Earth's rotation which causes stars to move across the sky. Moreover, celestial bodies rise about 4 minutes earlier on each successive night which means that even if you knew the altitude and azimuth of Venus at 01:46 a.m. yesterday, they cannot precisely tell you where Venus will be at 01:46 a.m. today.
+
+# Bibliography
+
+1. B.W. Carroll, D. A. Ostlie, "The Celestial Sphere" in *An Introduction to Modern Astrophysics*, 2nd ed.
