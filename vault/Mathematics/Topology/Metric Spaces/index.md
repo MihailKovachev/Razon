@@ -44,6 +44,13 @@ tags:
 
 # Metric Spaces
 
+>[!DEFINITION] Definition: Metric Space
+>
+>A **metric space** $(M, d)$ is a [set](../../Set%20Theory/index.md) $M$ equipped with a [metric](./index.md) on it.
+>
+
+## The Metric Topology
+
 >[!THEOREM] Theorem: The Metric Topology
 >
 >Let $(M,d)$ be a [metric space](./index.md).
@@ -63,7 +70,7 @@ tags:
 
 >[!TIP] Corollary: Open Sets in the Metric Topology
 >
->Let $(S,d)$ be a [metric space](./index.md) and let $\tau$ be the [topology](Metric%20Topology.md) induced on it by $d$.
+>Let $(S,d)$ be a [metric space](./index.md) and let $\tau$ be the [topology](./index.md) induced on it by $d$.
 >
 >A [subset](../../Set%20Theory/index.md) $U$ of $S$ is [open](../Topological%20Spaces/Open%20Sets.md) if and only if for each $u \in U$ there exists an [open ball](./index.md) $B_\varepsilon (u)$ which is contained entirely in $U$.
 >
@@ -71,11 +78,6 @@ tags:
 >>
 >>This follows directly from [topology generation](../Bases/index.md).
 >>
->
-
->[!DEFINITION] Definition: Metric Space
->
->A **metric space** $(M, d)$ is a [set](../../Set%20Theory/index.md) $M$ equipped with a [metric](./index.md) on it.
 >
 
 ## Properties

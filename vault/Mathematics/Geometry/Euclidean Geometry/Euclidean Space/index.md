@@ -26,7 +26,7 @@ tags:
 
 >[!THEOREM] Theorem: Euclidean Space is a Smooth Manifold
 >
->The [atlas](../../Manifolds/Coordinates/Atlases.md) whose only [chart](../../Manifolds/Coordinates/index.md) is $(\mathbb{R}^n, \operatorname{id})$, where $\operatorname{id}$ is the [identity function](../../../Analysis/Functions/Identity%20Function.md) on the [Euclidean space](./index.md) $\mathbb{R}^n$, is a [smooth structure](../../../Analysis/Analysis%20on%20Manifolds/Smooth%20Manifolds.md) on $\mathbb{R}^n$ and naturally makes it a [smooth manifold](../../../Analysis/Analysis%20on%20Manifolds/Smooth%20Manifolds.md).
+>The [atlas](../../Manifolds/Coordinate%20Systems/Atlases.md) whose only [chart](../../Manifolds/Coordinate%20Systems/index.md) is $(\mathbb{R}^n, \operatorname{id})$, where $\operatorname{id}$ is the [identity function](../../../Analysis/Functions/Identity%20Function.md) on the [Euclidean space](./index.md) $\mathbb{R}^n$, is a [smooth structure](../../../Analysis/Analysis%20on%20Manifolds/Smooth%20Manifolds.md) on $\mathbb{R}^n$ and naturally makes it a [smooth manifold](../../../Analysis/Analysis%20on%20Manifolds/Smooth%20Manifolds.md).
 >
 >>[!PROOF]-
 >>

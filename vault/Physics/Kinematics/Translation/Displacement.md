@@ -6,5 +6,5 @@
 >\Delta \boldsymbol{r}\overset{\text{def}}{=} \boldsymbol{r}(t_2)-\boldsymbol{r}(t_1)
 >$$
 >
->![](Resources/Displacement.png)
+>![](../res/Displacement.png)
 >

@@ -55,9 +55,7 @@ tags:
 >>u^1 = \phi_1(u), \dotsc, u^n = \phi_n(u)
 >>$$
 >>
->>In fact, we usually ignore that $f(u)$ is a vector and we simply treat it as an $n$-tuple because what really matters for coordinates are the components of $f(u)$, i.e. $u^1, \cdots, u^n$, and not the other properties which vectors can possess.
->>
->>Another useful property of coordinate systems is the fact that they are continuous (since they are homeomorphism by definition). Intuitively, this means that if two points $p$ and $q$ of $U$ are "close", then their coordinates will be close real numbers.
+>>Another useful property of coordinate systems is the fact that they are continuous (since they are homeomorphism by definition). Intuitively, this means that if two points $p$ and $q$ of $U$ are "close", then the [Euclidean distance](../../../Algebra/Linear%20Algebra/Vector%20Spaces/Inner%20Product%20Spaces/Euclidean%20Distance.md) between the vectors they correspond to will be small.
 >>
 >
 
@@ -69,7 +67,7 @@ tags:
 
 >[!DEFINITION] Definition: Global Coordinate System
 >
->A [coordinate system](./index.md) on an $n$-[manifold](../index.md) $M$ is **global** iff its [domain](../../../Analysis/Functions/index.md) is the entirety of $M$.
+>A [coordinate system](index.md) on an $n$-[manifold](../index.md) $M$ is **global** iff its [domain](../../../Analysis/Functions/index.md) is the entirety of $M$.
 >
 >>[!INTUITION]-
 >>
@@ -88,7 +86,7 @@ tags:
 >
 >Let $M$ be an $n$-[manifold](../index.md).
 >
->A **chart** $(U, \phi)$ for $M$ is an [open subset](../../../Topology/Topological%20Spaces/Open%20Sets.md) $U \subseteq M$ equipped with a [coordinate system](./index.md) $\phi: U \to \mathbb{R}^n$ on it.
+>A **chart** $(U, \phi)$ for $M$ is an [open subset](../../../Topology/Topological%20Spaces/Open%20Sets.md) $U \subseteq M$ equipped with a [coordinate system](index.md) $\phi: U \to \mathbb{R}^n$ on it.
 >
 >>[!DEFINITION] Definition: Coordinate Domain
 >>
@@ -98,7 +96,7 @@ tags:
 
 >[!DEFINITION] Definition: Chart Compatibility
 >
->Let $(U_{\alpha}, \phi_{\alpha})$ and $(U_{\beta}, \phi_{\beta})$ be two [charts](./index.md) on an $n$-[manifold](../index.md) $M$.
+>Let $(U_{\alpha}, \phi_{\alpha})$ and $(U_{\beta}, \phi_{\beta})$ be two [charts](index.md) on an $n$-[manifold](../index.md) $M$.
 >
 >We say that $(U_{\alpha}, \phi_{\alpha})$ and $(U_{\beta}, \phi_{\beta})$ are $C^k$-**compatible** (where $k \in \mathbb{N}_0\cup \{\infty\}$) iff the [transition maps](Transition%20Maps.md) between them are $k$-times [continuously partially differentiable](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Differentiation/Partial%20Derivatives%20of%20Real%20Vector%20Functions.md) or $U_{\alpha} \cap U_{\beta} = \varnothing$. 
 >

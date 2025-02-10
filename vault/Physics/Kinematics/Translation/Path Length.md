@@ -6,7 +6,7 @@
 >\int_{t_1}^{t_2} ||\boldsymbol{v}(t)|| \mathop{\mathrm{d}t}
 >$$
 >
->![](Resources/Path%20Length.jpg)
+>![](../res/Path%20Length.jpg)
 >
 >>[!PROOF]-
 >>

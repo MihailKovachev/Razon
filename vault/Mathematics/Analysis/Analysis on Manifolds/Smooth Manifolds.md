@@ -12,14 +12,14 @@ tags:
 
 >[!DEFINITION] Definition: Smooth Atlas
 >
->An [atlas](../../Geometry/Manifolds/Coordinates/Atlases.md) is **smooth** iff all of its [charts](./index.md) are $C^{\infty}$-[compatible](./index.md).
+>An [atlas](../../Geometry/Manifolds/Coordinate%20Systems/Atlases.md) is **smooth** iff all of its [charts](./index.md) are $C^{\infty}$-[compatible](./index.md).
 >
 
 # Smooth Structures
 
 >[!DEFINITION] Definition: Smooth Structure
 >
->A **smooth structure** on a [manifold](../../../Geometry/Manifolds/index.md) is a [maximal](../../Geometry/Manifolds/Coordinates/Atlases.md) [smooth atlas](Smooth%20Manifolds.md).
+>A **smooth structure** on a [manifold](../../../Geometry/Manifolds/index.md) is a [maximal](../../Geometry/Manifolds/Coordinate%20Systems/Atlases.md) [smooth atlas](Smooth%20Manifolds.md).
 >
 >>[!NOTE]
 >>
@@ -50,10 +50,10 @@ tags:
 >
 >Let $(M, \mathcal{S})$ be a [smooth manifold](Smooth%20Manifolds.md).
 >
->A **smooth chart** is any [chart](../../../Geometry/Manifolds/Coordinates/index.md) $(U, \phi)$ contained in the [smooth structure](Smooth%20Manifolds.md) $\mathcal{S}$.
+>A **smooth chart** is any [chart](../../Geometry/Manifolds/Coordinate%20Systems/index.md) $(U, \phi)$ contained in the [smooth structure](Smooth%20Manifolds.md) $\mathcal{S}$.
 >
 >>[!DEFINITION] Definition: Smooth Coordinate System
 >>
->>The [coordinate system](../../../Geometry/Manifolds/Coordinates/index.md) of a [smooth chart](Smooth%20Chart.md) is known as a **smooth coordinate system**.
+>>The [coordinate system](../../Geometry/Manifolds/Coordinate%20Systems/index.md) of a [smooth chart](Smooth%20Chart.md) is known as a **smooth coordinate system**.
 >>
 >
