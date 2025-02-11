@@ -16,11 +16,21 @@ tags:
 >
 >If both [limits](./index.md) $\displaystyle \lim_{x \to c} f(x)$ and $\displaystyle \lim_{x \to c} g(x)$ exist for $c \in D \cup \{-\infty, +\infty\}$, then
 >
->$$\lim_{x\to c} \alpha f(x) + \beta g(x) = \alpha \lim_{x \to c} f(x) + \beta \lim_{x \to c} g(x) \qquad \forall \alpha, \beta \in \mathbb{R}$$
+>$$
+>\begin{align*}
+>&\lim_{x\to c} \alpha f(x) + \beta g(x) = \alpha \lim_{x \to c} f(x) + \beta \lim_{x \to c} g(x) \qquad \forall \alpha, \beta \in \mathbb{R} \\
 >
->$$\lim_{x \to c} \left(f(x) g(x)\right) = \left(\lim_{x\to c} f(x)\right) \cdot \left(\lim_{x\to c} g(x)\right)$$
+>\\
 >
->$$\lim_{x \to c} \frac{f(x)}{g(x)} = \frac{\displaystyle \lim_{x \to c} f(x)}{\displaystyle \lim_{x \to c} g(x)}, \qquad \lim_{x \to c} g(x) \ne 0$$
+>&\lim_{x \to c} \left(f(x) g(x)\right) = \left(\lim_{x\to c} f(x)\right) \cdot \left(\lim_{x\to c} g(x)\right) \\
+>
+>\\
+>
+>&\lim_{x \to c} \frac{f(x)}{g(x)} = \frac{\displaystyle \lim_{x \to c} f(x)}{\displaystyle \lim_{x \to c} g(x)}, \qquad \lim_{x \to c} g(x) \ne 0
+>
+>\end{align*}
+>
+>$$
 >
 >>[!PROOF]-
 >>
