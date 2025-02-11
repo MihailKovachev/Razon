@@ -8,7 +8,7 @@ tags:
 
 >[!DEFINITION] Definition: Point
 >
->A **point** in the [Euclidean space](../index.md) $\mathbb{R}^n$ is a [real column vector](../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md).
+>A **point** in the [Euclidean space](../../../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$ is a [real column vector](../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md).
 >
 >>[!INTUITION]-
 >>
@@ -24,7 +24,7 @@ tags:
 
 >[!DEFINITION] Definition: Vector
 >
->A **vector** in $n$-dimensional [Euclidean space](../index.md) is a [real column vector](../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md) $\mathbb{R}^n$.
+>A **vector** in $n$-dimensional [Euclidean space](../../../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) is a [real column vector](../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md) $\mathbb{R}^n$.
 >
 >>[!INTUITION]-
 >>
@@ -39,7 +39,7 @@ tags:
 
 >[!INTUITION] Intuition: Points vs Vectors
 >
->[Poin[Points](./index.md)[vectors](./index.md) in [Euclidean geometry](../../index.md) are the same thing - they are [real column vectors](../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md) in the [Euclidean space](../index.md) $\mathbb{R}^n$. We simply use different terminology and / or notation when we want to emphasise different aspects of those real column vectors.
+>[Poin[Points](./index.md)[vectors](./index.md) in [Euclidean geometry](../../index.md) are the same thing - they are [real column vectors](../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md) in the [Euclidean space](../../../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$. We simply use different terminology and / or notation when we want to emphasise different aspects of those real column vectors.
 >
 >- Point terminology is used when we are more interested in the location which the real column vector represents, i.e. we want to focus our attention on its components.
 >- Vector terminology is used when we are more interested in the vectors's length 

@@ -12,7 +12,7 @@
 
 >[!THEOREM] Theorem: Non-Relativistic Kinetic Energy of a Point Mass
 >
->The [kinetic energy](Kinetic%20Energy.md) of a [point mass](../../../../Physical%20Systems/Point%20Masses/Point%20Mass.md) $m$ moving with [speed](../../../../Kinematics/Translation/Speed.md) $v$ is given by the formula
+>The [kinetic energy](Kinetic%20Energy.md) of a [point mass](../../../../Physical%20Systems/Point%20Masses/Point%20Mass.md) $m$ moving with [speed](../../../../Kinematics/Translation/Velocity.md) $v$ is given by the formula
 >
 >$$
 >E_{\text{kin}} = \frac{1}{2}mv^2
@@ -22,7 +22,7 @@
 >
 >>[!PROOF]-
 >>
->>At time $t_1$, the [resultant force](../../../Force.md) $\boldsymbol{F}$ begins to accelerates the [point mass](../../../../Physical%20Systems/Point%20Masses/Point%20Mass.md) from 0 m/s and at time $t_2$ the [speed](../../../../Kinematics/Translation/Speed.md) reaches $v$ m/s, i.e. $||\boldsymbol{v}(t_1)|| = 0$ and $||\boldsymbol{v}(t_2)||=v$. During this time $\boldsymbol{F}$ does [work](Work.md)
+>>At time $t_1$, the [resultant force](../../../Force.md) $\boldsymbol{F}$ begins to accelerates the [point mass](../../../../Physical%20Systems/Point%20Masses/Point%20Mass.md) from 0 m/s and at time $t_2$ the [speed](../../../../Kinematics/Translation/Velocity.md) reaches $v$ m/s, i.e. $||\boldsymbol{v}(t_1)|| = 0$ and $||\boldsymbol{v}(t_2)||=v$. During this time $\boldsymbol{F}$ does [work](Work.md)
 >>
 >>$$
 >>W = \int_{t_1}^{t_2} \boldsymbol{F}\cdot \boldsymbol{v}\mathop{\mathrm{d}t}

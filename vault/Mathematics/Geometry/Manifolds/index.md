@@ -10,12 +10,12 @@ tags:
 
 >[!DEFINITION] Definition: Manifold
 >
->A **manifold** is a [second-countable](../../Topology/Bases/Second-Countability%20Axiom.md) [Hausdorff space](../../Topology/Hausdorff%20Spaces.md) which is [locally homeomorphic](../../Topology/Continuity/Homeomorphisms/Locally%20Homeomorphic%20Spaces.md) to a [Euclidean space](../Euclidean%20Geometry/Euclidean%20Space/index.md).
+>A **manifold** is a [second-countable](../../Topology/Bases/Second-Countability%20Axiom.md) [Hausdorff space](../../Topology/Hausdorff%20Spaces.md) which is [locally homeomorphic](../../Topology/Continuity/Homeomorphisms/Locally%20Homeomorphic%20Spaces.md) to a [Euclidean space](../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md).
 >
 
 >[!THEOREM] Theorem: Invariance of Manifold Dimension
 >
->A [nonempty](../../Set%20Theory/The%20Empty%20Set.md) [topological space](../../Topology/Topological%20Spaces/index.md) cannot be [locally homeomorphic](../../Topology/Continuity/Homeomorphisms/Locally%20Homeomorphic%20Spaces.md) to more than one [Euclidean space](../Euclidean%20Geometry/Euclidean%20Space/index.md) - if it is [locally homeomorphic](../../Topology/Continuity/Homeomorphisms/Locally%20Homeomorphic%20Spaces.md) to $\mathbb{R}^n$ and to $\mathbb{R}^m$, then $n = m$.
+>A [nonempty](../../Set%20Theory/The%20Empty%20Set.md) [topological space](../../Topology/Topological%20Spaces/index.md) cannot be [locally homeomorphic](../../Topology/Continuity/Homeomorphisms/Locally%20Homeomorphic%20Spaces.md) to more than one [Euclidean space](../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) - if it is [locally homeomorphic](../../Topology/Continuity/Homeomorphisms/Locally%20Homeomorphic%20Spaces.md) to $\mathbb{R}^n$ and to $\mathbb{R}^m$, then $n = m$.
 >
 >>[!PROOF]-
 >>
@@ -24,7 +24,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Dimension of a Manifold
 >>
->>The **dimension** of a [manifold](./index.md) is the [dimension](../../Algebra/Linear%20Algebra/Vector%20Spaces/Bases/Dimension.md) of the [Euclidean space](../Euclidean%20Geometry/Euclidean%20Space/index.md) which it is [locally homeomorphic](../../Topology/Continuity/Homeomorphisms/Locally%20Homeomorphic%20Spaces.md) to.
+>>The **dimension** of a [manifold](./index.md) is the [dimension](../../Algebra/Linear%20Algebra/Vector%20Spaces/Bases/Dimension.md) of the [Euclidean space](../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) which it is [locally homeomorphic](../../Topology/Continuity/Homeomorphisms/Locally%20Homeomorphic%20Spaces.md) to.
 >>
 >>>[!NOTATION]-
 >>>
@@ -37,11 +37,11 @@ tags:
 
 >[!DEFINITION] Definition: Manifold with Boundary
 >
->An $n$-dimensional **manifold with boundary** is a [second countable](../../Topology/Bases/Second-Countability%20Axiom.md) [Hausdorff space](../../Topology/Hausdorff%20Spaces.md) $M$ in which each point has a [neighbourhood](../../Topology/Topological%20Spaces/Neighborhoods.md) which is [homeomorphic](../../Topology/Continuity/Homeomorphisms/Homeomorphic%20Spaces.md) to the [Euclidean space](../Euclidean%20Geometry/Euclidean%20Space/index.md) $\mathbb{R}^n$ or to the [closed upper half-space](../Euclidean%20Geometry/Euclidean%20Space/Half-Spaces.md) $\mathbb{H}^n$.
+>An $n$-dimensional **manifold with boundary** is a [second countable](../../Topology/Bases/Second-Countability%20Axiom.md) [Hausdorff space](../../Topology/Hausdorff%20Spaces.md) $M$ in which each point has a [neighbourhood](../../Topology/Topological%20Spaces/Neighborhoods.md) which is [homeomorphic](../../Topology/Continuity/Homeomorphisms/Homeomorphic%20Spaces.md) to the [Euclidean space](../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$ or to the [closed upper half-space](../Euclidean%20Geometry/Euclidean%20Space/Half-Spaces.md) $\mathbb{H}^n$.
 >
 >>[!DEFINITION] Definition: Interior
 >>
->>A point $p \in M$ is an **interior point** of $M$ iff $p$ has a [neighbourhood](../../Topology/Topological%20Spaces/Neighborhoods.md) which is [homeomorphic](../../Topology/Continuity/Homeomorphisms/Homeomorphic%20Spaces.md) to the [Euclidean space](../Euclidean%20Geometry/Euclidean%20Space/index.md) $\mathbb{R}^n$.
+>>A point $p \in M$ is an **interior point** of $M$ iff $p$ has a [neighbourhood](../../Topology/Topological%20Spaces/Neighborhoods.md) which is [homeomorphic](../../Topology/Continuity/Homeomorphisms/Homeomorphic%20Spaces.md) to the [Euclidean space](../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$.
 >>
 >>The **interior** of $M$ is the [set](../../Set%20Theory/index.md) of all its interior points.
 >>

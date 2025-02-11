@@ -1,13 +1,12 @@
 ---
 title: Frameworks for Classical Mechanics
 tags:
-    - newtonian-formalism
-    - lagrangian-formalism
-    - hamiltonian-formalism
-    - classical-physics
-    - physics
+  - newtonian-formalism
+  - lagrangian-formalism
+  - hamiltonian-formalism
+  - classical-physics
+  - physics
 ---
-
 
 # Frameworks for Classical Mechanics
 

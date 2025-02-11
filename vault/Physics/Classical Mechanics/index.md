@@ -15,14 +15,7 @@ As with any physics model, classical mechanics is a simplification of the real w
 
 ## Space and Time
 
-Classical mechanics 
-
-The biggest (and, surprisingly, most *in*correct) assumption which classical mechanics makes is that we live in a 3-dimensional space which is [homeomorphic](../../Mathematics/Topology/Continuity/Homeomorphisms/Homeomorphic%20Spaces.md) to the [Euclidean space](../../Mathematics/Geometry/Euclidean%20Geometry/Euclidean%20Space/index.md) $\mathbb{R}^3$. The details of what "homeomorphic to the Euclidean space $\mathbb{R}^3$" means are irrelevant for the most part, but a very hand-wavy explanation is that space does not have intrinsic curvature and so the intuitive laws about distance and angles, such as the fact that the sum of the angles in a triangle is always $180 \degree$, are true.
-
->[!NOTE]
->
->As it turns out, physical space appears to be only [locally homeomorphic](../../Mathematics/Topology/Continuity/Homeomorphisms/Locally%20Homeomorphic%20Spaces.md) to [Euclidean space](../../Mathematics/Geometry/Euclidean%20Geometry/Euclidean%20Space/index.md) which means that the notions of distance and angles do not behave in a way we are used to. However, this detail, although in no way minor, only comes into play under extreme conditions such as motion close to the speed of light or on the quantum scale.
->
+Classical mechanics models [space and time](../Space%20and%20Time.md) as a [topological space](../../Mathematics/Topology/Topological%20Spaces/index.md) which is [homeomorphic](../../Mathematics/Topology/Continuity/Homeomorphisms/Homeomorphic%20Spaces.md) to the [Euclidean Space](../../Mathematics/Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^4$ and which has certain properties. This means that one always needs four numbers to describe the location of an object. These numbers are known as the **coordinates** of the object and there are two kinds of them. Three of the numbers are **spatial coordinates** and one number is a **temporal coordinate**.
 
 ## Symmetries
 

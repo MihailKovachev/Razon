@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Directional Derivative of a Real Scalar Field
 >
->Let $f: \mathcal{D} \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) on an [open subset](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/index.md) $\mathcal{D} \subseteq \mathbb{R}^n$.
+>Let $f: \mathcal{D} \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) on an [open subset](../../../The%20Topology%20of%20Euclidean%20Space.md) $\mathcal{D} \subseteq \mathbb{R}^n$.
 >
 >The **directional derivative** of $f$ at $\mathbf{x}_0 \in \mathcal{D}$ along the [unit vector](../../../../../Algebra/Linear%20Algebra/Vector%20Spaces/Normed%20Vector%20Spaces/Unit%20Vector.md) $\mathbf{\hat{r}}$ is the [limit](../../../Real%20Functions/Limits/index.md)
 >

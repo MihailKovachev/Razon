@@ -28,7 +28,7 @@ tags:
 
 # Complex Series
 
-Given a [complex sequence](../Complex%20Sequences/index.md) $(a_n)_{n \in \mathcal{D}}$, it is apparent that the [complex-valued function](../Complex-Valued%20Function.md) which maps each $k \in \mathcal{D}$ to the $k$-th [partial sum](./index.md#partial%20sums) of $(a_n)_{n \in \mathcal{D}}$ is itself a [complex sequence](../Complex%20Sequences/index.md) $(s_n)_{n \in \mathcal{D}}$.
+Given a [complex sequence](../Complex%20Sequences/index.md) $(a_n)_{n \in \mathcal{D}}$, it is apparent that the [complex-valued function](../Complex-Valued%20Functions.md) which maps each $k \in \mathcal{D}$ to the $k$-th [partial sum](./index.md#partial%20sums) of $(a_n)_{n \in \mathcal{D}}$ is itself a [complex sequence](../Complex%20Sequences/index.md) $(s_n)_{n \in \mathcal{D}}$.
 
 >[!DEFINITION] Definition: Complex Series
 >

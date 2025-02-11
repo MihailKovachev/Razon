@@ -37,7 +37,7 @@
 
 >[!THEOREM] Theorem: Hessian Matrix Criteria for Local Extrema
 >
->Let $f: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) which is [twice continuously partially differentiable](../Differentiation/Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md) in [Cartesian coordinates](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems/Cartesian%20Coordinate%20System.md) on an [open subset](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/index.md) $\mathcal{D} \subseteq \mathbb{R}^n$.
+>Let $f: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) which is [twice continuously partially differentiable](../Differentiation/Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md) in [Cartesian coordinates](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems/Cartesian%20Coordinate%20System.md) on an [open subset](../../../The%20Topology%20of%20Euclidean%20Space.md) $\mathcal{D} \subseteq \mathbb{R}^n$.
 >
 >A [critical point](Critical%20Point.md) $\mathbf{p} \in \mathcal{D}$ is:
 >- a place of a [local maximum](Local%20Extrema.md) if the [Hessian matrix](../Differentiation/Hessian%20Matrix.md) $H_f(\mathbf{p})$ is [negative-definite](../../../../../Algebra/Linear%20Algebra/Matrices/Real%20Matrices/Real%20Symmetric%20Matrices/Definiteness%20of%20Real%20Symmetric%20Matrices.md);

@@ -14,7 +14,7 @@ tags:
 >\left\{ \left. \begin{bmatrix} v_1 \\ \vdots \\ v_n \end{bmatrix} \in \mathbb{R}^n \right| v_n \ge 0 \right\}
 >$$
 >
->and equipped with the [Euclidean topology](./index.md).
+>and equipped with the [Euclidean topology](../../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md).
 >
 >>[!NOTATION]
 >>

@@ -9,7 +9,7 @@ tags:
 
 # Spherical Coordinates
 
-Each vector (point) $P$ in the 3-dimensional [Euclidean space](../index.md) $\mathbb{R}^3$ can be uniquely identified using its magnitude $r$ (distance from the origin), the angle $\theta$ it makes with the $z$-axis and the angle $\phi$ its projection in the $xy$ plane makes with the $x$-axis.
+Each vector (point) $P$ in the 3-dimensional [Euclidean space](../../../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^3$ can be uniquely identified using its magnitude $r$ (distance from the origin), the angle $\theta$ it makes with the $z$-axis and the angle $\phi$ its projection in the $xy$ plane makes with the $x$-axis.
 
 ![](res/Spherical%20Coordinates.drawio.svg)
 
@@ -37,4 +37,4 @@ The radial distance can be denoted either by $r$ or $\rho$. Some people also swi
 >Instead of inclination, some people prefer to use **elevation**. This is the angle between the point and the $xy$-plane and is equal to $\frac{\pi}{2}$ minus the inclination.
 >
 
-If the range of values for the angles is not restricted, then every point has infinitely many different spherical coordinates because adding or subtracting an integer multiple of $2\pi$ to an angle does not change the point it corresponds to. However, in order to have a [coordinate system](./index.md), coordinates must be unique. To guarantee this, the set of possible values for the angles needs to be restricted. Two of the most common conventions are $\theta \in [0;\pi]$, $\phi \in [0; 2\pi)$ and $\theta \in [0;\pi]$, $\phi \in (-\pi; \pi]$.
+If the range of values for the angles is not restricted, then every point has infinitely many different spherical coordinates because adding or subtracting an integer multiple of $2\pi$ to an angle does not change the point it corresponds to. However, in order to have a [coordinate system](index.md), coordinates must be unique. To guarantee this, the set of possible values for the angles needs to be restricted. Two of the most common conventions are $\theta \in [0;\pi]$, $\phi \in [0; 2\pi)$ and $\theta \in [0;\pi]$, $\phi \in (-\pi; \pi]$.

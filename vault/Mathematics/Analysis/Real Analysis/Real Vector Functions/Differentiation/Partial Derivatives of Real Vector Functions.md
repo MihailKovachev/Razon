@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Partial Derivative of a Real Vector Function
 >
->Let $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [real vector function](../Real%20Vector%20Function.md) with [component functions](../Real%20Vector%20Function.md) $f_1,\cdots,f_n$ and let $\phi$ be a [coordinate system](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems/index.md) for $\mathbb{R}^m$.
+>Let $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [real vector function](../Real%20Vector%20Function.md) with [component functions](../Real%20Vector%20Function.md) $f_1,\cdots,f_n$ and let $\phi$ be a [coordinate system](../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems/index.md) for $\mathbb{R}^m$.
 >
 >The **partial derivative** of $f$ at $\mathbf{a} \in \mathcal{D}$ with respect to the $i$-th coordinate $\phi^i$ is the [vector](../../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md) whose entries are the [partial derivatives](../Scalar%20Fields/Differentiation/Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md) of $f_1,\cdots,f_n$ with respect to $\phi^i$:
 >

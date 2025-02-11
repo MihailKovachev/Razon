@@ -1,20 +1,27 @@
 ---
 title: Position
 tags:
+    - classical-mechanics
     - kinematics
     - physics
 ---
 
-# 
+# Position
 
 >[!DEFINITION] Definition: Position
 >
->The **position** of a [point mass](../../Physical%20Systems/Point%20Masses/Point%20Mass.md) at any given moment $t$ is represented by a vector $\boldsymbol{r}(t) = \begin{bmatrix}x(t) & y(t) & z(t)\end{bmatrix}^\mathsf{T}$ which points from the start of the coordinate system to the point $(x(t), y(t), z(t))$ in 3D-space.
+>Let $\mathcal{R}$ be some [reference frame](../../Mechanics/Reference%20Frame.md) with [origin](../../Mechanics/Reference%20Frame.md) $O$. 
 >
->>[!DEFINITION] Definition: Path
+>The **position** of a [particle](../../Physical%20Systems/Point%20Masses/Point%20Mass.md) $p$ is the [vector](../../../Mathematics/Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Vector.md) which points from the origin $O$ to the point in [space](../../Classical%20Mechanics/Space%20and%20Time.md) where $p$ is located.
+>
+>>[!NOTATION]
 >>
->>The **path** of a [point mass](../../Physical%20Systems/Point%20Masses/Point%20Mass.md) is the curve in $\mathbb{R}^3$ which its position draws as the [point mass](../../Physical%20Systems/Point%20Masses/Point%20Mass.md) moves through space.
->>
->>![](../res/Path.png)
+>>$$
+>>\mathbf{r} \qquad \boldsymbol{r} \qquad \vec{r}
+>>$$
 >>
 >
+>![](res/Position%20of%20Particle.svg)
+>
+
+In physics, we usually want to express the [position](Position.md) of a [particle](../../Physical%20Systems/Point%20Masses/Point%20Mass.md) as a [function](../../../Mathematics/Analysis/Real%20Analysis/Real%20Vector%20Functions/Real%20Vector%20Function.md) $\mathbf{r}: \mathbb{R} \to \mathbb{R}$ of [time](../../Classical%20Mechanics/Space%20and%20Time.md) because we want to see how it changes with time. 

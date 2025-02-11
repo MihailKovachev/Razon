@@ -9,7 +9,7 @@ tags:
 
 # Cartesian Coordinates
 
-Cartesian coordinates are the simplest and most commonly used coordinates. They identify each [point (vector)](../Points%20vs%20Vectors/index.md) in the [Euclidean space](../index.md) $\mathbb{R}^n$ by its components. Essentially, the $k$-th Cartesian coordinate of $\mathbf{p}$ is its $k$-th component.
+Cartesian coordinates are the simplest and most commonly used coordinates. They identify each [point (vector)](../Points%20vs%20Vectors/index.md) in the [Euclidean space](../../../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$ by its components. Essentially, the $k$-th Cartesian coordinate of $\mathbf{p}$ is its $k$-th component.
 
 >[!THEOREM] Theorem: Cartesian Coordinate System
 >
@@ -19,7 +19,7 @@ Cartesian coordinates are the simplest and most commonly used coordinates. They 
 >x(\mathbf{p}) \overset{\text{def}}{=} (x^1, \dotsc, x^n),
 >$$
 >
->where $x^k = p_k$ ($k = 1, \dotsc, n$) is a [coordinate system](./index.md) for $\mathbb{R}^n$.
+>where $x^k = p_k$ ($k = 1, \dotsc, n$) is a [coordinate system](index.md) for $\mathbb{R}^n$.
 >
 >>[!PROOF]-
 >>

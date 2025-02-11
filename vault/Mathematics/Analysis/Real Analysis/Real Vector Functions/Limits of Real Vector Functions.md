@@ -2,7 +2,7 @@
 >
 >Let $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [real vector function](Real%20Vector%20Function.md) and let $\mathbf{a} \in \mathbb{R}^m$ be an [accumulation point](../../../Topology/Interior,%20Boundary,%20Exterior/Accumulation%20Point.md) of $\mathcal{D}$.
 >
->We say that $\mathbf{L} \in \mathbb{R}^n$ is a **limit** of $f$ for $\mathbf{x} \to \mathbf{a}$ iff for each [open ball](../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/index.md) $B_{\varepsilon}(\mathbf{L})$ around $\mathbf{L}$ there exists an [open ball](../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/index.md) $B_{\delta}(\mathbf{a})$ around $\mathbf{a}$ such that for all $\mathbf{x} \in \mathcal{D}$ different from $\mathbf{a}$,
+>We say that $\mathbf{L} \in \mathbb{R}^n$ is a **limit** of $f$ for $\mathbf{x} \to \mathbf{a}$ iff for each [open ball](../The%20Topology%20of%20Euclidean%20Space.md) $B_{\varepsilon}(\mathbf{L})$ around $\mathbf{L}$ there exists an [open ball](../The%20Topology%20of%20Euclidean%20Space.md) $B_{\delta}(\mathbf{a})$ around $\mathbf{a}$ such that for all $\mathbf{x} \in \mathcal{D}$ different from $\mathbf{a}$,
 >
 >$$
 >\mathbf{x} \in B_{\delta}(\mathbf{a}) \implies f(\mathbf{x}) \in B_{\varepsilon}(\mathbf{L})

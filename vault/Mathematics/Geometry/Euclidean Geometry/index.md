@@ -8,5 +8,5 @@ tags:
 
 >[!DEFINITION] Definition: Euclidean Geometry
 >
->**Euclidean geometry** is the study of [Euclidean spaces](Euclidean%20Space/index.md).
+>**Euclidean geometry** is the study of [Euclidean spaces](../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md).
 >

@@ -25,7 +25,7 @@
 
 >[!THEOREM] Theorem: Average Speed of the Particles in an Ideal Gas
 >
->The average [speed](../../../Kinematics/Translation/Speed.md) of the particles in an [ideal gas](Kinetic-Molecular%20Model%20of%20an%20Ideal%20Gas.md) is
+>The average [speed](../../Kinematics/Translation/Velocity.md) of the particles in an [ideal gas](Kinetic-Molecular%20Model%20of%20an%20Ideal%20Gas.md) is
 >
 >$$
 >v_{\text{avg}} = \sqrt{\frac{8 k_B T}{\uppi m}},
@@ -41,7 +41,7 @@
 
 >[!THEOREM] Theorem: Root-Mean-Square Speed of the Particles in an Ideal Gas
 >
->The root-mean-square [speed](../../Kinematics/Translation/Speed.md) of the particles of an [ideal gas](Kinetic-Molecular%20Model%20of%20an%20Ideal%20Gas.md) is
+>The root-mean-square [speed](../../Kinematics/Translation/Velocity.md) of the particles of an [ideal gas](Kinetic-Molecular%20Model%20of%20an%20Ideal%20Gas.md) is
 >
 >$$
 >v_\text{rms} = \sqrt{\frac{3k_B T}{m}},

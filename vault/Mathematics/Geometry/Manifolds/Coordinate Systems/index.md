@@ -13,7 +13,7 @@ tags:
 >
 >Let $U$ be an [open subset](../../../Topology/Topological%20Spaces/Open%20Sets.md) of an $n$-[manifold](../index.md) $M$.
 >
->A **coordinate system** or **coordinate map** on $U$ is a [homeomorphism](../../../Topology/Continuity/Homeomorphisms/index.md) $\phi: U \to \mathbb{R}^n$ from the [subspace](../../../Topology/Topological%20Subspaces.md) $U$ to an [open subset](../../../Topology/Topological%20Spaces/Open%20Sets.md) of the [Euclidean space](../../Euclidean%20Geometry/Euclidean%20Space/index.md) $\mathbb{R}^n$.
+>A **coordinate system** or **coordinate map** on $U$ is a [homeomorphism](../../../Topology/Continuity/Homeomorphisms/index.md) $\phi: U \to \mathbb{R}^n$ from the [subspace](../../../Topology/Topological%20Subspaces.md) $U$ to an [open subset](../../../Topology/Topological%20Spaces/Open%20Sets.md) of the [Euclidean space](../../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$.
 >
 >>[!DEFINITION] Definition: Coordinates on a Subset
 >>

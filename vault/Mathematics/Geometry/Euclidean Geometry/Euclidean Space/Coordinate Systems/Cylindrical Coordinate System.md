@@ -9,7 +9,7 @@ tags:
 
 # Cylindrical Coordinates
 
-Cylindrical coordinates are a natural extension of the [polar coordinate system](Polar%20Coordinate%20System.md) to three dimensions. They identify each point in the [Euclidean space](../index.md) $\mathbb{R}^3$ by its distance from the $z$-axis, the angle $\phi$ its projection in the $xy$-plane makes with the $x$-axis and its $z$ component.
+Cylindrical coordinates are a natural extension of the [polar coordinate system](Polar%20Coordinate%20System.md) to three dimensions. They identify each point in the [Euclidean space](../../../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^3$ by its distance from the $z$-axis, the angle $\phi$ its projection in the $xy$-plane makes with the $x$-axis and its $z$ component.
 
 ![](res/Cylindrical%20Coordinates.drawio.svg)
 
@@ -42,4 +42,4 @@ Cylindrical coordinates are a natural extension of the [polar coordinate system]
 
 Some people prefer to use $\theta$ or $\varphi$ for the azimuth.
 
-Additionally, a single point has infinitely many possible values for its azimuth, since adding or subtracting a multiple of $2\pi$ to an angle has no effect. However, in order to have a [coordinate system](./index.md), coordinates must be unique. This means that the possible values for $\phi$ must be restricted. Common conventions for the range of $\phi$ are $[0; 2\pi)$ and $(-\pi, \pi]$.
+Additionally, a single point has infinitely many possible values for its azimuth, since adding or subtracting a multiple of $2\pi$ to an angle has no effect. However, in order to have a [coordinate system](index.md), coordinates must be unique. This means that the possible values for $\phi$ must be restricted. Common conventions for the range of $\phi$ are $[0; 2\pi)$ and $(-\pi, \pi]$.
