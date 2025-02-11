@@ -1,6 +1,6 @@
 ---
 title: Hamiltonian Formalism
-tags
+tags:
     - hamiltonian-formalism
     - classical-mechanics
     - mathematics

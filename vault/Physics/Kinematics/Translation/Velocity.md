@@ -8,18 +8,44 @@ tags:
 
 # Displacement
 
-![](res/Displacement.svg)
+>[!DEFINITION] Definition: Displacement
+>
+>Let $\mathcal{R}$ be a [reference frame](../../Mechanics/Reference%20Frame.md) with [origin](../../Mechanics/Reference%20Frame.md) $O$.
+>
+>The **displacement** of a [particle](../../Physical%20Systems/Point%20Masses/Point%20Mass.md) in the interval $\Delta t$ between the [times](../../Space%20and%20Time.md) $t_1$ and $t_2 \gt t_1$ is the difference in its [position](Position.md) at $t_2$ and its [position](Position.md) at $t_1$:
+>
+>$$
+>\mathbf{r}(t_2) - \mathbf{r}(t_1)
+>$$
+>
+>>[!NOTATION]
+>>
+>>$$
+>>\Delta \mathbf{r} \qquad \Delta \boldsymbol{r} \qquad \Delta \vec{r}
+>>$$
+>
+>![](res/Displacement.svg)
+>
 
 # Average Velocity
 
 >[!DEFINITION] Definition: Average Velocity
 >
->The **average velocity** of a [point mass](../../Physical%20Systems/Point%20Masses/Point%20Mass.md) during a time interval $\Delta t$ is the ratio of its [displacement](Displacement.md) during $\Delta t$ over the length of the interval:
+>Let $\mathcal{R}$ be a [reference frame](../../Mechanics/Reference%20Frame.md) with [origin](../../Mechanics/Reference%20Frame.md) $O$.
 >
->$$\boldsymbol{v}_{\text{avg}} \overset{\text{def}}{=} \frac{\Delta \boldsymbol{r}}{\Delta t}$$
+>The **average velocity** of a [particle](../../Physical%20Systems/Point%20Masses/Point%20Mass.md) during the time interval $\Delta t$ is its [displacement](Velocity.md#Displacement) during $\Delta t$ divided by the length of the interval:
 >
-
-## Average Speed
+>$$
+>\frac{\Delta \mathbf{r}}{\Delta t}
+>$$
+>
+>>[!NOTATION]
+>>
+>>$$
+>>\mathbf{v}_{\text{avg}} \qquad \boldsymbol{v}_{\text{avg}} \qquad \vec{v}_{\text{avg}}
+>>$$
+>>
+>
 
 # Instantaneous Velocity
 
@@ -40,11 +66,11 @@ tags:
 >>
 >
 
-## Instantaneous Speed
-
-# Instantaneous Speed
+# Speed
 
 >[!DEFINITION] Definition: (Average) Speed
 >
->The **(average) speed** of a [point mass](../../Physical%20Systems/Point%20Masses/Point%20Mass.md) is the magnitude of its [(average) velocity](Velocity.md).
+>The **(average) speed** of a [particle](../../Physical%20Systems/Point%20Masses/Point%20Mass.md) is the magnitude of its [(average) velocity](Velocity.md).
 >
+
+# Bibliography
