@@ -1,6 +1,6 @@
 ---
 title: Lagrangian Formalism
-tags
+tags:
     - lagrangian-formalism
     - classical-mechanics
     - mathematics
