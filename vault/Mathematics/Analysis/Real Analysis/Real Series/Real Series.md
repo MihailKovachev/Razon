@@ -27,11 +27,11 @@ tags:
 
 # Real Series
 
-Given a [real sequence](../Real%20Sequences/index.md) $(a_n)_{n \in \mathcal{D}}$, it is apparent that the [real-valued function](../Real-Valued%20Function.md) which maps each $k \in \mathcal{D}$ to the $k$-th [partial sum](./index.md#partial%20sums) of $(a_n)_{n \in \mathcal{D}}$ is itself a [real sequence](../Real%20Sequences/index.md) $(s_n)_{n \in \mathcal{D}}$.
+Given a [real sequence](../Real%20Sequences/index.md) $(a_n)_{n \in \mathcal{D}}$, it is apparent that the [real-valued function](../Real-Valued%20Function.md) which maps each $k \in \mathcal{D}$ to the $k$-th [partial sum](Real%20Series.md#partial%20sums) of $(a_n)_{n \in \mathcal{D}}$ is itself a [real sequence](../Real%20Sequences/index.md) $(s_n)_{n \in \mathcal{D}}$.
 
 >[!DEFINITION] Definition: Real Series
 >
->A **real series** is the [sequence](../Real%20Sequences/index.md) of [partial sums](./index.md#partial%20sums) of a [real sequence](../Real%20Sequences/index.md).
+>A **real series** is the [sequence](../Real%20Sequences/index.md) of [partial sums](Real%20Series.md#partial%20sums) of a [real sequence](../Real%20Sequences/index.md).
 >
 >>[!NOTATION]-
 >>

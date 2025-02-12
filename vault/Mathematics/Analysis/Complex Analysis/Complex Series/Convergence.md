@@ -26,7 +26,7 @@ Since a [complex series](./index.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n
 
 >[!DEFINITION] Definition: Absolute Convergence of Complex Series
 >
->A [complex series](./index.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n$ **converges absolutely** to $L$ iff the [real series](../../Real%20Analysis/Real%20Series/index.md) $\displaystyle \sum_{n \in \mathcal{D}} |a_n|$ [converges](../../Real%20Analysis/Real%20Series/Convergence.md) to $L$.
+>A [complex series](./index.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n$ **converges absolutely** to $L$ iff the [real series](../../Real%20Analysis/Real%20Series/Real%20Series.md) $\displaystyle \sum_{n \in \mathcal{D}} |a_n|$ [converges](../../Real%20Analysis/Real%20Series/Convergence.md) to $L$.
 >
 
 >[!THEOREM] Theorem: Absolute Convergence $\implies$ Convergence
