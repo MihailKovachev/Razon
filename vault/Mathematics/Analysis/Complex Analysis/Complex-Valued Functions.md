@@ -12,6 +12,24 @@ tags:
 >
 >A **complex-valued function** on a [set](../../Set%20Theory/index.md) $X$ is a [function](../Functions/index.md) $f: X \to \mathbb{C}$ from $X$ to the set of the [complex numbers](../../Algebra/Fields/The%20Complex%20Numbers/index.md).
 >
+>>[!DEFINITION] Definition: Real Part
+>>
+>>The **real part** of $f$ is the [real-valued function](../Real%20Analysis/Real-Valued%20Function.md) $\operatorname{Re} f: X \to \mathbb{R}$ which, for each $x \in X$, returns the [real part](../../Algebra/Fields/The%20Complex%20Numbers/index.md) of $f(x)$.
+>>
+>>$$
+>>\operatorname{Re} f (x) \overset{\text{def}}{=} \operatorname{Re}(f(x)) \qquad \forall x \in X
+>>$$
+>>
+>
+>>[!DEFINITION] Definition: Imaginary Part
+>>
+>>The **imaginary part** of $f$ is the [real-valued function](../Real%20Analysis/Real-Valued%20Function.md) $\operatorname{Im} f: X \to \mathbb{R}$ which, for each $x \in X$, returns the [imaginary part](../../Algebra/Fields/The%20Complex%20Numbers/index.md) of $f(x)$.
+>>
+>>$$
+>>\operatorname{Im} f (x) \overset{\text{def}}{=} \operatorname{Im}(f(x)) \qquad \forall x \in X
+>>$$
+>>
+>
 
 # Operations with Complex-Valued Functions
 
@@ -35,17 +53,5 @@ tags:
 >
 >$$
 >f/g (x) \overset{\text{def}}{=} \frac{f(x)}{g(x)} \qquad \forall x \in \mathcal{D}_f \cap \mathcal{D}_g 
->$$
->
->- The **real part** of $f$ is the [real-valued function](../Real%20Analysis/Real-Valued%20Function.md) $\operatorname{Re} f: \mathcal{D}_f \to \mathbb{R}$ defined as the [real part](../../Algebra/Fields/The%20Complex%20Numbers/index.md) of $f$:
->
->$$
->\operatorname{Re} f(x) \overset{\text{def}}{=} \operatorname{Re}(f(x)) \qquad x \in \mathcal{D}_f
->$$
->
->- The **imaginary part** of $f$ is the [real-valued function](../Real%20Analysis/Real-Valued%20Function.md) $\operatorname{Im} f: \mathcal{D}_f \to \mathbb{R}$ defined as the [imaginary part](../../Algebra/Fields/The%20Complex%20Numbers/index.md) of $f$:
->
->$$
->\operatorname{Im} f(x) \overset{\text{def}}{=} \operatorname{Im}(f(x)) \qquad x \in \mathcal{D}_f
 >$$
 >

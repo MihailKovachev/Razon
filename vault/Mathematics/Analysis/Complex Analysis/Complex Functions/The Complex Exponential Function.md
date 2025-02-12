@@ -1,9 +1,10 @@
 ---
-title: Complex Exponential Function
+title: The Complex Exponential Function
 tags:
     - exponentials
     - complex-functions
     - complex-analysis
+    - analysis
     - mathematics
 ---
 
@@ -43,7 +44,7 @@ tags:
 >>
 >>>[!NOTE]
 >>>
->>>The [restriction](../../Functions/Restriction.md) of the [complex exponential function](Complex%20Exponential.md) to $\mathbb{R}$ is the [real exponential function](../../Real%20Analysis/Real%20Functions/Real%20Exponential%20Function.md).
+>>>The [restriction](../../Functions/Restriction.md) of the [complex exponential function](The%20Complex%20Exponential%20Function.md) to $\mathbb{R}$ is the [real exponential function](../../Real%20Analysis/Real%20Functions/Real%20Exponential%20Function.md).
 >>>
 >>
 >
@@ -52,7 +53,7 @@ tags:
 
 >[!THEOREM] Theorem: Periodicity of the Complex Exponential
 >
->The [complex exponential function](Complex%20Exponential.md) is [periodic](Periodicity.md) with period $2\pi \mathrm{i}$:
+>The [complex exponential function](The%20Complex%20Exponential%20Function.md) is [periodic](Periodicity.md) with period $2\pi \mathrm{i}$:
 >
 >$$
 >\exp(z + 2k\pi \mathrm{i}) = \exp (z) \qquad \forall z \in \mathbb{C}, \forall k \in \mathbb{Z}
@@ -66,7 +67,7 @@ tags:
 
 >[!THEOREM] Theorem: Euler's Formula
 >
->For every $\varphi \in \mathbb{R}$, the real part of the [complex exponential](Complex%20Exponential.md) $\mathrm{e}^{\mathrm{i}\varphi}$ is the [real cosine](../../Real%20Analysis/Real%20Functions/Real%20Trigonometric%20Functions/Real%20Cosine%20Function/Real%20Cosine%20Function.md) of $\varphi$ and the imaginary part is the [real sine](../../Real%20Analysis/Real%20Functions/Real%20Trigonometric%20Functions/Real%20Cosine%20Function/Real%20Cosine%20Function.md) of $\varphi$:
+>For every $\varphi \in \mathbb{R}$, the real part of the [complex exponential](The%20Complex%20Exponential%20Function.md) $\mathrm{e}^{\mathrm{i}\varphi}$ is the [real cosine](../../Real%20Analysis/Real%20Functions/Real%20Trigonometric%20Functions/Real%20Cosine%20Function/Real%20Cosine%20Function.md) of $\varphi$ and the imaginary part is the [real sine](../../Real%20Analysis/Real%20Functions/Real%20Trigonometric%20Functions/Real%20Cosine%20Function/Real%20Cosine%20Function.md) of $\varphi$:
 >
 >$$
 >\mathrm{e}^{\mathrm{i}\varphi} = \cos \varphi + \mathrm{i} \sin \varphi
@@ -80,7 +81,7 @@ tags:
 
 >[!THEOREM] Theorem: Exponent Arithmetic
 >
->The [complex exponential](Complex%20Exponential.md) of a sum is equal to the product of the complex exponentials of its terms:
+>The [complex exponential](The%20Complex%20Exponential%20Function.md) of a sum is equal to the product of the complex exponentials of its terms:
 >
 >$$
 >\mathrm{e}^{z + w} = \mathrm{e}^z \cdot \mathrm{e}^w \qquad \forall z,w \in \mathbb{C}
@@ -94,7 +95,7 @@ tags:
 
 >[!THEOREM] Theorem: Modulus of the Complex Exponential
 >
->For all $z \in \mathbb{C}$, the [modulus](../../../Algebra/Fields/The%20Complex%20Numbers/index.md) of the [complex exponential](Complex%20Exponential.md) of $z$ is the [real exponential](../../Real%20Analysis/Real%20Functions/Real%20Exponential%20Function.md) of its real part:
+>For all $z \in \mathbb{C}$, the [modulus](../../../Algebra/Fields/The%20Complex%20Numbers/index.md) of the [complex exponential](The%20Complex%20Exponential%20Function.md) of $z$ is the [real exponential](../../Real%20Analysis/Real%20Functions/Real%20Exponential%20Function.md) of its real part:
 >
 >$$
 >|\mathrm{e}^z| = \mathrm{e}^{\operatorname{Re}(z)}
