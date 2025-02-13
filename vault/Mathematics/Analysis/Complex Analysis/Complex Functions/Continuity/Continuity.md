@@ -12,7 +12,7 @@ tags:
 
 >[!DEFINITION] Definition: Continuity of Complex Functions
 >
->A [complex function](../index.md) $f: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{C}$ is **continuous at** $c \in \mathcal{D}$ iff its [limit](../Limits/Limits.md) for $z \to c$ is equal to its value there.
+>A [complex function](../Complex%20Functions.md) $f: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{C}$ is **continuous at** $c \in \mathcal{D}$ iff its [limit](../Limits/Limits.md) for $z \to c$ is equal to its value there.
 >
 >$$
 >\lim_{z \to c} f(z) = f(c)
@@ -23,12 +23,12 @@ tags:
 
 >[!DEFINITION] Definition: Point of Discontinuity
 >
->If a [complex function](../index.md) $f$ is *not* [continuous](Continuity.md) at $c \in \mathbb{C}$, then we call $c$ a **point of discontinuity**.
+>If a [complex function](../Complex%20Functions.md) $f$ is *not* [continuous](Continuity.md) at $c \in \mathbb{C}$, then we call $c$ a **point of discontinuity**.
 >
 
 >[!DEFINITION] Definition: Removable Discontinuity
 >
->Let $f$ be a [complex function](../index.md)
+>Let $f$ be a [complex function](../Complex%20Functions.md)
 >
 >A [point of discontinuity](Continuity.md#Discontinuities) $c \in \mathbb{C}$ is a **removable discontinuity** if the [limit](../Limits/Limits.md) $\lim_{z \to c} f(z)$ exists, but $f$ is not defined at $c$.
 >
@@ -37,7 +37,7 @@ tags:
 
 >[!THEOREM]- Theorem: Continuity of the Real and Imaginary Parts
 >
->Let $f: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{C}$ be a [complex function](../index.md). 
+>Let $f: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{C}$ be a [complex function](../Complex%20Functions.md). 
 >
 >If $f$ is [continuous](Continuity.md) at $z_0 \in \mathbb{C}$, then its [real](../../Complex-Valued%20Functions.md) $\operatorname{Re} f$ and [imaginary](../../Complex-Valued%20Functions.md) part $\operatorname{Im} f$ are also [continuous](Continuity.md) there.
 >
@@ -49,7 +49,7 @@ tags:
 
 >[!THEOREM]- Theorem: Continuity of Sum, Product and Division
 >
->Let $f$ and $g$ be [complex functions](../index.md).
+>Let $f$ and $g$ be [complex functions](../Complex%20Functions.md).
 >
 >If $f$ and $g$ are [continuous](Continuity.md) at $c \in \mathbb{C}$, then so are
 >- $\lambda f + \mu g$ for all $\lambda, \mu \in \mathbb{C}$;
@@ -64,7 +64,7 @@ tags:
 
 >[!THEOREM]- Theorem: Continuity of Composition
 >
->Let $f$ and $g$ be [complex functions](../index.md).
+>Let $f$ and $g$ be [complex functions](../Complex%20Functions.md).
 >
 >If $g$ is [continuous](Continuity.md) at $c \in \mathbb{C}$ and $f$ is [continuous](Continuity.md) at $g(c)$, then their [composition](../../../Functions/Composition.md) $f\circ g$ is also [continuous](Continuity.md) at $c$.
 >

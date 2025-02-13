@@ -11,7 +11,7 @@ tags:
 
 >[!DEFINITION] Definition: Even Function
 >
->A [real function](./index.md) $f: \mathcal{D} \subseteq \mathbb{R} \to \mathbb{R}$ is **even** iff
+>A [real function](Real%20Functions.md) $f: \mathcal{D} \subseteq \mathbb{R} \to \mathbb{R}$ is **even** iff
 >
 >$$
 >f(-x) = f(x) \qquad \forall x \in \mathcal{D}
@@ -20,7 +20,7 @@ tags:
 
 >[!DEFINITION] Definition: Odd Function
 >
->A [real function](./index.md) $f: \mathcal{D} \subseteq \mathbb{R} \to \mathbb{R}$ is **odd** if
+>A [real function](Real%20Functions.md) $f: \mathcal{D} \subseteq \mathbb{R} \to \mathbb{R}$ is **odd** if
 >
 >$$
 >f(-x) = -f(x) \qquad \forall x \in \mathcal{D}
@@ -31,7 +31,7 @@ tags:
 
 >[!THEOREM] Theorem: Derivative of an Odd Function
 >
->The [derivative](Differentiation/index.md) of an [odd function](Parity.md) is [even](Parity.md).
+>The [derivative](Differentiation/Derivatives.md) of an [odd function](Parity.md) is [even](Parity.md).
 >
 >>[!PROOF]-
 >>
@@ -41,7 +41,7 @@ tags:
 
 >[!THEOREM] Theorem: Derivative of an Even Function
 >
->The [derivative](Differentiation/index.md) of an [even function](Parity.md) is [odd](Parity.md).
+>The [derivative](Differentiation/Derivatives.md) of an [even function](Parity.md) is [odd](Parity.md).
 >
 >>[!PROOF]-
 >>

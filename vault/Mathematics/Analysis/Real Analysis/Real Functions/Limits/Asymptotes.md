@@ -12,7 +12,7 @@ tags:
 
 >[!DEFINITION] Definition: Vertical Asymptote
 >
->Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../index.md).
+>Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
 >
 >The line $x = c \in \mathbb{R}$ is a **vertical asymptote** of $f$ if $f$ has at least one [infinite one-sided limit](./index.md) at $c$, i.e. at least one of the following holds:
 >
@@ -29,7 +29,7 @@ tags:
 
 >[!DEFINITION] Definition: Horizontal Asymptote
 >
->Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../index.md).
+>Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
 >
 >The line $y = a \in \mathbb{R}$ is a **horizontal asymptote** of $f$ if the [limit](./index.md) of $f$ as $x$ approaches positive or negative infinity is $a$, i.e. if at least one of the following holds:
 >
@@ -44,7 +44,7 @@ tags:
 
 >[!DEFINITION] Definition: Oblique Asymptote
 >
->Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../index.md).
+>Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
 >
 >The line $y = ax + b$ is an **oblique** or **slanted asymptote** of $f$ if at least one of the following is true:
 >- $\displaystyle \lim_{x \to -\infty} [f(x) - (ax + b)] = 0$
@@ -60,7 +60,7 @@ tags:
 
 >[!THEOREM] Theorem: Oblique Asymptotes
 >
->Let $f$ be a [real function](../index.md).
+>Let $f$ be a [real function](../Real%20Functions.md).
 >
 >The [straight line](../../../../Geometry/Euclidean%20Geometry/Curves/Straight%20Lines/index.md) $y = ax + b$ is an [asymptote](Asymptotes.md) of $f$ if and only if the [limits](./index.md) $\lim_{x \to \pm \infty} \frac{f(x)}{x}$ and $\lim_{x \to \pm \infty} (f(x) - ax)$ exist and
 >

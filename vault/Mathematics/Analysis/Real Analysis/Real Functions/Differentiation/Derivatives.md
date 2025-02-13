@@ -12,7 +12,7 @@ tags:
 
 >[!DEFINITION] Definition: Derivative of a Real Function
 >
->Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../index.md).
+>Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
 >
 >The **derivative of** $f$ **in** $x_0 \in D$ is the [limit](../Limits/index.md)
 >
@@ -20,7 +20,7 @@ tags:
 >\lim_{\Delta x \to 0} \frac{f(x_0 + \Delta x) - f(x_0)}{\Delta x}
 >$$
 >
->More generally, the derivative of $f$ is the [function](../index.md) which maps every $x \in D$ to $f'(x)$.
+>More generally, the derivative of $f$ is the [function](../Real%20Functions.md) which maps every $x \in D$ to $f'(x)$.
 >
 >>[!NOTATION]-
 >>
@@ -50,7 +50,7 @@ tags:
 
 >[!DEFINITION] Definition: Differentiability
 >
->Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../index.md).
+>Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
 >
 >We say that $f$ is **differentiable at** some $x \in D$ if the first-order derivative of $f$ in $x$ exists.
 >
@@ -60,7 +60,7 @@ tags:
 
 >[!THEOREM] Theorem: Differentiability $\implies$ Continuity
 >
->If $f: D \subseteq \mathbb{R} \in \mathbb{R}$ is [differentiable](./index.md) at $x_0 \in D$, then $f$ is also [continuous](../Continuity.md) at $x_0$.
+>If $f: D \subseteq \mathbb{R} \in \mathbb{R}$ is [differentiable](Derivatives.md) at $x_0 \in D$, then $f$ is also [continuous](../Continuity.md) at $x_0$.
 >
 >>[!PROOF]-
 >>
@@ -70,7 +70,7 @@ tags:
 
 >[!THEOREM] Mean Value Theorem for Derivatives
 >
->If $f: D \to \mathbb{R}$ is [continuous](../Continuity.md) on the [closed interval](../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$ and [differentiable](./index.md) on the [open interval](../../../../Set%20Theory/Ordering/Intervals.md) $(a;b)$, then there exists at least one $x_0 \in (a;b)$ such that
+>If $f: D \to \mathbb{R}$ is [continuous](../Continuity.md) on the [closed interval](../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$ and [differentiable](Derivatives.md) on the [open interval](../../../../Set%20Theory/Ordering/Intervals.md) $(a;b)$, then there exists at least one $x_0 \in (a;b)$ such that
 >
 >$$
 >f'(x_0) = \frac{f(b) - f(a)}{b - a}
@@ -91,7 +91,7 @@ tags:
 
 >[!THEOREM] Theorem: Darboux's Theorem
 >
->Let $f: D \to \mathbb{R}$ be a [differentiable](./index.md) [real function](../index.md) on a [closed interval](../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$.
+>Let $f: D \to \mathbb{R}$ be a [differentiable](Derivatives.md) [real function](../Real%20Functions.md) on a [closed interval](../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$.
 >
 >For each $\lambda \in \mathbb{R}$ such that $f'(a) \lt \lambda \lt f'(b)$ or $f'(a) \gt \lambda \gt f'(b)$, there exists some $c \in [a;b]$ such that
 >

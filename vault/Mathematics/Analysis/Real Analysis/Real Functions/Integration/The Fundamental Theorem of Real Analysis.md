@@ -1,6 +1,6 @@
 >[!THEOREM] The Fundamental Theorem of Real Analysis (Part I)
 >
->Let $f: D \to \mathbb{R}$ be a [real function](../index.md) on a [closed interval](../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b]$.
+>Let $f: D \to \mathbb{R}$ be a [real function](../Real%20Functions.md) on a [closed interval](../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b]$.
 >
 >If $f$ is [Riemann-integrable](Definite%20Integrals/index.md), then $F: D \to \mathbb{R}$ defined by the [definite integral](Definite%20Integrals/index.md)
 >
@@ -41,7 +41,7 @@
 >>\lim_{\Delta x \to 0}\frac{F(x_0+\Delta x) - F(x_0)}{\Delta x} = \lim_{\Delta x \to 0}f(\xi)
 >>$$
 >>
->>The left-hand side is just the [derivative](../Differentiation/index.md) of $F$ at $x_0$. Since $\xi$ is between $x_0$ and $x_0 + \Delta x$, it must approach $x_0$ for $\Delta x \to 0$. This means that
+>>The left-hand side is just the [derivative](../Differentiation/Derivatives.md) of $F$ at $x_0$. Since $\xi$ is between $x_0$ and $x_0 + \Delta x$, it must approach $x_0$ for $\Delta x \to 0$. This means that
 >>
 >>$$
 >>\lim_{\Delta x\to 0}f(\xi) = f(x_0)

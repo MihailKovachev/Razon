@@ -87,7 +87,7 @@ tags:
 
 >[!THEOREM]- Theorem: Operations with Limits
 >
->Let $f, g: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{C}$ be [complex functions](../index.md) and let $c \in \mathbb{C}$ be an [accumulation point](../../../../Topology/Interior,%20Boundary,%20Exterior/Accumulation%20Point.md) of $\mathcal{D}$.
+>Let $f, g: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{C}$ be [complex functions](../Complex%20Functions.md) and let $c \in \mathbb{C}$ be an [accumulation point](../../../../Topology/Interior,%20Boundary,%20Exterior/Accumulation%20Point.md) of $\mathcal{D}$.
 >
 >If the [limits](Limits.md) $\displaystyle \lim_{z \to c} f(z)$ and $\displaystyle \lim_{z \to c} g(z)$ exist, then
 >
@@ -117,7 +117,7 @@ tags:
 
 >[!THEOREM]- Squeeze Theorem
 >
->Let $f,g: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{C}$ be [complex functions](../index.md) and let $c \in \mathbb{C}$ be an [accumulation point](../../../../Topology/Interior,%20Boundary,%20Exterior/Accumulation%20Point.md) of $f$.
+>Let $f,g: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{C}$ be [complex functions](../Complex%20Functions.md) and let $c \in \mathbb{C}$ be an [accumulation point](../../../../Topology/Interior,%20Boundary,%20Exterior/Accumulation%20Point.md) of $f$.
 >
 >If there exists some [deleted neighborhood](../../Topology%20of%20the%20Complex%20Plane.md) $N \subseteq \mathcal{D}$ of $c$ such that $|g(z)| \le |f(z)|$ for all $z \in N$ and $\lim_{z \to c} f(z) = 0$, then $\lim_{z \to c} g(z) = 0$.
 >

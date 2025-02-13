@@ -41,7 +41,7 @@ tags:
 
 >[!THEOREM] Theorem: Image of the Real Exponential Function
 >
->The [image](../../Functions/index.md) of the [real exponential function](Real%20Exponential%20Function.md) is $(0;+\infty)$, i.e. its values are always positive.
+>The [image](../../Functions/index.md) of the [real exponential function](The%20Real%20Exponential%20Function.md) is $(0;+\infty)$, i.e. its values are always positive.
 >
 >>[!PROOF]-
 >>
@@ -51,7 +51,7 @@ tags:
 
 >[!THEOREM] Theorem: Monotony of the Real Exponential Function
 >
->The [real exponential function](Real%20Exponential%20Function.md) is [strictly increasing](Monotony.md).
+>The [real exponential function](The%20Real%20Exponential%20Function.md) is [strictly increasing](../Real%20Sequences/Monotony.md).
 >
 >$$
 >\mathrm{e}^x \lt \mathrm{e}^y \iff x \lt y
@@ -65,7 +65,7 @@ tags:
 
 >[!THEOREM] Addition Theorem for the Real Exponential Function
 >
->The [real exponential function](Real%20Exponential%20Function.md) has the following property for all $x,y \in \mathbb{R}$:
+>The [real exponential function](The%20Real%20Exponential%20Function.md) has the following property for all $x,y \in \mathbb{R}$:
 >
 >$$
 >\mathrm{e}^x \mathrm{e}^y = \mathrm{e}^{x + y}
@@ -79,7 +79,7 @@ tags:
 
 >[!THEOREM] Theorem: Derivative of the Real Exponential Function
 >
->The [derivative](Differentiation/index.md) of the [real exponential function](Real%20Exponential%20Function.md) is itself:
+>The [derivative](Differentiation/Derivatives.md) of the [real exponential function](The%20Real%20Exponential%20Function.md) is itself:
 >
 >$$
 >(\mathrm{e}^x)' = \mathrm{e}^x

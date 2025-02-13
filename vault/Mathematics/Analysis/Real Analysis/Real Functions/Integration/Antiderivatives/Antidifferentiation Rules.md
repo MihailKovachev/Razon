@@ -18,7 +18,7 @@ tags:
 >>
 >>Let $F(x)$ be an [antiderivative](Antiderivatives.md) $f(x)$ and $G(x)$ be an [antiderivative](Antiderivatives.md) of $g(x)$.
 >> 
->>Let's examine the [derivative](../../Differentiation/index.md) of the right-hand side.
+>>Let's examine the [derivative](../../Differentiation/Derivatives.md) of the right-hand side.
 >> 
 >>$$
 >>\frac{\mathrm{d}}{\mathrm{d}x}\left(\lambda \int f(x) \mathop{\mathrm{d}x} + \mu \int g(x) \mathop{\mathrm{d}x}\right)
@@ -36,7 +36,7 @@ tags:
 
 >[!THEOREM] Theorem: Integration by Parts
 >
->If $u$ and $v$ are [continuously differentiable](../../Differentiation/index.md), then
+>If $u$ and $v$ are [continuously differentiable](../../Differentiation/Derivatives.md), then
 >
 >$$\int u(x) v'(x) \mathop{\mathrm{d}x} = u(x)v(x) + \int u'(x)v(x) \mathop{\mathrm{d}x}$$
 >

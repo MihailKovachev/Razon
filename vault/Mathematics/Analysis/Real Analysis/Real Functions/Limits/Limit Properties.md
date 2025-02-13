@@ -12,7 +12,7 @@ tags:
 
 >[!THEOREM] Theorem: Arithmetic with Real Limits
 >
->Let $f,g: D\subseteq\mathbb{R} \to \mathbb{R}$ be [real functions](../index.md).
+>Let $f,g: D\subseteq\mathbb{R} \to \mathbb{R}$ be [real functions](../Real%20Functions.md).
 >
 >If both [limits](./index.md) $\displaystyle \lim_{x \to c} f(x)$ and $\displaystyle \lim_{x \to c} g(x)$ exist for $c \in D \cup \{-\infty, +\infty\}$, then
 >
@@ -44,7 +44,7 @@ tags:
 >
 
 >[!THEOREM] Theorem: Arithmetic with Infinite Limits
->Let $f,g: D\subseteq\mathbb{R} \to \mathbb{R}$ be two [functions](../index.md).
+>Let $f,g: D\subseteq\mathbb{R} \to \mathbb{R}$ be two [functions](../Real%20Functions.md).
 >
 >The following rules apply for the [limits](./index.md) of $f$ and $g$ for $c \in D \cup \{-\infty, +\infty\}$, no matter if they are [real](./index.md) or [infinite](./index.md):
 >
@@ -73,7 +73,7 @@ tags:
 
 >[!THEOREM] Theorem: The Squeeze Theorem for Functions
 >
->Let $f,g,h: D \subseteq \mathbb{R} \to \mathbb{R}$ be [real functions](../index.md).
+>Let $f,g,h: D \subseteq \mathbb{R} \to \mathbb{R}$ be [real functions](../Real%20Functions.md).
 >
 >If the [limit](./index.md) of $f$ and $g$ as $x$ approaches $c \in D \cup \{-\infty, +\infty\}$ is $L \in \mathbb{R}$ and $f(x) \le h(x) \le g(x)$ for all $x\in D$, then $h$ also approaches $L$ for $x \to c$.
 >

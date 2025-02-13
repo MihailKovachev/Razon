@@ -8,7 +8,7 @@ tags:
 
 >[!DEFINITION] Definition: Periodicity of Complex Functions
 >
->A [complex function](./index.md) $f: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{C}$ is **periodic** iff there exists some $P \in \mathbb{C}$ such that
+>A [complex function](Complex%20Functions.md) $f: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{C}$ is **periodic** iff there exists some $P \in \mathbb{C}$ such that
 >
 >$$
 >f(z + P) = f(z) \qquad \forall z \in \mathcal{D}.

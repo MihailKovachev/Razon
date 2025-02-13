@@ -45,7 +45,7 @@ title: Line Integrals of Scalar Fields
 >>
 >>We will just show this for the case when $\gamma$ and $\varphi$ are *not* piecewise, since the proof is easily generalisable - if $\gamma$ and $\varphi$ *are* piecewise, then one can just apply the following proof to each of their partitions and obtain the same end result after summing the results from each partition.
 >>
->>Since $\gamma$ and $\varphi$ parameterise the same curve $\mathcal{C}$, we can [reparameterise](../../../../../Geometry/Euclidean%20Geometry/Curves/index.md) one in the other. More specifically, there exists a [bijection](../../../../Functions/Types%20of%20Functions/Bijection.md), [continuously differentiable function](../../../Real%20Functions/Differentiation/index.md) $u: [a;b] \to [c;d]$ such that
+>>Since $\gamma$ and $\varphi$ parameterise the same curve $\mathcal{C}$, we can [reparameterise](../../../../../Geometry/Euclidean%20Geometry/Curves/index.md) one in the other. More specifically, there exists a [bijection](../../../../Functions/Types%20of%20Functions/Bijection.md), [continuously differentiable function](../../../Real%20Functions/Differentiation/Derivatives.md) $u: [a;b] \to [c;d]$ such that
 >>
 >>$$
 >>\varphi(u(t)) = \gamma (t)

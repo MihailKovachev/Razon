@@ -12,7 +12,7 @@ tags:
 
 >[!DEFINITION] Definition: Antiderivative
 >
->An **antiderivative** of the [real function](../../index.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is any [differentiable](../../Differentiation/index.md) [function](../../index.md) $F: D \subseteq \mathbb{R} \to \mathbb{R}$ whose [derivative](../../Differentiation/index.md) is $f$.
+>An **antiderivative** of the [real function](../../Real%20Functions.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is any [differentiable](../../Differentiation/Derivatives.md) [function](../../Real%20Functions.md) $F: D \subseteq \mathbb{R} \to \mathbb{R}$ whose [derivative](../../Differentiation/Derivatives.md) is $f$.
 >
 >$$
 >F'(x) = f(x)
@@ -22,7 +22,7 @@ tags:
 >>
 >>Let $F$ be an [antiderivative](Antiderivatives.md) of $f$.
 >>
->>Any other [differentiable](../../Differentiation/index.md) [function](../../index.md) $\mathcal{F}: D \subseteq \mathbb{R} \to \mathbb{R}$ is also an [antiderivative](Antiderivatives.md) of $f$ if and only if there is some constant $C \in \mathbb{R}$ such that
+>>Any other [differentiable](../../Differentiation/Derivatives.md) [function](../../Real%20Functions.md) $\mathcal{F}: D \subseteq \mathbb{R} \to \mathbb{R}$ is also an [antiderivative](Antiderivatives.md) of $f$ if and only if there is some constant $C \in \mathbb{R}$ such that
 >>
 >>$$\mathcal{F}(x) = F(x) + C \qquad \forall x \in D$$
 >>
@@ -37,7 +37,7 @@ tags:
 
 >[!DEFINITION] Definition: Indefinite Integral
 >
->The **indefinite integral** of a [real function](../../index.md) $f$ is the [set](../../../../../Set%20Theory/index.md) of all [antiderivatives](Antiderivatives.md) of $f$.
+>The **indefinite integral** of a [real function](../../Real%20Functions.md) $f$ is the [set](../../../../../Set%20Theory/index.md) of all [antiderivatives](Antiderivatives.md) of $f$.
 >
 >$$
 >\int f(x) \mathop{\mathrm{d}x} \overset{\text{def}}{=} \{F \mid F' = f\}

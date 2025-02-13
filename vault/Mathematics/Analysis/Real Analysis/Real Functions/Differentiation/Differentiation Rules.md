@@ -10,7 +10,7 @@ tags:
 
 >[!THEOREM] Theorem: Arithmetic Differentiation Rules
 >
->If $f,g: D \subseteq \mathbb{R} \to \mathbb{R}$ are [differentiable](./index.md) at $x \in D$, then the following hold:
+>If $f,g: D \subseteq \mathbb{R} \to \mathbb{R}$ are [differentiable](Derivatives.md) at $x \in D$, then the following hold:
 >
 >- Linearity: $[\alpha\, f(x) + \beta\, g(x)]' = \alpha\, f'(x) + \beta\, g'(x)$ for all $\alpha, \beta \in \mathbb{R}$
 >- Product Rule: $[f(x)g(x)]' = f'(x)g(x) + f(x)g'(x)$
@@ -29,7 +29,7 @@ tags:
 
 >[!THEOREM] Theorem: Chain Rule
 >
->If $g: D \subseteq \mathbb{R} \to \mathbb{R}$ is [differentiable](./index.md) at $x \in D$ and $f: g(D) \to \mathbb{R}$ is [differentiable](./index.md) at $g(x)$, then
+>If $g: D \subseteq \mathbb{R} \to \mathbb{R}$ is [differentiable](Derivatives.md) at $x \in D$ and $f: g(D) \to \mathbb{R}$ is [differentiable](Derivatives.md) at $g(x)$, then
 >
 >$$
 >[f(g(x))]' = f'(g(x)) \cdot g'(x)
@@ -45,7 +45,7 @@ tags:
 >
 >Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be [invertible](../../../Functions/Types%20of%20Functions/Injection.md).
 >
->If $f$ is [differentiable](./index.md) at $f^{-1}(y), y \in f(D)$ and $f'(f^{-1}(y)) \ne 0$, then
+>If $f$ is [differentiable](Derivatives.md) at $f^{-1}(y), y \in f(D)$ and $f'(f^{-1}(y)) \ne 0$, then
 >
 >$$
 >[f^{-1}(y)]' = \frac{1}{f'(f^{-1}(y))}

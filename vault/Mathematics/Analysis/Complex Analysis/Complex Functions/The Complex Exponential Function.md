@@ -27,7 +27,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Complex Exponential
 >>
->>The [complex function](./index.md) $\exp: \mathbb{C} \to \mathbb{C}$ defined as
+>>The [complex function](Complex%20Functions.md) $\exp: \mathbb{C} \to \mathbb{C}$ defined as
 >>
 >>$$
 >>\exp (z) = \sum_{n = 0}^{\infty} \frac{z^n}{n!}
@@ -44,7 +44,7 @@ tags:
 >>
 >>>[!NOTE]
 >>>
->>>The [restriction](../../Functions/Restriction.md) of the [complex exponential function](The%20Complex%20Exponential%20Function.md) to $\mathbb{R}$ is the [real exponential function](../../Real%20Analysis/Real%20Functions/Real%20Exponential%20Function.md).
+>>>The [restriction](../../Functions/Restriction.md) of the [complex exponential function](The%20Complex%20Exponential%20Function.md) to $\mathbb{R}$ is the [real exponential function](../../Real%20Analysis/Real%20Functions/The%20Real%20Exponential%20Function.md).
 >>>
 >>
 >
@@ -95,7 +95,7 @@ tags:
 
 >[!THEOREM] Theorem: Modulus of the Complex Exponential
 >
->For all $z \in \mathbb{C}$, the [modulus](../../../Algebra/Fields/The%20Complex%20Numbers/index.md) of the [complex exponential](The%20Complex%20Exponential%20Function.md) of $z$ is the [real exponential](../../Real%20Analysis/Real%20Functions/Real%20Exponential%20Function.md) of its real part:
+>For all $z \in \mathbb{C}$, the [modulus](../../../Algebra/Fields/The%20Complex%20Numbers/index.md) of the [complex exponential](The%20Complex%20Exponential%20Function.md) of $z$ is the [real exponential](../../Real%20Analysis/Real%20Functions/The%20Real%20Exponential%20Function.md) of its real part:
 >
 >$$
 >|\mathrm{e}^z| = \mathrm{e}^{\operatorname{Re}(z)}

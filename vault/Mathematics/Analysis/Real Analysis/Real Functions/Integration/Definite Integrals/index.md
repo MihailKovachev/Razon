@@ -12,7 +12,7 @@ tags:
 
 >[!DEFINITION] Definition: Riemann Sum
 >
->Let $f: D \to \mathbb{R}$ be a [real function](../../index.md) on a [closed interval](../../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$ and let $x_0 \lt x_1 \lt \cdots \lt x_n \in D$.
+>Let $f: D \to \mathbb{R}$ be a [real function](../../Real%20Functions.md) on a [closed interval](../../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$ and let $x_0 \lt x_1 \lt \cdots \lt x_n \in D$.
 >
 >A **Riemann sum** of $f$ over $D$ is any sum of the form
 >
@@ -46,7 +46,7 @@ tags:
 
 >[!DEFINITION] Definition: Riemann-Integrability
 >
->A [real function](../../index.md) $f: [a;b] \to \mathbb{R}$ is **Riemann-integrable** iff all of its [Riemann sums](./index.md) have the same [limit](../../Limits/index.md) as $\Delta x_i$ approaches $0$.
+>A [real function](../../Real%20Functions.md) $f: [a;b] \to \mathbb{R}$ is **Riemann-integrable** iff all of its [Riemann sums](./index.md) have the same [limit](../../Limits/index.md) as $\Delta x_i$ approaches $0$.
 >
 >$$
 >\lim_{\Delta x_i\to 0}\sum_{i=1}^n f(x_i^\ast)\Delta x_i = S \in \mathbb{R}
@@ -138,10 +138,10 @@ tags:
 
 >[!THEOREM] Theorem: Integration by Parts
 >
->Let $f,g: D \to \mathbb{R}$ be [real functions](../../index.md) on a [closed interval](../../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$.
+>Let $f,g: D \to \mathbb{R}$ be [real functions](../../Real%20Functions.md) on a [closed interval](../../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$.
 >
 >
->If $f$ and $g$ are [continuously differentiable](../../Differentiation/index.md), then the [definite integral](./index.md) obeys
+>If $f$ and $g$ are [continuously differentiable](../../Differentiation/Derivatives.md), then the [definite integral](./index.md) obeys
 >
 >$$
 >\int_a^b f(x) g'(x) \mathop{\mathrm{d}x} = f(b)g(b) - f(a)g(a) - \int_a^b f'(x)g(x) \mathop{\mathrm{d}x}
@@ -155,9 +155,9 @@ tags:
 
 >[!THEOREM] Theorem: Substitution
 >
->Let $g: [a;b] \to \mathbb{R}$ and $f: [c;d] \to \mathbb{R}$ be [real functions](../../index.md) such that the [image](../../../../Functions/index.md) of $g$ is a [subset](../../../../../Set%20Theory/index.md) of $[c;d]$, i.e. $g([a;b]) \subseteq [c;d]$.
+>Let $g: [a;b] \to \mathbb{R}$ and $f: [c;d] \to \mathbb{R}$ be [real functions](../../Real%20Functions.md) such that the [image](../../../../Functions/index.md) of $g$ is a [subset](../../../../../Set%20Theory/index.md) of $[c;d]$, i.e. $g([a;b]) \subseteq [c;d]$.
 >
->If $f$ is [continuous](../../Continuity.md) and $g$ is [continuously differentiable](../../Differentiation/index.md), then the following [definite Integral](./index.md) can be solved via substitution.
+>If $f$ is [continuous](../../Continuity.md) and $g$ is [continuously differentiable](../../Differentiation/Derivatives.md), then the following [definite Integral](./index.md) can be solved via substitution.
 >
 >$$
 >\int_a^b f(g(x))g'(x) \mathop{\mathrm{d}x} = \int_{g(a)}^{g(b)} f(u) \mathop{\mathrm{d}u}
@@ -171,7 +171,7 @@ tags:
 
 >[!THEOREM] Mean Value Theorem for Definite Integrals
 >
->Let $f,g: D \to \mathbb{R}$ be [real functions](../../index.md) on a [closed interval](../../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$.
+>Let $f,g: D \to \mathbb{R}$ be [real functions](../../Real%20Functions.md) on a [closed interval](../../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$.
 >
 >If $f$ and $g$ are [continuous](../../Continuity.md) and $g(x) \gt 0$ for all $x\in D$, then there exists some $\xi \in (a;b)$ such that
 >

@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Equivalence of Parametric Curves
 >
->Two [parametric curves](Parametric%20Curve.md) $\gamma_1: I_1 \subseteq \mathbb{R} \to \mathbb{R}^n$ and $\gamma_2: I_2 \subseteq \mathbb{R} \to \mathbb{R}^n$ are **equivalent** iff they have the same [image](../../../Functions/index.md) and there exists a [differentiable](../../Real%20Functions/Differentiation/index.md), [bijective](../../../Functions/Types%20of%20Functions/Bijection.md) [function](../../Real%20Functions/index.md) $\varphi: I_1 \to I_2$ with a [differentiable](../../Real%20Functions/Differentiation/index.md) [inverse](../../../Functions/Types%20of%20Functions/Injection.md) such that $\varphi'(t) \ne 0$ and $\gamma_2(\varphi(t)) = \gamma_1(t)$ for all $t \in I_1$:
+>Two [parametric curves](Parametric%20Curve.md) $\gamma_1: I_1 \subseteq \mathbb{R} \to \mathbb{R}^n$ and $\gamma_2: I_2 \subseteq \mathbb{R} \to \mathbb{R}^n$ are **equivalent** iff they have the same [image](../../../Functions/index.md) and there exists a [differentiable](../../Real%20Functions/Differentiation/Derivatives.md), [bijective](../../../Functions/Types%20of%20Functions/Bijection.md) [function](../../Real%20Functions/Real%20Functions.md) $\varphi: I_1 \to I_2$ with a [differentiable](../../Real%20Functions/Differentiation/Derivatives.md) [inverse](../../../Functions/Types%20of%20Functions/Injection.md) such that $\varphi'(t) \ne 0$ and $\gamma_2(\varphi(t)) = \gamma_1(t)$ for all $t \in I_1$:
 >
 >>[!DEFINITION] Definition: Reparameterisation
 >>

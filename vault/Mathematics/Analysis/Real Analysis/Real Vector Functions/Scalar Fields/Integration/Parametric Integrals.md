@@ -7,7 +7,7 @@
 >
 >>[!DEFINITION] Definition: Parametric Integral (Type I)
 >>
->>Given two [real functions](../../../Real%20Functions/index.md) $l,u: [a;b] \to [c;d]$, we define a **parametric integral** $\mathcal{X}: [a;b] \to \mathbb{R}$ as
+>>Given two [real functions](../../../Real%20Functions/Real%20Functions.md) $l,u: [a;b] \to [c;d]$, we define a **parametric integral** $\mathcal{X}: [a;b] \to \mathbb{R}$ as
 >>
 >>$$
 >>\mathcal{X}(x) \overset{\text{def}}{=} \int_{l(x)}^{u(x)} f(x, y) \mathop{\mathrm{d}y}
@@ -15,7 +15,7 @@
 >>
 >>>[!NOTE] Note
 >>>
->>>For any particular value $x^\ast$ of $x$, the functions $l$ and $u$ result in concrete real numbers $l(x^\ast)$ and $u(x^\ast)$ and the expression $f(x^\ast, y)$ is a concrete [real function](../../../Real%20Functions/index.md) of $y$.
+>>>For any particular value $x^\ast$ of $x$, the functions $l$ and $u$ result in concrete real numbers $l(x^\ast)$ and $u(x^\ast)$ and the expression $f(x^\ast, y)$ is a concrete [real function](../../../Real%20Functions/Real%20Functions.md) of $y$.
 >>>
 >>
 >>>[!EXAMPLE]-
@@ -32,7 +32,7 @@
 >
 >>[!DEFINITION] Definition: Parametric Integral (Type II)
 >>
->>Given two [real functions](../../../Real%20Functions/index.md) $l,u: [c;d] \to [a;b]$, we define a **parametric integral** $\mathcal{Y}: [c;d] \to \mathbb{R}$ as
+>>Given two [real functions](../../../Real%20Functions/Real%20Functions.md) $l,u: [c;d] \to [a;b]$, we define a **parametric integral** $\mathcal{Y}: [c;d] \to \mathbb{R}$ as
 >>
 >>$$
 >>\mathcal{Y}(y) \overset{\text{def}}{=} \int_{l(y)}^{u(y)} f(x, y) \mathop{\mathrm{d}x}
@@ -40,7 +40,7 @@
 >>
 >>>[!NOTE] Note
 >>>
->>>For any particular value $y^\ast$ of $y$, the functions $l$ and $u$ result in concrete real numbers $l(y^\ast)$ and $u(y^\ast)$ and the expression $f(x, y^\ast)$ is a concrete [real function](../../../Real%20Functions/index.md) of $x$.
+>>>For any particular value $y^\ast$ of $y$, the functions $l$ and $u$ result in concrete real numbers $l(y^\ast)$ and $u(y^\ast)$ and the expression $f(x, y^\ast)$ is a concrete [real function](../../../Real%20Functions/Real%20Functions.md) of $x$.
 >>>
 >>
 >>>[!EXAMPLE]-
@@ -72,7 +72,7 @@
 >
 >Let $f: R \subset \mathbb{R}^2 \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) on some [rectangle](TODO) $R = [a;b] \times [c;d]$.
 >
->If $f$ is [continuously partially differentiable](../Differentiation/Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md) and $l,u$ are [continuously differentiable](../../../Real%20Functions/Differentiation/index.md), then the [derivatives](../../../Real%20Functions/Differentiation/index.md) of $f$'s [parametric integrals](Parametric%20Integrals.md) are given by
+>If $f$ is [continuously partially differentiable](../Differentiation/Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md) and $l,u$ are [continuously differentiable](../../../Real%20Functions/Differentiation/Derivatives.md), then the [derivatives](../../../Real%20Functions/Differentiation/Derivatives.md) of $f$'s [parametric integrals](Parametric%20Integrals.md) are given by
 >
 >$$
 >\frac{\mathrm{d}}{\mathrm{d}x} \int_{l(x)}^{u(x)} f(x,y) \mathop{\mathrm{d}y} = \int_{l(x)}^{u(x)} \frac{\partial}{\partial x}f(x,y)\mathop{\mathrm{d}y} \,+\, f(x,u(x))\frac{\mathrm{d}}{\mathrm{d}x}u(x) - f(x, l(x))\frac{\mathrm{d}}{\mathrm{d}x}l(x)

@@ -12,7 +12,7 @@ tags:
 
 >[!THEOREM] Theorem: Common Limits
 >
->Following are some [complex](Limits.md) and [infinite limits](Infinite%20Limits.md) for common [complex functions](../index.md).
+>Following are some [complex](Limits.md) and [infinite limits](Infinite%20Limits.md) for common [complex functions](../Complex%20Functions.md).
 >
 >$$
 >\begin{align*}
