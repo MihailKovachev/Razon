@@ -1,6 +1,6 @@
 >[!LAW] Empirical Law: Magnetic Force
 >
->Every [point charge](../Point%20Charge.md) $q$ moving through a [magnetic field](Magnetic%20Field.md) $\boldsymbol{B}$ with [velocity](../../Kinematics/Translation/Velocity.md) $\boldsymbol{v}$ experiences a **magnetic [force](../../Mechanics/Force.md)** $\boldsymbol{F}$:
+>Every [point charge](../Electric%20Charge.md) $q$ moving through a [magnetic field](Magnetic%20Field.md) $\boldsymbol{B}$ with [velocity](../../Kinematics/Translation/Velocity.md) $\boldsymbol{v}$ experiences a **magnetic [force](../../Mechanics/Force.md)** $\boldsymbol{F}$:
 >
 >$$
 >\boldsymbol{F} = q\, \boldsymbol{v} \times \boldsymbol{B}

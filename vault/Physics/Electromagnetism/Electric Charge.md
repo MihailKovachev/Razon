@@ -26,7 +26,7 @@ title: Electric Charge
 >>
 >
 
-## Elementary Charge
+# Elementary Charge
 
 Experiments show that electric charge is discrete. It appears that all objects in the universe are only allowed to possess charge which is an integer multiple of a very specific value, called the **elementary charge**.
 
@@ -55,3 +55,17 @@ This is explained by the fact that matter is composed of atoms and ions which in
 >
 >Gluons have no electric charge.
 >
+
+# Conservation of Charge
+
+Electric charge is a conserved quantity - the total amount of electric charge in a closed system remains constant in time.
+
+# Modelling Electric Charge
+
+>[!DEFINITION] Definition: Point Charge
+>
+>A **point charge** is an idealisation of an [electrically charged](Electric%20Charge.md) object which represents it as a [point mass](../Physical%20Systems/Point%20Masses/Point%20Mass.md) where all the object's [electric charge](Electric%20Charge.md) is concentrated.
+>
+
+# Bibliography
+
