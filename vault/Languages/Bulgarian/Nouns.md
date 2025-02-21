@@ -142,9 +142,11 @@ Nouns in Bulgarian can take on one of three genders - masculine, feminine and ne
 
 Nouns in Bulgarian can be either **singular** or **plural**. Unlike in English, however, building the plural form of a noun from its singular form is not as easy as just adding a letter or two. The ending for the plural form of a noun can depend on several factors such as the noun's singular ending, its gender and its number of syllables. 
 
-Whilst there are certain patterns which nouns tend to follow, new words should always be learned with both their singular and plural form.
-
 ## Masculine Nouns
+
+There is no fool-proof rule for determining the plural form of a masculine from only its singular form, so each masculine nouns must be learned with both its singular and plural forms. However, there are certain patterns which most nouns follow and can make the process easier.
+
+
 
 ### Count Form
 
@@ -163,7 +165,7 @@ This form is built by appending either "-а" or "-я" to a noun's singular form.
 >
 >усилвател (amplifier) -> усилвател**я**, ключодържател (keychain) -> ключодържател**я**
 >
->кон -> кон**я**, път -> път**я**
+>кон (horse) -> кон**я**, път (road) -> път**я**
 >
 
 >[!TIP] Tip: Stress in the Count Form

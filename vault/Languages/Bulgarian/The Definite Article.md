@@ -98,7 +98,7 @@ The definite article in Bulgarian is appended directly to the end of the word, p
 >>
 >
 
-### Пълен член vs Кратък член
+### Full Article vs Short Article
 
 Masculine nouns and adjectives have multiple forms for the definite article which are remnants of Bulgarian's case system. The forms which end in "-ят" / "-ът" are the nominative forms and are called "пълен член". The forms "-я" / "-а" are the non-nominative forms and are known as "кратък член".
 

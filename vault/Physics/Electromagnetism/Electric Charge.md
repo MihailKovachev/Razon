@@ -60,12 +60,29 @@ This is explained by the fact that matter is composed of atoms and ions which in
 
 Electric charge is a conserved quantity - the total amount of electric charge in a closed system remains constant in time.
 
-# Modelling Electric Charge
+# Modelling Charged Objects
+
+## Discrete Charge Distributions
+
+Oftentimes, we model an object which posses [electric charge](Electric%20Charge.md) as a single point where all of the charge is concentrated.
 
 >[!DEFINITION] Definition: Point Charge
 >
->A **point charge** is an idealisation of an [electrically charged](Electric%20Charge.md) object which represents it as a [point mass](../Physical%20Systems/Point%20Masses/Point%20Mass.md) where all the object's [electric charge](Electric%20Charge.md) is concentrated.
+>A **point charge** is an idealisation of an [electrically charged](Electric%20Charge.md) object which represents it as a single [point](../Physical%20Systems/Point%20Masses/Point%20Mass.md) with no size, where which all the object's [electric charge](Electric%20Charge.md) is concentrated.
 >
+
+This is a very rough approximation, but it turns out to be quite useful for most cases, especially when the distances between the objects involved are much larger than their size.
+
+## Continuous Charge Distributions
+
+The electric charge of physical objects comes from the protons and electrons inside them. Since these are *extremely* small, we can view them as [point charges](Electric%20Charge.md#Discrete%20Charge%20Distributions) and model the object they comprise as a collection of a huge number of point charges. However, keeping track of the positions of all individual protons and electrons is impossible. Instead, we can describe physical objects by how concentrated protons and electrons are around each point in the space they occupy.
+
+>[!DEFINITION] Definition: Electric Charge Density
+>
+>The **electric charge density** at a point $\mathbf{r}$ is a measure of how concentrated positive and electric charges are around $\mathbf{r}$.
+>
+
+We can consider different types of electric charge density depending on the type of region occupied by the object we are examining. Technically, all physical objects have occupy some volume. However, in many cases, some objects can be very accurately approximated as surfaces with surface area but no volume or as curved lines with length but neither surface area nor volume. For example, we can approximate a thin spherical shell as a surface with no thickness and we can approximate a wire as a line with length but neither surface area nor volume.
 
 # Bibliography
 
