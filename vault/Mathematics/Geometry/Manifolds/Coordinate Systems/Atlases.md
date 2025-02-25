@@ -9,7 +9,7 @@ tags:
 
 >[!DEFINITION] Definition: Atlas
 >
->Let $M$ be an $n$-[manifold](../index.md).
+>Let $M$ be an $n$-[manifold](../Manifolds.md).
 >
 >An **atlas** for $M$ is a [collection](../../../Set%20Theory/Collections/index.md) of [charts](index.md) whose [coordinate domains](index.md) [cover](../../../Topology/Compactness/index.md) $M$.
 >

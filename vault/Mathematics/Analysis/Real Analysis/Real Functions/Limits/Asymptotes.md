@@ -62,7 +62,7 @@ tags:
 >
 >Let $f$ be a [real function](../Real%20Functions.md).
 >
->The [straight line](../../../../Geometry/Euclidean%20Geometry/Curves/Straight%20Lines/index.md) $y = ax + b$ is an [asymptote](Asymptotes.md) of $f$ if and only if the [limits](./index.md) $\lim_{x \to \pm \infty} \frac{f(x)}{x}$ and $\lim_{x \to \pm \infty} (f(x) - ax)$ exist and
+>The [straight line](../../../../Geometry/Euclidean%20Geometry/Curves/Straight%20Lines/Straight%20Line.md) $y = ax + b$ is an [asymptote](Asymptotes.md) of $f$ if and only if the [limits](./index.md) $\lim_{x \to \pm \infty} \frac{f(x)}{x}$ and $\lim_{x \to \pm \infty} (f(x) - ax)$ exist and
 >
 >$$
 >\begin{align*}

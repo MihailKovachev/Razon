@@ -99,30 +99,128 @@ Latin nouns are grouped into fived categories, called **declensions**, depending
 </tbody>
 </table>
 
+>[!TIP] Tip: Nominative and Vocative
+>
+>The nominative and vocative forms are the same.
+>
+
+>[!TIP] Tip: Dative and Locative
+>
+>The dative and locative forms are the same.
+>
+
 ## Second Declension
 
-### Masculine and Feminine
+There are two charts for nouns in the second declension depending on their [gender](TODO).
 
-||Singular|Plural|
-|:--:|:--:|:--:|
-|**Nom**.|-us / -er|-ī|
-|**Gen.**|-ī|-ōrum|
-|**Dat.**|-ō|-īs|
-|**Acc.**|-um|-ōs|
-|**Abl.**|-ō|-īs|
-|**Voc.**|-e|-ī|
-|**Loc.**|-ī|-īs|
+<table>
+<caption>Second Declension Endings Chart (Masculine and Feminine)</caption>
+<tbody>
+<tr>
+<th rowspan="2" colspan="2"></th>
+<th colspan="2" align="center">Number</th>
+</tr>
+<tr>
+<th align="center">Singular</th>
+<th align="center">Plural</th>
+</tr>
+<tr>
+<th align="center" style="vertical-align:middle" scope="colgroup" rowspan="7">Case</th>
+<th align="center">Nominative</th>
+<td align="center">-us, -er</td>
+<td align="center">-ī</td>
+</tr>
+<tr>
+<th align="center">Genitive</th>
+<td align="center">-ī</td>
+<td align="center">-ōrum</td>
+</tr>
+<tr>
+<th align="center">Dative</th>
+<td align="center">-ō</td>
+<td align="center">-īs</td>
+</tr>
+<tr>
+<th align="center">Accusative</th>
+<td align="center">-um</td>
+<td align="center">-ōs</td>
+</tr>
+<tr>
+<th align="center">Ablative</th>
+<td align="center">-ō</td>
+<td align="center">-īs</td>
+</tr>
+<tr>
+<th align="center">Locative</th>
+<td align="center">-ī</td>
+<td align="center">-īs</td>
+</tr>
+<tr>
+<th align="center">Vocative</th>
+<td align="center">-e, -ī, -er</td>
+<td align="center">-ī</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
 
-## Neuter
+<table>
+<caption>Second Declension Endings Chart (Neuter)</caption>
+<tbody>
+<tr>
+<th rowspan="2" colspan="2"></th>
+<th colspan="2" align="center">Number</th>
+</tr>
+<tr>
+<th align="center">Singular</th>
+<th align="center">Plural</th>
+</tr>
+<tr>
+<th align="center" style="vertical-align:middle" scope="colgroup" rowspan="7">Case</th>
+<th align="center">Nominative</th>
+<td align="center">-um</td>
+<td align="center">-a</td>
+</tr>
+<tr>
+<th align="center">Genitive</th>
+<td align="center">-ī</td>
+<td align="center">-ōrum</td>
+</tr>
+<tr>
+<th align="center">Dative</th>
+<td align="center">-ō</td>
+<td align="center">-īs</td>
+</tr>
+<tr>
+<th align="center">Accusative</th>
+<td align="center">-um</td>
+<td align="center">-a</td>
+</tr>
+<tr>
+<th align="center">Ablative</th>
+<td align="center">-ō</td>
+<td align="center">-īs</td>
+</tr>
+<tr>
+<th align="center">Locative</th>
+<td align="center">-ī</td>
+<td align="center">-īs</td>
+</tr>
+<tr>
+<th align="center">Vocative</th>
+<td align="center">-a</td>
+<td align="center">-ī</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
 
-||Singular|Plural|
-|:--:|:--:|:--:|
-|**Nom**.|-um|-a|
-|**Gen.**|-ī|-ōrum|
-|**Dat.**|-ō|-īs|
-|**Acc.**|-um|-a|
-|**Abl.**|-ō|-īs|
-|**Voc.**|-um|-a|
+For nouns which end in "-er", the vocative and nominative forms are identical. If the noun's nominative singular form ends in "-ius" or "-ium", then the noun's vocative singular form ends in "-ī" and not "-iī", i.e. "Vergilius" becomes "Vergilī". Moreover, the stress this form is always on the same syllable is in the nominative singular.
+
+>[!TIP] Tip: Dative and Ablative
+>
+>The dative and ablative forms are the same.
+>
 
 ## Third Declension
 

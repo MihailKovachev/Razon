@@ -24,7 +24,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Dimension of a Manifold
 >>
->>The **dimension** of a [manifold](./index.md) is the [dimension](../../Algebra/Linear%20Algebra/Vector%20Spaces/Bases/Dimension.md) of the [Euclidean space](../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) which it is [locally homeomorphic](../../Topology/Continuity/Homeomorphisms/Locally%20Homeomorphic%20Spaces.md) to.
+>>The **dimension** of a [manifold](Manifolds.md) is the [dimension](../../Algebra/Linear%20Algebra/Vector%20Spaces/Bases/Dimension.md) of the [Euclidean space](../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) which it is [locally homeomorphic](../../Topology/Continuity/Homeomorphisms/Locally%20Homeomorphic%20Spaces.md) to.
 >>
 >>>[!NOTATION]-
 >>>

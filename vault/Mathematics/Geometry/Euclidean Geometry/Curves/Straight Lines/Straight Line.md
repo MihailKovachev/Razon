@@ -25,7 +25,7 @@ tags:
 
 >[!THEOREM] Theorem: Straight Line through Two Points
 >
->If $P_1$ and $P_2$ are two distinct [points](../../Euclidean%20Space/Points%20vs%20Vectors/index.md) in $n$-dimensional [Euclidean space](../../../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md), then there exists one and only one [straight line](./index.md) $l$ which contains both points, i.e. $P_1 \in l$ and $P_2 \in l$.
+>If $P_1$ and $P_2$ are two distinct [points](../../Euclidean%20Space/Points%20vs%20Vectors/index.md) in $n$-dimensional [Euclidean space](../../../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md), then there exists one and only one [straight line](Straight%20Line.md) $l$ which contains both points, i.e. $P_1 \in l$ and $P_2 \in l$.
 >
 >>[!PROOF]-
 >>

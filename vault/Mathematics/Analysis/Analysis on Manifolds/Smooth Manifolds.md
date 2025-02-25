@@ -19,7 +19,7 @@ tags:
 
 >[!DEFINITION] Definition: Smooth Structure
 >
->A **smooth structure** on a [manifold](../../../Geometry/Manifolds/index.md) is a [maximal](../../Geometry/Manifolds/Coordinate%20Systems/Atlases.md) [smooth atlas](Smooth%20Manifolds.md).
+>A **smooth structure** on a [manifold](../../Geometry/Manifolds/Manifolds.md) is a [maximal](../../Geometry/Manifolds/Coordinate%20Systems/Atlases.md) [smooth atlas](Smooth%20Manifolds.md).
 >
 >>[!NOTE]
 >>
@@ -31,7 +31,7 @@ tags:
 
 >[!DEFINITION] Definition: Smooth Manifold
 >
->A **smooth manifold** $(M, \mathcal{S})$ is a [manifold](../../../Geometry/Manifolds/index.md) $M$ equipped with a [smooth structure](Smooth%20Manifolds.md) $\mathcal{S}$.
+>A **smooth manifold** $(M, \mathcal{S})$ is a [manifold](../../Geometry/Manifolds/Manifolds.md) $M$ equipped with a [smooth structure](Smooth%20Manifolds.md) $\mathcal{S}$.
 >
 >>[!NOTE]
 >>

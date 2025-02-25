@@ -9,7 +9,7 @@ tags:
 
 >[!DEFINITION] Definition: Transition Map
 >
->Let $(U_{\alpha}, \phi_{\alpha})$ and $(U_{\beta}, \phi_{\beta})$ be two [charts](index.md) for an $n$-[manifold](../index.md) such that the [intersection](../../../Set%20Theory/Set%20Operations.md) $U_{\alpha} \cap U_{\beta}$ is [nonempty](../../../Set%20Theory/The%20Empty%20Set.md).
+>Let $(U_{\alpha}, \phi_{\alpha})$ and $(U_{\beta}, \phi_{\beta})$ be two [charts](index.md) for an $n$-[manifold](../Manifolds.md) such that the [intersection](../../../Set%20Theory/Set%20Operations.md) $U_{\alpha} \cap U_{\beta}$ is [nonempty](../../../Set%20Theory/The%20Empty%20Set.md).
 >
 >The **transition map** from $(U_{\alpha}, \phi_{\alpha})$ to $(U_{\beta}, \phi_{\beta})$ is the [homeomorphism](../../../Topology/Continuity/Homeomorphisms/index.md) $\tau_{a\to b}: \phi_\alpha(U_\alpha \cap U_\beta) \to \phi_\beta(U_\alpha \cap U_\beta)$ which maps the [image](../../../Analysis/Functions/index.md) of $U_\alpha \cap U_\beta$ under $\phi_\alpha$ to its [image](../../../Analysis/Functions/index.md) under $\phi_\beta$ by [composing](../../../Analysis/Functions/Composition.md) $\phi_\beta$ and the [inverse](../../../Analysis/Functions/Types%20of%20Functions/Injection.md) of $\phi_\alpha$:
 >

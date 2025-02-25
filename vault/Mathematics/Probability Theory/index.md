@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Probability Theory
 tags:
   - probability-theory
   - mathematics

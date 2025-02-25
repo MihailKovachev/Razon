@@ -12,16 +12,16 @@ tags:
 
 >[!DEFINITION] Definition: Incircle
 >
->An **incircle** of a [polygon](./index.md) is a [circle](../Plane%20Curves/Circles/index.md) in the polygon's [plane](../../Surfaces/Planes.md) which is [tangent](../Plane%20Curves/Circles/Tangents%20Lines%20to%20a%20Circle.md) to all of its [sides](./index.md).
+>An **incircle** of a [polygon](./index.md) is a [circle](../Plane%20Curves/Circles/Circle.md) in the polygon's [plane](../../Surfaces/Planes.md) which is [tangent](../Plane%20Curves/Circles/Configurations%20of%20Lines%20and%20Circles.md) to all of its [sides](./index.md).
 >
 >>[!DEFINITION] Definition: Inradius
 >>
->>A [radius](../Plane%20Curves/Circles/index.md) of an [incircle](Tangential%20Polygons.md) is known as an **inradius**.
+>>A [radius](../Plane%20Curves/Circles/Circle.md) of an [incircle](Tangential%20Polygons.md) is known as an **inradius**.
 >>
 >
 >>[!DEFINITION] Definition: Incenter
 >>
->>The [center](../Plane%20Curves/Circles/index.md) of an [incircle](Tangential%20Polygons.md) is known as an **incenter**.
+>>The [center](../Plane%20Curves/Circles/Circle.md) of an [incircle](Tangential%20Polygons.md) is known as an **incenter**.
 >>
 >
 

@@ -27,7 +27,7 @@ tags:
 
 >[!THEOREM] Theorem: Extension of a Line Segment
 >
->For each [line segment](../Straight%20Lines/Line%20Segments.md) $s$ there exists one and only one [straight line](../Straight%20Lines/index.md) $l$ which contains $l$, i.e. $s \subset l$.
+>For each [line segment](../Straight%20Lines/Line%20Segments.md) $s$ there exists one and only one [straight line](Straight%20Line.md) $l$ which contains $l$, i.e. $s \subset l$.
 >
 >>[!PROOF]-
 >>
@@ -36,7 +36,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Extension of a Line Segment
 >>
->>The **extension** of a [line segment](../Straight%20Lines/Line%20Segments.md) is the unique [straight line](../Straight%20Lines/index.md) which contains it.
+>>The **extension** of a [line segment](../Straight%20Lines/Line%20Segments.md) is the unique [straight line](Straight%20Line.md) which contains it.
 >>
 
 

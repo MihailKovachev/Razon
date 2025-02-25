@@ -8,9 +8,9 @@ tags:
 
 >[!THEOREM] Theorem: Subspaces of Manifolds
 >
->Let $(S, \tau_S)$ be a [subspace](../../Topology/Topological%20Subspaces.md) of an $n$-[manifold](./index.md).
+>Let $(S, \tau_S)$ be a [subspace](../../Topology/Topological%20Subspaces.md) of an $n$-[manifold](Manifolds.md).
 >
->If $S$ is [open](../../Topology/Topological%20Spaces/Open%20Sets.md), then $(S, \tau_S)$ is also an $n$-[manifold](./index.md).
+>If $S$ is [open](../../Topology/Topological%20Spaces/Open%20Sets.md), then $(S, \tau_S)$ is also an $n$-[manifold](Manifolds.md).
 >
 >>[!PROOF]-
 >>
@@ -20,7 +20,7 @@ tags:
 
 >[!THEOREM] Theorem: Local Compactness of Manifolds
 >
->Every [manifold](./index.md) is [locally compact](../../Topology/Compactness/Local%20Compactness.md).
+>Every [manifold](Manifolds.md) is [locally compact](../../Topology/Compactness/Local%20Compactness.md).
 >
 >>[!PROOF]-
 >>
