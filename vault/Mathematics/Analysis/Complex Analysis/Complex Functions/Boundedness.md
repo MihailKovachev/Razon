@@ -9,7 +9,7 @@ tags:
 
 >[!DEFINITION] Definition: Boundedness of Complex Functions
 >
->A [complex function](Complex%20Functions.md) $f: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{C}$ is **bounded** on a [subset](../../../Set%20Theory/index.md) $S \subseteq \mathcal{D}$ if there exists some $B \gt 0$ such that
+>A [complex function](Complex%20Functions.md) $f: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{C}$ is **bounded** on a [subset](../../../Set%20Theory/Sets.md) $S \subseteq \mathcal{D}$ if there exists some $B \gt 0$ such that
 >
 >$$
 >|f(z)| \le B \qquad \forall z \in S

@@ -10,9 +10,9 @@ tags:
 
 >[!DEFINITION] Definition: Cover
 >
->Let $X$ be a [set](../../Set%20Theory/index.md).
+>Let $X$ be a [set](../../Set%20Theory/Sets.md).
 >
->A [collection](../../Set%20Theory/Collections/index.md) $\mathcal{C}$ of [subsets](../../Set%20Theory/index.md) of $X$ is a **cover** of $X$ iff $X$ is a [subset](../../Set%20Theory/index.md) of the [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of $\mathcal{C}$.
+>A [collection](../../Set%20Theory/Collections/index.md) $\mathcal{C}$ of [subsets](../../Set%20Theory/Sets.md) of $X$ is a **cover** of $X$ iff $X$ is a [subset](../../Set%20Theory/Sets.md) of the [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of $\mathcal{C}$.
 >
 >$$
 >X \subseteq \bigcup \mathcal{C}
@@ -21,7 +21,7 @@ tags:
 
 >[!DEFINITION] Definition: Subcover
 >
->Let $X$ be a [set](../../Set%20Theory/index.md) and let $\mathcal{C}$ be a [cover](./index.md#covers) of $X$.
+>Let $X$ be a [set](../../Set%20Theory/Sets.md) and let $\mathcal{C}$ be a [cover](./index.md#covers) of $X$.
 >
 >A **subcover** of $\mathcal{C}$ is [subcollection](../../Set%20Theory/Collections/index.md) of $\mathcal{C}$ which is still a [cover](./index.md#covers) of $X$.
 >
@@ -41,7 +41,7 @@ tags:
 >
 >>[!NOTE] Note: Compactness of a Subset
 >>
->>A [subset](../../Set%20Theory/index.md) of a [topological space](../Topological%20Spaces/index.md) is called compact iff it is [compact](/index.md#compactness) as a [subspace](../Topological%20Subspaces.md).
+>>A [subset](../../Set%20Theory/Sets.md) of a [topological space](../Topological%20Spaces/index.md) is called compact iff it is [compact](/index.md#compactness) as a [subspace](../Topological%20Subspaces.md).
 >>
 >
 

@@ -23,7 +23,7 @@ tags:
 >
 >Let $(M, d)$ be a [metric space](./index.md).
 >
->The **distance** between a point $x \in M$ and a [subset](../../Set%20Theory/index.md) $S \subseteq M$ is the [infimum](../../Set%20Theory/Ordering/Boundedness.md) of the [#^distance-between-points](#^distance-between-points) between $x$ and the points of $S$.
+>The **distance** between a point $x \in M$ and a [subset](../../Set%20Theory/Sets.md) $S \subseteq M$ is the [infimum](../../Set%20Theory/Ordering/Boundedness.md) of the [#^distance-between-points](#^distance-between-points) between $x$ and the points of $S$.
 >
 >$$
 >\inf \{d(x, s) \mid s \in S\}

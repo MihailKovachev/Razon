@@ -8,7 +8,7 @@ tags:
 
 >[!DEFINITION] Definition: Function
 >
->A **function** $f: D \to C$ from a [set](../../Set%20Theory/index.md) $D$ to a [set](../../Set%20Theory/index.md) $C$ is a [right-unique](../../Set%20Theory/Relations/Right-Unique%20Relation.md) [relation](../../Set%20Theory/Relations/index.md) $f \subseteq D\times C$.
+>A **function** $f: D \to C$ from a [set](../../Set%20Theory/Sets.md) $D$ to a [set](../../Set%20Theory/Sets.md) $C$ is a [right-unique](../../Set%20Theory/Relations/Right-Unique%20Relation.md) [relation](../../Set%20Theory/Relations/index.md) $f \subseteq D\times C$.
 >
 >![](res/Function.drawio.svg)
 >
@@ -24,7 +24,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Image
 >>
->>The **image** of $f$ is the [set](../../Set%20Theory/index.md) of all $y \in C$ for which there is at least one $x \in \mathcal{D}$ such that $y = f(x)$.
+>>The **image** of $f$ is the [set](../../Set%20Theory/Sets.md) of all $y \in C$ for which there is at least one $x \in \mathcal{D}$ such that $y = f(x)$.
 >>
 >>$$
 >>\{f(x) \mid x \in D\}
@@ -55,7 +55,7 @@ tags:
 >
 >Let $f: X \to Y$ be a [function](./index.md).
 >
->The **inverse image** of a [subset](../../Set%20Theory/index.md) $S \subseteq Y$ under $f$ is the subset of $X$ defined as
+>The **inverse image** of a [subset](../../Set%20Theory/Sets.md) $S \subseteq Y$ under $f$ is the subset of $X$ defined as
 >
 >$$
 >\{x \in X \mid f(x) \in S \}

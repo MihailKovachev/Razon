@@ -1,5 +1,5 @@
 ---
-title: Manifolds
+title: Closed Manifolds
 tags:
     - manifolds
     - geometry

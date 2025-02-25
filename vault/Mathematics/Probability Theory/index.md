@@ -14,7 +14,7 @@ tags:
 >**Randomness** is an expression of the limits of our knowledge about future events.
 >
 
-The mathematical framework for studying randomness and its properties is built upon the foundations of [set theory](../Set%20Theory/index.md). We usually frame this study in the terminology of [experiments](Ex[experiments](./index.md)m an experiment, it has a particular outcome. We group all possible outcomes in the so-called [sample space](E[sample space](./index.md)e how often each outcome or a combination of outcomes (also known as an [event](Experime[event](./index.md) sample space to determine [probabilities](Probability.md).
+The mathematical framework for studying randomness and its properties is built upon the foundations of [set theory](../Set%20Theory/Sets.md). We usually frame this study in the terminology of [experiments](Ex[experiments](./index.md)m an experiment, it has a particular outcome. We group all possible outcomes in the so-called [sample space](E[sample space](./index.md)e how often each outcome or a combination of outcomes (also known as an [event](Experime[event](./index.md) sample space to determine [probabilities](Probability.md).
 
 # Experiments
 
@@ -25,7 +25,7 @@ The mathematical framework for studying randomness and its properties is built u
 
 >[!DEFINITION] Definition: Sample Space
 >
->The **sample space** of an [experiment](./index.md#experiments) is the [set](../Set%20Theory/index.md) of all possible outcomes of said experiment.
+>The **sample space** of an [experiment](./index.md#experiments) is the [set](../Set%20Theory/Sets.md) of all possible outcomes of said experiment.
 >
 >>[!EXAMPLE]- Example: Flipping a Coin
 >>
@@ -53,7 +53,7 @@ The mathematical framework for studying randomness and its properties is built u
 
 >[!DEFINITION] Definition: Event
 >
->An **event** is any [subset](../Set%20Theory/index.md) of the [sample space](./index.md#experiments) of an [experiment](./index.md#experiments).
+>An **event** is any [subset](../Set%20Theory/Sets.md) of the [sample space](./index.md#experiments) of an [experiment](./index.md#experiments).
 >
 >>[!INTUITION]-
 >>

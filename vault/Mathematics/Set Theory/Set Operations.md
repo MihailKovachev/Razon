@@ -9,7 +9,7 @@ tags:
 
 >[!DEFINITION] Definition: Union
 >
->The **union** of two [sets](./index.md) $A$ and $B$ is the set which contains exactly the elements which are in $A$, in $B$ or in both $A$ and $B$.
+>The **union** of two [sets](Sets.md) $A$ and $B$ is the set which contains exactly the elements which are in $A$, in $B$ or in both $A$ and $B$.
 >
 >$$
 >\{x \mid x\in A  \lor x\in B\}
@@ -27,7 +27,7 @@ tags:
 
 >[!THEOREM] Theorem: Cardinality of the Set Union
 >
->The [union](Set%20Operations.md#union) of two [sets](./index.md) $A$ and $B$ has [cardinality](Cardinality/index.md)
+>The [union](Set%20Operations.md#union) of two [sets](Sets.md) $A$ and $B$ has [cardinality](Cardinality/index.md)
 >
 >$$
 >|A\cup B| = |A|+|B|-|A \cap B|
@@ -41,7 +41,7 @@ tags:
 
 >[!THEOREM] Theorem: Commutativity of the Set Union
 >
->The [union](Set%20Operations.md#union) of two [sets](./index.md) $A$ and $B$ is commutative.
+>The [union](Set%20Operations.md#union) of two [sets](Sets.md) $A$ and $B$ is commutative.
 >
 >$$
 >A\cup B = B \cup A
@@ -57,7 +57,7 @@ tags:
 
 >[!DEFINITION] Definition: Intersection
 >
->The **intersection** of two [sets](./index.md) $A$ and $B$ is the set of all elements shared by $A$ and $B$.
+>The **intersection** of two [sets](Sets.md) $A$ and $B$ is the set of all elements shared by $A$ and $B$.
 >
 >$$
 >\{ x \mid x\in A \land x \in B\}
@@ -75,7 +75,7 @@ tags:
 
 >[!THEOREM] Theorem: Commutativity of Set Intersection
 >
->The [intersection](Set%20Operations.md#intersection) of two [sets](./index.md) $A$ and $B$ is commutative.
+>The [intersection](Set%20Operations.md#intersection) of two [sets](Sets.md) $A$ and $B$ is commutative.
 >
 >$$
 >A \cap B = B \cap A
@@ -89,7 +89,7 @@ tags:
 
 >[!THEOREM] Theorem: Associativity of Set Intersection
 >
->The [intersection](Set%20Operations.md#intersection) operation is associative for all [sets](./index.md) $A, B, C$:
+>The [intersection](Set%20Operations.md#intersection) operation is associative for all [sets](Sets.md) $A, B, C$:
 >
 >$$
 >(A\cap B)\cap C = A\cap(B\cap C)
@@ -105,7 +105,7 @@ tags:
 
 >[!DEFINITION] Definition: Set Difference
 >
->The **set difference** $A \setminus B$ of two [sets](./index.md) $A$ and $B$ is the set which contains exactly the elements in $A$ which are not elements of $B$.
+>The **set difference** $A \setminus B$ of two [sets](Sets.md) $A$ and $B$ is the set which contains exactly the elements in $A$ which are not elements of $B$.
 >
 >$$
 >\{x \mid x \in A \land x \notin B\}
@@ -123,7 +123,7 @@ tags:
 
 >[!DEFINITION] Definition: Cartesian Product
 >
->The **Cartesian product** $A \times B$ of two [sets](./index.md) $A$ and $B$ is the [set](./index.md) of all [ordered pairs](./Ordered%20Pairs.md) $(a;b)$ where $a \in A$ and $b \in B$.
+>The **Cartesian product** $A \times B$ of two [sets](Sets.md) $A$ and $B$ is the [set](Sets.md) of all [ordered pairs](./Ordered%20Pairs.md) $(a;b)$ where $a \in A$ and $b \in B$.
 >
 >$$
 >A\times B \overset{\text{def}}{=} \{(a; b)\mid a\in A \land b \in B\}
@@ -134,7 +134,7 @@ tags:
 
 >[!THEOREM] Theorem: Cardinality of the Cartesian Product
 >
->The [Cartesian product](Set%20Operations.md#cartesian%20product) of two [sets](./index.md) $A$ and $B$ has [cardinality](Cardinality/index.md)
+>The [Cartesian product](Set%20Operations.md#cartesian%20product) of two [sets](Sets.md) $A$ and $B$ has [cardinality](Cardinality/index.md)
 >
 >$$
 >|A \times B| = |B \times A| = |A|\cdot |B|

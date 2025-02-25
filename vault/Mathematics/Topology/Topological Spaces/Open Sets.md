@@ -11,7 +11,7 @@ tags:
 >
 >Let $(X, \tau)$ be a [topological space](./index.md).
 >
->A [subset](../../Set%20Theory/index.md) of $X$ is **open** iff it is an element of $\tau$.
+>A [subset](../../Set%20Theory/Sets.md) of $X$ is **open** iff it is an element of $\tau$.
 >
 
 ## Openness Criteria
@@ -20,7 +20,7 @@ tags:
 >
 >Let $(X, \tau)$ be a [topological space](./index.md).
 >
->A [subset](../../Set%20Theory/index.md) $U \subseteq X$ is [open](Open%20Sets.md) if and only if each $x \in U$ has a [neighbourhood](Neighborhoods.md) $N(x)$ such that $N(x) \subseteq U$.
+>A [subset](../../Set%20Theory/Sets.md) $U \subseteq X$ is [open](Open%20Sets.md) if and only if each $x \in U$ has a [neighbourhood](Neighborhoods.md) $N(x)$ such that $N(x) \subseteq U$.
 >
 >>[!PROOF]-
 >>
@@ -40,7 +40,7 @@ tags:
 >
 >Let $(X, \tau)$ be a [topological space](./index.md).
 >
->A [subset](../../Set%20Theory/index.md) $U \subseteq X$ is [open](Open%20Sets.md) if and only if for each $x \in U$ there exists an open set $V$ such that $V \subseteq U$ and $x \in V$.
+>A [subset](../../Set%20Theory/Sets.md) $U \subseteq X$ is [open](Open%20Sets.md) if and only if for each $x \in U$ there exists an open set $V$ such that $V \subseteq U$ and $x \in V$.
 >
 >>[!PROOF]-
 >>
@@ -52,7 +52,7 @@ tags:
 >
 >Let $(X, \tau)$ be a [topological space](./index.md).
 >
->A [subset](../../Set%20Theory/index.md) $S \subseteq X$ is [open](Open%20Sets.md) if and only if it is equal to its own [interior](../Interior,%20Boundary,%20Exterior/Interior.md).
+>A [subset](../../Set%20Theory/Sets.md) $S \subseteq X$ is [open](Open%20Sets.md) if and only if it is equal to its own [interior](../Interior,%20Boundary,%20Exterior/Interior.md).
 >
 >$$
 >S = \operatorname{int} S
@@ -72,7 +72,7 @@ tags:
 >>\operatorname{int} S \overset{\text{def}}{=} \bigcup \{O \subseteq S \mid O \text{ is open}\}
 >>$$
 >>
->>Since $S\subseteq S$ and $S$ is [open](Open%20Sets.md), we know that $S \in \{O \subseteq S \mid O \text{ is open}\}$ and thus $S \subseteq \operatorname{int} S$. However, the [interior](../Interior,%20Boundary,%20Exterior/Interior.md) is a [subset](../../Set%20Theory/index.md) of $S$. Since $S \subseteq \operatorname{int} S$ and $\operatorname{int} S \subseteq S$, we know deduce that $S = \operatorname{int} S$.
+>>Since $S\subseteq S$ and $S$ is [open](Open%20Sets.md), we know that $S \in \{O \subseteq S \mid O \text{ is open}\}$ and thus $S \subseteq \operatorname{int} S$. However, the [interior](../Interior,%20Boundary,%20Exterior/Interior.md) is a [subset](../../Set%20Theory/Sets.md) of $S$. Since $S \subseteq \operatorname{int} S$ and $\operatorname{int} S \subseteq S$, we know deduce that $S = \operatorname{int} S$.
 >>
 >>**Proof of (II):**
 >>

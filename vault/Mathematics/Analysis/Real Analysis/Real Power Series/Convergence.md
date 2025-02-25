@@ -32,7 +32,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Interval of Convergence
 >>
->>The [set](../../../Set%20Theory/index.md) of all $x \in \mathbb{R}$ for which a [power series](./index.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n (x-c)^n$ [converges](Convergence.md) is known as its **interval of convergence** and if this interval is finite, then we call half of its length the **radius of convergence**.
+>>The [set](../../../Set%20Theory/Sets.md) of all $x \in \mathbb{R}$ for which a [power series](./index.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n (x-c)^n$ [converges](Convergence.md) is known as its **interval of convergence** and if this interval is finite, then we call half of its length the **radius of convergence**.
 >>
 >>![](res/Interval%20of%20convergence.drawio.svg)
 >>

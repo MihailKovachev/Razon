@@ -9,7 +9,7 @@ tags:
 
 >[!DEFINITION] Definition: Exterior of a Set
 >
->Let $(X, \tau_X)$ be a [topological space](../Topological%20Spaces/index.md) and let $S$ be a [subset](../../../Set%20Theory/index.md) of $X$.
+>Let $(X, \tau_X)$ be a [topological space](../Topological%20Spaces/index.md) and let $S$ be a [subset](../../Set%20Theory/Sets.md) of $X$.
 >
 >The **exterior** of $S$ is the [complement](../../../Set%20Theory/Complement.md) of its [closure](Closure.md) in $X$.
 >
@@ -29,7 +29,7 @@ tags:
 
 >[!DEFINITION] Definition: Exterior Point
 >
->Let $(X, \tau_X)$ be a [topological space](../Topological%20Spaces/index.md) and let $S$ be a [subset](../../../Set%20Theory/index.md) of $X$.
+>Let $(X, \tau_X)$ be a [topological space](../Topological%20Spaces/index.md) and let $S$ be a [subset](../../Set%20Theory/Sets.md) of $X$.
 >
 >A point $p \in X$ is an **exterior point** of $S$ iff it belongs to the [exterior](Exterior.md) of $S$.
 >
@@ -41,7 +41,7 @@ tags:
 >
 >Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md).
 >
->The [](Exterior.md#^exterior) $\operatorname{Ext} S$ of each [subset](../../../Set%20Theory/index.md) $S \subseteq X$ is [closed](../Topological%20Spaces/Closed%20Sets.md).
+>The [](Exterior.md#^exterior) $\operatorname{Ext} S$ of each [subset](../../Set%20Theory/Sets.md) $S \subseteq X$ is [closed](../Topological%20Spaces/Closed%20Sets.md).
 >
 >>[!PROOF]-
 >>

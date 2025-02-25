@@ -7,7 +7,7 @@ tags:
 
 >[!DEFINITION] Definition: Relation
 >
->A **relation** $R \subseteq A \times B$ between two [sets](../index.md) $A$ and $B$ is any [subset](../index.md) of the [Cartesian product](../Set%20Operations.md#cartesian%20product) $A\times B$.
+>A **relation** $R \subseteq A \times B$ between two [sets](../Sets.md) $A$ and $B$ is any [subset](../Sets.md) of the [Cartesian product](../Set%20Operations.md#cartesian%20product) $A\times B$.
 >
 >>[!NOTATION]-
 >>

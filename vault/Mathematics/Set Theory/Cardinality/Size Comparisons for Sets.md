@@ -9,7 +9,7 @@ tags:
 
 >[!DEFINITION] Definition: Cardinality Comparisons
 >
->Let $A$ and $B$ be two [sets](../index.md).
+>Let $A$ and $B$ be two [sets](../Sets.md).
 >
 >We say that:
 >- the [cardinality](./index.md) of $A$ is **equal** to the [cardinality](./index.md) of $B$, written as $|A| = |B|$, if there is a [bijection](../../Analysis/Functions/Types%20of%20Functions/Bijection.md) from $A$ to $B$;

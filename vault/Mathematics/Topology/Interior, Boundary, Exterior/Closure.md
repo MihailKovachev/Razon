@@ -9,7 +9,7 @@ tags:
 
 >[!THEOREM] Theorem: Closure
 >
->Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md) let $A$ be a [subset](../../Set%20Theory/index.md) of $X$.
+>Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md) let $A$ be a [subset](../../Set%20Theory/Sets.md) of $X$.
 >
 >The [union](../../Set%20Theory/Set%20Operations.md) of the [interior](Interior.md) $\operatorname{int} A$ of $A$ with the [boundary](Boundary.md) $\partial A$ of $A$ is [closed](../Topological%20Spaces/Closed%20Sets.md).
 >
@@ -20,7 +20,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Closure
 >>
->>Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md) and let $A$ be a [subset](../../Set%20Theory/index.md) of $X$.
+>>Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md) and let $A$ be a [subset](../../Set%20Theory/Sets.md) of $X$.
 >>
 >>The **closure** of $A$ is the [union](../../Set%20Theory/Set%20Operations.md) of its [interior](Interior.md) and its [boundary](Boundary.md).
 >>
@@ -43,7 +43,7 @@ tags:
 >
 >Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md).
 >
->Every [subset](../../Set%20Theory/index.md) $S$ is a [subset](../../Set%20Theory/index.md) of its own [closure](Closure.md).
+>Every [subset](../../Set%20Theory/Sets.md) $S$ is a [subset](../../Set%20Theory/Sets.md) of its own [closure](Closure.md).
 >
 >$$
 >S \subseteq \overline{S}
@@ -59,7 +59,7 @@ tags:
 
 >[!THEOREM]+ Theorem: Closure of a Closure
 >
->Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md) and let $S$ be a [subset](../../Set%20Theory/index.md) of $X$.
+>Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md) and let $S$ be a [subset](../../Set%20Theory/Sets.md) of $X$.
 >
 >The [closure](Closure.md) of the [closure](Closure.md) of $S$ is still the [closure](Closure.md) of $S$.
 >
@@ -75,7 +75,7 @@ tags:
 
 >[!THEOREM]+ Theorem: Closure of a Union
 >
->Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md) and let $A$ and $B$ be two arbitrary [subsets](../../Set%20Theory/index.md) of $X$.
+>Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md) and let $A$ and $B$ be two arbitrary [subsets](../../Set%20Theory/Sets.md) of $X$.
 >
 >The [closure](Closure.md) of the [union](../../Set%20Theory/Set%20Operations.md) of $A$ and $B$ is the [union](../../Set%20Theory/Set%20Operations.md) of the [closures](Closure.md) of $A$ and $B$.
 >

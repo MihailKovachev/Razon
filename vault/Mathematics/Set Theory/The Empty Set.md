@@ -7,7 +7,7 @@ tags:
 
 >[!AXIOM] Axiom: Existence of an Empty Set
 >
->There exists a [set](./index.md) with no elements.
+>There exists a [set](Sets.md) with no elements.
 >
 >$$
 >\exists A \forall x(x \notin A)
@@ -41,7 +41,7 @@ tags:
 
 >[!THEOREM] Theorem
 >
->The empty set is a [subset](./index.md) of all [sets](./index.md).
+>The empty set is a [subset](Sets.md) of all [sets](Sets.md).
 >
 >>[!PROOF]-
 >>

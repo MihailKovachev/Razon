@@ -9,7 +9,7 @@ tags:
 
 >[!DEFINITION] Definition: Union of a Collection
 >
->The **union** of a [collection](./index.md) $\mathcal{C}$ is the [set](../index.md) of all elements which belong to at least one of the sets in $\mathcal{C}$.
+>The **union** of a [collection](./index.md) $\mathcal{C}$ is the [set](../Sets.md) of all elements which belong to at least one of the sets in $\mathcal{C}$.
 >
 >$$
 >\{x \mid \exists E\in \mathcal{C}  : x\in E \}
@@ -35,7 +35,7 @@ tags:
 
 >[!DEFINITION] Definition: Intersection of a Collection
 >
->The **intersection** of a [collection](./index.md) $\mathcal{C}$ is the [set](../index.md) of elements which belong to all sets of $\mathcal{C}$.
+>The **intersection** of a [collection](./index.md) $\mathcal{C}$ is the [set](../Sets.md) of elements which belong to all sets of $\mathcal{C}$.
 >
 >$$
 >\{x \mid \forall E \in \mathcal{C}:  x \in \mathcal{C}\}

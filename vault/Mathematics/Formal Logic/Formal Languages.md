@@ -9,7 +9,7 @@ tags:
 
 >[!DEFINITION] Definition: Alphabet
 >
->An **alphabet** is a [set](../../Set%20Theory/index.md) whose elements we call **symbols**.
+>An **alphabet** is a [set](../Set%20Theory/Sets.md) whose elements we call **symbols**.
 >
 
 ## Expressions
@@ -29,7 +29,7 @@ tags:
 >>
 >>Expressions are usually written by listing their symbols directly, instead of placing them between parentheses in a comma-separated list, as is usually the case with tuples. For example, the expression $(a, 2, s, s, 1,w)$ is written as $a2ss1w$.
 >>
->>The [set](../../Set%20Theory/index.md) of all expressions which can be formed using the alphabet $\mathcal{A}$ is denoted by $\mathcal{A}^\ast$.
+>>The [set](../Set%20Theory/Sets.md) of all expressions which can be formed using the alphabet $\mathcal{A}$ is denoted by $\mathcal{A}^\ast$.
 >>
 
 >[!DEFINITION] Definition: Concatenation
@@ -69,7 +69,7 @@ tags:
 >
 >Let $\mathcal{A}$ be an [alphabet](Formal%20Languages.md#symbols%20and%20alphabets).
 >
->A **syntax** is a [set](../../Set%20Theory/index.md) of rules that specify which [expressions](Formal%20Languages.md#expressions) in $\mathcal{A}$ are considered [well-formed formulas](Formal%20Languages.md#syntax) and how to generate new wffs from existing ones.
+>A **syntax** is a [set](../Set%20Theory/Sets.md) of rules that specify which [expressions](Formal%20Languages.md#expressions) in $\mathcal{A}$ are considered [well-formed formulas](Formal%20Languages.md#syntax) and how to generate new wffs from existing ones.
 >
 
 # Formal Languages

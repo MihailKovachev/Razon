@@ -43,7 +43,7 @@ tags:
 >>
 >>A point $p \in M$ is an **interior point** of $M$ iff $p$ has a [neighbourhood](../../Topology/Topological%20Spaces/Neighborhoods.md) which is [homeomorphic](../../Topology/Continuity/Homeomorphisms/Homeomorphic%20Spaces.md) to the [Euclidean space](../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$.
 >>
->>The **interior** of $M$ is the [set](../../Set%20Theory/index.md) of all its interior points.
+>>The **interior** of $M$ is the [set](../../Set%20Theory/Sets.md) of all its interior points.
 >>
 >>>[!NOTATION]
 >>>
@@ -70,7 +70,7 @@ tags:
 >>
 >>>[!WARNING]
 >>>
->>>Despite the name and terminology used, the interior and boundary of a manifold with boundary $M$ are not necessarily the same as its [interior](../../Topology/Interior,%20Boundary,%20Exterior/Interior.md) and [boundary](../../Topology/Interior,%20Boundary,%20Exterior/Boundary.md) when $M$ is considered a [subset](../../Set%20Theory/index.md) of some other [topological space](../../Topology/Topological%20Spaces/index.md).
+>>>Despite the name and terminology used, the interior and boundary of a manifold with boundary $M$ are not necessarily the same as its [interior](../../Topology/Interior,%20Boundary,%20Exterior/Interior.md) and [boundary](../../Topology/Interior,%20Boundary,%20Exterior/Boundary.md) when $M$ is considered a [subset](../../Set%20Theory/Sets.md) of some other [topological space](../../Topology/Topological%20Spaces/index.md).
 >>>
 >>
 >

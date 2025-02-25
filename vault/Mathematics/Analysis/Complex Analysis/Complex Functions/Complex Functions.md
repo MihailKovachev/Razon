@@ -10,7 +10,7 @@ tags:
 
 >[!DEFINITION] Definition: Univariate Complex Function
 >
->A **complex function** is a [complex-valued function](../Complex-Valued%20Functions.md), whose [domain](../../Functions/index.md) is a [subset](../../../Set%20Theory/index.md) of the [complex numbers](../../../Algebra/Fields/The%20Complex%20Numbers/index.md):
+>A **complex function** is a [complex-valued function](../Complex-Valued%20Functions.md), whose [domain](../../Functions/index.md) is a [subset](../../../Set%20Theory/Sets.md) of the [complex numbers](../../../Algebra/Fields/The%20Complex%20Numbers/index.md):
 >
 >$$
 >f: \mathcal{D} \subseteq \mathbb{C} \to \mathbb{C}

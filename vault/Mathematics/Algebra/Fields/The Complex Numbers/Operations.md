@@ -95,7 +95,7 @@ tags:
 
 >[!THEOREM] Theorem: The Field of the Complex Numbers
 >
->The [set](../../../Set%20Theory/index.md) of all [complex numbers](./index.md) $\mathbb{C}$ forms a [field](../index.md) together with the [addition and multiplication](Operations.md) defined on it.
+>The [set](../../../Set%20Theory/Sets.md) of all [complex numbers](./index.md) $\mathbb{C}$ forms a [field](../index.md) together with the [addition and multiplication](Operations.md) defined on it.
 >
 >>[!PROOF]-
 >>

@@ -72,7 +72,7 @@ tags:
 >>>\qquad \int_a^b f
 >>>$$
 >>>
->>>The main downside of this notation is that it implies that the order of $a$ and $b$ matters, which is not the case - what matters is the actual [set](../../../../../Set%20Theory/index.md) which $[a;b]$ represents. To emphasise this, we can use the following notations:
+>>>The main downside of this notation is that it implies that the order of $a$ and $b$ matters, which is not the case - what matters is the actual [set](../../../../../Set%20Theory/Sets.md) which $[a;b]$ represents. To emphasise this, we can use the following notations:
 >>>
 >>>$$
 >>>\int_{[a;b]} f \qquad \int_D f
@@ -155,7 +155,7 @@ tags:
 
 >[!THEOREM] Theorem: Substitution
 >
->Let $g: [a;b] \to \mathbb{R}$ and $f: [c;d] \to \mathbb{R}$ be [real functions](../../Real%20Functions.md) such that the [image](../../../../Functions/index.md) of $g$ is a [subset](../../../../../Set%20Theory/index.md) of $[c;d]$, i.e. $g([a;b]) \subseteq [c;d]$.
+>Let $g: [a;b] \to \mathbb{R}$ and $f: [c;d] \to \mathbb{R}$ be [real functions](../../Real%20Functions.md) such that the [image](../../../../Functions/index.md) of $g$ is a [subset](../../../../../Set%20Theory/Sets.md) of $[c;d]$, i.e. $g([a;b]) \subseteq [c;d]$.
 >
 >If $f$ is [continuous](../../Continuity.md) and $g$ is [continuously differentiable](../../Differentiation/Derivatives.md), then the following [definite Integral](./index.md) can be solved via substitution.
 >

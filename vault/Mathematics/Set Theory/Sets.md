@@ -52,14 +52,14 @@ $$
 
 >[!DEFINITION] Definition: Equality
 >
->Two [sets](./index.md) are **equal** iff they contain the same elements.
+>Two [sets](Sets.md) are **equal** iff they contain the same elements.
 >
 
 # Subsets
 
 >[!DEFINITION] Definition: Subset
 >
->A [set](./index.md) $A$ is a **subset** of the [set](./index.md) $B$ if all elements of $A$ are also elements of $B$.
+>A [set](Sets.md) $A$ is a **subset** of the [set](Sets.md) $B$ if all elements of $A$ are also elements of $B$.
 >
 >$$
 >a \in A \implies a \in B
@@ -74,7 +74,7 @@ $$
 >
 >>[!DEFINITION] Definition: True Subset
 >>
->>A [set](./index.md) $A$ is a **true subset** of the [set](./index.md) $B$ if $A \subseteq B$ and $A \ne B$.
+>>A [set](Sets.md) $A$ is a **true subset** of the [set](Sets.md) $B$ if $A \subseteq B$ and $A \ne B$.
 >>
 >>$$
 >>(a\in A \implies a\in B) \land (\exists b \in B : b \notin A)

@@ -10,7 +10,7 @@ tags:
 
 >[!DEFINITION] Definition: Metric
 >
->Let $M$ be a [set](../../Set%20Theory/index.md).
+>Let $M$ be a [set](../../Set%20Theory/Sets.md).
 >
 >A **metric** on $M$ is a [real-valued function](../../Analysis/Real%20Analysis/Real-Valued%20Function.md) which has the following properties for all $x, y, z \in M$:
 >
@@ -28,7 +28,7 @@ tags:
 >
 >Let $(M, d)$ be a [metric space](./index.md).
 >
->The **open ball** of radius $r$ around a given $x \in M$ is the [set](../../Set%20Theory/index.md) of all elements in $M$ which are a [distance](./index.md) less than $r$ from $m$.
+>The **open ball** of radius $r$ around a given $x \in M$ is the [set](../../Set%20Theory/Sets.md) of all elements in $M$ which are a [distance](./index.md) less than $r$ from $m$.
 >
 >$$
 >\{x \in M \mid d(x, m)  \lt r\}
@@ -46,7 +46,7 @@ tags:
 
 >[!DEFINITION] Definition: Metric Space
 >
->A **metric space** $(M, d)$ is a [set](../../Set%20Theory/index.md) $M$ equipped with a [metric](./index.md) on it.
+>A **metric space** $(M, d)$ is a [set](../../Set%20Theory/Sets.md) $M$ equipped with a [metric](./index.md) on it.
 >
 
 ## The Metric Topology
@@ -72,7 +72,7 @@ tags:
 >
 >Let $(S,d)$ be a [metric space](./index.md) and let $\tau$ be the [topology](./index.md) induced on it by $d$.
 >
->A [subset](../../Set%20Theory/index.md) $U$ of $S$ is [open](../Topological%20Spaces/Open%20Sets.md) if and only if for each $u \in U$ there exists an [open ball](./index.md) $B_\varepsilon (u)$ which is contained entirely in $U$.
+>A [subset](../../Set%20Theory/Sets.md) $U$ of $S$ is [open](../Topological%20Spaces/Open%20Sets.md) if and only if for each $u \in U$ there exists an [open ball](./index.md) $B_\varepsilon (u)$ which is contained entirely in $U$.
 >
 >>[!PROOF]-
 >>

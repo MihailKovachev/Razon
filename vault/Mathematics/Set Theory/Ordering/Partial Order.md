@@ -8,7 +8,7 @@ tags:
 
 >[!DEFINITION] Definition: Partial Order
 >
->A **partial order** of a [set](../index.md) $A$ is any [relation](../Relations/index.md) $R \subseteq A \times A$ which is [reflexive](../Relations/Reflexivity.md), [transitive](../Relations/Transitivity.md) and [antisymmetric](../Relations/Symmetry.md).
+>A **partial order** of a [set](../Sets.md) $A$ is any [relation](../Relations/index.md) $R \subseteq A \times A$ which is [reflexive](../Relations/Reflexivity.md), [transitive](../Relations/Transitivity.md) and [antisymmetric](../Relations/Symmetry.md).
 >
 >>[!NOTATION]
 >>

@@ -5,11 +5,13 @@ tags:
     - mathematics
 ---
 
+# Variations without Repetitions
+
 >[!DEFINITION] Definition: Variation of a Finite Set
 >
->Let $S$ be a finite [set](../Set%20Theory/index.md).
+>Let $S$ be a finite [set](../Set%20Theory/Sets.md).
 >
->A **variation** of class $k$ is a [permutation](Permutations.md) of a [subset](../Set%20Theory/index.md) of $S$ with $k$ elements.
+>A **variation** of class $k$ is a [permutation](Permutations.md) of a [subset](../Set%20Theory/Sets.md) of $S$ with $k$ elements.
 >
 >>[!NOTE] Note: Terminology
 >>
@@ -69,6 +71,35 @@ tags:
 >>V_n^k \qquad V_k^n \qquad P_n^k \qquad P_k^n
 >>$$
 >>
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
+# Variations with Repetition
+
+>[!DEFINITION] Definition: Variation with Repetition
+>
+>Let $S = \{s_1, \dotsc, s_n\}$ be a [set](../Set%20Theory/Sets.md).
+>
+>A **variation with repetition** of $S$ of class $k$ is a $k$-[tuple](../Set%20Theory/Tuples.md) of non-necessarily unique elements from $S$.
+>
+>$$
+>(t_1, \dotsc, t_k) \qquad t_i \in S
+>$$
+>
+
+>[!THEOREM] Theorem: Total Number of Variations with Repetition
+>
+>Let $S$ be a [set](../Set%20Theory/Sets.md).
+>
+>If $S$ has $n$ elements, then the total number of [variations with repetition](Variations.md#Variations%20with%20Repetition) of class $k$, denoted by $\tilde{V}_n^k$, is $n^k$.
+>
+>$$
+>\tilde{V}_n^k = n^k
+>$$
 >
 >>[!PROOF]-
 >>

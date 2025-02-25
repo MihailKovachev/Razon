@@ -4,7 +4,7 @@
 >
 >>[!DEFINITION] Definition: Solution Space
 >>
->>The **solution space** of a [system of linear equations](System%20of%20Linear%20Equations.md) is the [set](../../../Set%20Theory/index.md) of all [tuples](../../../Set%20Theory/Tuples.md) which are [solutions](Solvability%20of%20a%20System%20of%20Linear%20Equations.md) of the system.
+>>The **solution space** of a [system of linear equations](System%20of%20Linear%20Equations.md) is the [set](../../../Set%20Theory/Sets.md) of all [tuples](../../../Set%20Theory/Tuples.md) which are [solutions](Solvability%20of%20a%20System%20of%20Linear%20Equations.md) of the system.
 >>
 >
 >>[!DEFINITION] Definition: Solvability

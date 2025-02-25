@@ -8,7 +8,7 @@ tags:
 
 >[!DEFINITION] Definition: Accumulation Point
 >
->Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md) and let $S$ be a [subset](../../Set%20Theory/index.md) of $X$.
+>Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md) and let $S$ be a [subset](../../Set%20Theory/Sets.md) of $X$.
 >
 >A point $p \in X$ is an **accumulation point** of $S$ iff every [neighbourhood](../Topological%20Spaces/Neighborhoods.md) of $p$ contains a point of $S$ different from $p$.
 >

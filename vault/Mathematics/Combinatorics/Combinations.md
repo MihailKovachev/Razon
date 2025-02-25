@@ -5,11 +5,13 @@ tags:
     - mathematics
 ---
 
+# Combinations without Repetitions
+
 >[!DEFINITION] Definition: Combination
 >
 >Let $S$ be a finite set.
 >
->A **combination** of class $k$ is a [subset](../Set%20Theory/index.md) of $S$ with $k$ elements.
+>A **combination** of class $k$ is a [subset](../Set%20Theory/Sets.md) of $S$ with $k$ elements.
 >
 >>[!NOTE]
 >>
@@ -53,6 +55,29 @@ tags:
 >>C_n^k \qquad C_k^n \qquad \binom{n}{k} 
 >>$$
 >>
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
+# Combinations with Repetition
+
+>[!DEFINITION] Definition: Combination with Repetition
+>
+>Let $S = \{s_1, \dotsc, s_n\}$ be a [set](../Set%20Theory/Sets.md).
+>
+>A **combination with repetition** of class $k$ is a [multiset](../Set%20Theory/Multisets.md) with cardinality $k$ whose elements are elements of $S$.
+>
+
+>[!THEOREM] Theorem: Total Number of Combinations with Repetition
+>
+>If $S$ is a [set](../Set%20Theory/Sets.md) with $n$ elements, then the total number of [combinations with repetition](Combinations.md#Combinations%20with%20Repetition) of class $k$, denoted by $\tilde{C}_n^k$ is the total number of [combinations without elements](Combinations.md#Combinations%20without%20Repetition) of $(n+k-1)$ elements of class $k$.
+>
+>$$
+>\tilde{C}_n^k = C_{n+k-1}^k
+>$$
 >
 >>[!PROOF]-
 >>

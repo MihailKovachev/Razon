@@ -17,7 +17,7 @@ tags:
 
 >[!THEOREM] Theorem: Equality of Ordered Pairs
 >
->Two [ordered pairs](Ordered%20Pairs.md) $(a;b)$ and $(c;d)$ are [equal](./index.md#equality) if and only if $a = b$ and $c = d$.
+>Two [ordered pairs](Ordered%20Pairs.md) $(a;b)$ and $(c;d)$ are [equal](Sets.md#equality) if and only if $a = b$ and $c = d$.
 >
 >$$
 >(a;b) = (c;d) \iff (a = b \land c=d)

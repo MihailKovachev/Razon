@@ -31,7 +31,7 @@ tags:
 
 >[!THEOREM] Theorem: Finite Subsets of Hausdorff Spaces are Closed
 >
->Every finite [subset](../../Set%20Theory/index.md) of a [Hausdorff space](Hausdorff%20Spaces.md) is [closed](Topological%20Spaces/Closed%20Sets.md).
+>Every finite [subset](../Set%20Theory/Sets.md) of a [Hausdorff space](Hausdorff%20Spaces.md) is [closed](Topological%20Spaces/Closed%20Sets.md).
 >
 >>[!PROOF]-
 >>

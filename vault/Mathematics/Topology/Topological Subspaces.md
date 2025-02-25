@@ -11,7 +11,7 @@ tags:
 >
 >Let $(X, \tau_X)$ be a [topological space](Topological%20Spaces/index.md).
 >
->For every [non-empty](../../Set%20Theory/The%20Empty%20Set.md) [subset](../../Set%20Theory/index.md) $S$ of $X$, the [collection](../../Set%20Theory/Collections/index.md)
+>For every [non-empty](../../Set%20Theory/The%20Empty%20Set.md) [subset](../Set%20Theory/Sets.md) $S$ of $X$, the [collection](../../Set%20Theory/Collections/index.md)
 >
 >$$
 >\tau_S \overset{\text{def}}{=} \{O \cap S \mid O \in \tau_X\}
@@ -32,7 +32,7 @@ tags:
 >>
 >>**Proof of (II):**
 >>
->>Let $\mathcal{U}$ be an arbitrary [subset](../../Set%20Theory/index.md) of $\tau_S$. By definition, for each $U \in \mathcal{U}$ there exists some $O_U \in \tau_X$ such that $U = O_U \cap S$.  Then
+>>Let $\mathcal{U}$ be an arbitrary [subset](../Set%20Theory/Sets.md) of $\tau_S$. By definition, for each $U \in \mathcal{U}$ there exists some $O_U \in \tau_X$ such that $U = O_U \cap S$.  Then
 >>
 >>$$
 >>\bigcup \mathcal{U} = \bigcup_{U \in \mathcal{U}} (O_U \cap S) = \left(\bigcup_{U \in \mathcal{U}} O_U\right) \cap S
@@ -61,7 +61,7 @@ tags:
 
 >[!THEOREM] Theorem: Openness in Topological Subspaces
 >
->Let $(S, \tau_S)$ be a [subspace](Topological%20Subspaces.md) of a [topological space](Topological%20Spaces/index.md) $(X, \tau_X)$ and let $U$ be a [subset](../../Set%20Theory/index.md) of $S$.
+>Let $(S, \tau_S)$ be a [subspace](Topological%20Subspaces.md) of a [topological space](Topological%20Spaces/index.md) $(X, \tau_X)$ and let $U$ be a [subset](../Set%20Theory/Sets.md) of $S$.
 >
 >If $U$ is [open](Topological%20Spaces/Open%20Sets.md) in $(S, \tau_S)$ and $S$ is [open](Topological%20Spaces/Open%20Sets.md) $(X, \tau_X)$, then $U$ is also [open](Topological%20Spaces/Open%20Sets.md) in $(X, \tau_X)$.
 >
@@ -75,7 +75,7 @@ tags:
 >
 >Let $(S, \tau_S)$ be a [subspace](Topological%20Subspaces.md) of a [topological space](Topological%20Spaces/index.md) $(X, \tau_X)$.
 >
->A [set](../../Set%20Theory/index.md) $A$ is [closed](Topological%20Spaces/Closed%20Sets.md) in $(S, \tau_S)$ if and only if it is the [intersection](../../Set%20Theory/Set%20Operations.md) of a [closed set](Topological%20Spaces/Closed%20Sets.md) of $(X, \tau_X)$ with $S$.
+>A [set](../Set%20Theory/Sets.md) $A$ is [closed](Topological%20Spaces/Closed%20Sets.md) in $(S, \tau_S)$ if and only if it is the [intersection](../../Set%20Theory/Set%20Operations.md) of a [closed set](Topological%20Spaces/Closed%20Sets.md) of $(X, \tau_X)$ with $S$.
 >
 >>[!PROOF]-
 >>
@@ -95,7 +95,7 @@ tags:
 
 >[!THEOREM] Theorem: Closedness in Topological Subspaces (II)
 >
->Let $(S, \tau_S)$ be a [subspace](Topological%20Subspaces.md) of a [topological space](Topological%20Spaces/index.md) $(X, \tau_X)$ and let $C$ be a [subset](../../Set%20Theory/index.md) of $S$.
+>Let $(S, \tau_S)$ be a [subspace](Topological%20Subspaces.md) of a [topological space](Topological%20Spaces/index.md) $(X, \tau_X)$ and let $C$ be a [subset](../Set%20Theory/Sets.md) of $S$.
 >
 >If $C$ is [closed](Topological%20Spaces/Closed%20Sets.md) in $(S, \tau_S)$ and $S$ is [closed](Topological%20Spaces/Closed%20Sets.md) $(X, \tau_X)$, then $C$ is also [closed](Topological%20Spaces/Closed%20Sets.md) in $(X, \tau_X)$.
 >

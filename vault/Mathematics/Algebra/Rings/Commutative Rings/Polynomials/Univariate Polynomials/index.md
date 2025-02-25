@@ -31,7 +31,7 @@ tags:
 >
 >Let $R$ be a [commutative ring](../../index.md).
 >
->The [set](../../../../../Set%20Theory/index.md) of all [univariate polynomials](./index.md) over $R$ form a commutative ring together with [polynomial addition](../index.md) and [polynomial multiplication](../index.md).
+>The [set](../../../../../Set%20Theory/Sets.md) of all [univariate polynomials](./index.md) over $R$ form a commutative ring together with [polynomial addition](../index.md) and [polynomial multiplication](../index.md).
 >
 >>[!NOTATION]
 >>

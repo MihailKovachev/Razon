@@ -7,5 +7,5 @@ tags:
 
 >[!DEFINITION] Definition: Singleton
 >
->A **singleton** is a [set](./index.md) with exactly one element.
+>A **singleton** is a [set](Sets.md) with exactly one element.
 >

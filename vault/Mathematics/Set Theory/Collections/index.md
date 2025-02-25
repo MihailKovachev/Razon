@@ -7,7 +7,7 @@ tags:
 
 >[!DEFINITION] Definition: Collection
 >
->A **collection** is a [set](../index.md) whose elements are only sets.
+>A **collection** is a [set](../Sets.md) whose elements are only sets.
 >
 >>[!NOTE]
 >>
@@ -17,5 +17,5 @@ tags:
 
 >[!DEFINITION] Definition: Subcollection
 >
->A **subcollection** of a [collection](./index.md) $\mathcal{C}$ is just a [subset](../index.md) of $\mathcal{C}$.
+>A **subcollection** of a [collection](./index.md) $\mathcal{C}$ is just a [subset](../Sets.md) of $\mathcal{C}$.
 >

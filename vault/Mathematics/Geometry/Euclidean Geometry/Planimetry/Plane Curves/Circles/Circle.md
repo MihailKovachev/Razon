@@ -1,5 +1,5 @@
 ---
-title: Circumference
+title: Circles
 tags:
   - planimetry
   - euclidean-geometry

@@ -36,7 +36,7 @@ tags:
 >>
 >>Complex numbers are usually denoted by $z$.
 >>
->>The [set](../../../Set%20Theory/index.md) of all complex numbers is denoted by $\mathbb{C}$.
+>>The [set](../../../Set%20Theory/Sets.md) of all complex numbers is denoted by $\mathbb{C}$.
 >>
 >
 >>[!DEFINITION] Definition: Real Part

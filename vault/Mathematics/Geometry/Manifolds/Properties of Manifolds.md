@@ -1,5 +1,5 @@
 ---
-title: Manifolds
+title: Properties of Manifolds
 tags:
     - manifolds
     - geometry

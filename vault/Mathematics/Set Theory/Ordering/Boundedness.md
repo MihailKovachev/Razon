@@ -11,7 +11,7 @@ tags:
 
 >[!DEFINITION] Definition: Lower Bound
 >
->Let $T$ be a [subset](../index.md) of a [partially ordered](Partial%20Order.md) [set](../index.md) $S$.
+>Let $T$ be a [subset](../Sets.md) of a [partially ordered](Partial%20Order.md) [set](../Sets.md) $S$.
 >
 >An element $l \in S$ is called a **lower bound** of $T$ iff
 >
@@ -24,7 +24,7 @@ tags:
 
 >[!DEFINITION] Definition: Infimum
 >
->Let $L$ be the [set](../index.md) of all [lower bounds](./index.md) of $T$.
+>Let $L$ be the [set](../Sets.md) of all [lower bounds](./index.md) of $T$.
 >
 >The **infimum** $\inf (T)$ of $T$ is its smallest [lower bound](./index.md).
 >
@@ -47,7 +47,7 @@ tags:
 
 >[!DEFINITION] Definition: Upper Bound
 >
->Let $T$ be a [subset](../index.md) of a [partially ordered](Partial%20Order.md) [set](../index.md) $S$.
+>Let $T$ be a [subset](../Sets.md) of a [partially ordered](Partial%20Order.md) [set](../Sets.md) $S$.
 >
 >An element $u \in S$ is called an **upper bound** of $T$ iff
 >
@@ -60,7 +60,7 @@ tags:
 
 >[!DEFINITION] Definition: Supremum
 >
->Let $U$ be the [set](../index.md) of all [upper bounds](./index.md) of $T$.
+>Let $U$ be the [set](../Sets.md) of all [upper bounds](./index.md) of $T$.
 >
 >The **supremum** $\sup (T)$ of $T$ is its largest [upper bound](./index.md).
 >
@@ -83,7 +83,7 @@ tags:
 
 >[!DEFINITION] Definition: Bounded Sets
 >
->A [partially ordered](Partial%20Order.md) [set](../index.md) is:
+>A [partially ordered](Partial%20Order.md) [set](../Sets.md) is:
 >- **bounded above** if it has an [upper bound](./index.md#upper%20bounds);
 >- **bounded below** if it has a [lower bound](./index.md#lower%20bounds);
 >- **bounded** if it has both an [upper bound](./index.md#upper%20bounds) and a [lower bound](./index.md#lower%20bounds).
