@@ -36,7 +36,7 @@ tags:
 >>The following are combinations of class $3$:
 >>
 >>$$
->>\{A, B, C\} \qquad \{A, B, D\} \{A, C, D\}
+>>\{A, B, C\} \qquad \{A, B, D\} \qquad \{A, C, D\}
 >>$$
 >>
 >
@@ -68,7 +68,30 @@ tags:
 >
 >Let $S = \{s_1, \dotsc, s_n\}$ be a [set](../Set%20Theory/Sets.md).
 >
->A **combination with repetition** of class $k$ is a [multiset](../Set%20Theory/Multisets.md) with cardinality $k$ whose elements are elements of $S$.
+>A **combination with repetition** of $S$ of class $k$ is a [multiset](../Set%20Theory/Multisets.md) with cardinality $k$ whose elements are elements of $S$.
+>
+>>[!EXAMPLE]-
+>>
+>>Let $S = \{1, 2, 3\}$.
+>>
+>>Some combinations with repetition of class $2$ are
+>>
+>>$$
+>>\{1, 3\} \qquad \{2, 2\}
+>>$$
+>>
+>>Some combinations with repetition of class $3$ are
+>>
+>>$$
+>>\{1, 2, 3\} \qquad \{1, 2, 2\} \qquad \{3, 3, 2\} \qquad \{1, 1, 1\}
+>>$$
+>>
+>>Some combinations with repetition of class $4$ are
+>>
+>>$$
+>>\{3, 3, 3, 1\} \qquad \{2, 1, 1, 3\} \qquad \{2, 2, 2, 2\} \qquad \{1, 1, 2, 3\}
+>>$$
+>>
 >
 
 >[!THEOREM] Theorem: Total Number of Combinations with Repetition

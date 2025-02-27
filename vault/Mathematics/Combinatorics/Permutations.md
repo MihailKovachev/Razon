@@ -67,6 +67,17 @@ tags:
 >
 >A **permutation with repetition** of $S$ is a $k$-[tuple](../Set%20Theory/Tuples.md) of elements from $S$ in which each element $s_i$ as many times as its multiplicity $k_i$.
 >
+>>[!EXAMPLE]-
+>>
+>>Let $S = \{3, 3, 4, 5, 5, 5\}$.
+>>
+>>Some permutations with repetition of $S$ are
+>>
+>>$$
+>>(4, 3, 5, 5, 3, 5) \qquad (5, 3, 4, 5, 5, 3) \qquad (5, 3, 5, 4, 3, 5). 
+>>$$
+>>
+>
 
 >[!THEOREM] Theorem: Total Number of Permutations with Repetition
 >

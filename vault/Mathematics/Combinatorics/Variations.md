@@ -90,16 +90,46 @@ tags:
 >(t_1, \dotsc, t_k) \qquad t_i \in S
 >$$
 >
+>>[!EXAMPLE]-
+>>
+>>Suppose $S = \{1, 2, 3, 4, 5\}$.
+>>
+>>Some variations $S$ of class $2$ with repetition are
+>>
+>>$$
+>>(1,2) \qquad (2, 1) \qquad (3, 3) \qquad (4, 3) \qquad (1, 5)
+>>$$
+>>
+>>Some variations of $S$ of class $3$ with repetition are
+>>
+>>$$
+>>(1, 1, 4) \qquad (4, 2, 4) \qquad (3, 5, 1) \qquad (2, 2, 2)
+>>$$
+>>
+>>Some variations of $S$ of class $6$ with repetition are
+>>
+>>$$
+>>(1, 2, 3, 4, 5, 1) \qquad (3, 2, 3, 3, 3, 2)
+>>$$
+>>
+>
 
 >[!THEOREM] Theorem: Total Number of Variations with Repetition
 >
->Let $S$ be a [set](../Set%20Theory/Sets.md).
->
->If $S$ has $n$ elements, then the total number of [variations with repetition](Variations.md#Variations%20with%20Repetition) of class $k$, denoted by $\tilde{V}_n^k$, is $n^k$.
+>If $S$ is a [set](../Set%20Theory/Sets.md) with $n$ elements, then the total number of [variations with repetition](Variations.md#Variations%20with%20Repetition) of $S$ of class $k$, denoted by is $n^k$.
 >
 >$$
->\tilde{V}_n^k = n^k
+>n^k
 >$$
+>
+>>[!NOTATION]
+>>
+>>Since this number depends only on $n$ and $k$, but not on the elements of $S$, we usually denote it as
+>>
+>>$$
+>>\tilde{V}_n^k
+>>$$
+>>
 >
 >>[!PROOF]-
 >>
