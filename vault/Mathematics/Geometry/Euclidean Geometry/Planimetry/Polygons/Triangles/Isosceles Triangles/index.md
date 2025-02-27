@@ -11,7 +11,7 @@ tags:
 
 >[!DEFINITION] Definition: Isosceles Triangle
 >
->An **Isosceles triangle** is a [triangle](../index.md) which has two [sides](../../index.md) of equal [length](../../../../Curves/Length.md).
+>An **Isosceles triangle** is a [triangle](../Triangles.md) which has two [sides](../../index.md) of equal [length](../../../../Curves/Length.md).
 >
 >![Isosceles Triangles](res/Isosceles%20Triangles.jpg)
 >

@@ -11,7 +11,7 @@ tags:
 
 >[!THEOREM] Theorem: Cyclicity of Triangles
 >
->Every [triangle](./index.md) is a [cyclic polygon](../Cyclic%20Polygons/Cyclic%20Polygon.md).
+>Every [triangle](Triangles.md) is a [cyclic polygon](../Cyclic%20Polygons/Cyclic%20Polygon.md).
 >
 >>[!PROOF]-
 >>

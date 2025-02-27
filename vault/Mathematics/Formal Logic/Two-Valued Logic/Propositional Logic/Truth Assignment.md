@@ -8,7 +8,7 @@ tags:
 
 >[!DEFINITION] Definition: Atomic Truth Assignment
 >
->An **atomic truth assignment** in the [formal language of propositional logic](The%20Formal%20Language%20of%20Propositional%20Logic.md) $\mathcal{L}_\text{PL}$ is a [function](../../../Analysis/Functions/index.md) $v$ which assigns a [truth value](../Truth%20Values.md) to every atomic formula in $\mathcal{L}_\text{PL}$.
+>An **atomic truth assignment** in the [formal language of propositional logic](The%20Formal%20Language%20of%20Propositional%20Logic.md) $\mathcal{L}_\text{PL}$ is a [function](../../../Analysis/Functions/Functions.md) $v$ which assigns a [truth value](../Truth%20Values.md) to every atomic formula in $\mathcal{L}_\text{PL}$.
 >
 >>[!INTUITION]-
 >>
@@ -24,7 +24,7 @@ tags:
 >
 >Let $v$ be an [atomic truth assignment](Truth%20Assignment.md) in the [formal language of propositional logic](The%20Formal%20Language%20of%20Propositional%20Logic.md) $\mathcal{L}_{PL}$.
 >
->An **extended truth assignment** is a [function](../../../Analysis/Functions/index.md) $\bar{v}$ which assigns a [truth value](../Truth%20Values.md) to every [well-formed formula](../../Formal%20Languages.md) in $\mathcal{L}_\text{PL}$ according to the following rules:
+>An **extended truth assignment** is a [function](../../../Analysis/Functions/Functions.md) $\bar{v}$ which assigns a [truth value](../Truth%20Values.md) to every [well-formed formula](../../Formal%20Languages.md) in $\mathcal{L}_\text{PL}$ according to the following rules:
 >1. The truth value assigned to each atomic formula by $\bar{v}$ is the same as the truth value assigned to it by $v$.
 >2. The truth value assigned to wffs of the form $(P)$, where $P$ is a wff, is the same as the truth value assigned to $P$, i.e. $\bar{v}((P)) = \bar{v}(P)$.
 >3. The truth value assigned to a wff formed using the [sentential connectives](Propositional%20Connectives.md) on two other wffs $P$ and $Q$ is defined by the following truth tables:

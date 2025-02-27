@@ -92,7 +92,7 @@ tags:
 >
 >Let $k(O; r)$ be a [circle](Circle.md#Circle).
 >
->If $P$ is a point outside of $k$ but which lies in the [plane](../../../Surfaces/Planes.md) of $k$, then there exist precisely two [tangent lines](Configurations%20of%20Lines%20and%20Circles.md#Tangent%20Lines) to $k$ which pass through $P$. Moreover, the [triangles](../../Polygons/Triangles/index.md) formed by $P$, $O$ and the points of intersection are [congruent](../../Polygons/Triangles/Triangle%20Congruence.md).
+>If $P$ is a point outside of $k$ but which lies in the [plane](../../../Surfaces/Planes.md) of $k$, then there exist precisely two [tangent lines](Configurations%20of%20Lines%20and%20Circles.md#Tangent%20Lines) to $k$ which pass through $P$. Moreover, the [triangles](../../Polygons/Triangles/Triangles.md) formed by $P$, $O$ and the points of intersection are [congruent](../../Polygons/Triangles/Triangle%20Congruence.md).
 >
 >$$
 >\triangle PTO \cong \triangle PT'O
@@ -121,7 +121,7 @@ tags:
 >
 >Let $k(O; r)$ be a [circle](Circle.md#Circle).
 >
->If $s_1$ and $s_2$ are two [secant lines](Configurations%20of%20Lines%20and%20Circles.md#Secant%20Lines) such that $s_1$ intersects $k$ at the points $A$ and $A'$, $s_2$ intersects $k$ at the points $B$ and $B'$, and the two secant lines intersect each other at $C$, then the [triangles](../../Polygons/Triangles/index.md) $\triangle CAB'$ and $\triangle CBA'$ are [similar](TODO).
+>If $s_1$ and $s_2$ are two [secant lines](Configurations%20of%20Lines%20and%20Circles.md#Secant%20Lines) such that $s_1$ intersects $k$ at the points $A$ and $A'$, $s_2$ intersects $k$ at the points $B$ and $B'$, and the two secant lines intersect each other at $C$, then the [triangles](../../Polygons/Triangles/Triangles.md) $\triangle CAB'$ and $\triangle CBA'$ are [similar](TODO).
 >
 >$$
 >\triangle CAB' \sim \triangle CBA'

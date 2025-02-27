@@ -13,7 +13,7 @@ tags:
 >
 >Let $(X, \tau_X)$ and $(Y,\tau_Y)$ be [topological spaces](../../Topological%20Spaces/index.md).
 >
->A **local homeomorphism** is a [function](../../../Analysis/Functions/index.md) $f: X \to Y$ such that every $x \in X$ has an [open](../../Topological%20Spaces/Open%20Sets.md) [neighbourhood](../../Topological%20Spaces/Neighborhoods.md) $O$ whose [image](../../../Analysis/Functions/index.md) $f(O)$ is [open](../../Topological%20Spaces/Open%20Sets.md) and for which the [restriction](../../../Analysis/Functions/Restriction.md) $f\big|_O$ is a [homeomorphism](./index.md) between the [subspaces](../../Topological%20Subspaces.md) $O$ and $f(O)$.
+>A **local homeomorphism** is a [function](../../../Analysis/Functions/Functions.md) $f: X \to Y$ such that every $x \in X$ has an [open](../../Topological%20Spaces/Open%20Sets.md) [neighbourhood](../../Topological%20Spaces/Neighborhoods.md) $O$ whose [image](../../../Analysis/Functions/Functions.md) $f(O)$ is [open](../../Topological%20Spaces/Open%20Sets.md) and for which the [restriction](../../../Analysis/Functions/Restriction.md) $f\big|_O$ is a [homeomorphism](./index.md) between the [subspaces](../../Topological%20Subspaces.md) $O$ and $f(O)$.
 >
 
 ## Properties

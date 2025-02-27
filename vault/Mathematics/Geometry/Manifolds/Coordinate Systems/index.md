@@ -67,7 +67,7 @@ tags:
 
 >[!DEFINITION] Definition: Global Coordinate System
 >
->A [coordinate system](index.md) on an $n$-[manifold](../Manifolds.md) $M$ is **global** iff its [domain](../../../Analysis/Functions/index.md) is the entirety of $M$.
+>A [coordinate system](index.md) on an $n$-[manifold](../Manifolds.md) $M$ is **global** iff its [domain](../../../Analysis/Functions/Functions.md) is the entirety of $M$.
 >
 >>[!INTUITION]-
 >>

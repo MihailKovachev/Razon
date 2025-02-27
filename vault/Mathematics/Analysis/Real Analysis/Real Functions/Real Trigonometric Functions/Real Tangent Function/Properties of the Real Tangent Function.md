@@ -1,6 +1,6 @@
 >[!THEOREM] Theorem: Image of the Real Tangent Function
 >
->The [image](../../../../Functions/index.md) of the [real tangent function](Real%20Tangent%20Function.md) is $(-\infty;+\infty)$.
+>The [image](../../../../Functions/Functions.md) of the [real tangent function](Real%20Tangent%20Function.md) is $(-\infty;+\infty)$.
 >
 >>[!PROOF]-
 >>

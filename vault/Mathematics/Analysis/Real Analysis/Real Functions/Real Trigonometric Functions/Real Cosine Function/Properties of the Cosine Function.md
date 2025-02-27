@@ -12,7 +12,7 @@
 
 >[!THEOREM] Theorem: Image of the Real Cosine Function
 >
->The [image](../../../../Functions/index.md) of the [real cosine function](Real%20Cosine%20Function.md) is $[-1;1]$.
+>The [image](../../../../Functions/Functions.md) of the [real cosine function](Real%20Cosine%20Function.md) is $[-1;1]$.
 >
 >$$\cos(\mathbb{R}) = [-1;1]$$
 >

@@ -16,7 +16,7 @@ tags:
 >f(x) = g(x),
 >$$
 >
->where $f,g: X \to Y$ are arbitrary [functions](../../Analysis/Functions/index.md).
+>where $f,g: X \to Y$ are arbitrary [functions](../../Analysis/Functions/Functions.md).
 >
 >>[!DEFINITION] Definition: Solution
 >>

@@ -11,7 +11,7 @@ tags:
 
 >[!DEFINITION] Definition: Line Segment
 >
->A **line segment** is a [curve](../index.md) which has no [curvature](../Curvature.md) and has a [parametrization](../../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) of the form $\gamma: [a;b] \to \mathbb{R}^n$.
+>A **line segment** is a [curve](../Curves.md) which has no [curvature](../Curvature.md) and has a [parametrization](../../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) of the form $\gamma: [a;b] \to \mathbb{R}^n$.
 >
 >>[!NOTATION]-
 >>

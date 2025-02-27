@@ -9,7 +9,7 @@ tags:
 
 >[!DEFINITION] Definition: Bounded Curve
 >
->A [curve](./index.md) $\mathcal{C}$ is **bounded** if there exists an [open ball](../../../Topology/Metric%20Spaces/index.md) $B$ of finite radius which completely contains it, i.e. $\mathcal{C} \subseteq B$.
+>A [curve](Curves.md) $\mathcal{C}$ is **bounded** if there exists an [open ball](../../../Topology/Metric%20Spaces/index.md) $B$ of finite radius which completely contains it, i.e. $\mathcal{C} \subseteq B$.
 >
 >>[!INTUITION]-
 >>

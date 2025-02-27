@@ -2,7 +2,7 @@
 >
 >Let $\phi: \mathcal{D}_{\phi} \subseteq \mathbb{R}^2 \to \mathbb{R}^n$ and $\psi: \mathcal{D}_{\psi} \subseteq \mathbb{R}^2 \to \mathbb{R}^n$ be [parametric surfaces](Parametric%20Surface.md).
 >
->We say that $\phi$ and $\psi$ are **equivalent** if they have the same [image](../../../Functions/index.md) and there exists a [differentiable](../../Real%20Vector%20Functions/Differentiation/Differentiability%20of%20Real%20Vector%20Functions.md), [bijective](../../../Functions/Types%20of%20Functions/Bijection.md) [real vector field](../Vector%20Fields/Real%20Vector%20Field.md) $h: \mathcal{D}_{\phi} \to \mathcal{D}_{\psi}$ with a [differentiable](../../Real%20Vector%20Functions/Differentiation/Differentiability%20of%20Real%20Vector%20Functions.md) [inverse](../../../Functions/Types%20of%20Functions/Injection.md) such that
+>We say that $\phi$ and $\psi$ are **equivalent** if they have the same [image](../../../Functions/Functions.md) and there exists a [differentiable](../../Real%20Vector%20Functions/Differentiation/Differentiability%20of%20Real%20Vector%20Functions.md), [bijective](../../../Functions/Types%20of%20Functions/Bijection.md) [real vector field](../Vector%20Fields/Real%20Vector%20Field.md) $h: \mathcal{D}_{\phi} \to \mathcal{D}_{\psi}$ with a [differentiable](../../Real%20Vector%20Functions/Differentiation/Differentiability%20of%20Real%20Vector%20Functions.md) [inverse](../../../Functions/Types%20of%20Functions/Injection.md) such that
 >
 >$$
 >\psi \circ h = \phi 

@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Parametric Curve
 >
->A **parametric curve** is a [continuous](../../Real%20Vector%20Functions/Continuity%20of%20Real%20Vector%20Functions.md) [function](../../Real%20Vector%20Functions/Real%20Vector%20Function.md) $\gamma: I \subseteq \mathbb{R} \to \mathbb{R}^n$ whose [domain](../../../Functions/index.md) $I$ is either
+>A **parametric curve** is a [continuous](../../Real%20Vector%20Functions/Continuity%20of%20Real%20Vector%20Functions.md) [function](../../Real%20Vector%20Functions/Real%20Vector%20Function.md) $\gamma: I \subseteq \mathbb{R} \to \mathbb{R}^n$ whose [domain](../../../Functions/Functions.md) $I$ is either
 >- an [interval](../../../../Set%20Theory/Ordering/Intervals.md) of the form $[a;b]$, $(a;b)$, $[a;b)$, $(a;b]$;
 >- a [ray](../../../../Set%20Theory/Ordering/Rays.md) of the form $(-\infty; a)$, $(-\infty; a]$, $[b; \infty)$, $(b; \infty)$,
 >

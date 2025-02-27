@@ -12,7 +12,7 @@
 
 >[!THEOREM] Theorem: Image of the Real Sine Function
 >
->The [image](../../../../Functions/index.md) of the [real sine function](Real%20Sine%20Function.md) is $[-1;1]$.
+>The [image](../../../../Functions/Functions.md) of the [real sine function](Real%20Sine%20Function.md) is $[-1;1]$.
 >
 >$$\sin(\mathbb{R}) = [-1;1]$$
 >

@@ -9,9 +9,46 @@ tags:
   - mathematics
 ---
 
->[!THEOREM] Angle Bisector Theorem
+# Interior Angle Bisectors
+
+>[!DEFINITION] Definition: Interior Angle Bisectors
 >
->In a [triangle](../index.md) the [angle bisector](../../../../Angles/Plane%20Angles/Angle%20Bisector%20of%20a%20Plane%20Angle.md) of each [interior angle](../../Interior%20Angle.md) divides the opposite [side](../../index.md) into two [segments](../../../../Curves/Straight%20Lines/Line%20Segments.md) whose ratio is the same as the ratio of their adjacent sides.
+>An **interior angle bisector** of a [triangle](../Triangles.md) is a [cevian](Cevians.md) which divides the angle at a vertex into two angles of equal measure.
+>
+>![](res/Interior%20Angle%20Bisector.svg)
+>
+
+## Characterizations
+
+>[!THEOREM]- The Angle Bisector Theorem
+>
+>Let $\triangle ABC$ be a [triangle](../Triangles.md) and let $L$ be a point on the side $AC$.
+>
+>The [line segment](../../../../Curves/Straight%20Lines/Line%20Segments.md) $BL$ is the [interior angle bisector](Angle%20Bisectors.md#Interior%20Angle%20Bisector) of $\angle ABC$ if and only if
+>
+>$$
+>\frac{AL}{AB} = \frac{CL}{CB}
+>$$
+>
+>![](res/The%20Angle%20Bisector%20Theorem.svg)
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
+## Properties
+
+>[!THEOREM]- Theorem: Length of Interior Angle Bisectors
+>
+>The length $l$ of an [interior angle bisector](Angle%20Bisectors.md#Interior%20Angle%20Bisector) in a [triangle](../Triangles.md) is given by the lengths of its adjacent sides and and the lengths of the segments into which it divides the opposite side.
+>
+>$$
+>l^2 = ab - mn
+>$$
+>
+>![](res/Length%20of%20Interior%20Angle%20Bisector.svg)
 >
 >>[!PROOF]-
 >>

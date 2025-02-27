@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Vector Line Integral
 >
->Let $\mathbf{F}: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) and let $\gamma: [a;b] \to \mathbb{R}^n$ be a [differentiable](../../../Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [parametric curve](../../../Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) whose [image](../../../../Functions/index.md) $\gamma([a;b])$ is a [subset](../../../../../Set%20Theory/Sets.md) of $\mathcal{D}$.
+>Let $\mathbf{F}: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) and let $\gamma: [a;b] \to \mathbb{R}^n$ be a [differentiable](../../../Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [parametric curve](../../../Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) whose [image](../../../../Functions/Functions.md) $\gamma([a;b])$ is a [subset](../../../../../Set%20Theory/Sets.md) of $\mathcal{D}$.
 >
 >The **(vector) line integral** of $\mathbf{F}$ over $\gamma$ is the [definite integral](../../../Real%20Functions/Integration/Definite%20Integrals/index.md) 
 >
@@ -26,7 +26,7 @@
 
 >[!THEOREM] Theorem: Vector Line Integrals over Reparameterisations
 >
->Let $\mathbf{F}: D\subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) and let $\gamma: [a;b] \to \mathbb{R}^n$ and $\varphi: [c;d] \to \mathbb{R}^n$ be [equivalent](../../../Real%20Vector%20Functions/Parametric%20Curves/Equivalence%20of%20Parametric%20Curves.md), [piecewise continuously differentiable](../../../Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [parametric curves](../../../Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) whose [image](../../../../Functions/index.md) is a [subset](../../../../../Set%20Theory/Sets.md) of $\mathcal{D}$.
+>Let $\mathbf{F}: D\subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) and let $\gamma: [a;b] \to \mathbb{R}^n$ and $\varphi: [c;d] \to \mathbb{R}^n$ be [equivalent](../../../Real%20Vector%20Functions/Parametric%20Curves/Equivalence%20of%20Parametric%20Curves.md), [piecewise continuously differentiable](../../../Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [parametric curves](../../../Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) whose [image](../../../../Functions/Functions.md) is a [subset](../../../../../Set%20Theory/Sets.md) of $\mathcal{D}$.
 >
 >If $\gamma$ and $\varphi$ have the [same orientation](../../../Real%20Vector%20Functions/Parametric%20Curves/Orientation.md), then the [line integrals](Vector%20Line%20Integral.md) of $\mathbf{F}$ over $\gamma$ and $\varphi$ are equal:
 >
@@ -44,7 +44,7 @@
 >>
 >>We will just show this for the case when $\gamma$ and $\varphi$ are *not* piecewise, since the proof is easily generalisable - if $\gamma$ and $\varphi$ *are* piecewise, then one can just apply the following proof to each of their partitions and obtain the same end result after summing the results from each partition.
 >>
->>Since $\gamma$ and $\varphi$ parameterise the same curve $\mathcal{C}$, we can [reparameterise](../../../../../Geometry/Euclidean%20Geometry/Curves/index.md) one in the other. More specifically, there exists a [bijective](../../../../Functions/Types%20of%20Functions/Bijection.md), [continuously differentiable function](../../../Real%20Functions/Differentiation/Derivatives.md) $u: [a;b] \to [c;d]$ such that
+>>Since $\gamma$ and $\varphi$ parameterise the same curve $\mathcal{C}$, we can [reparameterise](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md) one in the other. More specifically, there exists a [bijective](../../../../Functions/Types%20of%20Functions/Bijection.md), [continuously differentiable function](../../../Real%20Functions/Differentiation/Derivatives.md) $u: [a;b] \to [c;d]$ such that
 >>
 >>$$
 >>\varphi(u(t)) = \gamma (t)
@@ -56,7 +56,7 @@
 >>\int_a^b \boldsymbol{v}(\gamma(t))\cdot \gamma' (t)\mathop{\mathrm{d}t} = \int_a^b \boldsymbol{v}(\varphi(u(t))) \cdot \varphi' (u(t)) \,u'(t) \mathop{\mathrm{d}t}
 >>$$
 >>
->>If $\gamma$ and $\varphi$ have the [same orientation](../../../../../Geometry/Euclidean%20Geometry/Curves/index.md), then $u(a) = c$ and $u(b) = d$. Using the substitution $\mathrm{d}u = u'(t) \mathop{\mathrm{d}t}$ we obtain
+>>If $\gamma$ and $\varphi$ have the [same orientation](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md), then $u(a) = c$ and $u(b) = d$. Using the substitution $\mathrm{d}u = u'(t) \mathop{\mathrm{d}t}$ we obtain
 >>
 >>$$
 >>\int_a^b \boldsymbol{v}(\varphi(u(t))) \cdot \varphi' (u(t)) \,u'(t) \mathop{\mathrm{d}t} = \int_c^d \boldsymbol{v}(\varphi(u)) \cdot \varphi' (u) \mathop{\mathrm{d}u}
@@ -66,7 +66,7 @@
 >>\int_a^b \boldsymbol{v}(\gamma(t))\cdot \gamma' (t)\mathop{\mathrm{d}t} = \int_c^d \boldsymbol{v}(\varphi(u)) \cdot \varphi' (u) \mathop{\mathrm{d}u}
 >>$$
 >>
->>If $\gamma$ and $\varphi$ have the [same orientation](../../../../../Geometry/Euclidean%20Geometry/Curves/index.md), then $u(a) = d$ and $u(b) = c$. Using the substitution $\mathrm{d}u = u'(t) \mathop{\mathrm{d}t}$ we obtain
+>>If $\gamma$ and $\varphi$ have the [same orientation](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md), then $u(a) = d$ and $u(b) = c$. Using the substitution $\mathrm{d}u = u'(t) \mathop{\mathrm{d}t}$ we obtain
 >>
 >>$$
 >>\int_a^b \boldsymbol{v}(\varphi(u(t))) \cdot \varphi' (u(t)) \,u'(t) \mathop{\mathrm{d}t} = \int_d^c \boldsymbol{v}(\varphi(u)) \cdot \varphi' (u) \mathop{\mathrm{d}u}
@@ -80,7 +80,7 @@
 
 >[!THEOREM] Theorem: Vector Line Integral to Scalar Line Integral
 >
->Let $\mathbf{F}: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) and let $\gamma: [a;b] \to \mathbb{R}^n$ be a [differentiable](../../../Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [parametric curve](../../../Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) whose [image](../../../../Functions/index.md) $\gamma([a;b])$ is a [subset](../../../../../Set%20Theory/Sets.md) of $\mathcal{D}$.
+>Let $\mathbf{F}: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) and let $\gamma: [a;b] \to \mathbb{R}^n$ be a [differentiable](../../../Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [parametric curve](../../../Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) whose [image](../../../../Functions/Functions.md) $\gamma([a;b])$ is a [subset](../../../../../Set%20Theory/Sets.md) of $\mathcal{D}$.
 >
 >The [line integral](Vector%20Line%20Integral.md) of $\mathbf{F}$ over $\gamma$ is equal to the [line ntegral](../../../Real%20Vector%20Functions/Scalar%20Fields/Integration/Scalar%20Line%20Integrals.md) of the [dot product](../../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Dot%20Product.md) of $\mathbf{F}$ with the [unit tangent vector](../../../Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Tangent%20Vector.md) of $\gamma$:
 >

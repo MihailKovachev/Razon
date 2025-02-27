@@ -9,7 +9,7 @@ tags:
 
 >[!DEFINITION] Definition: Straight Line
 >
->A **straight line** (or just **line**) is an [unbounded](../Bounded%20Curve.md) [curve](../index.md) whose [curvature](../Curvature.md) is zero everywhere.
+>A **straight line** (or just **line**) is an [unbounded](../Bounded%20Curve.md) [curve](../Curves.md) whose [curvature](../Curvature.md) is zero everywhere.
 >
 >>[!NOTATION]-
 >>

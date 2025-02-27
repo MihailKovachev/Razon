@@ -14,7 +14,7 @@
 
 >[!THEOREM] Theorem: Gauss's Law (Differential Form)
 >
->The divergence of the [electric field](Electrostatics/The%20Electric%20Field.md) $\boldsymbol{E}$ at any point is given by the [permittivity](Electrostatics/Permittivity.md) $\varepsilon$ of space and the [charge density](Charge%20Density.md) $\rho$ at that point.
+>The divergence of the [electric field](The%20Electric%20Field.md) $\boldsymbol{E}$ at any point is given by the [permittivity](Electrostatics/Permittivity.md) $\varepsilon$ of space and the [charge density](Charge%20Density.md) $\rho$ at that point.
 >
 >$$
 >\nabla \cdot \boldsymbol{E} = \frac{\rho}{\varepsilon}

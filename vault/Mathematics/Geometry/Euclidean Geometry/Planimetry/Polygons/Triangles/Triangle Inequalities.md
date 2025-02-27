@@ -11,7 +11,7 @@ tags:
 
 >[!THEOREM] Theorem: Triangle Inequalities
 >
->If $a,b,c$ are the three [sides](../index.md) of a [triangle](./index.md), then
+>If $a,b,c$ are the three [sides](../index.md) of a [triangle](Triangles.md), then
 >
 >$$\begin{align*} a + b &\gt c \\ b + c &\gt a \\ a + c &\gt b \end{align*}$$
 >

@@ -63,18 +63,27 @@ tags:
 
 >[!DEFINITION] Definition: Permutation with Repetition
 >
->Let $S = \{s_1, \dotsc, s_k\}$ be a [set](../Set%20Theory/Sets.md).
+>Let $S$ be a [multiset](../Set%20Theory/Multisets.md) with cardinality $k$.
 >
->A **permutation with repetition** of class $n$ is a $n$-[tuple](../Set%20Theory/Tuples.md) of elements from $S$ such that the element $s_i$ appears in the $n$-tuple exactly $n_i$ times.
+>A **permutation with repetition** of $S$ is a $k$-[tuple](../Set%20Theory/Tuples.md) of elements from $S$ in which each element $s_i$ as many times as its multiplicity $k_i$.
 >
 
 >[!THEOREM] Theorem: Total Number of Permutations with Repetition
 >
->If $S \{s_1, \dotsc, s_k\}$ is a [set](../Set%20Theory/Sets.md) with $n$ elements, then the total number of [permutations with repetition](Permutations.md#Permutations%20with%20Repetition) of class $k$ such that $s_i$ appears $n_i$ times, denoted by $\tilde{P}(n_1, \dotsc, n_k$ is given by
+>If $S = \{s_1, \dotsc, s_n\}$ is a [multiset](../Set%20Theory/Multisets.md) with cardinality $k$, then the total number of [permutations with repetition](Permutations.md#Permutations%20with%20Repetition) $S$ can be calculated via $k$ and the multiplicity $k_i$ of each element as follows:
 >
 >$$
->\tilde{P}(n_1, \dotsc, n_k) = \frac{n!}{n_1! \cdots n_k!}
+>\frac{k!}{k_1! \cdots k_n!}
 >$$
+>
+>>[!NOTATION]
+>>
+>>Since this number depends only on the cardinality $k$ and multiplicities $k_i$ but does not depend on the elements themselves, we call the above number the **total number of permutations with repetition of class** $k$ and denote it by
+>>
+>>$$
+>>\tilde{P}(k_1, \dotsc, k_n) 
+>>$$
+>>
 >
 >>[!PROOF]-
 >>

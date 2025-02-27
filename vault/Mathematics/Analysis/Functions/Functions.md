@@ -53,7 +53,7 @@ tags:
 
 >[!DEFINITION] Definition: Inverse Image
 >
->Let $f: X \to Y$ be a [function](./index.md).
+>Let $f: X \to Y$ be a [function](Functions.md).
 >
 >The **inverse image** of a [subset](../../Set%20Theory/Sets.md) $S \subseteq Y$ under $f$ is the subset of $X$ defined as
 >

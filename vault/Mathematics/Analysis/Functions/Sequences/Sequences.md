@@ -8,18 +8,18 @@ tags:
 
 >[!DEFINITION] Definition: Sequence
 >
->A **sequence** is a [function](../index.md) whose [domain](../index.md) is an [interval](../../../Set%20Theory/Ordering/Intervals.md) of [integers](TODO).
+>A **sequence** is a [function](../Functions.md) whose [domain](../Functions.md) is an [interval](../../../Set%20Theory/Ordering/Intervals.md) of [integers](TODO).
 >
 >>[!DEFINITION] Definition: Finite Sequence
 >>
->>A [sequence](Sequences.md) is **finite** iff its [domain](../index.md) is finite.
+>>A [sequence](Sequences.md) is **finite** iff its [domain](../Functions.md) is finite.
 >>
 >>^finite-sequence
 >>
 >
 >>[!DEFINITION] Definition: Infinite Sequence
 >>
->>A [sequence](Sequences.md) is **infinite** iff its [domain](../index.md) is not finite.
+>>A [sequence](Sequences.md) is **infinite** iff its [domain](../Functions.md) is not finite.
 >>
 >>^infinite-sequence
 >

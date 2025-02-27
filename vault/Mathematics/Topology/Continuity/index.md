@@ -12,14 +12,14 @@ tags:
 >
 >Let $(X,\tau_X)$ and $(Y,\tau_Y)$ be [topological spaces](../Topological%20Spaces/index.md).
 >
->A [function](../../Analysis/Functions/index.md) $f: X \to Y$ is **continuous at** $x \in X$ iff for each [neighbourhood](../Topological%20Spaces/Neighborhoods.md) $V$ of $f(x)$ there exists a neighbourhood $U$ of $x$ such that $f(U) \subset V$.
+>A [function](../../Analysis/Functions/Functions.md) $f: X \to Y$ is **continuous at** $x \in X$ iff for each [neighbourhood](../Topological%20Spaces/Neighborhoods.md) $V$ of $f(x)$ there exists a neighbourhood $U$ of $x$ such that $f(U) \subset V$.
 >
 
 >[!DEFINITION] Definition: Continuity
 >
 >Let $(X,\tau_X)$ and $(Y,\tau_Y)$ be [topological spaces](../Topological%20Spaces/index.md).
 >
->A [function](../../Analysis/Functions/index.md) $f: X \to Y$ is **continuous on** $X$ or simply **continuous** iff it is [continuous](../../Analysis/Real%20Analysis/Real%20Functions/Continuity.md) at each $x \in X$.
+>A [function](../../Analysis/Functions/Functions.md) $f: X \to Y$ is **continuous on** $X$ or simply **continuous** iff it is [continuous](../../Analysis/Real%20Analysis/Real%20Functions/Continuity.md) at each $x \in X$.
 
 ## Continuity Criteria
 
@@ -27,7 +27,7 @@ tags:
 >
 >Let $(X,\tau_X)$ and $(Y,\tau_Y)$ be [topological spaces](../Topological%20Spaces/index.md).
 >
->A [function](../../Analysis/Functions/index.md) $f: X \to Y$ is [continuous](./index.md) if and only if the [inverse image](../../Analysis/Functions/index.md) of each [open subset](../Topological%20Spaces/Open%20Sets.md) of $Y$ is an open subset of $X$.
+>A [function](../../Analysis/Functions/Functions.md) $f: X \to Y$ is [continuous](./index.md) if and only if the [inverse image](../../Analysis/Functions/Functions.md) of each [open subset](../Topological%20Spaces/Open%20Sets.md) of $Y$ is an open subset of $X$.
 >
 >>[!PROOF]-
 >>
@@ -39,7 +39,7 @@ tags:
 >
 >Let $(X,\tau_X)$ and $(Y,\tau_Y)$ be [topological spaces](../Topological%20Spaces/index.md).
 >
->A [function](../../Analysis/Functions/index.md) $f: X \to Y$ is [continuous](./index.md) if and only if the [inverse image](../../Analysis/Functions/index.md) of each [closed subset](../Topological%20Spaces/Closed%20Sets.md) of $Y$ is a [closed subset](../Topological%20Spaces/Closed%20Sets.md) of $X$.
+>A [function](../../Analysis/Functions/Functions.md) $f: X \to Y$ is [continuous](./index.md) if and only if the [inverse image](../../Analysis/Functions/Functions.md) of each [closed subset](../Topological%20Spaces/Closed%20Sets.md) of $Y$ is a [closed subset](../Topological%20Spaces/Closed%20Sets.md) of $X$.
 >
 >>[!PROOF]-
 >>
@@ -51,7 +51,7 @@ tags:
 >
 >Let $(X,\tau_X)$ and $(Y,\tau_Y)$ be [topological spaces](../Topological%20Spaces/index.md).
 >
->A [function](../../Analysis/Functions/index.md) $f: X \to Y$ is [continuous](./index.md) if and only if each point $x \in X$ has a [neighbourhood](../Topological%20Spaces/Neighborhoods.md) $N$ such that the [restriction](../../Analysis/Functions/Restriction.md) $f\big|_N$ is [continuous](./index.md).
+>A [function](../../Analysis/Functions/Functions.md) $f: X \to Y$ is [continuous](./index.md) if and only if each point $x \in X$ has a [neighbourhood](../Topological%20Spaces/Neighborhoods.md) $N$ such that the [restriction](../../Analysis/Functions/Restriction.md) $f\big|_N$ is [continuous](./index.md).
 >
 >>[!PROOF]-
 >>
@@ -65,7 +65,7 @@ tags:
 >
 >Let $(X, \tau_X)$ and $(Y,\tau_Y)$ be [topological spaces](../Topological%20Spaces/index.md).
 >
->If $(X,\tau_X)$ is [compact](../Compactness/index.md), then its [image](../../Analysis/Functions/index.md) $f(X)$ under every [continuous function](./index.md) $f: X \to Y$ is also [compact](../Compactness/index.md).
+>If $(X,\tau_X)$ is [compact](../Compactness/index.md), then its [image](../../Analysis/Functions/Functions.md) $f(X)$ under every [continuous function](./index.md) $f: X \to Y$ is also [compact](../Compactness/index.md).
 >
 >>[!PROOF]-
 >>
@@ -81,7 +81,7 @@ tags:
 >
 >>[!PROOF]-
 >>
->>We need to prove only that if $U$ is [open](../Topological%20Spaces/Open%20Sets.md) in $(Z, \tau_Z)$, then its [inverse image](../../Analysis/Functions/index.md)  $(g\circ f)^{-1}(U)$ is [open](../Topological%20Spaces/Open%20Sets.md) in $(X, \tau_X)$.
+>>We need to prove only that if $U$ is [open](../Topological%20Spaces/Open%20Sets.md) in $(Z, \tau_Z)$, then its [inverse image](../../Analysis/Functions/Functions.md)  $(g\circ f)^{-1}(U)$ is [open](../Topological%20Spaces/Open%20Sets.md) in $(X, \tau_X)$.
 >>
 >>
 >>
@@ -105,7 +105,7 @@ tags:
 >
 >Let $(X, \tau_X)$ and $(Y, \tau_Y)$ be [topological spaces](../Topological%20Spaces/index.md).
 >
->If $(X, \tau_X)$ is [connected](../Connectedness/index.md), then so its [image](../../Analysis/Functions/index.md) $f(X)$ under any [continuous function](../Continuity/index.md) $f: X \to Y$.
+>If $(X, \tau_X)$ is [connected](../Connectedness/index.md), then so its [image](../../Analysis/Functions/Functions.md) $f(X)$ under any [continuous function](../Continuity/index.md) $f: X \to Y$.
 >
 >>[!PROOF]-
 >>

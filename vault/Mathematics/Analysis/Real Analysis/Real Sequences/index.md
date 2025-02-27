@@ -7,7 +7,7 @@ tags:
 
 >[!DEFINITION] Definition: Real Sequence
 >
->A **real sequence** or **sequence of real numbers** is a [real-valued function](Real-Valued%20Function.md) $a: \mathcal{D} \subseteq \mathbb{N}_0 \to \mathbb{R}$ whose [domain](../../Functions/index.md) $\mathcal{D}$ is either $\mathbb{N}_0$ or a finite [subset](../../../Set%20Theory/Sets.md) of $\mathbb{N}_0$ which has the form $\mathcal{D} = \{0,1,2,3,\dotsc, n\}, n \in \mathbb{N}$.
+>A **real sequence** or **sequence of real numbers** is a [real-valued function](Real-Valued%20Function.md) $a: \mathcal{D} \subseteq \mathbb{N}_0 \to \mathbb{R}$ whose [domain](../../Functions/Functions.md) $\mathcal{D}$ is either $\mathbb{N}_0$ or a finite [subset](../../../Set%20Theory/Sets.md) of $\mathbb{N}_0$ which has the form $\mathcal{D} = \{0,1,2,3,\dotsc, n\}, n \in \mathbb{N}$.
 >
 >>[!NOTATION]-
 >>

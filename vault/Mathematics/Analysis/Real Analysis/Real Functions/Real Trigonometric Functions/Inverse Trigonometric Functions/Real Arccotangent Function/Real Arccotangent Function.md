@@ -20,12 +20,12 @@
 >>
 >>>[!NOTE] Note: Domain of the Real Arctangent Function
 >>>
->>>The [domain](../../../../../Functions/index.md) of the [real cotangent function](../../Real%20Cotangent%20Substitution/Real%20Cotangent%20Function.md) is $\mathbb{R}$.
+>>>The [domain](../../../../../Functions/Functions.md) of the [real cotangent function](../../Real%20Cotangent%20Substitution/Real%20Cotangent%20Function.md) is $\mathbb{R}$.
 >>>
 >>
 >>>[!NOTE] Note: Domain of the Real Arctangent Function
 >>>
->>>The [image](../../../../../Functions/index.md) of the [real cotangent function](../../Real%20Cotangent%20Substitution/Real%20Cotangent%20Function.md) is the [interval](../../../../../../../Set%20Theory/Ordering/Intervals.md) $(0; \pi)$.
+>>>The [image](../../../../../Functions/Functions.md) of the [real cotangent function](../../Real%20Cotangent%20Substitution/Real%20Cotangent%20Function.md) is the [interval](../../../../../../../Set%20Theory/Ordering/Intervals.md) $(0; \pi)$.
 >>>
 >>
 >

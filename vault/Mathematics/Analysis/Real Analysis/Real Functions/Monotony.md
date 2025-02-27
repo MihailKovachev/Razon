@@ -73,7 +73,7 @@ tags:
 >
 >Let $f: I \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](Real%20Functions.md).
 >
->If $f$ is [continuous](Continuity.md) and [strictly monotonous](Monotony.md), then $f$ is a [bijective](../../Functions/Types%20of%20Functions/Bijection.md) between $I$ and its [image](../../Functions/index.md) $f(I)$.
+>If $f$ is [continuous](Continuity.md) and [strictly monotonous](Monotony.md), then $f$ is a [bijective](../../Functions/Types%20of%20Functions/Bijection.md) between $I$ and its [image](../../Functions/Functions.md) $f(I)$.
 >
 >>[!PROOF]-
 >>

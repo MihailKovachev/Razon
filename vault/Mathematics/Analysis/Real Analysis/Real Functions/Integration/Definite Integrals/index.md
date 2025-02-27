@@ -155,7 +155,7 @@ tags:
 
 >[!THEOREM] Theorem: Substitution
 >
->Let $g: [a;b] \to \mathbb{R}$ and $f: [c;d] \to \mathbb{R}$ be [real functions](../../Real%20Functions.md) such that the [image](../../../../Functions/index.md) of $g$ is a [subset](../../../../../Set%20Theory/Sets.md) of $[c;d]$, i.e. $g([a;b]) \subseteq [c;d]$.
+>Let $g: [a;b] \to \mathbb{R}$ and $f: [c;d] \to \mathbb{R}$ be [real functions](../../Real%20Functions.md) such that the [image](../../../../Functions/Functions.md) of $g$ is a [subset](../../../../../Set%20Theory/Sets.md) of $[c;d]$, i.e. $g([a;b]) \subseteq [c;d]$.
 >
 >If $f$ is [continuous](../../Continuity.md) and $g$ is [continuously differentiable](../../Differentiation/Derivatives.md), then the following [definite Integral](./index.md) can be solved via substitution.
 >

@@ -19,13 +19,13 @@ tags:
 
 >[!THEOREM]- Theorem: Equivalent Definition
 >
->A [bijection](../../../Analysis/Functions/Types%20of%20Functions/Bijection.md) $f: X \to Y$ between two [topological spaces](../../Topological%20Spaces/index.md) $(X, \tau_X)$ and $(Y, \tau_Y)$ is a [homeomorphism](Homeomorphism.md) if and only if the [image](../../../Analysis/Functions/index.md) of each [open subset](../../Topological%20Spaces/Open%20Sets.md) of $(X, \tau_X)$ is [open](../../Topological%20Spaces/Open%20Sets.md) in $(Y, \tau_Y)$ and the [inverse image](../../../Analysis/Functions/index.md) of each [open subset](../../Topological%20Spaces/Open%20Sets.md) in $(Y, \tau_Y)$ is [open](../../Topological%20Spaces/Open%20Sets.md) in $(X, \tau_X)$.
+>A [bijection](../../../Analysis/Functions/Types%20of%20Functions/Bijection.md) $f: X \to Y$ between two [topological spaces](../../Topological%20Spaces/index.md) $(X, \tau_X)$ and $(Y, \tau_Y)$ is a [homeomorphism](Homeomorphism.md) if and only if the [image](../../../Analysis/Functions/Functions.md) of each [open subset](../../Topological%20Spaces/Open%20Sets.md) of $(X, \tau_X)$ is [open](../../Topological%20Spaces/Open%20Sets.md) in $(Y, \tau_Y)$ and the [inverse image](../../../Analysis/Functions/Functions.md) of each [open subset](../../Topological%20Spaces/Open%20Sets.md) in $(Y, \tau_Y)$ is [open](../../Topological%20Spaces/Open%20Sets.md) in $(X, \tau_X)$.
 >
 >>[!PROOF]-
 >>
 >>We have to prove two things:
->>- (I) If $f: X \to Y$ is a [homeomorphism](Homeomorphism.md), then the [image](../../../Analysis/Functions/index.md) $f(U)$ of each [open subset](../../Topological%20Spaces/Open%20Sets.md) $U$ of $(X, \tau_X)$ is [open](../../Topological%20Spaces/Open%20Sets.md) in $(Y, \tau_Y)$.
->>- (II) If $f: X \to Y$ is a [bijection](../../../Analysis/Functions/Types%20of%20Functions/Bijection.md) and the [image](../../../Analysis/Functions/index.md) $f(U)$ of each [open subset](../../Topological%20Spaces/Open%20Sets.md) $U$ of $(X, \tau_X)$ is [open](../../Topological%20Spaces/Open%20Sets.md) in $(Y, \tau_Y)$, then $f$ is a [homeomorphism](Homeomorphism.md).
+>>- (I) If $f: X \to Y$ is a [homeomorphism](Homeomorphism.md), then the [image](../../../Analysis/Functions/Functions.md) $f(U)$ of each [open subset](../../Topological%20Spaces/Open%20Sets.md) $U$ of $(X, \tau_X)$ is [open](../../Topological%20Spaces/Open%20Sets.md) in $(Y, \tau_Y)$.
+>>- (II) If $f: X \to Y$ is a [bijection](../../../Analysis/Functions/Types%20of%20Functions/Bijection.md) and the [image](../../../Analysis/Functions/Functions.md) $f(U)$ of each [open subset](../../Topological%20Spaces/Open%20Sets.md) $U$ of $(X, \tau_X)$ is [open](../../Topological%20Spaces/Open%20Sets.md) in $(Y, \tau_Y)$, then $f$ is a [homeomorphism](Homeomorphism.md).
 >>
 >>**Proof of (I):**
 >>

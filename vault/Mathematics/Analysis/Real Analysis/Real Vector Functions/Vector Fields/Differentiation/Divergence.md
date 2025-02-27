@@ -14,7 +14,7 @@ Moreover, as we make the radius $r$ smaller and smaller, the sphere closes in on
 
 >[!THEOREM] Theorem: Existence of Divergence
 >
->Let $\mathbf{F}: \mathcal{D} \subseteq \mathbb{R}^3 \to \mathbb{R}^3$ be a [real vector field](../Real%20Vector%20Field.md) which is [differentiable](../../../Real%20Vector%20Functions/Differentiation/Differentiability%20of%20Real%20Vector%20Functions.md) at $\mathbf{p}$ and let $S_r$ be a [parametric surface](../../../Real%20Vector%20Functions/Parametric%20Surfaces/Parametric%20Surface.md) whose [image](../../../../Functions/index.md) is a sphere of radius $r$ centered at $\mathbf{p}$ such that its [normal vector](../../../Real%20Vector%20Functions/Parametric%20Surfaces/Surface%20Normal%20Vector.md) is always oriented outwards.
+>Let $\mathbf{F}: \mathcal{D} \subseteq \mathbb{R}^3 \to \mathbb{R}^3$ be a [real vector field](../Real%20Vector%20Field.md) which is [differentiable](../../../Real%20Vector%20Functions/Differentiation/Differentiability%20of%20Real%20Vector%20Functions.md) at $\mathbf{p}$ and let $S_r$ be a [parametric surface](../../../Real%20Vector%20Functions/Parametric%20Surfaces/Parametric%20Surface.md) whose [image](../../../../Functions/Functions.md) is a sphere of radius $r$ centered at $\mathbf{p}$ such that its [normal vector](../../../Real%20Vector%20Functions/Parametric%20Surfaces/Surface%20Normal%20Vector.md) is always oriented outwards.
 >
 >If there exists some [neighbourhood](../../../../../Topology/Topological%20Spaces/Neighborhoods.md) of $\mathbf{p}$ where $\mathbf{F}$ is [continuously differentiable](../../../Real%20Vector%20Functions/Differentiation/Differentiability%20of%20Real%20Vector%20Functions.md), then the [limit](../../../Real%20Functions/Limits/index.md)
 >

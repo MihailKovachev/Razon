@@ -10,7 +10,7 @@ tags:
 
 >[!DEFINITION] Definition: Complex-Valued Function
 >
->A **complex-valued function** on a [set](../../Set%20Theory/Sets.md) $X$ is a [function](../Functions/index.md) $f: X \to \mathbb{C}$ from $X$ to the set of the [complex numbers](../../Algebra/Fields/The%20Complex%20Numbers/index.md).
+>A **complex-valued function** on a [set](../../Set%20Theory/Sets.md) $X$ is a [function](../Functions/Functions.md) $f: X \to \mathbb{C}$ from $X$ to the set of the [complex numbers](../../Algebra/Fields/The%20Complex%20Numbers/index.md).
 >
 >>[!DEFINITION] Definition: Real Part
 >>
