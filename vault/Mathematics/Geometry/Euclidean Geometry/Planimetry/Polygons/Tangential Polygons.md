@@ -12,7 +12,7 @@ tags:
 
 >[!DEFINITION] Definition: Incircle
 >
->An **incircle** of a [polygon](./index.md) is a [circle](../Plane%20Curves/Circles/Circle.md) in the polygon's [plane](../../Surfaces/Planes.md) which is [tangent](../Plane%20Curves/Circles/Configurations%20of%20Lines%20and%20Circles.md) to all of its [sides](./index.md).
+>An **incircle** of a [polygon](Polygons.md) is a [circle](../Plane%20Curves/Circles/Circle.md) in the polygon's [plane](../../Surfaces/Planes.md) which is [tangent](../Plane%20Curves/Circles/Configurations%20of%20Lines%20and%20Circles.md) to all of its [sides](Polygons.md).
 >
 >>[!DEFINITION] Definition: Inradius
 >>
@@ -29,7 +29,7 @@ tags:
 
 >[!DEFINITION] Definition: Tangential Polygon
 >
->A [polygon](./index.md) is **tangential** or **circumscribed** iff it has an [incircle](Tangential%20Polygons.md).
+>A [polygon](Polygons.md) is **tangential** or **circumscribed** iff it has an [incircle](Tangential%20Polygons.md).
 >
 >>[!THEOREM] Theorem: Uniqueness of the Incircle
 >>
@@ -44,7 +44,7 @@ tags:
 
 >[!THEOREM] Theorem
 >
->A [polygon](./index.md) is [tangential](Tangential%20Polygons.md) if and only if the [bisectors](../../Angles/Plane%20Angles/Angle%20Bisector%20of%20a%20Plane%20Angle.md) of its [interior angles](Interior%20Angle.md) are all [concurrent](../../Curves/Straight%20Lines/Concurrent%20Lines.md).
+>A [polygon](Polygons.md) is [tangential](Tangential%20Polygons.md) if and only if the [bisectors](../../Angles/Plane%20Angles/Angle%20Bisector%20of%20a%20Plane%20Angle.md) of its [interior angles](Polygons.md) are all [concurrent](../../Curves/Straight%20Lines/Concurrent%20Lines.md).
 >
 >>[!PROOF]-
 >>
@@ -53,7 +53,7 @@ tags:
 >
 >>[!THEOREM] Theorem: Incenter of a Tangential Polygon
 >>
->>The [incenter](Tangential%20Polygons.md) of a [tangential polygon](Tangential%20Polygons.md) is the [point](../../Euclidean%20Space/Points%20vs%20Vectors/index.md) where the [bisectors](../../Angles/Plane%20Angles/Angle%20Bisector%20of%20a%20Plane%20Angle.md) of the polygon's [interior angles](Interior%20Angle.md) intersect.
+>>The [incenter](Tangential%20Polygons.md) of a [tangential polygon](Tangential%20Polygons.md) is the [point](../../Euclidean%20Space/Points%20vs%20Vectors/index.md) where the [bisectors](../../Angles/Plane%20Angles/Angle%20Bisector%20of%20a%20Plane%20Angle.md) of the polygon's [interior angles](Polygons.md) intersect.
 >>
 >>>[!PROOF]-
 >>>
@@ -76,7 +76,7 @@ tags:
 
 >[!THEOREM] Theorem: Area of a Tangential Polygon
 >
->The [area](Area%20of%20a%20Polygon.md) $S$ of a [tangential polygon](Tangential%20Polygons.md) can be calculated using its [perimeter](Perimeter.md) and [inradius](Tangential%20Polygons.md) $r$:
+>The [area](Polygons.md) $S$ of a [tangential polygon](Tangential%20Polygons.md) can be calculated using its [perimeter](Polygons.md) and [inradius](Tangential%20Polygons.md) $r$:
 >
 >$$S = \frac{P \cdot r}{2}$$
 >

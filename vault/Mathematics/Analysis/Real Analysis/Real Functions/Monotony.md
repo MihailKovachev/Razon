@@ -97,7 +97,7 @@ tags:
 
 >[!THEOREM] Theorem: Integrability of Monotone Functions
 >
->Every [monotone](Monotony.md) [real function](Real%20Functions.md) on a closed interval is also [Riemann-integrable](Integration/Definite%20Integrals/index.md) on it.
+>Every [monotone](Monotony.md) [real function](Real%20Functions.md) on a closed interval is also [Riemann-integrable](Integration/Definite%20Integrals.md) on it.
 >
 >>[!PROOF]-
 >>

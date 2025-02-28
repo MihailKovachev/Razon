@@ -92,7 +92,7 @@ tags:
 >
 >Let $k(O; r)$ be a [circle](Circle.md#Circle).
 >
->If $P$ is a point outside of $k$ but which lies in the [plane](../../../Surfaces/Planes.md) of $k$, then there exist precisely two [tangent lines](Configurations%20of%20Lines%20and%20Circles.md#Tangent%20Lines) to $k$ which pass through $P$. Moreover, the [triangles](../../Polygons/Triangles/Triangles.md) formed by $P$, $O$ and the points of intersection are [congruent](../../Polygons/Triangles/Triangle%20Congruence.md).
+>If $P$ is a point outside of $k$ but which lies in the [plane](../../../Surfaces/Planes.md) of $k$, then there exist precisely two [tangent lines](Configurations%20of%20Lines%20and%20Circles.md#Tangent%20Lines) to $k$ which pass through $P$. Moreover, the [triangles](../../Polygons/Triangles/Triangles.md) formed by $P$, $O$ and the points of intersection are [congruent](../../Polygons/Triangles/Triangles.md).
 >
 >$$
 >\triangle PTO \cong \triangle PT'O

@@ -2,13 +2,13 @@
 >
 >Let $f: D \to \mathbb{R}$ be a [real function](../Real%20Functions.md) on a [closed interval](../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b]$.
 >
->If $f$ is [Riemann-integrable](Definite%20Integrals/index.md), then $F: D \to \mathbb{R}$ defined by the [definite integral](Definite%20Integrals/index.md)
+>If $f$ is [Riemann-integrable](Definite%20Integrals.md), then $F: D \to \mathbb{R}$ defined by the [definite integral](Definite%20Integrals.md)
 >
 >$$
 >F(x) \overset{\text{def}}{=} \int_a^x f
 >$$
 >
->is [continuous](../Continuity.md). Furthermore, if $f$ is [continuous](../Continuity.md) at some $c \in D$, then $F$ is an [antiderivative](Antiderivatives/Antiderivatives.md) of $f$ at $c$, i.e. $F'(c) = f(c)$.
+>is [continuous](../Continuity.md). Furthermore, if $f$ is [continuous](../Continuity.md) at some $c \in D$, then $F$ is an [antiderivative](Antiderivatives.md) of $f$ at $c$, i.e. $F'(c) = f(c)$.
 >
 >>[!PROOF]-
 >>
@@ -25,7 +25,7 @@
 >>\begin{align*}F(x_0+\Delta x) - F(x_0) &= \int_c^{x_0+\Delta x} f(t)\mathop{\mathrm{d}t} - \int_c^{x_0} f(t)\mathop{\mathrm{d}t} \\ &= \int_c^{x_0+\Delta x} f(t)\mathop{\mathrm{d}t} + \int_{x_0}^c f(t)\mathop{\mathrm{d}t} \\ &= \int_{x_0}^c f(t)\mathop{\mathrm{d}t} + \int_c^{x_0+\Delta x} f(t)\mathop{\mathrm{d}t} \\ &= \int_{x_0}^{x_0+\Delta x}f(t) \mathop{\mathrm{d}t}\end{align*}
 >>$$
 >> 
->>The [mean value theorem for definite integrals](Definite%20Integrals/index.md) says that there is at least one $\xi \in[x_0;x_0+\Delta x]$ such that
+>>The [mean value theorem for definite integrals](Definite%20Integrals.md) says that there is at least one $\xi \in[x_0;x_0+\Delta x]$ such that
 >>
 >>$$
 >>\int_{x_0}^{x_0+\Delta x}f(t) \mathop{\mathrm{d}t} = f(\xi)(x_0 + \Delta x - x_0) = f(\xi)\cdot\Delta x
@@ -63,7 +63,7 @@
 
 >[!THEOREM] The Fundamental Theorem of Real Analysis (Part II)
 >
->If $f: [a;b] \to \mathbb{R}$ , then any [antiderivative](Antiderivatives/Antiderivatives.md) $F:[a;b] \to \mathbb{R}$ of $f$ can be used to calculate its [definite integral](Definite%20Integrals/index.md) as follows:
+>If $f: [a;b] \to \mathbb{R}$ , then any [antiderivative](Antiderivatives.md) $F:[a;b] \to \mathbb{R}$ of $f$ can be used to calculate its [definite integral](Definite%20Integrals.md) as follows:
 >
 >$$
 >\int_a^b f(x) \mathop{\mathrm{d}x} = F(b) - F(a)

@@ -74,7 +74,7 @@ tags:
 
 >[!THEOREM]- Theorem: Antiderivatives of the Real Natural Logarithm
 >
->The [antiderivatives](Integration/Antiderivatives/Antiderivatives.md) of the [real natural logarithm](The%20Real%20Natural%20Logarithm.md) are
+>The [antiderivatives](../Integration/Antiderivatives.md) of the [real natural logarithm](The%20Real%20Natural%20Logarithm.md) are
 >
 >$$
 >\int \ln x = x \ln x - x + C

@@ -26,7 +26,7 @@
 >>>\mathcal{X}(3) = \int_{l(3)}^{u(3)} f(3,y) \mathop{\mathrm{d}y},
 >>>$$
 >>>
->>>which is just a regular [definite integral](../../../Real%20Functions/Integration/Definite%20Integrals/index.md).
+>>>which is just a regular [definite integral](../../../Real%20Functions/Integration/Definite%20Integrals.md).
 >>>
 >>
 >
@@ -49,7 +49,7 @@
 >>>
 >>>$$\mathcal{Y}(3) = \int_{l(3)}^{u(3)} f(x,3) \mathop{\mathrm{d}x},$$
 >>>
->>>which is just a regular [definite integral](../../../Real%20Functions/Integration/Definite%20Integrals/index.md).
+>>>which is just a regular [definite integral](../../../Real%20Functions/Integration/Definite%20Integrals.md).
 >>>
 >>
 >

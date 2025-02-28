@@ -11,7 +11,7 @@ tags:
 
 >[!DEFINITION] Definition: Curve
 >
->A **curve** $\mathcal{C}$ in $\mathbb{R}^n$ is a [geometric figure](../Geometric%20Figure.md) which is the [image](../../../Analysis/Functions/Functions.md) of a nonconstant [parametric curve](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) $\gamma$.
+>A **curve** $\mathcal{C}$ in $\mathbb{R}^n$ is a [geometric figure](../Geometric%20Shapes.md) which is the [image](../../../Analysis/Functions/Functions.md) of a nonconstant [parametric curve](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) $\gamma$.
 >
 >>[!DEFINITION] Definition: Curve Parametrization
 >>
@@ -45,6 +45,20 @@ The same [curve](Curves.md#Curves) can have many different [parametrizations](Cu
 >[!EXAMPLE]- Example: Different Parametrizations of the Same Curve
 >
 >
+>
+
+More over, not all parametrizations are created equal. A single curve can have multiple parametrizations but some of them will be more useful than others because they have certain properties. 
+
+## Equivalence of Parametrizations
+
+>[!THEOREM] Theorem: Equivalence of Regular Injective Parametrizations
+>
+>All [regular](TODO) [injective](../../../Analysis/Functions/Types%20of%20Functions/Injection.md) [parametrizations](Curves.md#Parametrizations) of the same [curve](Curves.md#Curves) are [equivalent](Curves.md#Equivalence%20of%20Parametrizations).
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
 >
 
 # Arc Length

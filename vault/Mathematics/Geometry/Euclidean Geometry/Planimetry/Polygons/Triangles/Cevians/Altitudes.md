@@ -12,12 +12,12 @@ tags:
 >[!DEFINITION] Definition: Altitude
 >
 >An **altitude** in a [triangle](../Triangles.md) is a [line segment](../../../../Curves/Straight%20Lines/Line%20Segments.md) $h$ with the following properties:
->- The endpoints of $h$ are a [vertex](../../index.md) $V$ of the triangle and a [point](../../../../Euclidean%20Space/Points%20vs%20Vectors/index.md) on the [extension](../../../../Curves/Straight%20Lines/Line%20Segments.md) of the [side](../../index.md) $s$ opposite to $V$.
+>- The endpoints of $h$ are a [vertex](../../Polygons.md) $V$ of the triangle and a [point](../../../../Euclidean%20Space/Points%20vs%20Vectors/index.md) on the [extension](../../../../Curves/Straight%20Lines/Line%20Segments.md) of the [side](../../Polygons.md) $s$ opposite to $V$.
 >- The segment $h$ is [perpendicular](../../../../Curves/Straight%20Lines/Angle%20between%20Lines.md) to the extension of $s$.
 >
 >>[!DEFINITION] Definition: Base
 >>
->>The [side](../../index.md) which an [altitude](Altitudes.md) is [perpendicular](../../../../Curves/Straight%20Lines/Angle%20between%20Lines.md) to is known as the altitude's **base**.
+>>The [side](../../Polygons.md) which an [altitude](Altitudes.md) is [perpendicular](../../../../Curves/Straight%20Lines/Angle%20between%20Lines.md) to is known as the altitude's **base**.
 >> 
 >
 >>[!NOTATION]-

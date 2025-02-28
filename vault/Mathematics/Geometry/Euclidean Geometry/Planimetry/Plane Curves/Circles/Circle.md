@@ -13,7 +13,7 @@ tags:
 >
 >Let $\lambda$ be a [plane](../../../Surfaces/Planes.md), let $O \in \lambda$ and let $r \gt 0$.
 >
->The **circle** $k$ with radius $r$ and center $O$ is the [geometric figure](../../../Geometric%20Figure.md) comprised of all points in $\lambda$ which are a distance $r$ from $O$.
+>The **circle** $k$ with radius $r$ and center $O$ is the [geometric figure](../../../Geometric%20Shapes.md) comprised of all points in $\lambda$ which are a distance $r$ from $O$.
 >
 >![](res/Circle.svg)
 >

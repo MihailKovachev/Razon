@@ -11,5 +11,5 @@ tags:
 
 >[!DEFINITION] Definition: Obtuse Triangle
 >
->A [triangle](Triangles.md) is **obtuse** iff one of its [interior angles](../Interior%20Angle.md) is greater than $\frac{\pi}{2}$ ($90^\degree$).
+>A [triangle](Triangles.md) is **obtuse** iff one of its [interior angles](../Polygons.md) is greater than $\frac{\pi}{2}$ ($90^\degree$).
 >

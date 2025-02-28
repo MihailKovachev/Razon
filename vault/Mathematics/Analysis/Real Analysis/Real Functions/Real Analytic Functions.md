@@ -35,7 +35,7 @@ tags:
 
 >[!THEOREM] Theorem: Antiderivatives of Real Analytic Functions
 >
->The [antiderivatives](Integration/Antiderivatives/Antiderivatives.md) of any [real analytic function](Real%20Analytic%20Functions.md) $f(x) = \displaystyle \sum_{n = 0}^\infty c_n (x-a)^n$ are also real analytic functions and $f$'s [indefinite integral](Integration/Antiderivatives/Antiderivatives.md) is given by
+>The [antiderivatives](Integration/Antiderivatives.md) of any [real analytic function](Real%20Analytic%20Functions.md) $f(x) = \displaystyle \sum_{n = 0}^\infty c_n (x-a)^n$ are also real analytic functions and $f$'s [indefinite integral](Integration/Antiderivatives.md) is given by
 >
 >$$
 >\int f(x) \mathop{\mathrm{d}x} = C + \sum_{n = 0}^\infty c_n \frac{(x - a)^{n+1}}{n+1}

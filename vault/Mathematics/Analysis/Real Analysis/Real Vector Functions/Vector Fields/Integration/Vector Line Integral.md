@@ -2,7 +2,7 @@
 >
 >Let $\mathbf{F}: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) and let $\gamma: [a;b] \to \mathbb{R}^n$ be a [differentiable](../../../Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [parametric curve](../../../Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) whose [image](../../../../Functions/Functions.md) $\gamma([a;b])$ is a [subset](../../../../../Set%20Theory/Sets.md) of $\mathcal{D}$.
 >
->The **(vector) line integral** of $\mathbf{F}$ over $\gamma$ is the [definite integral](../../../Real%20Functions/Integration/Definite%20Integrals/index.md) 
+>The **(vector) line integral** of $\mathbf{F}$ over $\gamma$ is the [definite integral](../../../Real%20Functions/Integration/Definite%20Integrals.md) 
 >
 >$$
 >\int_a^b \mathbf{F}(\gamma(t)) \cdot \gamma'(t) \mathop{\mathrm{d}t},

@@ -2,11 +2,13 @@
 title: Line Integrals of Scalar Fields
 ---
 
+# Scalar Line Integrals
+
 >[!DEFINITION] Definition: Line Integral of a Scalar Field
 >
->Let $f: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) and let $\gamma: [a;b] \to \mathbb{R}^n$ be a [differentiable](../../../Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [parametric curve](../../../Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) whose [image](../../../../Functions/Functions.md) $\gamma([a;b])$ is a [subset](../../../../../Set%20Theory/Sets.md) of $\mathcal{D}$.
+>Let $f: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) and let $\gamma: [a;b] \to \mathbb{R}^n$ be a [parametric curve](../../../Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) which is [differentiable](../../../Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) on $(a;b)$ and whose [image](../../../../Functions/Functions.md) $\gamma([a;b])$ is a [subset](../../../../../Set%20Theory/Sets.md) of $\mathcal{D}$.
 >
->The **line integral** of $f$ along $\gamma$ is the [integral](../../../Real%20Functions/Integration/Definite%20Integrals/index.md)
+>The **line integral** of $f$ along $\gamma$ is the [integral](../../../Real%20Functions/Integration/Definite%20Integrals.md)
 >
 >$$
 >\int_a^b f(\gamma(t))\, ||\dot{\gamma}(t)|| \mathop{\mathrm{d}t}
@@ -30,6 +32,10 @@ title: Line Integrals of Scalar Fields
 >>If $\gamma$ is [piecewise continuously differentiable](../../../Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) then line integrals over are just the sum of the line integrals over its parts.
 >>
 >
+
+## Properties
+
+
 
 >[!THEOREM] Theorem: Line Integrals over Reparameterisations
 >
@@ -127,3 +133,6 @@ title: Line Integrals of Scalar Fields
 >>TODO
 >>
 >
+
+# Scalar Line Integrals over Curves
+
