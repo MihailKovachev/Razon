@@ -26,7 +26,7 @@
 
 >[!THEOREM] Theorem: Vector Line Integrals over Reparameterisations
 >
->Let $\mathbf{F}: D\subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) and let $\gamma: [a;b] \to \mathbb{R}^n$ and $\varphi: [c;d] \to \mathbb{R}^n$ be [equivalent](../../../Real%20Vector%20Functions/Parametric%20Curves/Equivalence%20of%20Parametric%20Curves.md), [piecewise continuously differentiable](../../../Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [parametric curves](../../../Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) whose [image](../../../../Functions/Functions.md) is a [subset](../../../../../Set%20Theory/Sets.md) of $\mathcal{D}$.
+>Let $\mathbf{F}: D\subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) and let $\gamma: [a;b] \to \mathbb{R}^n$ and $\varphi: [c;d] \to \mathbb{R}^n$ be [equivalent](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md), [piecewise continuously differentiable](../../../Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [parametric curves](../../../Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) whose [image](../../../../Functions/Functions.md) is a [subset](../../../../../Set%20Theory/Sets.md) of $\mathcal{D}$.
 >
 >If $\gamma$ and $\varphi$ have the [same orientation](../../../Real%20Vector%20Functions/Parametric%20Curves/Orientation.md), then the [line integrals](Vector%20Line%20Integral.md) of $\mathbf{F}$ over $\gamma$ and $\varphi$ are equal:
 >

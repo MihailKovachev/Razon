@@ -31,7 +31,7 @@ tags:
 >
 >>[!THEOREM] Theorem
 >>
->>All radii of the same [circle](Circle.md) have the same [length](../../../Curves/Length.md).
+>>All radii of the same [circle](Circle.md) have the same [length](../../../Curves/Curves.md).
 >>
 >>>[!PROOF]-
 >>>
@@ -71,7 +71,7 @@ tags:
 
 >[!DEFINITION] Definition: Circumference
 >
->The **circumference** of a [circle](Circle.md) is its [arc length](../../../Curves/Length.md).
+>The **circumference** of a [circle](Circle.md) is its [arc length](../../../Curves/Curves.md).
 >
 >>[!NOTATION]-
 >>

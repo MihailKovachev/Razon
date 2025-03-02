@@ -47,7 +47,7 @@ tags:
 
 >[!DEFINITION] Definition: Perimeter
 >
->The **perimeter** of a [polygon](Polygons.md) is the total [length](../../Curves/Length.md) of its [sides](Polygons.md).
+>The **perimeter** of a [polygon](Polygons.md) is the total [length](../../Curves/Curves.md) of its [sides](Polygons.md).
 >
 >^perimeter
 >

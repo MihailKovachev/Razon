@@ -34,7 +34,7 @@
 
 >[!THEOREM] Theorem: Path Independence of Line Integrals of Conservative Vector Fields
 >
->A [real vector field](../Real%20Vector%20Field.md) $\boldsymbol{v}: D\subseteq \mathbb{R}^n \to \mathbb{R}^n$ is [conservative](Conservative%20Vector%20Field.md) if and only if its [line integrals](../Integration/Vector%20Line%20Integral.md) over all [simple curves](../../../../../Geometry/Euclidean%20Geometry/Curves/Simple%20Curve.md) with [piecewise continuously differentiable](../../../Real%20Vector%20Functions/Differentiation/Partial%20Derivatives%20of%20Real%20Vector%20Functions.md) [reparameterisations](../../../Real%20Vector%20Functions/Parametric%20Curves/Equivalence%20of%20Parametric%20Curves.md) $\gamma_1: [a;b] \to \mathbb{R}^n$ and $\gamma_2: [a;b] \to \mathbb{R}^n$ (i.e. $\gamma_1(a) = \gamma_2(a)$ and $\gamma_1(b) = \gamma_2(b)$) are equal.
+>A [real vector field](../Real%20Vector%20Field.md) $\boldsymbol{v}: D\subseteq \mathbb{R}^n \to \mathbb{R}^n$ is [conservative](Conservative%20Vector%20Field.md) if and only if its [line integrals](../Integration/Vector%20Line%20Integral.md) over all [simple curves](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md) with [piecewise continuously differentiable](../../../Real%20Vector%20Functions/Differentiation/Partial%20Derivatives%20of%20Real%20Vector%20Functions.md) [reparameterisations](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md) $\gamma_1: [a;b] \to \mathbb{R}^n$ and $\gamma_2: [a;b] \to \mathbb{R}^n$ (i.e. $\gamma_1(a) = \gamma_2(a)$ and $\gamma_1(b) = \gamma_2(b)$) are equal.
 >
 >$$
 >\int_{\gamma_1} \boldsymbol{v}\cdot \mathop{\mathrm{d}\boldsymbol{s}} = \int_{\gamma_2} \boldsymbol{v}\cdot \mathop{\mathrm{d}\boldsymbol{s}}
@@ -48,7 +48,7 @@
 
 >[!THEOREM] Theorem: Line Integrals of Conservative Vector Fields over Closed Curves
 >
->A [continuous](../../../Real%20Vector%20Functions/Continuity%20of%20Real%20Vector%20Functions.md) [vector field](../Real%20Vector%20Field.md) $\boldsymbol{v}: D\subseteq \mathbb{R}^n \to \mathbb{R}^n$ is [conservative](Conservative%20Vector%20Field.md) if and only if its [line integral](../Integration/Vector%20Line%20Integral.md) over every [closed curve](../../../../../Geometry/Euclidean%20Geometry/Curves/Closed%20Curve.md) $\mathcal{C} \subseteq D$ is always zero.
+>A [continuous](../../../Real%20Vector%20Functions/Continuity%20of%20Real%20Vector%20Functions.md) [vector field](../Real%20Vector%20Field.md) $\boldsymbol{v}: D\subseteq \mathbb{R}^n \to \mathbb{R}^n$ is [conservative](Conservative%20Vector%20Field.md) if and only if its [line integral](../Integration/Vector%20Line%20Integral.md) over every [closed curve](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md) $\mathcal{C} \subseteq D$ is always zero.
 >
 >$$
 >\oint_\mathcal{C} \boldsymbol{v} \cdot \mathop{\mathrm{d}\boldsymbol{s}} = 0
