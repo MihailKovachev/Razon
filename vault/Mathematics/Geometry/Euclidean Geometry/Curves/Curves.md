@@ -36,27 +36,103 @@ More over, not all parametrizations are created equal. A single curve can have m
 
 ### Equivalence of Parametrizations
 
->[!DEFINITION] Definition: Equivalence of Parametric Curves
+>[!DEFINITION] Definition: Reparametrization
 >
->Let $\mathcal{C} \subseteq \mathbb{R}^n$ be a [curve](Curves.md#Curves) in $\mathbb{R}^n$.
+>Let $\mathcal{C}$ be a [curve](Curves.md#Curves) in $\mathbb{R}^n$ and let $\gamma: I_{\gamma} \subseteq \mathbb{R} \to \mathbb{R}^n$ and $\varphi: I_{\varphi} \subseteq \mathbb{R} \to \mathbb{R}^n$ be [parametrizations](Parametric%20Curve.md) of $\mathcal{C}$.
 >
->Two [parametrizations](Parametric%20Curve.md) $\gamma_1: I_1 \subseteq \mathbb{R} \to \mathcal{C}$ and $\gamma_2: I_2 \subseteq \mathbb{R} \to \mathcal{C}$ are **equivalent** iff there exists a [differentiable](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md), [bijective](../../../Analysis/Functions/Types%20of%20Functions/Bijection.md) [function](../../../Analysis/Real%20Analysis/Real%20Functions/Real%20Functions.md) $\varphi: I_1 \to I_2$ with a [differentiable](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) [inverse](../../../Analysis/Functions/Types%20of%20Functions/Injection.md) such that $\varphi'(t) \ne 0$ and $\gamma_2(\varphi(t)) = \gamma_1(t)$ for all $t \in I_1$.
+>A **reparametrization** between $\gamma$ and $\varphi$ is a [bijective](../../../Analysis/Functions/Types%20of%20Functions/Bijection.md) [function](../../../Analysis/Real%20Analysis/Real%20Functions/Real%20Functions.md) $h_{I_{\gamma} \to I_{\varphi}}: I_{\gamma} \to I_{\varphi}$ with [inverse](../../../Analysis/Functions/Types%20of%20Functions/Injection.md) $h_{I_{\varphi} \to I_{\gamma}}: I_{\varphi} \to I_{\gamma}$ such that
 >
->>[!DEFINITION] Definition: Reparametrizations
+>$$
+>\begin{align*}
+>\gamma(t) = \varphi(h_{I_{\gamma} \to I_{\varphi}}(t)) \qquad \forall t \in I_{\gamma} \\
+>\varphi(t) = \gamma(h_{I_{\varphi} \to I_{\gamma}}(t)) \qquad \forall t \in I_{\varphi}
+>\end{align*}
+>$$
+>
+>>[!NOTE]
 >>
->>Equivalent parametric curves are also called **reparametrizations**.
+>>This is the most general definition for reparametrization. However, it is quite common to require that both $h_{I_{\gamma} \to I_{\varphi}}$ and $h_{I_{\varphi} \to I_{\gamma}}$ have additional properties such as [continuity](../../../Analysis/Real%20Analysis/Real%20Functions/Continuity.md), [continuous differentiability](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) or [smoothness](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md). In this case, when we say that a reparametrization has some property, we mean that both $h_{I_{\gamma} \to I_{\varphi}}$ and $h_{I_{\varphi} \to I_{\gamma}}$ have this property.
+>>
+>
+
+>[!DEFINITION] Definition: Equivalence of Parametrizations
+>
+>Let $\mathcal{C}$ be a [curve](Curves.md#Curves) in $\mathbb{R}^n$.
+>
+>Two [parametrizations](Parametric%20Curve.md) $\gamma: I_{\gamma} \subseteq \mathbb{R} \to \mathbb{R}^n$ and $\varphi: I_{\varphi} \subseteq \mathbb{R} \to \mathbb{R}^n$ of $\mathcal{C}$ are **equivalent** if and only if there exists a [reparametrization](Curves.md#Equivalence%20of%20Parametrizations) between them.
+>
+>>[!NOTE] Note
+>>
+>>This is the most general definition of equivalence for parametrizations. However, sometimes we require that such a [reparametrization](Curves.md#Equivalence%20of%20Parametrizations) also has additional properties such as [continuity](../../../Analysis/Real%20Analysis/Real%20Functions/Continuity.md), [continuous differentiability](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) or [smoothness](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md). In this case, we say that $\gamma$ and $\varphi$ are "equivalent up to a PROPERTY reparametrization" such as "equivalent up to a continuous reparametrization" or "equivalent up to a smooth reparametrization".
 >>
 >
 
 >[!THEOREM] Theorem: Equivalence of Regular Injective Parametrizations
 >
->All [regular](TODO) [injective](../../../Analysis/Functions/Types%20of%20Functions/Injection.md) [parametrizations](Curves.md#Parametrizations) of the same [curve](Curves.md#Curves) are [equivalent](Curves.md#Equivalence%20of%20Parametrizations).
+>Let $\gamma: I_{\gamma} \subseteq \mathbb{R} \to \mathbb{R}^n$ and $\varphi: I_{\varphi} \subseteq \mathbb{R} \to \mathbb{R}^n$ be [parametrizations](Curves.md#Parametrizations) of the same [curve](Curves.md#Curves) $\mathcal{C}$.
+>
+>If $\gamma$ and $\varphi$ are $C^1$-[regular](TODO) (i.e. [continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) with a non-vanishing [derivative](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md)) and [injective](../../../Analysis/Functions/Types%20of%20Functions/Injection.md), then they are [equivalent](Curves.md#Equivalence%20of%20Parametrizations) up to a [continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) [reparametrization](Curves.md#Equivalence%20of%20Parametrizations).
 >
 >>[!PROOF]-
 >>
 >>TODO
 >>
 >
+
+#### Orientation of Equivalent Parametrizations
+
+[Continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [parametrizations](Curves.md#Parametrizations) which are [equivalent](Curves.md#Equivalence%20of%20Parametrizations) up to a [continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) [reparametrization](Curves.md#Equivalence%20of%20Parametrizations) with a non-vanishing [derivative](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) exhibit a nice property which allows us to define orientations for them.
+
+>[!THEOREM] Theorem: Unit Tangent Vectors of Equivalent Parametrizations
+>
+>Let $\gamma: I_{\gamma} \subseteq \mathbb{R} \to \mathbb{R}^n$ and $\gamma: I_{\gamma} \subseteq \mathbb{R} \to \mathbb{R}^n$ be two [parametrizations](Curves.md#Parametrizations) of the same [curve](Curves.md#Curve) $\mathcal{C}$.
+>
+>If $\gamma$ and $\varphi$ are [differentiable](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) with non-vanishing [derivatives](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) and are also [equivalent](Curves.md#Equivalence%20of%20Parametrizations) up to a [continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) [reparametrization](Curves.md#Equivalence%20of%20Parametrizations) $\{h_{I_{\gamma} \to I_{\varphi}}, h_{I_{\varphi} \to I_{\gamma}}\}$ with a non-vanishing [derivative](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md), then exactly one of the following is true for their [unit tangent vectors](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Tangent%20Vector.md):
+>
+>- Case (I): $\mathbf{T}_{\varphi}(t) = \mathbf{T}_{\gamma}(h_{I_{\varphi} \to I_{\gamma}}(t))$ for all $t \in I_{\varphi}$
+>- Case (II): $\mathbf{T}_{\varphi}(t) = -\mathbf{T}_{\gamma}(h_{I_{\varphi} \to I_{\gamma}}(t))$ for all $t \in I_{\varphi}$
+>
+>>[!PROOF]-
+>>
+>>By definition, we have $\varphi(t) = \gamma(h_{I_{\varphi} \to I_{\gamma}}(t))$. The [chain rule](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiation%20Rules%20for%20Curve%20Parameterisations.md) gives us
+>>
+>>$$
+>>\varphi'(t) = \gamma'(h_{I_{\varphi} \to I_{\gamma}}(t)) \cdot h_{I_{\varphi} \to I_{\gamma}}'(t).
+>>$$
+>>
+>>The [unit tangent vector](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Tangent%20Vector.md) $\mathbf{T}_{\varphi}$ of $\varphi$ is given by $\frac{\varphi'}{||\varphi'||}$ which combined with the above yields
+>>
+>>$$
+>>\mathbf{T}_{\varphi}(t) = \frac{\varphi'(t)}{||\varphi'(t)||} = \frac{\gamma'(h_{I_{\varphi} \to I_{\gamma}}(t)) \cdot h_{I_{\varphi} \to I_{\gamma}}'(t)}{||\gamma'(h_{I_{\varphi} \to I_{\gamma}}(t)) \cdot h_{I_{\varphi} \to I_{\gamma}}'(t)||}.
+>>$$
+>>
+>>We can use the property of the norm to transform the above expression into the following:
+>>
+>>$$
+>>\mathbf{T}_{\varphi}(t) = \frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|} \frac{\gamma'(h_{I_{\varphi} \to I_{\gamma}}(t))}{||\gamma'(h_{I_{\varphi} \to I_{\gamma}}(t))||} = \frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|} \mathbf{T}_{\gamma}(h_{I_{\varphi} \to I_{\gamma}}(t)).
+>>$$
+>>
+>>Since $h_{I_{\varphi} \to I_{\gamma}}'(t)$ is [continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) with a non-vanishing [derivative](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md), it must be the case that either $h_{I_{\varphi} \to I_{\gamma}}'(t) \gt 0$ or $h_{I_{\varphi} \to I_{\gamma}}'(t) \lt 0$ for all $t \in I_{\varphi}$. Moreover, we notice that $\frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|}$ is $1$ if and only if $h_{I_{\varphi} \to I_{\gamma}}'(t) \gt 0$ and $\frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|}$ is $-1$ if and only if $h_{I_{\varphi} \to I_{\gamma}}'(t) \lt 0$ and so either $\frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|} = 1$ for all $t \in I_{\varphi}$ or $\frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|} = -1$ or $t \in I_{\varphi}$.
+>>
+>
+>>[!DEFINITION] Definition: Orientation of Parametrizations
+>>
+>>We say that $\gamma$ and $\varphi$ have
+>>- the **same orientation** in the first case;
+>>- **opposite orientations** in the second case.
+>>
+>>>[!NOTE] Note: Preserving and Reversing Orientation
+>>>
+>>>We might also say that $\gamma$ and $\varphi$ are equivalent up to an
+>>>- **orientation-preserving** reparametrization in the first case;
+>>>- **orientation-reversing** reparametrization in the second case;
+>>>
+>>
+>
+
+Intuitively, the above theorem tells us that, under the specified conditions, the unit tangent of one parametrization at each point on the curve is always either equal or exactly opposite to the unit tangent vector of the other parametrization at the same point.
+
+![](res/Unit%20Tangent%20Vectors%20of%20Equivalent%20Parametrizations.svg)
 
 ## Types of Curves
 
@@ -91,19 +167,24 @@ A [simple curve](Curves.md#Simple%20Curves) is just a [curve with endpoints](Cur
 
 # Length
 
->[!DEFINITION] Definition: Length of Simple Curves
+>[!DEFINITION] Definition: Length of Curves
 >
->
+>>[!NOTE] Note: Generalization to Non-Simple Curves
+>>
+>>If a [curve](Curves.md#Curves) $\mathcal{C}$ is not [simple](Curves.md#Simple%20Curves) but can be represented as the [union](../../../Set%20Theory/Collections/Operations%20with%20Collections.md) $\mathcal{C} = \mathcal{C}_1 \cup \mathcal{C}_2 \cup \cdots \cup \mathcal{C}_{n-1} \cup \mathcal{C}_n$ of finitely many [simple curves](Curves.md#Simple%20Curves) $\mathcal{C}_1, \dotsc, \mathcal{C}_n$ such that $\mathcal{C}_{k}$ and $\mathcal{C}_{k+1}$ share exactly one point and this point lies on their [manifold boundary](../../Manifolds/Manifolds.md), then we define the length of $\mathcal{C}$ as the sum of the lengths of $\mathcal{C}_1, \dotsc, \mathcal{C}_n$:
+>>
+>>$$
+>>\mathcal{L}(\mathcal{C}) \overset{\text{def}}{=} \sum_{i = 1}^n \mathcal{L}(\mathcal{C}_i)
+>>$$
+>>
 >
 
 >[!THEOREM] Theorem: Length via Line Integral
 >
->Let $\mathcal{C} \subset \mathbb{R}^n$ be a [simple curve](Curves.md#Simple%20Curves).
->
->If $\gamma: [a;b] \subset \mathbb{R} \to \mathbb{R}^n$ is a [regular](TODO) and [injective](../../../Analysis/Functions/Types%20of%20Functions/Injection.md) [parametrization](Curves.md#Parametrization) of $\mathcal{C}$, then the [length](Curves.md#Length) of $\mathcal{C}$ is given by the following [line integral](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Scalar%20Fields/Integration/Scalar%20Line%20Integrals.md):
+>The [length](Curves.md#Length) of a [curve](Curves.md) $\mathcal{C} \subset \mathbb{R}^n$ is given by the [line integral](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Scalar%20Fields/Integration/Scalar%20Line%20Integrals.md#Scalar%20Line%20Integrals%20over%20Geometric%20Curves) of $1$ over $\mathcal{C}$.
 >
 >$$
->\int_{\gamma} 1 = \int_a^b ||\gamma'(t)|| \mathop{\mathrm{d}t}
+>\int_{\mathcal{C}} 1 \mathop{\mathrm{d}s}
 >$$
 >
 >>[!PROOF]-
@@ -112,8 +193,3 @@ A [simple curve](Curves.md#Simple%20Curves) is just a [curve with endpoints](Cur
 >>
 >
 
-If a [curve](Curves.md#Curves) $\mathcal{C}$ is not [simple](Curves.md#Simple%20Curves) but can be represented as the [union](../../../Set%20Theory/Collections/Operations%20with%20Collections.md) $\mathcal{C} = \mathcal{C}_1 \cup \mathcal{C}_2 \cup \cdots \cup \mathcal{C}_{n-1} \cup \mathcal{C}_n$ of finitely many [simple curves](Curves.md#Simple%20Curves) $\mathcal{C}_1, \dotsc, \mathcal{C}_n$ such that $\mathcal{C}_{k}$ and $\mathcal{C}_{k+1}$ share exactly one point and this point lies on their [manifold boundary](../../Manifolds/Manifolds.md), then we define the length of $\mathcal{C}$ as the sum of the lengths of $\mathcal{C}_1, \dotsc, \mathcal{C}_n$:
-
-$$
-\mathcal{L}(\mathcal{C}) \overset{\text{def}}{=} \sum_{i = 1}^n \mathcal{L}(\mathcal{C}_i)
-$$

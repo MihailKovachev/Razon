@@ -99,7 +99,7 @@ tags:
 
 >[!THEOREM] Theorem: Surface Area of a Circle
 >
->The [surface area](../../../Surfaces/Area.md) $S$ of a [circle](Circle.md) is given by the length $r$ of its [radii](Circle.md#Circle) as follows:
+>The [surface area](../../../Surfaces/Surfaces.md) $S$ of a [circle](Circle.md) is given by the length $r$ of its [radii](Circle.md#Circle) as follows:
 >
 >$$
 >S = \pi r^2

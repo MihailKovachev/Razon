@@ -2,7 +2,7 @@
 title: Line Integrals of Scalar Fields
 ---
 
-# Scalar Line Integrals
+# Scalar Line Integrals over Parametric Curves
 
 >[!DEFINITION] Definition: Line Integral of a Scalar Field
 >
@@ -64,7 +64,7 @@ title: Line Integrals of Scalar Fields
 >>
 >
 
-# Scalar Line Integrals over Curves
+# Scalar Line Integrals over Geometric Curves
 
 The following theorem makes it possible to provide an unambiguous definition of the line integral of a scalar field over a [curve](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md) in $\mathbb{R}^n$.
 
@@ -72,7 +72,7 @@ The following theorem makes it possible to provide an unambiguous definition of 
 >
 >Let $\mathcal{C}$ be a [simple curve](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md#Simple%20Curves) in $\mathbb{R}^n$, let $\gamma: [a;b] \to \mathbb{R}^n$ and $\varphi: [c;d] \to \mathbb{R}^n$ be [parametrizations](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md#Parametrizations) of $\mathcal{C}$ and let $f: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md).
 >
->If $\gamma$ and $\varphi$ are [equivalent](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md#Equivalence%20of%20Parametrizations) and [continuously differentiable](../../Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) on $(a;b)$ and $(c;d)$, respectively, then the [line integrals](Scalar%20Line%20Integrals.md) of $f$ along $\gamma$ and $\varphi$ are equal.
+>If $\gamma$ and $\varphi$ are [continuously differentiable](../../Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) on $(a;b)$ and $(c;d)$, respectively, and are [equivalent](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md#Equivalence%20of%20Parametrizations) up to a [continuously differentiable](../../../Real%20Functions/Differentiation/Derivatives.md) [reparametrization](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md), then the [line integrals](Scalar%20Line%20Integrals.md) of $f$ along $\gamma$ and $\varphi$ are equal.
 >
 >$$
 >\int_{\gamma} f = \int_{\varphi} f
@@ -134,7 +134,7 @@ The aforementioned theorem guarantees that [line integrals](Scalar%20Line%20Inte
 
 >[!DEFINITION] Definition: Scalar Line Integrals over Curves
 >
->The **line integral** of a [real scalar field](../Real%20Scalar%20Field.md) $f: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ over a [simple curve](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md#Curves) $\mathcal{C} \subseteq \mathcal{D}$ is defined as the [line integral](Scalar%20Line%20Integrals.md) of $f$ over any [continuously differentiable](../../Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [regular](TODO) [injective](../../../../Functions/Types%20of%20Functions/Injection.md) [parametrization](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md#Parametrizations) $\gamma: [a;b] \subset \mathbb{R} \to \mathbb{R}^n$ of $\mathcal{C}$:
+>The **line integral** of a [real scalar field](../Real%20Scalar%20Field.md) $f: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}$ over a [simple curve](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md#Curves) $\mathcal{C} \subseteq \mathcal{D}$ is defined as the [line integral](Scalar%20Line%20Integrals.md) of $f$ over any [injective](../../../../Functions/Types%20of%20Functions/Injection.md) [parametrization](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md#Parametrizations) $\gamma: [a;b] \subset \mathbb{R} \to \mathbb{R}^n$ of $\mathcal{C}$ which is [continuously differentiable](../../Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) on $(a;b)$ with a non-vanishing [derivative](../../Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md):
 >
 >$$
 >\int_{\gamma} f

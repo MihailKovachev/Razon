@@ -16,7 +16,7 @@
 >>\int_{\gamma} \mathbf{F} \cdot \mathop{\mathrm{d}\mathbf{s}} \qquad \int_{\gamma} \mathbf{F}
 >>$$
 >>
->>If $\gamma$ is [closed](../../../Real%20Vector%20Functions/Parametric%20Curves/Closed%20Parametric%20Curve.md), then we write
+>>If the [image](../../../../Functions/Functions.md) of $\gamma$ is a [closed curve](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md#Closed%20Curves), then we write
 >>
 >>$$
 >>\oint_{\gamma} \mathbf{F} \cdot \mathop{\mathrm{d}\mathbf{s}} \qquad \oint_{\gamma} \mathbf{F}
