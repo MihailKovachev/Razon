@@ -160,5 +160,9 @@ The aforementioned theorem guarantees that the [line integrals](Vector%20Line%20
 >
 >Let $\mathbf{F}: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) and let $\mathcal{C} \subseteq \mathcal{D}$ be a [simple curve](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md#Simple%20Curves) in $\mathbb{R}^n$.
 >
->The **line integral** of $\mathbf{F}$ over $\mathcal{C}$ is defined as a [line integral](Vector%20Line%20Integrals.md) of $\mathbf{F}$ over any 
+>The **line integral** of $\mathbf{F}$ over $\mathcal{C}$ is defined as a [line integral](Vector%20Line%20Integrals.md) of $\mathbf{F}$ over any [injective](../../../../Functions/Types%20of%20Functions/Injection.md) [parametrization](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md#Parametrizations) $\gamma: [a;b] \subset \mathbb{R} \to \mathbb{R}^n$ of $\mathcal{C}$ which is [continuously differentiable](../../Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) on $(a;b)$ with a non-vanishing [derivative](../../Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md):
+>
+>$$
+>\int_{\gamma} \mathbf{F} \cdot \mathop{\mathrm{d}s}
+>$$
 >

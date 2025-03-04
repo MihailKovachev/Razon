@@ -1,5 +1,5 @@
 ---
-title: Triangle Congruence
+title: Triangles
 tags:
   - triangles
   - planimetry

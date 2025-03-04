@@ -1,5 +1,5 @@
 ---
-title: Simple Curve
+title: Curves
 tags:
   - curves
   - euclidean-geometry
