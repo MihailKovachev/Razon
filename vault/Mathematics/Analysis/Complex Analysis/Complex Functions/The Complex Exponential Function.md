@@ -12,7 +12,7 @@ tags:
 
 >[!THEOREM] Theorem: Complex Exponential
 >
->The [complex power series](../Complex%20Power%20Series/index.md)
+>The [complex power series](../Complex%20Power%20Series/Complex%20Power%20Series.md)
 >
 >$$
 >\sum_{n = 0}^{\infty} \frac{z^n}{n!} = 1 + \frac{z^1}{1!} +  \frac{z^2}{2!} + \frac{z^3}{3!} + \frac{z^4}{4!} + \cdots

@@ -27,9 +27,9 @@ tags:
 
 >[!THEOREM] Theorem: Equality of Complex Sequences
 >
->Let $(a_n)_{n \in \mathcal{D}}$ and $(b_n)_{n \in \mathcal{D}}$ be [infinite complex sequences](./index.md).
+>Let $(a_n)_{n \in \mathcal{D}}$ and $(b_n)_{n \in \mathcal{D}}$ be [infinite complex sequences](Complex%20Sequences.md).
 >
->If there exist [complex power series](../Complex%20Power%20Series/index.md) $\sum_{n \in \mathcal{D}} a_n (x - c)^n$ and $\sum_{n \in \mathcal{D}} b_n (x - c)^n$ which have the same center $c \in \mathbb{C}$ and for which there is some $r \gt 0$ such that both series [converge](../Complex%20Power%20Series/Convergence.md) and
+>If there exist [complex power series](../Complex%20Power%20Series/Complex%20Power%20Series.md) $\sum_{n \in \mathcal{D}} a_n (x - c)^n$ and $\sum_{n \in \mathcal{D}} b_n (x - c)^n$ which have the same center $c \in \mathbb{C}$ and for which there is some $r \gt 0$ such that both series [converge](../Complex%20Power%20Series/Convergence.md) and
 >
 >$$
 >\sum_{n \in \mathcal{D}} a_n (x - c)^n = \sum_{n \in \mathcal{D}} b_n (x - c)^n

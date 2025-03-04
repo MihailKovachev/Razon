@@ -11,7 +11,7 @@ tags:
 
 >[!DEFINITION] Definition: Convergence of Complex Sequences
 >
->Let $\{a_n\}$ be a [complex sequence](./index.md).
+>Let $\{a_n\}$ be a [complex sequence](Complex%20Sequences.md).
 >
 >We say that $\{a_n\}$ **converges** to $L \in \mathbb{C}$ iff for each $\varepsilon \gt 0$, there exists some integer $N$ such that
 >
@@ -34,7 +34,7 @@ tags:
 >
 >>[!THEOREM] Theorem: Uniqueness of the Limit
 >>
->>The [limit](Convergence.md) of a [complex sequence](./index.md), if it exists, is unique - if $\{a_n\}$ [converges](Convergence.md) to both $L$ and $M$, then $L = M$.
+>>The [limit](Convergence.md) of a [complex sequence](Complex%20Sequences.md), if it exists, is unique - if $\{a_n\}$ [converges](Convergence.md) to both $L$ and $M$, then $L = M$.
 >>
 >>>[!PROOF]-
 >>>
@@ -71,14 +71,14 @@ tags:
 
 >[!DEFINITION] Definition: Divergence of Complex Sequences
 >
->If a [complex sequence](./index.md)  does not [converge](Convergence.md) to any $L \in \mathbb{C}$, then we say that it **diverges**.
+>If a [complex sequence](Complex%20Sequences.md)  does not [converge](Convergence.md) to any $L \in \mathbb{C}$, then we say that it **diverges**.
 >
 
 ## Convergence Criteria
 
 >[!THEOREM] Theorem: Component-Wise Convergence
 >
->A [complex sequence](./index.md) $\{a_n\}$ [converges](Convergence.md) to $L \in \mathbb{C}$ if and only if the [sequences](../../Real%20Analysis/Real%20Sequences/Real%20Sequence.md) of its real and imaginary part [converge](../../Real%20Analysis/Real%20Sequences/Convergence.md) to the real and imaginary part of $L$, respectively.
+>A [complex sequence](Complex%20Sequences.md) $\{a_n\}$ [converges](Convergence.md) to $L \in \mathbb{C}$ if and only if the [sequences](../../Real%20Analysis/Real%20Sequences/Real%20Sequence.md) of its real and imaginary part [converge](../../Real%20Analysis/Real%20Sequences/Convergence.md) to the real and imaginary part of $L$, respectively.
 >
 >$$
 >\lim_{n \to \infty} a_n = L \iff \lim_{n \to \infty} \operatorname{Re}(a_n) = \operatorname{Re}(L) \qquad \text{and} \qquad \lim_{n \to \infty} \operatorname{Im}(a_n) = \operatorname{Im}(L)
@@ -92,7 +92,7 @@ tags:
 
 >[!THEOREM] Theorem: Cauchy Sequences
 >
->A [complex sequence](./index.md) $\{a_n\}$ is [convergent](Convergence.md) if and only if, for each $\varepsilon \gt 0$, there exists some integer $N$ such that
+>A [complex sequence](Complex%20Sequences.md) $\{a_n\}$ is [convergent](Convergence.md) if and only if, for each $\varepsilon \gt 0$, there exists some integer $N$ such that
 >
 >$$
 >\lim_{n \to \infty} |a_n - a_m| = 0 \qquad \forall n,m \ge N 
@@ -113,7 +113,7 @@ tags:
 
 >[!THEOREM] Theorem: Boundedness of Convergent Sequences
 >
->Every [convergent](Convergence.md) [complex sequence](./index.md) is [bounded](Boundedness.md).
+>Every [convergent](Convergence.md) [complex sequence](Complex%20Sequences.md) is [bounded](Boundedness.md).
 >
 >>[!PROOF]-
 >>
@@ -158,7 +158,7 @@ tags:
 
 >[!THEOREM] Theorem: Convergence to Zero
 >
->A [complex sequence](./index.md) $\{a_n\}$ [converges](Convergence.md) to zero if and only if $\{|a_n|\}$ converges to zero.
+>A [complex sequence](Complex%20Sequences.md) $\{a_n\}$ [converges](Convergence.md) to zero if and only if $\{|a_n|\}$ converges to zero.
 >
 >$$
 >\lim_{n \to \infty} a_n = 0 \iff \lim_{n \to \infty} |a_n| = 0
@@ -172,7 +172,7 @@ tags:
 
 >[!THEOREM]
 >
->Let $\{a_n\}$ and $\{b_n\}$ be [complex sequences](./index.md).
+>Let $\{a_n\}$ and $\{b_n\}$ be [complex sequences](Complex%20Sequences.md).
 >
 >If $\{a_n\}$ [converges](Convergence.md) to zero and there exists some integer $N$ such that $|b_n| \le |a_n|$ for all $n \ge N$, then $\{b_n\}$ also [converges](Convergence.md) to zero.
 >
@@ -184,7 +184,7 @@ tags:
 
 >[!THEOREM] Theorem: Limit Arithmetic
 >
->If $\{a_n\}$ and $\{b_n\}$ are both [convergent](Convergence.md) [complex sequences](./index.md), then
+>If $\{a_n\}$ and $\{b_n\}$ are both [convergent](Convergence.md) [complex sequences](Complex%20Sequences.md), then
 >
 >$$
 >\begin{align*}
