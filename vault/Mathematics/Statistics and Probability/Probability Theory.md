@@ -14,18 +14,18 @@ tags:
 >**Randomness** is an expression of the limits of our knowledge about future events.
 >
 
-The mathematical framework for studying randomness and its properties is built upon the foundations of [set theory](../Set%20Theory/Sets.md). We usually frame this study in the terminology of [experiments](Ex[experiments](./index.md)m an experiment, it has a particular outcome. We group all possible outcomes in the so-called [sample space](E[sample space](./index.md)e how often each outcome or a combination of outcomes (also known as an [event](Experime[event](./index.md) sample space to determine [probabilities](Probability.md).
+The mathematical framework for studying randomness and its properties is built upon the foundations of [set theory](../Set%20Theory/Sets.md). We usually frame this study in the terminology of [experiments](Ex[experiments](index.md)m an experiment, it has a particular outcome. We group all possible outcomes in the so-called [sample space](E[sample space](index.md)e how often each outcome or a combination of outcomes (also known as an [event](Experime[event](index.md) sample space to determine [probabilities](Probability.md).
 
 # Experiments
 
 >[!DEFINITION] Definition: Experiment
 >
->An **experiment** in [probability theory](./index.md) is a process whose outcome is always clearly distinguishable from all other outcomes.
+>An **experiment** in [probability theory](index.md) is a process whose outcome is always clearly distinguishable from all other outcomes.
 >
 
 >[!DEFINITION] Definition: Sample Space
 >
->The **sample space** of an [experiment](./index.md#experiments) is the [set](../Set%20Theory/Sets.md) of all possible outcomes of said experiment.
+>The **sample space** of an [experiment](index.md#experiments) is the [set](../Set%20Theory/Sets.md) of all possible outcomes of said experiment.
 >
 >>[!EXAMPLE]- Example: Flipping a Coin
 >>
@@ -53,7 +53,7 @@ The mathematical framework for studying randomness and its properties is built u
 
 >[!DEFINITION] Definition: Event
 >
->An **event** is any [subset](../Set%20Theory/Sets.md) of the [sample space](./index.md#experiments) of an [experiment](./index.md#experiments).
+>An **event** is any [subset](../Set%20Theory/Sets.md) of the [sample space](index.md#experiments) of an [experiment](index.md#experiments).
 >
 >>[!INTUITION]-
 >>
@@ -62,12 +62,12 @@ The mathematical framework for studying randomness and its properties is built u
 >
 >>[!TIP]- Tip: Union of Events
 >>
->>The [union](../Set%20Theory/Collections/Operations%20with%20Collections.md) of a [collection](../Set%20Theory/Collections/index.md) of [events](./index.md#experiments) is the event which occurs if and only if at least one of the events in the collection occurs.
+>>The [union](../Set%20Theory/Collections/Operations%20with%20Collections.md) of a [collection](../Set%20Theory/Collections/index.md) of [events](index.md#experiments) is the event which occurs if and only if at least one of the events in the collection occurs.
 >>
 >
 >>[!TIP]- Tip: Intersection of Events
 >>
->>The [intersection](../Set%20Theory/Collections/Operations%20with%20Collections.md) of a [collection](../Set%20Theory/Collections/index.md) of [events](./index.md#experiments) is the event which occurs if and only if all of the events in the collection occur.
+>>The [intersection](../Set%20Theory/Collections/Operations%20with%20Collections.md) of a [collection](../Set%20Theory/Collections/index.md) of [events](index.md#experiments) is the event which occurs if and only if all of the events in the collection occur.
 >>
 >
 >>[!TIP]- Tip: Complement of an Event
@@ -78,5 +78,5 @@ The mathematical framework for studying randomness and its properties is built u
 
 >[!DEFINITION] Definition: Mutual Exclusiveness
 >
->Two [events](./index.md#experiments) are **mutually exclusive** iff their [intersection](../Set%20Theory/Set%20Operations.md) is the [empty set](../Set%20Theory/The%20Empty%20Set.md).
+>Two [events](index.md#experiments) are **mutually exclusive** iff their [intersection](../Set%20Theory/Set%20Operations.md) is the [empty set](../Set%20Theory/The%20Empty%20Set.md).
 >

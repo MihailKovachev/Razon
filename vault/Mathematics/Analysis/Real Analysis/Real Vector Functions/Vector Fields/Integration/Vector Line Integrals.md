@@ -41,7 +41,7 @@ tags:
 >
 >Let $\mathbf{F}: \mathcal{D} \subseteq \mathbb{R}^n \to \mathbb{R}^n$ be a [real vector field](../Real%20Vector%20Field.md) and let $\gamma: [a;b] \to \mathbb{R}^n$ be a [differentiable](../../../Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [parametric curve](../../../Real%20Vector%20Functions/Parametric%20Curves/Parametric%20Curve.md) whose [image](../../../../Functions/Functions.md) $\gamma([a;b])$ is a [subset](../../../../../Set%20Theory/Sets.md) of $\mathcal{D}$.
 >
->The [line integral](Vector%20Line%20Integrals.md) of $\mathbf{F}$ over $\gamma$ is equal to the [line ntegral](../../../Real%20Vector%20Functions/Scalar%20Fields/Integration/Scalar%20Line%20Integrals.md) of the [dot product](../../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Dot%20Product.md) of $\mathbf{F}$ with the [unit tangent vector](../../../Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Tangent%20Vector.md) of $\gamma$:
+>The [line integral](Vector%20Line%20Integrals.md) of $\mathbf{F}$ over $\gamma$ is equal to the [line ntegral](../../../Real%20Vector%20Functions/Scalar%20Fields/Integration/Scalar%20Line%20Integrals.md) of the [dot product](../../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Dot%20Product.md) of $\mathbf{F}$ with the [unit tangent vector](../../../../../Geometry/Euclidean%20Geometry/Curves/Parametrization.md) of $\gamma$:
 >
 >$$
 >\int_{\gamma} \mathbf{F} \cdot \mathop{\mathrm{d}\mathbf{s}} = \int_{\gamma} \mathbf{F} \cdot \mathbf{T} \mathop{\mathrm{d}s}

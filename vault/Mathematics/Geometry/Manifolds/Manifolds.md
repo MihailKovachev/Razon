@@ -39,7 +39,7 @@ tags:
 >
 >An $n$-dimensional **manifold with boundary** is a [second countable](../../Topology/Bases/Second-Countability%20Axiom.md) [Hausdorff space](../../Topology/Hausdorff%20Spaces.md) $M$ in which each point has a [neighbourhood](../../Topology/Topological%20Spaces/Neighborhoods.md) which is [homeomorphic](../../Topology/Continuity/Homeomorphisms/Homeomorphic%20Spaces.md) to the [Euclidean space](../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$ or to the [closed upper half-space](../Euclidean%20Geometry/Euclidean%20Space/Half-Spaces.md) $\mathbb{H}^n$.
 >
->>[!DEFINITION] Definition: Interior
+>>[!DEFINITION] Definition: Manifold Interior
 >>
 >>A point $p \in M$ is an **interior point** of $M$ iff $p$ has a [neighbourhood](../../Topology/Topological%20Spaces/Neighborhoods.md) which is [homeomorphic](../../Topology/Continuity/Homeomorphisms/Homeomorphic%20Spaces.md) to the [Euclidean space](../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$.
 >>

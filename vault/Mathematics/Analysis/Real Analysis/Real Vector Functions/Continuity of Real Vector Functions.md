@@ -20,6 +20,8 @@
 >>
 >
 
+## Characterizations
+
 >[!THEOREM] Theorem: Continuity via Component Functions
 >
 >A [real vector function](Real%20Vector%20Function.md) $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ is [continuous](Continuity%20of%20Real%20Vector%20Functions.md) at $\mathbf{x}_0 \in \mathcal{D}$ if and only if its [component functions](Real%20Vector%20Function.md) $f_1, \dotsc, f_n$ are [continuous](Continuity%20of%20Real%20Vector%20Functions.md) at $\mathbf{x}_0$.
@@ -82,6 +84,7 @@
 >>Using the [definition of the limit for scalar fields](Scalar%20Fields/Limits%20of%20Real%20Scalar%20Fields.md), we know that for each $\varepsilon \gt 0$, there exists some $\delta \gt 0$ such that for all $\mathbf{x} \in \mathcal{D}$, if $|| \mathbf{x} - \mathbf{a} ||$, then $|\, ||f(\mathbf{x}) - f(\mathbf{a})|| - 0 \,| \lt \varepsilon$. Since $|\, || f(\mathbf{x}) - f(\mathbf{a})|| - 0 \, | = || f(\mathbf{x}) - f(\mathbf{a}) ||$, this just means that for each $\varepsilon \gt 0$, there exists some $\delta \gt 0$ such that for all $\mathbf{x} \in \mathcal{D}$, if $|| \mathbf{x} - \mathbf{a} ||$, then $|| f(\mathbf{x}) - f(\mathbf{a}) || \lt \varepsilon$, which is what we wanted to prove.
 >>
 
+## Properties
 
 >[!THEOREM] Theorem: Properties of Continuous Real Vector Functions
 >

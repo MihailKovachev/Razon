@@ -72,6 +72,9 @@ So defined, the electric field yields the same results as [Coulomb's law](Coulom
 
 ## Continuous Charge Distributions
 
-TODO
+>[!DEFINITION] Definition: Electric Field due to Linear Charge Distributions
+>
+>Let $\mathcal{C}$ be a [curve](../../Mathematics/Geometry/Euclidean%20Geometry/Curves/Curves.md) on which [electric charges](Electric%20Charge.md) are placed such that the [linear charge density](Electric%20Charge.md)
+>
 
 # Bibliography

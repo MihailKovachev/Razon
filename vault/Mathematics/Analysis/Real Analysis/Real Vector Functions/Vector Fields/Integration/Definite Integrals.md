@@ -20,7 +20,7 @@ tags:
 >$$
 >
 
-It is also possible to define an integral of a [real vector field](../Real%20Vector%20Field.md) over a [curves](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md) which depends only on its geometry and on the way it is traversed by a particular [parametrization](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md#Parametrizations) using the following theorem.
+It is also possible to define an integral of a [real vector field](../Real%20Vector%20Field.md) over a [curve](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md) which depends only on its geometry and on the way it is traversed by a particular [parametrization](../../../../../Geometry/Euclidean%20Geometry/Curves/Curves.md#Parametrizations) using the following theorem.
 
 >[!THEOREM] Theorem: Integrals over Equivalent Parametrizations
 >

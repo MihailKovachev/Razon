@@ -23,7 +23,7 @@
 >
 >Let $\mathbf{F}: \mathcal{D}_{\mathbf{F}} \subseteq \mathbb{R}^3 \to \mathbb{R}^3$ be a [real vector field](../Real%20Vector%20Field.md) and let $S: \mathcal{D}_S \subseteq \mathbb{R}^2 \to \mathbb{R}^3$ be a [differentiable](../../../Real%20Vector%20Functions/Differentiation/Differentiability%20of%20Real%20Vector%20Functions.md) [parametric surface](../../../Real%20Vector%20Functions/Parametric%20Surfaces/Parametric%20Surface.md) whose [image](../../../../Functions/Functions.md) $S(\mathcal{D}_S)$ is a [subset](../../../../../Set%20Theory/Sets.md) of $\mathcal{D}_{\mathbf{F}}$.
 >
->The [vector surface integral](Vector%20Surface%20Integral.md) of $\mathbf{F}$ over $S$ is equal to the [scalar surface integral](../../../Real%20Vector%20Functions/Scalar%20Fields/Integration/Scalar%20Surface%20Integral.md) of the [dot product](../../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Dot%20Product.md) between $\mathbf{F}$ and the [unit surface normal](../../../Real%20Vector%20Functions/Parametric%20Surfaces/Surface%20Normal%20Vector.md) of $S$.
+>The [vector surface integral](Vector%20Surface%20Integral.md) of $\mathbf{F}$ over $S$ is equal to the [scalar surface integral](../../Scalar%20Fields/Integration/Scalar%20Surface%20Integrals.md) of the [dot product](../../../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Dot%20Product.md) between $\mathbf{F}$ and the [unit surface normal](../../../Real%20Vector%20Functions/Parametric%20Surfaces/Surface%20Normal%20Vector.md) of $S$.
 >
 >$$
 >\iint_S \mathbf{F} \cdot \mathop{\mathrm{d}\mathbf{S}} = \iint_S \mathbf{F} \cdot \mathbf{n} \mathop{\mathrm{d}S}
