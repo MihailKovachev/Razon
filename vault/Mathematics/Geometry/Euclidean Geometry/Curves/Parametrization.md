@@ -122,6 +122,27 @@ The above theorem tells us that all [tangent vectors](Parametrization.md#Tangent
 >>
 >
 
+## Binormal Vectors
+
+>[!DEFINITION] Definition: Binormal Vector
+>
+>Let $\gamma: I \subseteq \mathbb{R} \to \mathbb{R}^3$ be a [curve parametrization](Parametrization.md) which is twice [differentiable](Differentiability%20of%20Parametric%20Curves.md) at $t \in I$.
+>
+>
+>The **binormal vector** of $\gamma$ at $t$ is the [cross product](../../../Algebra/Linear%20Algebra/Matrices/Row%20and%20Column%20Vectors/Real%20Vectors/Real%20Cross%20Product.md) of its [unit tangent vector](Parametrization.md#Tangent%20Vectors) and its [unit normal vector](Parametrization.md#Normal%20Vectors) at $t$:
+>
+>$$
+>\mathbf{T}(t) \times \mathbf{N}(t)
+>$$
+>
+>>[!NOTATION]
+>>
+>>$$
+>>\mathbf{B}(t)
+>>$$
+>>
+>
+
 # Equivalence of Parametrizations
 
 >[!DEFINITION] Definition: Reparametrization
@@ -225,3 +246,4 @@ Intuitively, the above theorem tells us that, under the specified conditions, th
 ![](res/Unit%20Tangent%20Vectors%20of%20Equivalent%20Parametrizations.svg)
 
 # Bibliography
+
