@@ -86,7 +86,7 @@ tags:
 >
 >Let $(S, \tau)$ be a [topological space](./index.md).
 >
->The [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of any [collection](../../Set%20Theory/Collections/index.md) of [open subsets](Open%20Sets.md) is also open.
+>The [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of any [collection](../../Set%20Theory/Collections/Collections.md) of [open subsets](Open%20Sets.md) is also open.
 >
 >>[!PROOF]-
 >>
@@ -98,7 +98,7 @@ tags:
 >
 >Let $(S, \tau)$ be a [topological space](./index.md).
 >
->The [intersection](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of any finite [collection](../../Set%20Theory/Collections/index.md) of [open sets](Open%20Sets.md) is also open.
+>The [intersection](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of any finite [collection](../../Set%20Theory/Collections/Collections.md) of [open sets](Open%20Sets.md) is also open.
 >
 >>[!PROOF]-
 >>

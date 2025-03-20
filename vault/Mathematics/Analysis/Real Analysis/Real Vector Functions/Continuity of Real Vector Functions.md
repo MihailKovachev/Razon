@@ -16,7 +16,7 @@
 >>
 >>Let $f: D \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [real vector function](Real%20Vector%20Function.md).
 >>
->>We say that $f$ is **piecewise continuous** if $D$ can be expressed as the [union](../../../Set%20Theory/Collections/Operations%20with%20Collections.md) of a finite [collection](../../../Set%20Theory/Collections/index.md) of [disjoint sets](../../../../Set%20Theory/Disjoint%20Sets.md) $D = D_1 \cup \cdots \cup D_p$ such that the [restrictions](../../Functions/Restriction.md) $f\big|_{D_1},\ldots, f\big|_{D_p}$ are [continuous](Continuity%20of%20Real%20Vector%20Functions.md).
+>>We say that $f$ is **piecewise continuous** if $D$ can be expressed as the [union](../../../Set%20Theory/Collections/Operations%20with%20Collections.md) of a finite [collection](../../../Set%20Theory/Collections/Collections.md) of [disjoint sets](../../../../Set%20Theory/Disjoint%20Sets.md) $D = D_1 \cup \cdots \cup D_p$ such that the [restrictions](../../Functions/Restriction.md) $f\big|_{D_1},\ldots, f\big|_{D_p}$ are [continuous](Continuity%20of%20Real%20Vector%20Functions.md).
 >>
 >
 

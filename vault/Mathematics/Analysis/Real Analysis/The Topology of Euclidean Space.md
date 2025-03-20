@@ -39,8 +39,8 @@ tags:
 >
 >The [open subsets](../../../Topology/Topological%20Spaces/Open%20Sets.md) of the [Euclidean space](The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$ are precisely the following:
 >- All [open balls](The%20Topology%20of%20Euclidean%20Space.md);
->- All [unions](../../../Set%20Theory/Collections/Operations%20with%20Collections.md) of arbitrary [collections](../../../Set%20Theory/Collections/index.md) of [open balls](The%20Topology%20of%20Euclidean%20Space.md);
->- All [intersections](../../../Set%20Theory/Collections/Operations%20with%20Collections.md) of finite [collections](../../../Set%20Theory/Collections/index.md) of [open balls](The%20Topology%20of%20Euclidean%20Space.md).
+>- All [unions](../../../Set%20Theory/Collections/Operations%20with%20Collections.md) of arbitrary [collections](../../Set%20Theory/Collections/Collections.md) of [open balls](The%20Topology%20of%20Euclidean%20Space.md);
+>- All [intersections](../../../Set%20Theory/Collections/Operations%20with%20Collections.md) of finite [collections](../../Set%20Theory/Collections/Collections.md) of [open balls](The%20Topology%20of%20Euclidean%20Space.md).
 >
 
 # Connectedness

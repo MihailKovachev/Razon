@@ -9,7 +9,7 @@ tags:
 
 >[!DEFINITION] Definition: Topology
 >
->A **topology** on a [non-empty](../../Set%20Theory/The%20Empty%20Set.md) [set](../../Set%20Theory/Sets.md) $X$ is a [collection](../../Set%20Theory/Collections/index.md) $\tau$ of [subsets](../../Set%20Theory/Sets.md) of $X$ which has the following properties:
+>A **topology** on a [non-empty](../../Set%20Theory/The%20Empty%20Set.md) [set](../../Set%20Theory/Sets.md) $X$ is a [collection](../../Set%20Theory/Collections/Collections.md) $\tau$ of [subsets](../../Set%20Theory/Sets.md) of $X$ which has the following properties:
 >
 >- The [empty set](../../Set%20Theory/The%20Empty%20Set.md) $\varnothing$ and $X$ are in $\tau$.
 >- The [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of any subset of $\tau$ is in $\tau$.

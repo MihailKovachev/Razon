@@ -8,7 +8,7 @@ tags:
 
 >[!DEFINITION] Definition: Ordered Pair
 >
->The **ordered pair** $(a;b)$ of two objects $a$ and $b$ is the [collection](Collections/index.md)
+>The **ordered pair** $(a;b)$ of two objects $a$ and $b$ is the [collection](Collections/Collections.md)
 >
 >$$
 >(a;b) \overset{\text{def}}{=} \{\{a\},\{a,b\}\}

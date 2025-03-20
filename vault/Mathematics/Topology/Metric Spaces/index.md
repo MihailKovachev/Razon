@@ -55,7 +55,7 @@ tags:
 >
 >Let $(M,d)$ be a [metric space](./index.md).
 >
->The [collection](../../Set%20Theory/Collections/index.md) of all [open balls](./index.md) in $M$ forms a [base](../Bases/index.md) $(M, \tau_d)$.
+>The [collection](../../Set%20Theory/Collections/Collections.md) of all [open balls](./index.md) in $M$ forms a [base](../Bases/index.md) $(M, \tau_d)$.
 >
 >>[!PROOF]-
 >>

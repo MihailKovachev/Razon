@@ -17,5 +17,5 @@ tags:
 
 >[!DEFINITION] Definition: Subcollection
 >
->A **subcollection** of a [collection](./index.md) $\mathcal{C}$ is just a [subset](../Sets.md) of $\mathcal{C}$.
+>A **subcollection** of a [collection](Collections.md) $\mathcal{C}$ is just a [subset](../Sets.md) of $\mathcal{C}$.
 >

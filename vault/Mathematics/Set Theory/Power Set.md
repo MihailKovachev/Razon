@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Power Set
 >
->The **power set** of a [set](Sets.md) $M$ is the [collection](Collections/index.md) of all [subsets](Sets.md) of $S$.
+>The **power set** of a [set](Sets.md) $M$ is the [collection](Collections/Collections.md) of all [subsets](Sets.md) of $S$.
 >
 >$$
 >\{T \mid T \subseteq M\}

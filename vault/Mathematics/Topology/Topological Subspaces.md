@@ -11,7 +11,7 @@ tags:
 >
 >Let $(X, \tau_X)$ be a [topological space](Topological%20Spaces/index.md).
 >
->For every [non-empty](../../Set%20Theory/The%20Empty%20Set.md) [subset](../Set%20Theory/Sets.md) $S$ of $X$, the [collection](../../Set%20Theory/Collections/index.md)
+>For every [non-empty](../../Set%20Theory/The%20Empty%20Set.md) [subset](../Set%20Theory/Sets.md) $S$ of $X$, the [collection](../Set%20Theory/Collections/Collections.md)
 >
 >$$
 >\tau_S \overset{\text{def}}{=} \{O \cap S \mid O \in \tau_X\}
@@ -109,7 +109,7 @@ tags:
 >
 >Let $(S, \tau_S)$ be a [subspace](Topological%20Subspaces.md) of a [topological space](Topological%20Spaces/index.md) $(X, \tau_X)$.
 >
->If $\mathcal{B}$ is a [base](Bases/index.md) for $(X, \tau_X)$, then the [collection](../../Set%20Theory/Collections/index.md)
+>If $\mathcal{B}$ is a [base](Bases/index.md) for $(X, \tau_X)$, then the [collection](../Set%20Theory/Collections/Collections.md)
 >
 >$$
 >\mathcal{B}_S \overset{\text{def}}{=} \{ B \cap S \mid B \in \mathcal{B}\}
@@ -127,13 +127,13 @@ tags:
 
 >[!THEOREM] Theorem: Compactness of Subspaces
 >
->A [subspace](Topological%20Subspaces.md) $(S, \tau_S)$ of a [topological space](Topological%20Spaces/index.md) $(X, \tau_X)$ is [compact](Compactness/index.md) if and only if every [cover](Compactness/index.md#covers) of $S$ by [open subsets](Topological%20Spaces/Open%20Sets.md) in $(X, \tau_X)$ contains a finite [subcollection](../../Set%20Theory/Collections/index.md) which is also a [cover](Compactness/index.md#covers) of $(S, \tau_S)$.
+>A [subspace](Topological%20Subspaces.md) $(S, \tau_S)$ of a [topological space](Topological%20Spaces/index.md) $(X, \tau_X)$ is [compact](Compactness/index.md) if and only if every [cover](Compactness/index.md#covers) of $S$ by [open subsets](Topological%20Spaces/Open%20Sets.md) in $(X, \tau_X)$ contains a finite [subcollection](../Set%20Theory/Collections/Collections.md) which is also a [cover](Compactness/index.md#covers) of $(S, \tau_S)$.
 >
 >>[!PROOF]-
 >>
 >>We need to prove two things:
->>- (I) If $(S, \tau_S)$ is [compact](Compactness/index.md), then every [cover](Compactness/index.md) of $S$ by [open subsets](Topological%20Spaces/Open%20Sets.md) in $(X, \tau_X)$ contains a finite [subcollection](../../Set%20Theory/Collections/index.md) which is also a [cover](Compactness/index.md) of $(S, \tau_S)$.
->>- (II) If every [cover](Compactness/index.md) of $S$ by [open subsets](Topological%20Spaces/Open%20Sets.md) in $(X, \tau_X)$ contains a finite [subcollection](../../Set%20Theory/Collections/index.md) which is also a [cover](Compactness/index.md#covers) of $(S, \tau_S)$, then $(S, \tau_S)$ is [compact](Compactness/index.md).
+>>- (I) If $(S, \tau_S)$ is [compact](Compactness/index.md), then every [cover](Compactness/index.md) of $S$ by [open subsets](Topological%20Spaces/Open%20Sets.md) in $(X, \tau_X)$ contains a finite [subcollection](../Set%20Theory/Collections/Collections.md) which is also a [cover](Compactness/index.md) of $(S, \tau_S)$.
+>>- (II) If every [cover](Compactness/index.md) of $S$ by [open subsets](Topological%20Spaces/Open%20Sets.md) in $(X, \tau_X)$ contains a finite [subcollection](../Set%20Theory/Collections/Collections.md) which is also a [cover](Compactness/index.md#covers) of $(S, \tau_S)$, then $(S, \tau_S)$ is [compact](Compactness/index.md).
 >>
 >>**Proof of (I):**
 >>

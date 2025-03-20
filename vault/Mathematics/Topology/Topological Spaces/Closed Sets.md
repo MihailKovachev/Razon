@@ -78,7 +78,7 @@ tags:
 >
 >Let $(S, \tau)$ be a [topological space](./index.md).
 >
->The [intersection](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of any [collection](../../Set%20Theory/Collections/index.md) of [closed subsets](Closed%20Subset.md.md) is also closed.
+>The [intersection](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of any [collection](../../Set%20Theory/Collections/Collections.md) of [closed subsets](Closed%20Subset.md.md) is also closed.
 >
 >>[!PROOF]-
 >>
@@ -90,7 +90,7 @@ tags:
 >
 >Let $(S, \tau)$ be a [topological space](./index.md).
 >
->The [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of any finite [collection](../../Set%20Theory/Collections/index.md) of [closed subsets](Closed%20Subset.md.md) is also closed.
+>The [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of any finite [collection](../../Set%20Theory/Collections/Collections.md) of [closed subsets](Closed%20Subset.md.md) is also closed.
 >
 >>[!PROOF]-
 >>

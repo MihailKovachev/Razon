@@ -12,7 +12,7 @@ tags:
 >
 >Let $X$ be a [set](../../Set%20Theory/Sets.md).
 >
->A [collection](../../Set%20Theory/Collections/index.md) $\mathcal{C}$ of [subsets](../../Set%20Theory/Sets.md) of $X$ is a **cover** of $X$ iff $X$ is a [subset](../../Set%20Theory/Sets.md) of the [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of $\mathcal{C}$.
+>A [collection](../../Set%20Theory/Collections/Collections.md) $\mathcal{C}$ of [subsets](../../Set%20Theory/Sets.md) of $X$ is a **cover** of $X$ iff $X$ is a [subset](../../Set%20Theory/Sets.md) of the [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of $\mathcal{C}$.
 >
 >$$
 >X \subseteq \bigcup \mathcal{C}
@@ -23,7 +23,7 @@ tags:
 >
 >Let $X$ be a [set](../../Set%20Theory/Sets.md) and let $\mathcal{C}$ be a [cover](./index.md#covers) of $X$.
 >
->A **subcover** of $\mathcal{C}$ is [subcollection](../../Set%20Theory/Collections/index.md) of $\mathcal{C}$ which is still a [cover](./index.md#covers) of $X$.
+>A **subcover** of $\mathcal{C}$ is [subcollection](../../Set%20Theory/Collections/Collections.md) of $\mathcal{C}$ which is still a [cover](./index.md#covers) of $X$.
 >
 
 >[!DEFINITION] Definition: Open Cover

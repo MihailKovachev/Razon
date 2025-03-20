@@ -141,7 +141,7 @@
 
 >[!TIP] Tip: Piecewise Smoothness of Curve Parameterisations
 >
->A [curve parameterisation](../Parametric%20Curve.md) $\gamma: I \subseteq \mathbb{R} \to \mathbb{R}^n$ is **piecewise smooth** if $I$ can be expressed as a [union](../../../../../Set%20Theory/Collections/Operations%20with%20Collections.md) of a finite [collection](../../../../../Set%20Theory/Collections/index.md) of [intervals](../../../../../Set%20Theory/Ordering/Intervals.md) $I = I_1 \cup \cdots \cup I_p$ such that the [restrictions](../../../../Functions/Restriction.md) $\gamma \big|_{I_1}, \ldots, \gamma \big|_{I_n}$ are [smooth](Differentiability%20of%20Parametric%20Curves.md).
+>A [curve parameterisation](../Parametric%20Curve.md) $\gamma: I \subseteq \mathbb{R} \to \mathbb{R}^n$ is **piecewise smooth** if $I$ can be expressed as a [union](../../../../../Set%20Theory/Collections/Operations%20with%20Collections.md) of a finite [collection](../../../../../Set%20Theory/Collections/Collections.md) of [intervals](../../../../../Set%20Theory/Ordering/Intervals.md) $I = I_1 \cup \cdots \cup I_p$ such that the [restrictions](../../../../Functions/Restriction.md) $\gamma \big|_{I_1}, \ldots, \gamma \big|_{I_n}$ are [smooth](Differentiability%20of%20Parametric%20Curves.md).
 >
 >^piecewise-smoothness
 >

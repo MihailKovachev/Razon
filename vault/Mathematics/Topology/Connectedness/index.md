@@ -56,7 +56,7 @@ tags:
 >
 >Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md) and let $S$ be a [subset](../../Set%20Theory/Sets.md) of $X$.
 >
->If $S$ can be expressed as the [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of a [collection](../../Set%20Theory/Collections/index.md) $\mathcal{C}$ of [](index.md#^connected-subset) [subsets](../../Set%20Theory/Sets.md) whose [intersection](../../Set%20Theory/Collections/Operations%20with%20Collections.md) is [nonempty](../../Set%20Theory/The%20Empty%20Set.md),  then $S$ is also [](index.md#^connected-subset).
+>If $S$ can be expressed as the [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of a [collection](../../Set%20Theory/Collections/Collections.md) $\mathcal{C}$ of [](index.md#^connected-subset) [subsets](../../Set%20Theory/Sets.md) whose [intersection](../../Set%20Theory/Collections/Operations%20with%20Collections.md) is [nonempty](../../Set%20Theory/The%20Empty%20Set.md),  then $S$ is also [](index.md#^connected-subset).
 >
 >>[!PROOF]-
 >>

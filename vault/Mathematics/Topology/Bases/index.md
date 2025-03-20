@@ -11,7 +11,7 @@ tags:
 >
 >Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md).
 >
->A **base** for $(X,\tau)$ is a [collection](../../Set%20Theory/Collections/index.md) $\mathcal{B}$ of [open subsets](../Topological%20Spaces/Open%20Sets.md) of $X$ such that every open set can be represented as a [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of a [subset](../../Set%20Theory/Sets.md) of $\mathcal{B}$.
+>A **base** for $(X,\tau)$ is a [collection](../../Set%20Theory/Collections/Collections.md) $\mathcal{B}$ of [open subsets](../Topological%20Spaces/Open%20Sets.md) of $X$ such that every open set can be represented as a [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of a [subset](../../Set%20Theory/Sets.md) of $\mathcal{B}$.
 >
 >>[!WARNING]
 >>
@@ -24,7 +24,7 @@ tags:
 >
 >Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md).
 >
->A [collection](../../Set%20Theory/Collections/index.md) $\mathcal{B}$ of [open sets](../Topological%20Spaces/Open%20Sets.md) is a [base](./index.md) for $(X, \tau)$ if and only if for each [open set](../Topological%20Spaces/Open%20Sets.md) $U$ and each $u \in U$, there exists some $B \in \mathcal{B}$ such that $B \subseteq U$ and $u \in B$.
+>A [collection](../../Set%20Theory/Collections/Collections.md) $\mathcal{B}$ of [open sets](../Topological%20Spaces/Open%20Sets.md) is a [base](./index.md) for $(X, \tau)$ if and only if for each [open set](../Topological%20Spaces/Open%20Sets.md) $U$ and each $u \in U$, there exists some $B \in \mathcal{B}$ such that $B \subseteq U$ and $u \in B$.
 >
 >>[!PROOF]-
 >>
