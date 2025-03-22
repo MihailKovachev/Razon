@@ -8,7 +8,7 @@ tags:
 
 # Convergence
 
-Since a [real series](Real%20Series.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n$ is just a [real sequence](../Real%20Sequences/index.md), the definitions and terminology for convergence of series is the same as those used for [convergence](../Real%20Sequences/Convergence.md) of sequences. What is different, however, is the notation used.
+Since a [real series](Real%20Series.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n$ is just a [real sequence](../Real%20Sequences/Real%20Sequences.md), the definitions and terminology for convergence of series is the same as those used for [convergence](../Real%20Sequences/Convergence.md) of sequences. What is different, however, is the notation used.
 
 >[!NOTATION] Notation: Convergence of Real Series
 >
@@ -83,7 +83,7 @@ Since a [real series](Real%20Series.md) $\displaystyle \sum_{n \in \mathcal{D}} 
 >
 >Let $\displaystyle \sum_{n \in \mathcal{D}} a_n$ be a [real series](Real%20Series.md).
 >
->If the [sequence](../Real%20Sequences/index.md) $(a_n)_{n \in \mathcal{D}}$ [diverges](../Real%20Sequences/Convergence.md) or its [limit](../Real%20Sequences/Convergence.md) is not zero, then $\displaystyle \sum_{n \in \mathcal{D}} a_n$ [diverges](../Real%20Sequences/Convergence.md).
+>If the [sequence](../Real%20Sequences/Real%20Sequences.md) $(a_n)_{n \in \mathcal{D}}$ [diverges](../Real%20Sequences/Convergence.md) or its [limit](../Real%20Sequences/Convergence.md) is not zero, then $\displaystyle \sum_{n \in \mathcal{D}} a_n$ [diverges](../Real%20Sequences/Convergence.md).
 >
 >>[!PROOF]-
 >>
@@ -119,7 +119,7 @@ Since a [real series](Real%20Series.md) $\displaystyle \sum_{n \in \mathcal{D}} 
 >
 >Let $\displaystyle \sum_{n \in \mathcal{D}} a_n$ be a [real series](Real%20Series.md).
 >
->If the [sequence](../Real%20Sequences/index.md) $\left|\frac{a_{n+1}}{a_n}\right|$ [converges](../Real%20Sequences/Convergence.md), then $\displaystyle \sum_{n \in \mathcal{D}} a_n$ is:
+>If the [sequence](../Real%20Sequences/Real%20Sequences.md) $\left|\frac{a_{n+1}}{a_n}\right|$ [converges](../Real%20Sequences/Convergence.md), then $\displaystyle \sum_{n \in \mathcal{D}} a_n$ is:
 >- [absolutely convergent](Convergence.md#absolute%20convergence) if 
 >
 >$$
@@ -147,7 +147,7 @@ Since a [real series](Real%20Series.md) $\displaystyle \sum_{n \in \mathcal{D}} 
 >
 >Let $\displaystyle \sum_{n \in \mathcal{D}} a_n$ be a [real series](Real%20Series.md).
 >
->If the [sequence](../Real%20Sequences/index.md) $\sqrt[n]{|a_n|}$ [converges](../Real%20Sequences/Convergence.md), then $\displaystyle \sum_{n \in \mathcal{D}} a_n$ is:
+>If the [sequence](../Real%20Sequences/Real%20Sequences.md) $\sqrt[n]{|a_n|}$ [converges](../Real%20Sequences/Convergence.md), then $\displaystyle \sum_{n \in \mathcal{D}} a_n$ is:
 >- [absolutely convergent](Convergence.md#absolute%20convergence) if 
 >
 >$$

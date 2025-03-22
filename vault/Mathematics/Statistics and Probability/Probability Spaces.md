@@ -1,5 +1,5 @@
 ---
-title: Probability
+title: Probability Spaces
 tags:
     - probability-theory
     - mathematics
@@ -30,11 +30,28 @@ At its core, the probability of an [event](Experiments.md) is just a [real numbe
 >>
 >
 
-## Conditional Probability
+## Properties
+
+>[!THEOREM]- Theorem: Probability of Unions
+>
+>If $A$ and $B$ are arbitrary [events](Experiments.md) in a [probability space](Probability%20Spaces.md), then
+>
+>$$
+>P(A \cup B) = P(A) + P(B) - P(A \cap B)
+>$$
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
+
+# Conditional Probability
 
 >[!DEFINITION] Definition: Conditional Probability
 >
->Let $A$ and $B$ be two [events](Experiments.md) in a [probability space](Probability.md).
+>Let $A$ and $B$ be two [events](Experiments.md) in a [probability space](Probability%20Spaces.md).
 >
 >The **probability of** $A$ **given** $B$ is defined as
 >
@@ -52,9 +69,9 @@ Conditional probability is a measure of the likelihood that $A$ will occur if we
 
 >[!DEFINITION] Definition: Independent Events
 >
->Let $A$ and $B$ be two [events](Experiments.md) in a [probability space](Probability.md).
+>Let $A$ and $B$ be two [events](Experiments.md) in a [probability space](Probability%20Spaces.md).
 >
->We say that $A$ is **independent** of $B$ if the [conditional probability](Probability.md) of $A$ given $B$ is the same as the [absolute probability](Probability.md) of $A$.
+>We say that $A$ is **independent** of $B$ if the [conditional probability](Probability%20Spaces.md) of $A$ given $B$ is the same as the [absolute probability](Probability%20Spaces.md) of $A$.
 >
 >$$
 >P(A \mid B) = P(A)
@@ -62,20 +79,20 @@ Conditional probability is a measure of the likelihood that $A$ will occur if we
 >
 >>[!THEOREM] Theorem: Mutual Independence
 >>
->>If $A$ is [independent](Probability.md) of $B$, then $B$ is also [independent](Probability.md) of $A$.
+>>If $A$ is [independent](Probability%20Spaces.md) of $B$, then $B$ is also [independent](Probability%20Spaces.md) of $A$.
 >>
 >>>[!PROOF]-
 >>>
->>>This follows directly from [Bayes' rule](Probability.md#Properties)
+>>>This follows directly from [Bayes' rule](Probability%20Spaces.md#Properties)
 >>>
 >>
 >
 
-### Properties
+## Properties
 
 >[!THEOREM]- Theorem: Bayes' Rule
 >
->If $A$ and $B$ are two [events](Experiments.md) in a [probability space](Probability.md), then their [conditional probabilities](Probability.md#Conditional%20Probability) are related as follows:
+>If $A$ and $B$ are two [events](Experiments.md) in a [probability space](Probability%20Spaces.md), then their [conditional probabilities](Probability%20Spaces.md#Conditional%20Probability) are related as follows:
 >
 >$$
 >P(A \mid B) = \frac{P(A)}{P(B)} P(B \mid A)
@@ -126,9 +143,9 @@ Conditional probability is a measure of the likelihood that $A$ will occur if we
 
 >[!THEOREM]- Theorem: Law of Total Probability
 >
->Let $(\Omega, P)$ be a [probability space](Probability.md), let $\{B_1, \dotsc, B_n\}$ be a [collection](../Set%20Theory/Collections/Collections.md) of [events](Experiments.md) and let $A$ be some other [event](Experiments.md).
+>Let $(\Omega, P)$ be a [probability space](Probability%20Spaces.md), let $\{B_1, \dotsc, B_n\}$ be a [collection](../Set%20Theory/Collections/Collections.md) of [events](Experiments.md) and let $A$ be some other [event](Experiments.md).
 >
->If $\{B_1, \dotsc, B_n\}$ are [mutually exclusive](Experiments.md) and their [union](../Set%20Theory/Collections/Operations%20with%20Collections.md) is $\Omega$, then the [probability](Probability.md) of $A$ is the sum of its [conditional probability](Probability.md) given each $B_i$ multiplied by the [probability](Probability.md) of $B_i$:
+>If $\{B_1, \dotsc, B_n\}$ are [mutually exclusive](Experiments.md) and their [union](../Set%20Theory/Collections/Operations%20with%20Collections.md) is $\Omega$, then the [probability](Probability%20Spaces.md) of $A$ is the sum of its [conditional probability](Probability%20Spaces.md) given each $B_i$ multiplied by the [probability](Probability%20Spaces.md) of $B_i$:
 >
 >$$
 >P(A) = \sum_{i = 1}^n P(A \mid B_i) P(B_i)

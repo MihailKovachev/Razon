@@ -14,7 +14,7 @@ tags:
 >\sum_{n\in \mathcal{D}} a_n (x-c)^n,
 >$$
 >
->where $(a_n)_{n \in \mathcal{D}}$ is a [real sequence](../Real%20Sequences/index.md) and $c \in \mathbb{R}$.
+>where $(a_n)_{n \in \mathcal{D}}$ is a [real sequence](../Real%20Sequences/Real%20Sequences.md) and $c \in \mathbb{R}$.
 >
 >>[!INTUITION]
 >>

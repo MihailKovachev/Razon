@@ -66,7 +66,7 @@ tags:
 >>
 >>Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
 >>
->>The [limit](Limit%20of%20a%20Real%20Function.md) of $f$ as $x$ approaches $c \in D$ exists if and only if both [one-sided limits](./index.md) of $f$ at $c$ exist and are equal.
+>>The [limit](Limit%20of%20a%20Real%20Function.md) of $f$ as $x$ approaches $c \in D$ exists if and only if both [one-sided limits](Limits%20of%20Real%20Functions.md) of $f$ at $c$ exist and are equal.
 >>
 >>$$\lim_{x \to c} f(x) = L \in \mathbb{R} \iff \lim_{x \to c^-} f(x) = \lim_{x \to c^+} f(x) = L$$
 >>

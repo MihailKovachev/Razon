@@ -14,7 +14,7 @@ tags:
 >
 >Let $f,g: D\subseteq\mathbb{R} \to \mathbb{R}$ be [real functions](../Real%20Functions.md).
 >
->If both [limits](./index.md) $\displaystyle \lim_{x \to c} f(x)$ and $\displaystyle \lim_{x \to c} g(x)$ exist for $c \in D \cup \{-\infty, +\infty\}$, then
+>If both [limits](Limits%20of%20Real%20Functions.md) $\displaystyle \lim_{x \to c} f(x)$ and $\displaystyle \lim_{x \to c} g(x)$ exist for $c \in D \cup \{-\infty, +\infty\}$, then
 >
 >$$
 >\begin{align*}
@@ -39,14 +39,14 @@ tags:
 >
 >>[!WARNING]
 >>
->>These do *not* apply to [infinite limits](./index.md).
+>>These do *not* apply to [infinite limits](Limits%20of%20Real%20Functions.md).
 >>
 >
 
 >[!THEOREM] Theorem: Arithmetic with Infinite Limits
 >Let $f,g: D\subseteq\mathbb{R} \to \mathbb{R}$ be two [functions](../Real%20Functions.md).
 >
->The following rules apply for the [limits](./index.md) of $f$ and $g$ for $c \in D \cup \{-\infty, +\infty\}$, no matter if they are [real](./index.md) or [infinite](./index.md):
+>The following rules apply for the [limits](Limits%20of%20Real%20Functions.md) of $f$ and $g$ for $c \in D \cup \{-\infty, +\infty\}$, no matter if they are [real](Limits%20of%20Real%20Functions.md) or [infinite](Limits%20of%20Real%20Functions.md):
 >
 >||$\displaystyle \lim_{x\to c} f(x) = L \lt 0$|$\displaystyle \lim_{x\to c} f(x) = L \gt 0$|
 >|:--:|:--:|:--:|
@@ -75,7 +75,7 @@ tags:
 >
 >Let $f,g,h: D \subseteq \mathbb{R} \to \mathbb{R}$ be [real functions](../Real%20Functions.md).
 >
->If the [limit](./index.md) of $f$ and $g$ as $x$ approaches $c \in D \cup \{-\infty, +\infty\}$ is $L \in \mathbb{R}$ and $f(x) \le h(x) \le g(x)$ for all $x\in D$, then $h$ also approaches $L$ for $x \to c$.
+>If the [limit](Limits%20of%20Real%20Functions.md) of $f$ and $g$ as $x$ approaches $c \in D \cup \{-\infty, +\infty\}$ is $L \in \mathbb{R}$ and $f(x) \le h(x) \le g(x)$ for all $x\in D$, then $h$ also approaches $L$ for $x \to c$.
 >
 >$$\lim_{c\to x} f(x) = \lim_{c \to x} h(x) = \lim_{x \to c} g(x) = L$$
 >

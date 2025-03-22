@@ -2,7 +2,7 @@
 >
 >Let $f: \mathcal{D} \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) on an [open subset](../../../The%20Topology%20of%20Euclidean%20Space.md) $\mathcal{D} \subseteq \mathbb{R}^n$, let $\phi: \mathcal{D} \to \mathbb{R}^n$ be a [coordinate system](../../../../../Geometry/Manifolds/Coordinate%20Systems/index.md) on $\mathcal{D}$ and let $a^1 = \phi^1(\mathbf{a}), \dotsc, a^n = \phi^n(\mathbf{a})$ be the coordinates of some $\mathbf{a} \in \mathcal{D}$ in $\phi$.
 >
->The **partial derivative** of $f$ at $\mathbf{a}$ with respect to the $i$-th coordinate $\phi^i$ is the [limit](../../../Real%20Functions/Limits/index.md)
+>The **partial derivative** of $f$ at $\mathbf{a}$ with respect to the $i$-th coordinate $\phi^i$ is the [limit](../../../Real%20Functions/Limits/Limits%20of%20Real%20Functions.md)
 >
 >$$
 >\lim_{h\to 0} \frac{f(a^1, \dotsc, a^i + h, \dotsc, a^n) - f(a^1, \dotsc, a^i, \dotsc, a^n)}{h},

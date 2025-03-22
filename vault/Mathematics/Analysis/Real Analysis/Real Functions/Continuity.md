@@ -12,7 +12,7 @@ tags:
 
 >[!DEFINITION] Definition: Continuity of Real Functions
 >
->A [real function](Real%20Functions.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is **continuous at** $c \in D$ if its [limit](Limits/index.md) as $x$ approaches $c$ is exists and is equal to its value for $c$:
+>A [real function](Real%20Functions.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is **continuous at** $c \in D$ if its [limit](Limits/Limits%20of%20Real%20Functions.md) as $x$ approaches $c$ is exists and is equal to its value for $c$:
 >
 >$$
 >\lim_{x \to c} f(x) = f(c)

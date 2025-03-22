@@ -32,7 +32,7 @@ tags:
 >
 >Let $f: R \to \mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md) over some rectangle $R = [a;b] \times [c;d] \subset \mathbb{R}^2$.
 >
->The **double integral of** $f$ **over** $R$ is the [limit](../../../Real%20Functions/Limits/index.md) of all of its [double Riemann sums](Double%20Integrals.md), if it exists and is the same for all of them.
+>The **double integral of** $f$ **over** $R$ is the [limit](../../../Real%20Functions/Limits/Limits%20of%20Real%20Functions.md) of all of its [double Riemann sums](Double%20Integrals.md), if it exists and is the same for all of them.
 >
 >$$
 >\lim_{m,n\to\infty} \sum_{i=1}^m\sum_{j=1}^n f(x_{ij}^\ast, y_{ij}^\ast) \Delta A

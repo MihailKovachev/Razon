@@ -9,7 +9,7 @@ tags:
 
 >[!DEFINITION] Definition: Partial Sum
 >
->Let $\{a_n\}_{n \in \mathcal{D}}$ be a [real sequence](../Real%20Sequences/index.md).
+>Let $\{a_n\}_{n \in \mathcal{D}}$ be a [real sequence](../Real%20Sequences/Real%20Sequences.md).
 >
 >The $k$-th **partial sum** of $\{a_n\}$ is the sum of its first $k$ numbers:
 >
@@ -27,11 +27,11 @@ tags:
 
 # Real Series
 
-Given a [real sequence](../Real%20Sequences/index.md) $(a_n)_{n \in \mathcal{D}}$, it is apparent that the [real-valued function](../Real-Valued%20Function.md) which maps each $k \in \mathcal{D}$ to the $k$-th [partial sum](Real%20Series.md#partial%20sums) of $(a_n)_{n \in \mathcal{D}}$ is itself a [real sequence](../Real%20Sequences/index.md) $(s_n)_{n \in \mathcal{D}}$.
+Given a [real sequence](../Real%20Sequences/Real%20Sequences.md) $(a_n)_{n \in \mathcal{D}}$, it is apparent that the [real-valued function](../Real-Valued%20Function.md) which maps each $k \in \mathcal{D}$ to the $k$-th [partial sum](Real%20Series.md#partial%20sums) of $(a_n)_{n \in \mathcal{D}}$ is itself a [real sequence](../Real%20Sequences/Real%20Sequences.md) $(s_n)_{n \in \mathcal{D}}$.
 
 >[!DEFINITION] Definition: Real Series
 >
->A **real series** is the [sequence](../Real%20Sequences/index.md) of [partial sums](Real%20Series.md#partial%20sums) of a [real sequence](../Real%20Sequences/index.md).
+>A **real series** is the [sequence](../Real%20Sequences/Real%20Sequences.md) of [partial sums](Real%20Series.md#partial%20sums) of a [real sequence](../Real%20Sequences/Real%20Sequences.md).
 >
 >>[!NOTATION]-
 >>

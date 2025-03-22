@@ -46,7 +46,7 @@ tags:
 
 >[!DEFINITION] Definition: Riemann-Integrability
 >
->A [real function](Real%20Functions/Real%20Functions.md) $f: \mathcal{D} \subseteq \mathbb{R} \to \mathbb{R}$ is **Riemann-integrable** on the interval $I = [a;b] \subseteq \mathcal{D}$ iff all of its [Riemann sums](Definite%20Integrals.md) on $I$ have the same [limit](Real%20Functions/Limits/index.md) as $\Delta x_i$ approaches $0$.
+>A [real function](Real%20Functions/Real%20Functions.md) $f: \mathcal{D} \subseteq \mathbb{R} \to \mathbb{R}$ is **Riemann-integrable** on the interval $I = [a;b] \subseteq \mathcal{D}$ iff all of its [Riemann sums](Definite%20Integrals.md) on $I$ have the same [limit](../Limits/Limits%20of%20Real%20Functions.md) as $\Delta x_i$ approaches $0$.
 >
 >$$
 >\lim_{\Delta x_i\to 0}\sum_{i=1}^n f(x_i^\ast)\Delta x_i = S \in \mathbb{R}
@@ -54,7 +54,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Definite Integral
 >>
->>If the aforementioned [limit](Real%20Functions/Limits/index.md) exists, then we call it the **definite integral** of $f$ over $I$.
+>>If the aforementioned [limit](../Limits/Limits%20of%20Real%20Functions.md) exists, then we call it the **definite integral** of $f$ over $I$.
 >>
 >>>[!NOTATION]-
 >>>
@@ -206,19 +206,19 @@ tags:
 >[!NOTATION] Notation: Improper Integrals
 >
 >An **improper integral** is a [definite integral](Definite%20Integrals.md) for a [real function](../../Real-Valued%20Function.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ on an open or a semi-open interval $D$:
->- If $D = [a;b)$ where $a, b \in \mathbb{R}$, the improper integral is defined through the [left-sided limit](Real%20Functions/Limits/index.md)
+>- If $D = [a;b)$ where $a, b \in \mathbb{R}$, the improper integral is defined through the [left-sided limit](../Limits/Limits%20of%20Real%20Functions.md)
 >
 >$$\int_a^b f(x) \mathop{\mathrm{d}x} \overset{\text{def}}{=} \lim_{\beta \to b^-} \int_a^\beta f(x) \mathop{\mathrm{d}x}$$
 >
->- If $D = (a;b]$ where $a, b \in \mathbb{R}$, the improper integral is defined through the [right-sided limit](Real%20Functions/Limits/index.md)
+>- If $D = (a;b]$ where $a, b \in \mathbb{R}$, the improper integral is defined through the [right-sided limit](../Limits/Limits%20of%20Real%20Functions.md)
 >
 >$$\int_a^b f(x) \mathop{\mathrm{d}x} \overset{\text{def}}{=} \lim_{\alpha \to a^+} \int_\alpha^b f(x) \mathop{\mathrm{d}x}$$
 >
->- If $D = [a;\infty)$ where $a \in \mathbb{R}$, the improper integral is defined through the [limit](Real%20Functions/Limits/index.md)
+>- If $D = [a;\infty)$ where $a \in \mathbb{R}$, the improper integral is defined through the [limit](../Limits/Limits%20of%20Real%20Functions.md)
 >
 >$$\int_a^\infty f(x) \mathop{\mathrm{d}x} \overset{\text{def}}{=} \lim_{\beta \to \infty} \int_a^\beta f(x) \mathop{\mathrm{d}x}$$
 >
->- If $D = (-\infty;b]$ where $b \in \mathbb{R}$, the improper integral is defined through the [limit](Real%20Functions/Limits/index.md)
+>- If $D = (-\infty;b]$ where $b \in \mathbb{R}$, the improper integral is defined through the [limit](../Limits/Limits%20of%20Real%20Functions.md)
 >
 >$$\int_{-\infty}^b f(x) \mathop{\mathrm{d}x} \overset{\text{def}}{=} \lim_{\alpha \to -\infty} \int_\alpha^b f(x) \mathop{\mathrm{d}x}$$
 >

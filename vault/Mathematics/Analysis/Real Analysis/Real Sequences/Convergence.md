@@ -10,7 +10,7 @@ tags:
 
 >[!DEFINITION] Definition: Convergence of Real Sequences
 >
->Let $\{a_n\}$ be a [real sequence](./index.md).
+>Let $\{a_n\}$ be a [real sequence](Real%20Sequences.md).
 >
 >We say that $\{a_n\}$ **converges** to $L \in \mathbb{R}$ iff for each $\varepsilon \gt 0$, there exists some integer $N$ such that
 >
@@ -33,7 +33,7 @@ tags:
 >
 >>[!THEOREM] Theorem: Uniqueness of the Limit
 >>
->>The [limit](Convergence.md) of a [real sequence](./index.md), if it exists, is unique - if $\{a_n\}$ [converges](Convergence.md) to both $L$ and $M$, then $L = M$.
+>>The [limit](Convergence.md) of a [real sequence](Real%20Sequences.md), if it exists, is unique - if $\{a_n\}$ [converges](Convergence.md) to both $L$ and $M$, then $L = M$.
 >>
 >>>[!PROOF]-
 >>>
@@ -72,7 +72,7 @@ tags:
 
 >[!THEOREM]
 >
->A [real sequence](./index.md) $\{a_n\}$ [converges](Convergence.md) to $L \in \mathbb{R}$ if and only if
+>A [real sequence](Real%20Sequences.md) $\{a_n\}$ [converges](Convergence.md) to $L \in \mathbb{R}$ if and only if
 >
 >$$
 >\lim_{n \to \infty} |a_n - L| = 0
@@ -86,7 +86,7 @@ tags:
 
 >[!THEOREM] Theorem: Cauchy Sequences
 >
->A [real sequence](./index.md) $\{a_n\}$ is [convergent](Convergence.md) if and only if, for each $\varepsilon \gt 0$, there exists some integer $N$ such that
+>A [real sequence](Real%20Sequences.md) $\{a_n\}$ is [convergent](Convergence.md) if and only if, for each $\varepsilon \gt 0$, there exists some integer $N$ such that
 >
 >$$
 >\lim_{n \to \infty} |a_n - a_m| = 0 \qquad \forall n,m \ge N 
@@ -107,7 +107,7 @@ tags:
 
 >[!THEOREM] Theorem: Boundedness of Convergent Sequences
 >
->Every [convergent](Convergence.md) [real sequence](./index.md) is [bounded](../Real%20Functions/Function%20Bounds.md).
+>Every [convergent](Convergence.md) [real sequence](Real%20Sequences.md) is [bounded](../Real%20Functions/Function%20Bounds.md).
 >
 >>[!PROOF]-
 >>
@@ -152,7 +152,7 @@ tags:
 
 >[!THEOREM] Theorem: Convergence to Zero
 >
->A [real sequence](./index.md) $\{a_n\}$ [converges](Convergence.md) to zero if and only if $\{|a_n|\}$ converges to zero.
+>A [real sequence](Real%20Sequences.md) $\{a_n\}$ [converges](Convergence.md) to zero if and only if $\{|a_n|\}$ converges to zero.
 >
 >$$
 >\lim_{n \to \infty} a_n = 0 \iff \lim_{n \to \infty} |a_n| = 0
@@ -166,7 +166,7 @@ tags:
 
 >[!THEOREM]
 >
->Let $\{a_n\}$ and $\{b_n\}$ be [real sequences](./index.md).
+>Let $\{a_n\}$ and $\{b_n\}$ be [real sequences](Real%20Sequences.md).
 >
 >If $\{a_n\}$ [converges](Convergence.md) to zero and there exists some integer $N$ such that $|b_n| \le |a_n|$ for all $n \ge N$, then $\{b_n\}$ also [converges](Convergence.md) to zero.
 >
@@ -178,7 +178,7 @@ tags:
 
 >[!THEOREM] Theorem: Limit Arithmetic
 >
->If $\{a_n\}$ and $\{b_n\}$ are both [convergent](Convergence.md) [real sequences](./index.md), then
+>If $\{a_n\}$ and $\{b_n\}$ are both [convergent](Convergence.md) [real sequences](Real%20Sequences.md), then
 >
 >$$
 >\begin{align*}
@@ -340,7 +340,7 @@ tags:
 
 >[!THEOREM] The Squeeze Theorem for Sequences
 >
->Let $\{a_n\}$, $\{b_n\}$ and $\{c_n\}$ be [real sequences](./index.md) such that both $\{a_n\}$ and $\{b_n\}$ [converge](Convergence.md) to $L \in \mathbb{R}$.
+>Let $\{a_n\}$, $\{b_n\}$ and $\{c_n\}$ be [real sequences](Real%20Sequences.md) such that both $\{a_n\}$ and $\{b_n\}$ [converge](Convergence.md) to $L \in \mathbb{R}$.
 >
 >If there exists an integer $N$ such that $a_n \le c_n \le b_n$ for all $n \ge N$, then $\{c_n\}$ also [converges](Convergence.md) to $L$.
 >
@@ -390,12 +390,12 @@ tags:
 
 >[!DEFINITION] Definition: Divergence of Real Sequences
 >
->A [real sequence](./index.md) is **divergent** iff it does not [converge](Convergence.md) to any $\mathbb{R}$.
+>A [real sequence](Real%20Sequences.md) is **divergent** iff it does not [converge](Convergence.md) to any $\mathbb{R}$.
 >
 >
 >>[!DEFINITION] Definition: Divergence towards Positive Infinity
 >>
->>A [real sequence](./index.md) $\{a_n\}$ **diverges towards positive infinity** iff for each $A \in \mathbb{R}$ there is some integer $N$ such that
+>>A [real sequence](Real%20Sequences.md) $\{a_n\}$ **diverges towards positive infinity** iff for each $A \in \mathbb{R}$ there is some integer $N$ such that
 >>
 >>$$
 >>a_n \gt A \qquad \forall n \ge N
@@ -411,7 +411,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Divergence towards Negative Infinity
 >>
->>A [real sequence](./index.md) $\{a_n\}$ **diverges towards negative infinity** iff for each $A \in \mathbb{R}$ there is some integer $N$ such that
+>>A [real sequence](Real%20Sequences.md) $\{a_n\}$ **diverges towards negative infinity** iff for each $A \in \mathbb{R}$ there is some integer $N$ such that
 >>
 >>$$
 >>a_n \lt A \qquad \forall n \ge N

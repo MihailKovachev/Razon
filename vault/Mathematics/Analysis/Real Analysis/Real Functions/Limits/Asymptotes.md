@@ -14,7 +14,7 @@ tags:
 >
 >Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
 >
->The line $x = c \in \mathbb{R}$ is a **vertical asymptote** of $f$ if $f$ has at least one [infinite one-sided limit](./index.md) at $c$, i.e. at least one of the following holds:
+>The line $x = c \in \mathbb{R}$ is a **vertical asymptote** of $f$ if $f$ has at least one [infinite one-sided limit](Limits%20of%20Real%20Functions.md) at $c$, i.e. at least one of the following holds:
 >
 >- $\displaystyle \lim_{x \to c^-} f(x) = -\infty$
 >- $\displaystyle \lim_{x \to c^+} f(x) = -\infty$
@@ -31,7 +31,7 @@ tags:
 >
 >Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
 >
->The line $y = a \in \mathbb{R}$ is a **horizontal asymptote** of $f$ if the [limit](./index.md) of $f$ as $x$ approaches positive or negative infinity is $a$, i.e. if at least one of the following holds:
+>The line $y = a \in \mathbb{R}$ is a **horizontal asymptote** of $f$ if the [limit](Limits%20of%20Real%20Functions.md) of $f$ as $x$ approaches positive or negative infinity is $a$, i.e. if at least one of the following holds:
 >
 >- $\displaystyle \lim_{x \to -\infty} f(x) = a$
 >- $\displaystyle \lim_{x \to \infty} f(x) = a$
@@ -62,7 +62,7 @@ tags:
 >
 >Let $f$ be a [real function](../Real%20Functions.md).
 >
->The [straight line](../../../../Geometry/Euclidean%20Geometry/Curves/Straight%20Lines/Straight%20Line.md) $y = ax + b$ is an [asymptote](Asymptotes.md) of $f$ if and only if the [limits](./index.md) $\lim_{x \to \pm \infty} \frac{f(x)}{x}$ and $\lim_{x \to \pm \infty} (f(x) - ax)$ exist and
+>The [straight line](../../../../Geometry/Euclidean%20Geometry/Curves/Straight%20Lines/Straight%20Line.md) $y = ax + b$ is an [asymptote](Asymptotes.md) of $f$ if and only if the [limits](Limits%20of%20Real%20Functions.md) $\lim_{x \to \pm \infty} \frac{f(x)}{x}$ and $\lim_{x \to \pm \infty} (f(x) - ax)$ exist and
 >
 >$$
 >\begin{align*}
