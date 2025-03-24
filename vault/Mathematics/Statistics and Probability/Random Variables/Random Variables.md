@@ -11,11 +11,11 @@ tags:
 >
 >Suppose we have an [experiment](Experiments.md) with [sample space](Experiments.md) $\Omega$.
 >
->A **random variable** is a [real-valued function](../Analysis/Real%20Analysis/Real-Valued%20Function.md) $X: \Omega \to \mathbb{R}$.
+>A **random variable** is a [real-valued function](../../Analysis/Real%20Analysis/Real-Valued%20Function.md) $X: \Omega \to \mathbb{R}$.
 >
 >>[!DEFINITION] Definition: Discrete and Continuous Random Variables
 >>
->>If the [image](../Analysis/Functions/Functions.md) of $X$ is [countable](../Set%20Theory/Cardinality/Countable%20Sets.md), then we call $X$ a **discrete random variable**. Otherwise, we call it a **continuous random variable**.
+>>If the [image](../../Analysis/Functions/Functions.md) of $X$ is [countable](../../Set%20Theory/Cardinality/Countable%20Sets.md), then we call $X$ a **discrete random variable**. Otherwise, we call it a **continuous random variable**.
 >>
 >
 >>[!NOTATION]
@@ -44,10 +44,10 @@ A random variable is just a way to assign a value to each outcome in the [sample
 
 >[!DEFINITION] Definition: Discrete Random Variables
 >
->A [random variable](Random%20Variables.md) is **discrete** if and only if its [image](../Analysis/Functions/Functions.md) is [countable](../Set%20Theory/Cardinality/Countable%20Sets.md).
+>A [random variable](Random%20Variables.md) is **discrete** if and only if its [image](../../Analysis/Functions/Functions.md) is [countable](../../Set%20Theory/Cardinality/Countable%20Sets.md).
 >
 
-Essentially, a [discrete random variable](Random%20Variables.md#Discrete%20Random%20Variables) can take on either finitely many values or it can take on infinitely many values which can be arranged in a [real sequence](../Analysis/Real%20Analysis/Real%20Sequences/Real%20Sequences.md).
+Essentially, a [discrete random variable](Random%20Variables.md#Discrete%20Random%20Variables) can take on either finitely many values or it can take on infinitely many values which can be arranged in a [real sequence](../../Analysis/Real%20Analysis/Real%20Sequences/Real%20Sequences.md).
 
 >[!EXAMPLE]-
 >
@@ -69,7 +69,7 @@ Essentially, a [discrete random variable](Random%20Variables.md#Discrete%20Rando
 
 >[!DEFINITION] Definition: Probability Mass Function
 >
->The **probability mass function** of a [discrete random variable](Random%20Variables.md#Discrete%20Random%20Variables) $X: \Omega \to \mathbb{R}$ is the [function](../Analysis/Real%20Analysis/Real%20Functions/Real%20Functions.md) $p_X: \mathbb{R} \to [0;1]$ which to each possible value $x \in X(\Omega)$ of $X$ assigns the [probability](Probability%20Spaces.md) that $X$ is equal to $x$ when the [experiment](Experiments.md) is carried out.
+>The **probability mass function** of a [discrete random variable](Random%20Variables.md#Discrete%20Random%20Variables) $X: \Omega \to \mathbb{R}$ is the [function](../../Analysis/Real%20Analysis/Real%20Functions/Real%20Functions.md) $p_X: \mathbb{R} \to [0;1]$ which to each possible value $x \in X(\Omega)$ of $X$ assigns the [probability](Probability%20Spaces.md) that $X$ is equal to $x$ when the [experiment](Experiments.md) is carried out.
 >
 >$$
 >p_X(x) \overset{\text{def}}{=} P(X = x)
@@ -78,7 +78,7 @@ Essentially, a [discrete random variable](Random%20Variables.md#Discrete%20Rando
 
 >[!DEFINITION] Definition: Support of a Discrete Random Variable
 >
->The **support** of a [discrete random variable](Random%20Variables.md#Discrete%20Random%20Variables) $X: \Omega \to \mathbb{R}$ is [set](../Set%20Theory/Sets.md) of all values $x_1, x_2, \dotsc \in \mathbb{R}$ which $X$ can take on with a nonzero probability.
+>The **support** of a [discrete random variable](Random%20Variables.md#Discrete%20Random%20Variables) $X: \Omega \to \mathbb{R}$ is [set](../../Set%20Theory/Sets.md) of all values $x_1, x_2, \dotsc \in \mathbb{R}$ which $X$ can take on with a nonzero probability.
 >
 >$$
 >\{ x \in \mathbb{R} \mid P(X = x) \gt 0\}
@@ -96,7 +96,7 @@ Essentially, a [discrete random variable](Random%20Variables.md#Discrete%20Rando
 
 >[!DEFINITION] Definition: Cumulative Distribution Function (CDF)
 >
->The **cumulative distribution function** of a [continuous random variable](Random%20Variables.md#Continuous%20Random%20Variables) $X: \Omega \to \mathbb{R}$ is the [function](../Analysis/Real%20Analysis/Real%20Functions/Real%20Functions.md) $F_X: \mathbb{R} \to [0;1]$ which to each $x \in \mathbb{R}$ assigns the [probability](Probability%20Spaces.md) that $X$ is less than $x$ when the [experiment](Experiments.md) is carried out.
+>The **cumulative distribution function** of a [continuous random variable](Random%20Variables.md#Continuous%20Random%20Variables) $X: \Omega \to \mathbb{R}$ is the [function](../../Analysis/Real%20Analysis/Real%20Functions/Real%20Functions.md) $F_X: \mathbb{R} \to [0;1]$ which to each $x \in \mathbb{R}$ assigns the [probability](Probability%20Spaces.md) that $X$ is less than $x$ when the [experiment](Experiments.md) is carried out.
 >
 >$$
 >F_X(x) \overset{\text{def}}{=} P(X \lt x)
@@ -119,7 +119,7 @@ Essentially, a [discrete random variable](Random%20Variables.md#Discrete%20Rando
 
 >[!THEOREM]- Theorem: Monotony of the CDF
 >
->The [cumulative distribution function](Random%20Variables.md#Cumulative%20Distribution%20Functions) of each [continuous random variable](Random%20Variables.md#Continuous%20Random%20Variables) is [increasing](../Analysis/Real%20Analysis/Real%20Functions/Monotony.md).
+>The [cumulative distribution function](Random%20Variables.md#Cumulative%20Distribution%20Functions) of each [continuous random variable](Random%20Variables.md#Continuous%20Random%20Variables) is [increasing](../../Analysis/Real%20Analysis/Real%20Functions/Monotony.md).
 >
 >>[!PROOF]-
 >>
@@ -129,7 +129,7 @@ Essentially, a [discrete random variable](Random%20Variables.md#Discrete%20Rando
 
 >[!THEOREM]- Theorem: Limits of the CDF
 >
->The [limits](../Analysis/Real%20Analysis/Real%20Functions/Limits/Limits%20of%20Real%20Functions.md) of the [cumulative distribution function](Random%20Variables.md#Cumulative%20Distribution%20Functions) $F_X$ of each [continuous random variable](Random%20Variables.md#Continuous%20Random%20Variables) $X$ for $x \to -\infty$ and $x \to +\infty$ are $0$ and $1$, respectively.
+>The [limits](../../Analysis/Real%20Analysis/Real%20Functions/Limits/Limits%20of%20Real%20Functions.md) of the [cumulative distribution function](Random%20Variables.md#Cumulative%20Distribution%20Functions) $F_X$ of each [continuous random variable](Random%20Variables.md#Continuous%20Random%20Variables) $X$ for $x \to -\infty$ and $x \to +\infty$ are $0$ and $1$, respectively.
 >
 >$$
 >\begin{align*}
@@ -143,5 +143,7 @@ Essentially, a [discrete random variable](Random%20Variables.md#Discrete%20Rando
 >>TODO
 >>
 >
+
+
 
 # Bibliography
