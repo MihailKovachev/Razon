@@ -18,18 +18,6 @@ tags:
 >
 >if it exists.
 >
->>[!NOTATION]
->>
->>$$
->>EX \qquad \mathrm{E}[X] \qquad \mathrm{E}(X) \qquad \mathbb{E}(X) \qquad \langle X \rangle \qquad \bar{X}
->>$$
->>
->
->>[!NOTE]
->>
->>Expectation may also be called the **expected value** or **mean** of $X$.
->>
->
 >>[!TIP] Note: Finite Support
 >>
 >>If the [support](Random%20Variables.md#Discrete%20Random%20Variables) $S$ is finite, then the [expectation](Expectation.md) of $X$ reduces to the sum
@@ -38,6 +26,29 @@ tags:
 >>\sum_{i = 1}^{|S|} s_i \cdot p(s_i)
 >>$$
 >>
+>
+
+>[!DEFINITION] Definition: Expectation (Continuous Case)
+>
+>The **expectation** of a [continuous random variable](Random%20Variables.md#Continuous%20Random%20Variables) $X$ with [probability function](Random%20Variables.md) $f$ is the [integral](../../Analysis/Real%20Analysis/Real%20Functions/Integration/Definite%20Integrals.md#Improper%20Integrals) of $x f(x)$ from $-\infty$ to $+\infty$:
+>
+>$$
+>\int_{-\infty}^{+\infty} x f(x) \mathop{\mathrm{d}x}
+>$$
+>
+
+>[!NOTATION]
+>
+>The [expectation](Expectation.md) of a [random variable](Random%20Variables.md) $X$ is usually denoted in one of the following ways:
+>
+>$$
+>EX \qquad \mathrm{E}[X] \qquad \mathrm{E}(X) \qquad \mathbb{E}(X) \qquad \langle X \rangle \qquad \bar{X} \qquad \mu_X
+>$$
+>
+
+>[!NOTE]
+>
+>The [expectation](Expectation.md) of a [random variable](Random%20Variables.md) may also be called its **expected value** or **mean**.
 >
 
 ## Properties

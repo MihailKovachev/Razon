@@ -34,6 +34,20 @@ By far the most common random variable which has a binomial distributions is the
 
 ## Properties
 
+>[!THEOREM]- Theorem: Cumulative Distribution Function of Binomial Distributions
+>
+>The [cumulative distribution function](Random%20Variables.md#Cumulative%20Distribution%20Function) of a [discrete random variable](Random%20Variables.md) $X$ which follows the [binomial distribution](Binomial%20Distribution.md) $\operatorname{Bin}(n,p)$ is given by
+>
+>$$
+>F(x) = \sum_{k = 0}^{\lfloor x \rfloor} \binom{n}{k} p^k (1-p)^{n-k}
+>$$
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
 >[!THEOREM]- Theorem: Probability Mass Function of Binomial Distributions
 >
 >The [probability mass function](Random%20Variables.md#Probability%20Mass%20Functions) $p$ of a [discrete random variable](Random%20Variables.md#Discrete%20Random%20Variables) $X$ which follows the [binomial distribution](Binomial%20Distribution.md) $\mathop{\operatorname{Bin}}(n, p)$ is
@@ -54,20 +68,6 @@ By far the most common random variable which has a binomial distributions is the
 >-  $\lfloor (n+1)p \rfloor$ if $(n+1)p$ is $0$ or a noninteger;
 >- $(n+1)p$ and $(n+1)p - 1$ if $(n+1)p \in \{1, 2, \dotsc, n\}$;
 >- $n$ if $(n+1)p = n+1$.
->
->>[!PROOF]-
->>
->>TODO
->>
->
-
->[!THEOREM]- Theorem: Cumulative Distribution Function of Binomial Distributions
->
->The [cumulative distribution function](Random%20Variables.md#Cumulative%20Distribution%20Function) of a [discrete random variable](Random%20Variables.md) $X$ which follows the [binomial distribution](Binomial%20Distribution.md) $\operatorname{Bin}(n,p)$ is given by
->
->$$
->F(x) = \sum_{k = 0}^{\lfloor x \rfloor} \binom{n}{k} p^k (1-p)^{n-k}
->$$
 >
 >>[!PROOF]-
 >>

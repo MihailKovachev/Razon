@@ -5,7 +5,39 @@ tags:
     - languages
 ---
 
-# Digraphs
+# Pronunciation
+
+In modern Greek, there is a one-to-one correspondence between each [letter](Orthography.md) and the sound it makes with very few exceptions.
+
+>[!IMPORTANT] Important: The letter σ
+>
+>When letter σ preceeds one of β, γ, δ, μ, ν, ρ, then it is pronounced as /z/. This happens even at word boundaries, meaning that a word ending in ς precedes a word starring with one of the aforementioned letters.
+>
+>>[!EXAMPLE]-
+>>
+>>σβήνω /zvino/
+>>
+>>κόσμος /kozmos/
+>>
+>>τους δύο /tuz ðio/
+>>
+>
+
+>[!IMPORTANT] Important: /n p/ -> /mb/, /n t/ -> /nd/, /n k/ -> /ŋg/
+>
+>When a word is supposed to end in /n/ and the next one is supposed to start with /p/, the glide between them is pronounced simply as /mb/. Similarly, /n t/ becomes /n d/ and /n k/ turns into /ŋg/.
+>
+>>[!EXAMPLE]-
+>>
+>>τον πόνο /tom.'bo.no/
+>>
+>>τον τόνο /ton.'do.no/
+>>
+>>την καρδιά /tiŋ.gaɾ.'ðia/
+>>
+>
+
+## Digraphs
 
 Certain combinations of letters are pronounced differently from the normal way their constituants are pronounced.
 
