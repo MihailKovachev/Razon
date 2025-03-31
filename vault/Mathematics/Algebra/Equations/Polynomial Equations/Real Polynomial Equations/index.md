@@ -21,7 +21,7 @@ tags:
 >a_n x^n + a_{n-1} x^{n-1} + \cdots + a_1 x + a_0 = 0
 >$$
 >
->are [integers](TODO) and it has a [rational](TODO) [root](../../../Rings/Commutative%20Rings/Polynomials/index.md) $x^\ast = \frac{p}{q}$ (where $p$ and $q$ are [coprime](TODO)), then $p$ is a [divisor](TODO) of $a_0$ and $q$ is a divisor of $a_n$.
+>are [integers](TODO) and it has a [rational](TODO) [root](../../../Rings/Commutative%20Rings/Polynomials/Polynomials.md) $x^\ast = \frac{p}{q}$ (where $p$ and $q$ are [coprime](TODO)), then $p$ is a [divisor](TODO) of $a_0$ and $q$ is a divisor of $a_n$.
 >
 >>[!PROOF]-
 >>

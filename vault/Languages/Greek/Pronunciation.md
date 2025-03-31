@@ -11,7 +11,7 @@ In modern Greek, there is a one-to-one correspondence between each [letter](Orth
 
 >[!IMPORTANT] Important: The letter σ
 >
->When letter σ preceeds one of β, γ, δ, μ, ν, ρ, then it is pronounced as /z/. This happens even at word boundaries, meaning that a word ending in ς precedes a word starring with one of the aforementioned letters.
+>When letter σ precedes one of β, γ, δ, μ, ν, ρ, then it is pronounced as /z/. This happens even at word boundaries, meaning that a word ending in ς precedes a word starring with one of the aforementioned letters.
 >
 >>[!EXAMPLE]-
 >>

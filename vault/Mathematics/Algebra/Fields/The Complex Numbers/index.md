@@ -23,14 +23,14 @@ tags:
 
 >[!DEFINITION] Definition: Imaginary Number
 >
->An **imaginary number** has the form $\mathrm{i}b$, where $\mathrm{i}$ is the [imaginary unit](./index.md#the%20imaginary%20unit) and $b \in \mathbb{R}$ is a [real number](../The%20Real%20Numbers/index.md).
+>An **imaginary number** has the form $\mathrm{i}b$, where $\mathrm{i}$ is the [imaginary unit](./index.md#the%20imaginary%20unit) and $b \in \mathbb{R}$ is a [real number](../The%20Real%20Numbers/The%20Real%20Numbers.md).
 >
 
 # Complex Numbers
 
 >[!DEFINITION] Definition: Complex Number
 >
->A **complex number** has the form $a + \mathrm{i}b$, where $\mathrm{i}$ is the [imaginary unit](./index.md) and $a,b \in \mathbb{R}$ are [real numbers](../The%20Real%20Numbers/index.md).
+>A **complex number** has the form $a + \mathrm{i}b$, where $\mathrm{i}$ is the [imaginary unit](./index.md) and $a,b \in \mathbb{R}$ are [real numbers](../The%20Real%20Numbers/The%20Real%20Numbers.md).
 >
 >>[!NOTATION]-
 >>
@@ -66,7 +66,7 @@ tags:
 
 ## The Complex Plane
 
-[Complex numbers](./index.md) can be plotted on a plane where the horizontal axis contains the [real numbers](../The%20Real%20Numbers/index.md) and the vertical axis contains the [imaginary numbers](./index.md#imaginary%20numbers).
+[Complex numbers](./index.md) can be plotted on a plane where the horizontal axis contains the [real numbers](../The%20Real%20Numbers/The%20Real%20Numbers.md) and the vertical axis contains the [imaginary numbers](./index.md#imaginary%20numbers).
 
 ![](res/The%20Complex%20Plane.svg)
 

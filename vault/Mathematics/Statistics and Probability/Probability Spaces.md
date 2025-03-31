@@ -7,7 +7,7 @@ tags:
 
 # Probability
 
-At its core, the probability of an [event](Experiments.md) is just a [real number](../Algebra/Fields/The%20Real%20Numbers/index.md) between $0$ and $1$, inclusively, which measures the likelihood of that event occurring.
+At its core, the probability of an [event](Experiments.md) is just a [real number](../Algebra/Fields/The%20Real%20Numbers/The%20Real%20Numbers.md) between $0$ and $1$, inclusively, which measures the likelihood of that event occurring.
 
 >[!DEFINITION] Definition: Probability Space
 >

@@ -9,7 +9,7 @@
 
 >[!THEOREM] Theorem: Degree of the Characteristic Polynomial
 >
->The [degree](../../../../Rings/Commutative%20Rings/Polynomials/index.md) of the [characteristic polynomial](Characteristic%20Polynomial.md) of a [square matrix](../Square%20Matrix.md) $A \in F^{n \times n}$ is $n$.
+>The [degree](../../../../Rings/Commutative%20Rings/Polynomials/Polynomials.md) of the [characteristic polynomial](Characteristic%20Polynomial.md) of a [square matrix](../Square%20Matrix.md) $A \in F^{n \times n}$ is $n$.
 >
 >>[!PROOF]-
 >>

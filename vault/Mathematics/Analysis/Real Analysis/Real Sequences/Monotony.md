@@ -4,6 +4,7 @@ tags:
     - monotony
     - real-sequences
     - real-analysis
+    - mathematics
 ---
 
 # Monotony Criteria

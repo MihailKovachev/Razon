@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Means
 >
->Let $a_1, \dotsc, a_n$ be a list of [real numbers](../Algebra/Fields/The%20Real%20Numbers/index.md).
+>Let $a_1, \dotsc, a_n$ be a list of [real numbers](../Algebra/Fields/The%20Real%20Numbers/The%20Real%20Numbers.md).
 >
 >The **harmonic mean** of $a_1, \dotsc, a_n$ is
 >

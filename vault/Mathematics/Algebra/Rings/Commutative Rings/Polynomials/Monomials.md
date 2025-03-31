@@ -68,7 +68,7 @@ tags:
 
 >[!DEFINITION] Definition: Equality of Monomials
 >
->Two [monomials](./index.md) $M = m x_n^{p_n} x_{n-1}^{p_{n-1}}\cdots x_2^{p_2}x_1^{p_1}$ and $M' = m' x_n^{p_n'} x_{n-1}^{p_{n-1}'}\cdots x_2^{p_2'}x_1^{p_1'}$ are **equal** if $m = m'$ and $p_k = p_k'$ for all $k \in \{1, \cdots, n\}$.
+>Two [monomials](Polynomials.md) $M = m x_n^{p_n} x_{n-1}^{p_{n-1}}\cdots x_2^{p_2}x_1^{p_1}$ and $M' = m' x_n^{p_n'} x_{n-1}^{p_{n-1}'}\cdots x_2^{p_2'}x_1^{p_1'}$ are **equal** if $m = m'$ and $p_k = p_k'$ for all $k \in \{1, \cdots, n\}$.
 >
 >>[!NOTE]
 >>

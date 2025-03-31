@@ -139,7 +139,7 @@ Essentially, a [discrete random variable](Random%20Variables.md#Discrete%20Rando
 
 >[!DEFINITION] Definition: Mode
 >
->A **mode** of a [discrete random variable](Random%20Variables.md#Discrete%20Random%20Variable) $X$ is the [real number](../../Algebra/Fields/The%20Real%20Numbers/index.md) $m \in \mathbb{R}$ for which the [probability mass function](Random%20Variables.md#Probability%20Mass%20Functions) of $X$ is maximum.
+>A **mode** of a [discrete random variable](Random%20Variables.md#Discrete%20Random%20Variable) $X$ is the [real number](../../Algebra/Fields/The%20Real%20Numbers/The%20Real%20Numbers.md) $m \in \mathbb{R}$ for which the [probability mass function](Random%20Variables.md#Probability%20Mass%20Functions) of $X$ is maximum.
 >
 
 # Continuous Random Variable

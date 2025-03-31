@@ -4,6 +4,7 @@ tags:
     - convergence
     - real-sequences
     - real-analysis
+    - mathematics
 ---
 
 # Convergence and Limits

@@ -3,6 +3,7 @@ title: Real Series
 tags:
     - real-series
     - real-analysis
+    - mathematics
 ---
 
 # Partial Sums

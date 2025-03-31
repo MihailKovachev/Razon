@@ -11,12 +11,12 @@ tags:
 
 >[!DEFINITION] Definition: Quadratic Polynomial
 >
->A **quadratic polynomial** is a [polynomial](./index.md) of [polynomial](index.md#degree) 2.
+>A **quadratic polynomial** is a [polynomial](Polynomials.md) of [polynomial](index.md#degree) 2.
 >
 
 >[!IMPORTANT] Quadratic Polynomial in a Single Variable
 >
->A [quadratic polynomial](./index.md) of a single variable has the form
+>A [quadratic polynomial](Polynomials.md) of a single variable has the form
 >
 >$$
 >a x^2 + b x + c,

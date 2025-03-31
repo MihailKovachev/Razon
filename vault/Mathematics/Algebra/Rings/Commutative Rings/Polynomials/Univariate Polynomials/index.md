@@ -13,7 +13,7 @@ tags:
 
 >[!DEFINITION] Definition: Univariate Polynomial
 >
->A **univariate polynomial** is a [polynomial](../index.md) in a single variable.
+>A **univariate polynomial** is a [polynomial](../Polynomials.md) in a single variable.
 >
 >>[!NOTE]
 >>
@@ -31,7 +31,7 @@ tags:
 >
 >Let $R$ be a [commutative ring](../../index.md).
 >
->The [set](../../../../../Set%20Theory/Sets.md) of all [univariate polynomials](./index.md) over $R$ form a commutative ring together with [polynomial addition](../index.md) and [polynomial multiplication](../index.md).
+>The [set](../../../../../Set%20Theory/Sets.md) of all [univariate polynomials](./index.md) over $R$ form a commutative ring together with [polynomial addition](../Polynomials.md) and [polynomial multiplication](../Polynomials.md).
 >
 >>[!NOTATION]
 >>
@@ -48,9 +48,9 @@ tags:
 
 >[!THEOREM] Theorem: Equality of Univariate Polynomials
 >
->Let $A(x)$ and $B(x)$ be two [nonzero](../Zero%20Polynomial.md) [polynomials](./index.md) over an [integral domain](../../Integral%20Domains/Integral%20Domain.md) with [degrees](../index.md) $\deg(A)$ and $\deg(B)$.
+>Let $A(x)$ and $B(x)$ be two [nonzero](../Zero%20Polynomial.md) [polynomials](./index.md) over an [integral domain](../../Integral%20Domains/Integral%20Domain.md) with [degrees](../Polynomials.md) $\deg(A)$ and $\deg(B)$.
 >
->If $A(x)$ and $B(x)$ have the same [value](../index.md) for $\max\{\deg(A), \deg(B)\}+1$ different values for $x$, then $A$ and $B$ are [equal](../index.md).
+>If $A(x)$ and $B(x)$ have the same [value](../Polynomials.md) for $\max\{\deg(A), \deg(B)\}+1$ different values for $x$, then $A$ and $B$ are [equal](../Polynomials.md).
 >
 >>[!PROOF]-
 >>
@@ -64,7 +64,7 @@ tags:
 >
 >Let $A(x)$ be a [univariate polynomial](./index.md) over a [commutative ring](../../index.md) $R$.
 >
->An element $p \in R$ is a [root](../index.md) of $A$ if and only if $A$ is [divisible](Polynomial%20Division.md) by $x - p$.
+>An element $p \in R$ is a [root](../Polynomials.md) of $A$ if and only if $A$ is [divisible](Polynomial%20Division.md) by $x - p$.
 >
 >>[!PROOF]-
 >>
@@ -76,7 +76,7 @@ tags:
 
 >[!THEOREM] Theorem: Number of Roots of Univariate Polynomials
 >
->If $P(x)$ is a [polynomial](./index.md) $P(x)$ over an [integral domain](../../Integral%20Domains/Integral%20Domain.md), then the maximum number of distinct [roots](../index.md) which $P$ can have is equal its [degree](../index.md) $\deg(P)$.
+>If $P(x)$ is a [polynomial](./index.md) $P(x)$ over an [integral domain](../../Integral%20Domains/Integral%20Domain.md), then the maximum number of distinct [roots](../Polynomials.md) which $P$ can have is equal its [degree](../Polynomials.md) $\deg(P)$.
 >
 >>[!PROOF]-
 >>

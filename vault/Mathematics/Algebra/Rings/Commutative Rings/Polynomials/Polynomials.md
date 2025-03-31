@@ -21,7 +21,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Leading Coefficient
 >>
->>The **leading coefficient** of a [polynomial](./index.md) is the [coefficient](Monomials.md) of its highest-[degree](Monomials.md) [monomial](Monomials.md).
+>>The **leading coefficient** of a [polynomial](Polynomials.md) is the [coefficient](Monomials.md) of its highest-[degree](Monomials.md) [monomial](Monomials.md).
 >>
 >
 
@@ -29,7 +29,7 @@ tags:
 
 >[!DEFINITION] Definition: Degree of a Polynomial
 >
->The **degree** of a [nonzero](Zero%20Polynomial.md) [polynomial](./index.md) $P$ is the highest [degree](Monomials.md) amongst its [monomials](Monomials.md).
+>The **degree** of a [nonzero](Zero%20Polynomial.md) [polynomial](Polynomials.md) $P$ is the highest [degree](Monomials.md) amongst its [monomials](Monomials.md).
 >
 >>[!NOTATION]
 >>
@@ -50,7 +50,7 @@ tags:
 
 >[!DEFINITION] Definition: Evaluation of a Polynomial
 >
->Let $P(x_1, \cdots, x_n)$ be a [polynomial](./index.md) over a [commutative ring](../index.md) $R$.
+>Let $P(x_1, \cdots, x_n)$ be a [polynomial](Polynomials.md) over a [commutative ring](../index.md) $R$.
 >
 >The **value** or **evaluation** of $P$ at an $n$-[Tuples](../../../../Set%20Theory/Tuples.md) $(r_1, \cdots, r_n)$, where $r_1, \cdots, r_n \in R$, is obtained by replacing $x_i$ with $r_i$ and carrying out all ring operations.
 >
@@ -66,14 +66,14 @@ tags:
 
 >[!DEFINITION] Definition: Root of a Polynomial
 >
->The **roots** of a [polynomial](./index.md) $P$ are the [solutions](../../../Equations/Polynomial%20Equations/index.md) to the [polynomial equation](../../../Equations/Polynomial%20Equations/index.md) $P = 0$.
+>The **roots** of a [polynomial](Polynomials.md) $P$ are the [solutions](../../../Equations/Polynomial%20Equations/index.md) to the [polynomial equation](../../../Equations/Polynomial%20Equations/index.md) $P = 0$.
 >
 
 ## Equality
 
 >[!DEFINITION]
 >
->Two [polynomials](./index.md) are **equal** if they are built from the [same](Monomials.md) [monomials](Monomials.md).
+>Two [polynomials](Polynomials.md) are **equal** if they are built from the [same](Monomials.md) [monomials](Monomials.md).
 >
 >>[!NOTE]
 >>

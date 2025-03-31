@@ -42,7 +42,7 @@ tags:
 >\begin{align*} a + b \gt c \\ b + c \gt a \\ a + c \gt b \end{align*}
 >$$
 >
->Conversely, if $a, b, c$ are positive [real numbers](../../../../../Algebra/Fields/The%20Real%20Numbers/index.md) for which all of the above inequalities hold, then there exists a [triangle](Triangles.md) with side lengths $a, b, c$.
+>Conversely, if $a, b, c$ are positive [real numbers](../../../../../Algebra/Fields/The%20Real%20Numbers/The%20Real%20Numbers.md) for which all of the above inequalities hold, then there exists a [triangle](Triangles.md) with side lengths $a, b, c$.
 >
 >>[!PROOF]-
 >>

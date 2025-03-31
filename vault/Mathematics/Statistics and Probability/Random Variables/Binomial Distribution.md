@@ -9,7 +9,7 @@ tags:
 
 >[!DEFINITION] Definition: Binomial Distribution
 >
->We say that a [discrete random variable](Random%20Variables.md#Discrete%20Random%20Variable) $X$ has a **binomial distribution** if there exist some $n \in \mathbb{N}$ and some [real number](../../Algebra/Fields/The%20Real%20Numbers/index.md) $p \in [0;1]$ such that
+>We say that a [discrete random variable](Random%20Variables.md#Discrete%20Random%20Variable) $X$ has a **binomial distribution** if there exist some $n \in \mathbb{N}$ and some [real number](../../Algebra/Fields/The%20Real%20Numbers/The%20Real%20Numbers.md) $p \in [0;1]$ such that
 >
 >$$
 >P(X = k) = \binom{n}{k} p^k (1-p)^{n-k}
