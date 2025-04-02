@@ -74,5 +74,5 @@ Defined in this way, mathematical events allow us to closely model real-world co
 
 >[!DEFINITION] Definition: Mutual Exclusiveness
 >
->A [collection](../Set%20Theory/Collections/Collections.md) of [events](Experiments.md#experiments) are **mutually exclusive** if and only if every [intersection](../Set%20Theory/Set%20Operations.md) between two of the [events](Experiments.md#experiments) is [empty](../Set%20Theory/The%20Empty%20Set.md).
+>A [collection](../Set%20Theory/Collections/Collections.md) of [events](Experiments.md#experiments) are **mutually exclusive** if and only if every [intersection](../Set%20Theory/Set%20Operations.md) between two of the [events](Experiments.md#experiments) is [empty](../Set%20Theory/Sets.md).
 >

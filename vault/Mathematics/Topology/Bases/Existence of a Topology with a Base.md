@@ -7,7 +7,7 @@ tags:
 
 >[!THEOREM] Theorem: Existence of a Topology with a Base
 >
->Let $X$ be a [non-empty](../../Set%20Theory/The%20Empty%20Set.md) [set](../../Set%20Theory/Sets.md) and let $\mathcal{B}$ be a [collection](../../Set%20Theory/Collections/Collections.md) of [subsets](../../Set%20Theory/Sets.md) of $X$.
+>Let $X$ be a [non-empty](../../Set%20Theory/Sets.md) [set](../../Set%20Theory/Sets.md) and let $\mathcal{B}$ be a [collection](../../Set%20Theory/Collections/Collections.md) of [subsets](../../Set%20Theory/Sets.md) of $X$.
 >
 >There exists a [topology](../Topological%20Spaces/index.md) $\tau_\mathcal{B}$ on $X$ such that $\mathcal{B}$ is a [base](./index.md) for the [topological space](../Topological%20Spaces/index.md) $(X, \tau_\mathcal{B})$ if and only if
 >- $X$ is the [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of $\mathcal{B}$, i.e. $X = \bigcup \mathcal{B}$, and
@@ -34,7 +34,7 @@ tags:
 >>- $\tau_\mathcal{B}$ is closed under arbitrary [unions](../../Set%20Theory/Collections/Operations%20with%20Collections.md);
 >>- The [intersection](../../Set%20Theory/Set%20Operations.md) $U_1 \cap U_2$ of each $U_1, U_2 \in \tau_\mathcal{B}$ is in $\tau_\mathcal{B}$.
 >>
->>The assumption that $X = \bigcup\mathcal{B}$ entails that $X \in \tau_\mathcal{B}$. The [empty set](../../Set%20Theory/The%20Empty%20Set.md) is a [subset](../../Set%20Theory/Sets.md) of $\mathcal{B}$ and since $\varnothing = \bigcup \varnothing$, we have that $\varnothing \in \tau_\mathcal{B}$.
+>>The assumption that $X = \bigcup\mathcal{B}$ entails that $X \in \tau_\mathcal{B}$. The [empty set](../../Set%20Theory/Sets.md) is a [subset](../../Set%20Theory/Sets.md) of $\mathcal{B}$ and since $\varnothing = \bigcup \varnothing$, we have that $\varnothing \in \tau_\mathcal{B}$.
 >>
 >>Consider now an arbitrary [subset](../../Set%20Theory/Sets.md) $T$ of $\tau_\mathcal{B}$. Since each $U \in T$ is a [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of a [subset](../../Set%20Theory/Sets.md) of $\mathcal{B}$, then $\bigcup T$ is also a [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of a [subset](../../Set%20Theory/Sets.md) $\mathcal{B}$, meaning that $\bigcup T \in \tau_\mathcal{B}$.
 >>

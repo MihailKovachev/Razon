@@ -15,7 +15,7 @@ tags:
 
 >[!THEOREM] Theorem: Invariance of Manifold Dimension
 >
->A [nonempty](../../Set%20Theory/The%20Empty%20Set.md) [topological space](../../Topology/Topological%20Spaces/index.md) cannot be [locally homeomorphic](../../Topology/Continuity/Homeomorphisms/Locally%20Homeomorphic%20Spaces.md) to more than one [Euclidean space](../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) - if it is [locally homeomorphic](../../Topology/Continuity/Homeomorphisms/Locally%20Homeomorphic%20Spaces.md) to $\mathbb{R}^n$ and to $\mathbb{R}^m$, then $n = m$.
+>A [nonempty](../../Set%20Theory/Sets.md) [topological space](../../Topology/Topological%20Spaces/index.md) cannot be [locally homeomorphic](../../Topology/Continuity/Homeomorphisms/Locally%20Homeomorphic%20Spaces.md) to more than one [Euclidean space](../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) - if it is [locally homeomorphic](../../Topology/Continuity/Homeomorphisms/Locally%20Homeomorphic%20Spaces.md) to $\mathbb{R}^n$ and to $\mathbb{R}^m$, then $n = m$.
 >
 >>[!PROOF]-
 >>

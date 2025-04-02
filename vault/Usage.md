@@ -4,7 +4,7 @@ At first glance, Razon's size and organisation may seem daunting. This is becaus
 
 The project can be used in two main ways:
 - **Reference database** - the website's extensive search capability allows users to conduct detailed searches of its content which means that Razon can be used as a reference book for looking-up various pieces of knowledge. This is especially useful when you have a specific topic in mind which you want to learn about and can be a great way to supplement your courses by looking up definitions, theorems and examples.
-- **Self-study** - thanks to [NavHub](NavHub/index.md), Razon can be used to self-study entire subjects. All you need to do is find the appropriate itinerary under NavHub and then follow it through the content of the website, studying the material in each page. Ideally, each itinerary should be able to take you from zero-to-hero in the field it pertains to by using only Razon's content.
+- **Self-study** - thanks to [Eisodos](Eisodos/index.md), Razon can be used to self-study entire subjects. All you need to do is find the appropriate *diadromi* under Eisodos and then follow it through the content of the website, studying the material in each page. Ideally, each diadromi should be able to take you from zero-to-hero in the field it pertains to by using only Razon's content.
 
 ## Razon's Structure
 

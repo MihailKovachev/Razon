@@ -59,4 +59,3 @@ English has a single definite article, namely the word "the". However, the defin
 The accusative feminine singular of the [definite article](Definiteness.md) adds is "την" only when the next word starts with one of κ, π, τ, ξ, ψ, γκ, μπ, ντ and is "τη" otherwise.
 
 ## Usage
-

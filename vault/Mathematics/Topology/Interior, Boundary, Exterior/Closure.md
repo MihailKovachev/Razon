@@ -93,7 +93,7 @@ tags:
 >
 >Let $(X, \tau_X)$ be a [topological space](../Topological%20Spaces/index.md).
 >
->The [closure](Closure.md) of the [empty set](../../Set%20Theory/The%20Empty%20Set.md) is itself.
+>The [closure](Closure.md) of the [empty set](../../Set%20Theory/Sets.md) is itself.
 >
 >$$
 >\overline{\varnothing} = \varnothing

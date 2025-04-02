@@ -294,3 +294,6 @@ tags:
 ></table>
 >
 
+# Bibliography
+
+1. [Foundalis - Patterns for Masculine Modern Greek Nouns](https://www.foundalis.com/lan/grkn_mas.htm)

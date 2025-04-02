@@ -9,9 +9,9 @@ tags:
 
 >[!DEFINITION] Definition: Topology
 >
->A **topology** on a [non-empty](../../Set%20Theory/The%20Empty%20Set.md) [set](../../Set%20Theory/Sets.md) $X$ is a [collection](../../Set%20Theory/Collections/Collections.md) $\tau$ of [subsets](../../Set%20Theory/Sets.md) of $X$ which has the following properties:
+>A **topology** on a [non-empty](../../Set%20Theory/Sets.md) [set](../../Set%20Theory/Sets.md) $X$ is a [collection](../../Set%20Theory/Collections/Collections.md) $\tau$ of [subsets](../../Set%20Theory/Sets.md) of $X$ which has the following properties:
 >
->- The [empty set](../../Set%20Theory/The%20Empty%20Set.md) $\varnothing$ and $X$ are in $\tau$.
+>- The [empty set](../../Set%20Theory/Sets.md) $\varnothing$ and $X$ are in $\tau$.
 >- The [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of any subset of $\tau$ is in $\tau$.
 >- The [intersection](../../Set%20Theory/Set%20Operations.md) of any two elements of $\tau$ is in $\tau$.
 >
@@ -28,7 +28,7 @@ tags:
 
 >[!DEFINITION] Definition: Topological Space
 >
->A **topological space** $(S,\tau)$ is a [non-empty](../../Set%20Theory/The%20Empty%20Set.md) [set](../../Set%20Theory/Sets.md) $S$ equipped with a [topology](./index.md) $\tau$ on it.
+>A **topological space** $(S,\tau)$ is a [non-empty](../../Set%20Theory/Sets.md) [set](../../Set%20Theory/Sets.md) $S$ equipped with a [topology](./index.md) $\tau$ on it.
 >
 >>[!NOTE] Note: Points
 >>

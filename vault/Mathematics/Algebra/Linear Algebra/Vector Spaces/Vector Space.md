@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Vector Space
 >
->A **vector space** $(V,F,+,\cdot)$ consists of a non-[empty](../../../Set%20Theory/The%20Empty%20Set.md) [set](../../../Set%20Theory/Sets.md) $V$ and a [field](../../Fields/index.md) $F$ which are equipped with two [operations](../../../Analysis/Functions/Functions.md) - a **vector addition** $+: V \times V \to V$ and a **scalar multiplication** $\cdot: V \times F \to V$ - which have the following properties:
+>A **vector space** $(V,F,+,\cdot)$ consists of a non-[empty](../../../Set%20Theory/Sets.md) [set](../../../Set%20Theory/Sets.md) $V$ and a [field](../../Fields/index.md) $F$ which are equipped with two [operations](../../../Analysis/Functions/Functions.md) - a **vector addition** $+: V \times V \to V$ and a **scalar multiplication** $\cdot: V \times F \to V$ - which have the following properties:
 >
 >- Commutativity: $\mathbf{u} + \mathbf{v} = \mathbf{v} + \mathbf{u} \qquad \forall \mathbf{u},\mathbf{v} \in V$
 >- Associativity I: $\mathbf{u} + (\mathbf{v} + \mathbf{w}) = (\mathbf{u} + \mathbf{v}) + \mathbf{w} \qquad \forall \mathbf{u},\mathbf{v}, \mathbf{w} \in V$

@@ -11,7 +11,7 @@ tags:
 <table>
   <thead>
     <tr>
-      <th style="text-align:center; vertical-align: middle;" rowspan="2">Person</th>
+      <th style="text-align:center; vertical-align: middle;" rowspan="2"></th>
       <th style="text-align:center; vertical-align: middle;" colspan="2">Nominative</th>
       <th style="text-align:center; vertical-align: middle;" colspan="2">Genitive</th>
       <th style="text-align:center; vertical-align: middle;" colspan="2">Accusative</th>
@@ -31,7 +31,7 @@ tags:
   <tbody>
     <!-- First Person -->
     <tr>
-      <td style="text-align:center; vertical-align: middle;">1st Person</td>
+      <th style="text-align:center; vertical-align: middle;">1st Person</th>
       <td style="text-align:center; vertical-align: middle;">εγώ</td>
       <td style="text-align:center; vertical-align: middle;">εμείς</td>
       <td style="text-align:center; vertical-align: middle;">μου</td>
@@ -43,7 +43,7 @@ tags:
     </tr>
     <!-- Second Person -->
     <tr>
-      <td style="text-align:center; vertical-align: middle;">2nd Person</td>
+      <th style="text-align:center; vertical-align: middle;">2nd Person</th>
       <td style="text-align:center; vertical-align: middle;">εσύ</td>
       <td style="text-align:center; vertical-align: middle;">εσείς</td>
       <td style="text-align:center; vertical-align: middle;">σου</td>
@@ -55,7 +55,7 @@ tags:
     </tr>
     <!-- Third Person Masculine -->
     <tr>
-      <td style="text-align:center; vertical-align: middle;">3rd Person (Masc.)</td>
+      <th style="text-align:center; vertical-align: middle;">3rd Person (Masculine)</th>
       <td style="text-align:center; vertical-align: middle;">αυτός</td>
       <td style="text-align:center; vertical-align: middle;">αυτοί</td>
       <td style="text-align:center; vertical-align: middle;">αυτού</td>
@@ -67,7 +67,7 @@ tags:
     </tr>
     <!-- Third Person Feminine -->
     <tr>
-      <td style="text-align:center; vertical-align: middle;">3rd Person (Fem.)</td>
+      <th style="text-align:center; vertical-align: middle;">3rd Person (Feminine)</th>
       <td style="text-align:center; vertical-align: middle;">αυτή</td>
       <td style="text-align:center; vertical-align: middle;">αυτές</td>
       <td style="text-align:center; vertical-align: middle;">αυτής</td>
@@ -79,7 +79,7 @@ tags:
     </tr>
     <!-- Third Person Neuter -->
     <tr>
-      <td style="text-align:center; vertical-align: middle;">3rd Person (Neut.)</td>
+      <th style="text-align:center; vertical-align: middle;">3rd Person (Neuter)</th>
       <td style="text-align:center; vertical-align: middle;">αυτό</td>
       <td style="text-align:center; vertical-align: middle;">αυτά</td>
       <td style="text-align:center; vertical-align: middle;">αυτού</td>

@@ -66,7 +66,7 @@ tags:
 
 >[!DEFINITION] Definition: Root of a Polynomial
 >
->The **roots** of a [polynomial](Polynomials.md) $P$ are the [solutions](../../../Equations/Polynomial%20Equations/index.md) to the [polynomial equation](../../../Equations/Polynomial%20Equations/index.md) $P = 0$.
+>The **roots** of a [polynomial](Polynomials.md) $P$ are the [solutions](../../../Equations/Polynomial%20Equations/Polynomial%20Equations.md) to the [polynomial equation](../../../Equations/Polynomial%20Equations/Polynomial%20Equations.md) $P = 0$.
 >
 
 ## Equality

@@ -11,7 +11,7 @@ tags:
 >
 >Let $(X, \tau_X)$ be a [topological space](Topological%20Spaces/index.md).
 >
->For every [non-empty](../../Set%20Theory/The%20Empty%20Set.md) [subset](../Set%20Theory/Sets.md) $S$ of $X$, the [collection](../Set%20Theory/Collections/Collections.md)
+>For every [non-empty](../Set%20Theory/Sets.md) [subset](../Set%20Theory/Sets.md) $S$ of $X$, the [collection](../Set%20Theory/Collections/Collections.md)
 >
 >$$
 >\tau_S \overset{\text{def}}{=} \{O \cap S \mid O \in \tau_X\}

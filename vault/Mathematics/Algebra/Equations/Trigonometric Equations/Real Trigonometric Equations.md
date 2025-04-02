@@ -180,7 +180,7 @@ tags:
 >a_0 \tan^n x + a_1 \tan^{n-1} x + \cdots + a_{n-1} \tan x + a_n = 0
 >$$
 >
->3. Substitute $t = \tan x$ and solve the [polynomial equation](../Polynomial%20Equations/index.md)
+>3. Substitute $t = \tan x$ and solve the [polynomial equation](../Polynomial%20Equations/Polynomial%20Equations.md)
 > 
 >$$
 >a_0 t^n + a_1 t^{n-1} + \cdots + a_{n-1} t + a_n = 0
@@ -213,7 +213,7 @@ tags:
 >a_0 + a_1 \cot x + \cdots + a_{n-1} \cot^{n-1} x + a_n\cot^n x = 0
 >$$
 >
->3. Substitute $t = \cot x$ and solve the [polynomial equation](../Polynomial%20Equations/index.md)
+>3. Substitute $t = \cot x$ and solve the [polynomial equation](../Polynomial%20Equations/Polynomial%20Equations.md)
 > 
 >$$
 >a_0 + a_1 t + \cdots + a_{n-1} t^{n-1} + a_n t^n = 0

@@ -10,7 +10,7 @@ tags:
 
 >[!DEFINITION] Definition: Connectedness of a Topological Space
 >
->A [topological space](../Topological%20Spaces/index.md) is **connected** iff it cannot be represented as the [union](../../Set%20Theory/Set%20Operations.md) of two [disjoint](../../Set%20Theory/Disjoint%20Sets.md), [nonempty](../../Set%20Theory/The%20Empty%20Set.md) [open sets](../Topological%20Spaces/Open%20Sets.md).
+>A [topological space](../Topological%20Spaces/index.md) is **connected** iff it cannot be represented as the [union](../../Set%20Theory/Set%20Operations.md) of two [disjoint](../../Set%20Theory/Disjoint%20Sets.md), [nonempty](../../Set%20Theory/Sets.md) [open sets](../Topological%20Spaces/Open%20Sets.md).
 >
 
 >[!DEFINITION] Definition: Connectedness of a Subset
@@ -41,13 +41,13 @@ tags:
 >>
 >>We prove this by contradiction.
 >>
->>Suppose that $(X, \tau)$ is [connected](./index.md) and let $U \subset X$ be [clopen](../Topological%20Spaces/Clopen%20Sets.md). If $U$ is [nonempty](../../Set%20Theory/The%20Empty%20Set.md), then so is $X \setminus U$. Since $U$ is [clopen](../Topological%20Spaces/Clopen%20Sets.md), so is its [complement](../../Set%20Theory/Complement.md) $X \setminus U$.  More importantly, this implies that both $U$ and $X \setminus U$ are [open](../Topological%20Spaces/Open%20Sets.md). However, since $X = U \cup X\setminus U$, this means that $X$ can be represented as the [union](../../Set%20Theory/Set%20Operations.md) of two [disjoint](../../Set%20Theory/Disjoint%20Sets.md), [nonempty](../../Set%20Theory/The%20Empty%20Set.md) [open sets](../Topological%20Spaces/Open%20Sets.md) and is thus not [disconnected](./index.md), which is a contradiction.
+>>Suppose that $(X, \tau)$ is [connected](./index.md) and let $U \subset X$ be [clopen](../Topological%20Spaces/Clopen%20Sets.md). If $U$ is [nonempty](../../Set%20Theory/Sets.md), then so is $X \setminus U$. Since $U$ is [clopen](../Topological%20Spaces/Clopen%20Sets.md), so is its [complement](../../Set%20Theory/Complement.md) $X \setminus U$.  More importantly, this implies that both $U$ and $X \setminus U$ are [open](../Topological%20Spaces/Open%20Sets.md). However, since $X = U \cup X\setminus U$, this means that $X$ can be represented as the [union](../../Set%20Theory/Set%20Operations.md) of two [disjoint](../../Set%20Theory/Disjoint%20Sets.md), [nonempty](../../Set%20Theory/Sets.md) [open sets](../Topological%20Spaces/Open%20Sets.md) and is thus not [disconnected](./index.md), which is a contradiction.
 >>
 >>**Proof of (II):**
 >>
 >>We prove this by contradiction.
 >>
->>Suppose that the only [clopen subsets](../Topological%20Spaces/Clopen%20Sets.md) of $(X, \tau)$ are $\varnothing$ and $X$. Assume that $(X, \tau)$ is [disconnected](./index.md), i.e. there exists two [disjoint](../../Set%20Theory/Disjoint%20Sets.md), [nonempty](../../Set%20Theory/The%20Empty%20Set.md) [open sets](../Topological%20Spaces/Open%20Sets.md) $U$ and $V$ such that $X = U \cup V$.
+>>Suppose that the only [clopen subsets](../Topological%20Spaces/Clopen%20Sets.md) of $(X, \tau)$ are $\varnothing$ and $X$. Assume that $(X, \tau)$ is [disconnected](./index.md), i.e. there exists two [disjoint](../../Set%20Theory/Disjoint%20Sets.md), [nonempty](../../Set%20Theory/Sets.md) [open sets](../Topological%20Spaces/Open%20Sets.md) $U$ and $V$ such that $X = U \cup V$.
 >>
 >>
 >
@@ -56,7 +56,7 @@ tags:
 >
 >Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md) and let $S$ be a [subset](../../Set%20Theory/Sets.md) of $X$.
 >
->If $S$ can be expressed as the [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of a [collection](../../Set%20Theory/Collections/Collections.md) $\mathcal{C}$ of [](index.md#^connected-subset) [subsets](../../Set%20Theory/Sets.md) whose [intersection](../../Set%20Theory/Collections/Operations%20with%20Collections.md) is [nonempty](../../Set%20Theory/The%20Empty%20Set.md),  then $S$ is also [](index.md#^connected-subset).
+>If $S$ can be expressed as the [union](../../Set%20Theory/Collections/Operations%20with%20Collections.md) of a [collection](../../Set%20Theory/Collections/Collections.md) $\mathcal{C}$ of [](index.md#^connected-subset) [subsets](../../Set%20Theory/Sets.md) whose [intersection](../../Set%20Theory/Collections/Operations%20with%20Collections.md) is [nonempty](../../Set%20Theory/Sets.md),  then $S$ is also [](index.md#^connected-subset).
 >
 >>[!PROOF]-
 >>
