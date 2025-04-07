@@ -9,7 +9,7 @@ tags:
 >
 >Let $S$ be a [set](Sets.md).
 >
->An **indexing** on $S$ is a [surjection](../../Analysis/Functions/Types%20of%20Functions/Surjection.md) $f: I \to S$ from some [set](Sets.md) $I$ onto $S$.
+>An **indexing** on $S$ is a [surjection](../Analysis/Functions/Injections,%20Surjections%20and%20Bijections.md) $f: I \to S$ from some [set](Sets.md) $I$ onto $S$.
 >
 
 >[!DEFINITION] Definition: Index Set

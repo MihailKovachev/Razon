@@ -99,13 +99,13 @@ tags:
 >
 >Let $f: \mathcal{D} \subseteq\mathbb{R}^2 \to\mathbb{R}$ be a [real scalar field](../Real%20Scalar%20Field.md).
 >
->If $f$ is [continuous](../Continuity%20of%20Real%20Scalar%20Fields.md) and $\mathcal{D}$ can be expressed as $D = \left\{\begin{bmatrix} x \\ y\end{bmatrix}\mid a\le x \le b, l(x) \le y \le u(x)\right\}$, where $l$ and $u$ are [continuous](../../../Real%20Functions/Continuity.md) [real functions](../../../Real%20Functions/Real%20Functions.md), then the [double integral](Double%20Integrals.md#Double%20Integrals) of $f$ over $\mathcal{D}$ can be calculated via iterated [parametric integrals](Parametric%20Integrals.md):
+>If $f$ is [continuous](../Continuity%20of%20Real%20Scalar%20Fields.md) and $\mathcal{D}$ can be expressed as $D = \left\{\begin{bmatrix} x \\ y\end{bmatrix}\mid a\le x \le b, l(x) \le y \le u(x)\right\}$, where $l$ and $u$ are [continuous](../../../Real%20Functions/Continuity.md) [real functions](../../../Functions%20of%20the%20Real%20Numbers.md), then the [double integral](Double%20Integrals.md#Double%20Integrals) of $f$ over $\mathcal{D}$ can be calculated via iterated [parametric integrals](Parametric%20Integrals.md):
 >
 >$$
 >\iint\limits_{\mathcal{D}} f \mathop{\mathrm{d}\mathcal{D}} = \int_a^b \int_{l(x)}^{u(x)} f(x, y) \mathop{\mathrm{d}y}\mathop{\mathrm{d}x}
 >$$
 >
->If $f$ is [continuous](../Continuity%20of%20Real%20Scalar%20Fields.md) and $\mathcal{D}$ can be expressed as $\mathcal{D} = \left\{\begin{bmatrix} x \\ y \end{bmatrix} \mid l(y)\le x \le u(y), a \le y \le b\right\}$, where $l$ and $u$ are [continuous](../../../Real%20Functions/Continuity.md) [real functions](../../../Real%20Functions/Real%20Functions.md), then the [double integral](Double%20Integrals.md#Double%20Integrals) of $f$ over $\mathcal{D}$ can be calculated via iterated [parametric integrals](Parametric%20Integrals.md):
+>If $f$ is [continuous](../Continuity%20of%20Real%20Scalar%20Fields.md) and $\mathcal{D}$ can be expressed as $\mathcal{D} = \left\{\begin{bmatrix} x \\ y \end{bmatrix} \mid l(y)\le x \le u(y), a \le y \le b\right\}$, where $l$ and $u$ are [continuous](../../../Real%20Functions/Continuity.md) [real functions](../../../Functions%20of%20the%20Real%20Numbers.md), then the [double integral](Double%20Integrals.md#Double%20Integrals) of $f$ over $\mathcal{D}$ can be calculated via iterated [parametric integrals](Parametric%20Integrals.md):
 >
 >$$
 >\iint\limits_{\mathcal{D}} f \mathop{\mathrm{d}\mathcal{D}} = \int_a^b \int_{l(y)}^{u(y)} f(x, y) \mathop{\mathrm{d}x}\mathop{\mathrm{d}y}

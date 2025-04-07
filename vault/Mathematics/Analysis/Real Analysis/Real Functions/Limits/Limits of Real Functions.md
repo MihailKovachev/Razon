@@ -12,7 +12,7 @@ tags:
 
 >[!DEFINITION] Definition: Left-Sided Limit
 >
->Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
+>Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../../Functions%20of%20the%20Real%20Numbers.md).
 >
 >A number $L \in \mathbb{R}$ is called the **left-sided limit of** $f$ **as** $x$ **approaches** $c \in D$ if for every $\varepsilon \gt 0$ there is a $\delta \gt 0$ such that for all $x \in D$ with $x \lt c$
 >
@@ -30,7 +30,7 @@ tags:
 
 >[!DEFINITION] Definition: Right-Sided Limit
 >
->Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
+>Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../../Functions%20of%20the%20Real%20Numbers.md).
 >
 >A number $L \in \mathbb{R}$ is called the **right-sided limit** of $f$ as $x$ approaches $c \in D$ if for every $\varepsilon \gt 0$ there is a $\delta \gt 0$ such that for all $x \in D$ with $x \gt c$
 >
@@ -48,7 +48,7 @@ tags:
 
 >[!DEFINITION] Definition: Limit of a Function (Cauchy)
 >
->Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
+>Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../../Functions%20of%20the%20Real%20Numbers.md).
 >
 >A real number $L \in \mathbb{R}$ is called the **limit of** $f$ **as** $x$ **approaches** $c \in \mathbb{R}$ if for every $\varepsilon \gt 0$ there is a $\delta \gt 0$ such that for all $x \in D$ with $x \ne c$
 >
@@ -64,7 +64,7 @@ tags:
 >
 >>[!THEOREM] Theorem: Existence of the Limit
 >>
->>Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
+>>Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../../Functions%20of%20the%20Real%20Numbers.md).
 >>
 >>The [limit](Limit%20of%20a%20Real%20Function.md) of $f$ as $x$ approaches $c \in D$ exists if and only if both [one-sided limits](Limits%20of%20Real%20Functions.md) of $f$ at $c$ exist and are equal.
 >>
@@ -115,7 +115,7 @@ tags:
 
 >[!DEFINITION] Definition: Infinite Limits
 >
->Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
+>Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../../Functions%20of%20the%20Real%20Numbers.md).
 >
 >>[!DEFINITION] Definition: Approaching Positive Infinity
 >>
@@ -188,7 +188,7 @@ tags:
 
 >[!DEFINITION] Definition: Infinite One-Sided Limits
 >
->Let $f$ be a [real function](../Real%20Functions.md).
+>Let $f$ be a [real function](../../Functions%20of%20the%20Real%20Numbers.md).
 >
 >>[!DEFINITION] Definition: Positive Infinity as a Left-Sided Limit
 >>

@@ -13,7 +13,7 @@ tags:
 
 >[!DEFINITION] Definition: Curve Parametrization
 >
->A **parametrization** of a [curve](Curves.md#Curves) $\mathcal{C}$ in $\mathbb{R}^n$ is a [continuous](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Continuity%20of%20Real%20Vector%20Functions.md) [function](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Real%20Vector%20Function.md) $\gamma: I \subseteq \mathbb{R} \to \mathbb{R}^n$ on an [interval](../../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $I$ whose [image](../../../Analysis/Functions/Functions.md) is $\mathcal{C}$.
+>A **parametrization** of a [curve](Curves.md#Curves) $\mathcal{C}$ in $\mathbb{R}^n$ is a [continuous](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Continuity%20of%20Real%20Vector%20Functions.md) [function](../../../Analysis/Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) $\gamma: I \subseteq \mathbb{R} \to \mathbb{R}^n$ on an [interval](../../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $I$ whose [image](../../../Analysis/Functions/Functions.md) is $\mathcal{C}$.
 >
 >$$
 >\gamma(I) = \mathcal{C}
@@ -149,7 +149,7 @@ The above theorem tells us that all [tangent vectors](Parametrization.md#Tangent
 >
 >Let $\mathcal{C}$ be a [curve](Curves.md#Curves) in $\mathbb{R}^n$ and let $\gamma: I_{\gamma} \subseteq \mathbb{R} \to \mathbb{R}^n$ and $\varphi: I_{\varphi} \subseteq \mathbb{R} \to \mathbb{R}^n$ be [parametrizations](Parametric%20Curve.md) of $\mathcal{C}$.
 >
->A **reparametrization** between $\gamma$ and $\varphi$ is a [bijective](../../../Analysis/Functions/Types%20of%20Functions/Bijection.md) [function](../../../Analysis/Real%20Analysis/Real%20Functions/Real%20Functions.md) $h_{I_{\gamma} \to I_{\varphi}}: I_{\gamma} \to I_{\varphi}$ with [inverse](../../../Analysis/Functions/Types%20of%20Functions/Injection.md) $h_{I_{\varphi} \to I_{\gamma}}: I_{\varphi} \to I_{\gamma}$ such that
+>A **reparametrization** between $\gamma$ and $\varphi$ is a [bijective](../../../Analysis/Functions/Injections,%20Surjections%20and%20Bijections.md) [function](../../../Analysis/Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) $h_{I_{\gamma} \to I_{\varphi}}: I_{\gamma} \to I_{\varphi}$ with [inverse](../../../Analysis/Functions/Injections,%20Surjections%20and%20Bijections.md) $h_{I_{\varphi} \to I_{\gamma}}: I_{\varphi} \to I_{\gamma}$ such that
 >
 >$$
 >\begin{align*}
@@ -160,7 +160,7 @@ The above theorem tells us that all [tangent vectors](Parametrization.md#Tangent
 >
 >>[!NOTE]
 >>
->>This is the most general definition for reparametrization. However, it is quite common to require that both $h_{I_{\gamma} \to I_{\varphi}}$ and $h_{I_{\varphi} \to I_{\gamma}}$ have additional properties such as [continuity](../../../Analysis/Real%20Analysis/Real%20Functions/Continuity.md), [continuous differentiability](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) or [smoothness](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md). In this case, when we say that a reparametrization has some property, we mean that both $h_{I_{\gamma} \to I_{\varphi}}$ and $h_{I_{\varphi} \to I_{\gamma}}$ have this property.
+>>This is the most general definition for reparametrization. However, it is quite common to require that both $h_{I_{\gamma} \to I_{\varphi}}$ and $h_{I_{\varphi} \to I_{\gamma}}$ have additional properties such as [continuity](../../../Analysis/Real%20Analysis/Real%20Functions/Continuity.md), [continuous differentiability](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability.md) or [smoothness](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability.md). In this case, when we say that a reparametrization has some property, we mean that both $h_{I_{\gamma} \to I_{\varphi}}$ and $h_{I_{\varphi} \to I_{\gamma}}$ have this property.
 >>
 >
 
@@ -172,7 +172,7 @@ The above theorem tells us that all [tangent vectors](Parametrization.md#Tangent
 >
 >>[!NOTE] Note
 >>
->>This is the most general definition of equivalence for parametrizations. However, sometimes we require that such a [reparametrization](Parametrization.md#Equivalence%20of%20Parametrizations) also has additional properties such as [continuity](../../../Analysis/Real%20Analysis/Real%20Functions/Continuity.md), [continuous differentiability](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) or [smoothness](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md). In this case, we say that $\gamma$ and $\varphi$ are "equivalent up to a PROPERTY reparametrization" such as "equivalent up to a continuous reparametrization" or "equivalent up to a smooth reparametrization".
+>>This is the most general definition of equivalence for parametrizations. However, sometimes we require that such a [reparametrization](Parametrization.md#Equivalence%20of%20Parametrizations) also has additional properties such as [continuity](../../../Analysis/Real%20Analysis/Real%20Functions/Continuity.md), [continuous differentiability](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability.md) or [smoothness](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability.md). In this case, we say that $\gamma$ and $\varphi$ are "equivalent up to a PROPERTY reparametrization" such as "equivalent up to a continuous reparametrization" or "equivalent up to a smooth reparametrization".
 >>
 >
 
@@ -180,7 +180,7 @@ The above theorem tells us that all [tangent vectors](Parametrization.md#Tangent
 >
 >Let $\gamma: I_{\gamma} \subseteq \mathbb{R} \to \mathbb{R}^n$ and $\varphi: I_{\varphi} \subseteq \mathbb{R} \to \mathbb{R}^n$ be [parametrizations](Curves.md#Parametrizations) of the same [curve](Curves.md#Curves) $\mathcal{C}$.
 >
->If $\gamma$ and $\varphi$ are $C^1$-[regular](TODO) (i.e. [continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) with a non-vanishing [derivative](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md)) and [injective](../../../Analysis/Functions/Types%20of%20Functions/Injection.md), then they are [equivalent](Curves.md#Equivalence%20of%20Parametrizations) up to a [continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) [reparametrization](Curves.md#Equivalence%20of%20Parametrizations).
+>If $\gamma$ and $\varphi$ are $C^1$-[regular](TODO) (i.e. [continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) with a non-vanishing [derivative](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md)) and [injective](../../../Analysis/Functions/Injections,%20Surjections%20and%20Bijections.md), then they are [equivalent](Curves.md#Equivalence%20of%20Parametrizations) up to a [continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability.md) [reparametrization](Curves.md#Equivalence%20of%20Parametrizations).
 >
 >>[!PROOF]-
 >>
@@ -190,13 +190,13 @@ The above theorem tells us that all [tangent vectors](Parametrization.md#Tangent
 
 ### Orientation
 
-[Continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [parametrizations](Curves.md#Parametrizations) which are [equivalent](Curves.md#Equivalence%20of%20Parametrizations) up to a [continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) [reparametrization](Curves.md#Equivalence%20of%20Parametrizations) with a non-vanishing [derivative](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) exhibit a nice property which allows us to define orientations for them.
+[Continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) [parametrizations](Curves.md#Parametrizations) which are [equivalent](Curves.md#Equivalence%20of%20Parametrizations) up to a [continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability.md) [reparametrization](Curves.md#Equivalence%20of%20Parametrizations) with a non-vanishing [derivative](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability.md) exhibit a nice property which allows us to define orientations for them.
 
 >[!THEOREM] Theorem: Unit Tangent Vectors of Equivalent Parametrizations
 >
 >Let $\gamma: I_{\gamma} \subseteq \mathbb{R} \to \mathbb{R}^n$ and $\gamma: I_{\gamma} \subseteq \mathbb{R} \to \mathbb{R}^n$ be two [parametrizations](Curves.md#Parametrizations) of the same [curve](Curves.md#Curve) $\mathcal{C}$.
 >
->If $\gamma$ and $\varphi$ are [differentiable](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) with non-vanishing [derivatives](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) and are also [equivalent](Curves.md#Equivalence%20of%20Parametrizations) up to a [continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) [reparametrization](Curves.md#Equivalence%20of%20Parametrizations) $\{h_{I_{\gamma} \to I_{\varphi}}, h_{I_{\varphi} \to I_{\gamma}}\}$ with a non-vanishing [derivative](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md), then exactly one of the following is true for their [unit tangent vectors](Parametrization.md):
+>If $\gamma$ and $\varphi$ are [differentiable](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) with non-vanishing [derivatives](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Parametric%20Curves/Differentiation/Differentiability%20of%20Parametric%20Curves.md) and are also [equivalent](Curves.md#Equivalence%20of%20Parametrizations) up to a [continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability.md) [reparametrization](Curves.md#Equivalence%20of%20Parametrizations) $\{h_{I_{\gamma} \to I_{\varphi}}, h_{I_{\varphi} \to I_{\gamma}}\}$ with a non-vanishing [derivative](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability.md), then exactly one of the following is true for their [unit tangent vectors](Parametrization.md):
 >
 >- Case (I): $\mathbf{T}_{\varphi}(t) = \mathbf{T}_{\gamma}(h_{I_{\varphi} \to I_{\gamma}}(t))$ for all $t \in I_{\varphi}$
 >- Case (II): $\mathbf{T}_{\varphi}(t) = -\mathbf{T}_{\gamma}(h_{I_{\varphi} \to I_{\gamma}}(t))$ for all $t \in I_{\varphi}$
@@ -221,7 +221,7 @@ The above theorem tells us that all [tangent vectors](Parametrization.md#Tangent
 >>\mathbf{T}_{\varphi}(t) = \frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|} \frac{\gamma'(h_{I_{\varphi} \to I_{\gamma}}(t))}{||\gamma'(h_{I_{\varphi} \to I_{\gamma}}(t))||} = \frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|} \mathbf{T}_{\gamma}(h_{I_{\varphi} \to I_{\gamma}}(t)).
 >>$$
 >>
->>Since $h_{I_{\varphi} \to I_{\gamma}}'(t)$ is [continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) with a non-vanishing [derivative](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md), it must be the case that either $h_{I_{\varphi} \to I_{\gamma}}'(t) \gt 0$ or $h_{I_{\varphi} \to I_{\gamma}}'(t) \lt 0$ for all $t \in I_{\varphi}$. Moreover, we notice that $\frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|}$ is $1$ if and only if $h_{I_{\varphi} \to I_{\gamma}}'(t) \gt 0$ and $\frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|}$ is $-1$ if and only if $h_{I_{\varphi} \to I_{\gamma}}'(t) \lt 0$ and so either $\frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|} = 1$ for all $t \in I_{\varphi}$ or $\frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|} = -1$ or $t \in I_{\varphi}$.
+>>Since $h_{I_{\varphi} \to I_{\gamma}}'(t)$ is [continuously differentiable](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability.md) with a non-vanishing [derivative](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability.md), it must be the case that either $h_{I_{\varphi} \to I_{\gamma}}'(t) \gt 0$ or $h_{I_{\varphi} \to I_{\gamma}}'(t) \lt 0$ for all $t \in I_{\varphi}$. Moreover, we notice that $\frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|}$ is $1$ if and only if $h_{I_{\varphi} \to I_{\gamma}}'(t) \gt 0$ and $\frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|}$ is $-1$ if and only if $h_{I_{\varphi} \to I_{\gamma}}'(t) \lt 0$ and so either $\frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|} = 1$ for all $t \in I_{\varphi}$ or $\frac{h_{I_{\varphi} \to I_{\gamma}}'(t)}{|h_{I_{\varphi} \to I_{\gamma}}'(t)|} = -1$ or $t \in I_{\varphi}$.
 >>
 >
 >>[!DEFINITION] Definition: Orientation of Parametrizations

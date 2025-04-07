@@ -44,7 +44,7 @@ tags:
 >>
 >>>[!NOTE]
 >>>
->>>The [restriction](../../Functions/Restriction.md) of the [complex exponential function](The%20Complex%20Exponential%20Function.md) to $\mathbb{R}$ is the [real exponential function](../../Real%20Analysis/Real%20Functions/The%20Real%20Exponential%20Function.md).
+>>>The [restriction](../../Functions/Functions.md) of the [complex exponential function](The%20Complex%20Exponential%20Function.md) to $\mathbb{R}$ is the [real exponential function](../../Real%20Analysis/Real%20Functions/The%20Real%20Exponential%20Function.md).
 >>>
 >>
 >

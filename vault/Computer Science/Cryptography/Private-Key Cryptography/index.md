@@ -26,7 +26,7 @@ A private-key encryption scheme has an algorithm for encryption and decryption. 
 >>
 >>The term *polynomial-time computable* means that the encryption and decryption functions should be fast to compute for long keys and messages, which is not an unreasonable requirement. After all, encryption and decryption would be useless if we could never hide or see the message's contents, even if they were intended for us.
 >>
->>The final requirement, i.e. that $\textit{Dec}_k(\textit{Enc}_k(m)) = m$, is essential and is called the *correctness property*. It tells us that under any Shannon cipher, the encryption function is [injective](../../../Mathematics/Analysis/Functions/Types%20of%20Functions/Injection.md) which means that every no two plaintexts can be encrypted to the same ciphertext if the same key $k$ is used. It might seem obvious that this should be true, but it is *not* the case for [hash functions](../Hash%20Functions/index.md), for example, and so hash functions are *not* valid private-key encryption schemes.
+>>The final requirement, i.e. that $\textit{Dec}_k(\textit{Enc}_k(m)) = m$, is essential and is called the *correctness property*. It tells us that under any Shannon cipher, the encryption function is [injective](../../../Mathematics/Analysis/Functions/Injections,%20Surjections%20and%20Bijections.md) which means that every no two plaintexts can be encrypted to the same ciphertext if the same key $k$ is used. It might seem obvious that this should be true, but it is *not* the case for [hash functions](../Hash%20Functions/index.md), for example, and so hash functions are *not* valid private-key encryption schemes.
 >>
 >
 

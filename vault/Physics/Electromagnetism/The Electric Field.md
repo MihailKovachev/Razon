@@ -26,7 +26,7 @@ It turns out that we can paraphrase [Coulomb's law](Coulomb's%20Law.md) in a way
 >
 >>[!NOTATION]-
 >>
->>We usually seek to express $\mathbf{E}$ as a [function](../../../Mathematics/Analysis/Real%20Analysis/Real%20Vector%20Functions/Real%20Vector%20Function.md) of $\mathbf{r}$ and thus write $E(\mathbf{r})$. If $\mathbf{r}$ is apparent from context, we can drop it.
+>>We usually seek to express $\mathbf{E}$ as a [function](../../Mathematics/Analysis/Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) of $\mathbf{r}$ and thus write $E(\mathbf{r})$. If $\mathbf{r}$ is apparent from context, we can drop it.
 >>
 >
 >>[!TIP]

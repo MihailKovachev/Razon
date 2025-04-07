@@ -11,13 +11,13 @@ tags:
 
 >[!DEFINITION] Definition: Coordinate System
 >
->Let $U$ be an [open subset](../../../Topology/Topological%20Spaces/Open%20Sets.md) of an $n$-[manifold](../Manifolds.md) $M$.
+>Let $U$ be an [open subset](../../../Topology/Topological%20Spaces.md) of an $n$-[manifold](../Manifolds.md) $M$.
 >
->A **coordinate system** or **coordinate map** on $U$ is a [homeomorphism](../../../Topology/Continuity/Homeomorphisms/index.md) $\phi: U \to \mathbb{R}^n$ from the [subspace](../../../Topology/Topological%20Subspaces.md) $U$ to an [open subset](../../../Topology/Topological%20Spaces/Open%20Sets.md) of the [Euclidean space](../../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$.
+>A **coordinate system** or **coordinate map** on $U$ is a [homeomorphism](../../../Topology/Continuity/Homeomorphisms/index.md) $\phi: U \to \mathbb{R}^n$ from the [subspace](../../../Topology/Topological%20Subspaces.md) $U$ to an [open subset](../../../Topology/Topological%20Spaces.md) of the [Euclidean space](../../../Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$.
 >
 >>[!DEFINITION] Definition: Coordinates on a Subset
 >>
->>The [component functions](../../../Analysis/Real%20Analysis/Real%20Vector-Valued%20Function.md) $\phi^1, \dotsc, \phi^n: U \to \mathbb{R}$ of $\phi$ are known as **local coordinates** or simply **coordinates** on $U$.
+>>The [component functions](../../../Analysis/Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) $\phi^1, \dotsc, \phi^n: U \to \mathbb{R}$ of $\phi$ are known as **local coordinates** or simply **coordinates** on $U$.
 >>
 >>>[!NOTATION]-
 >>>
@@ -86,7 +86,7 @@ tags:
 >
 >Let $M$ be an $n$-[manifold](../Manifolds.md).
 >
->A **chart** $(U, \phi)$ for $M$ is an [open subset](../../../Topology/Topological%20Spaces/Open%20Sets.md) $U \subseteq M$ equipped with a [coordinate system](index.md) $\phi: U \to \mathbb{R}^n$ on it.
+>A **chart** $(U, \phi)$ for $M$ is an [open subset](../../../Topology/Topological%20Spaces.md) $U \subseteq M$ equipped with a [coordinate system](index.md) $\phi: U \to \mathbb{R}^n$ on it.
 >
 >>[!DEFINITION] Definition: Coordinate Domain
 >>

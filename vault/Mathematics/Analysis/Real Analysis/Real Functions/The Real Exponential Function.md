@@ -51,7 +51,7 @@ tags:
 
 >[!THEOREM] Theorem: Monotony of the Real Exponential Function
 >
->The [real exponential function](The%20Real%20Exponential%20Function.md) is [strictly increasing](../Real%20Sequences/Monotony.md).
+>The [real exponential function](The%20Real%20Exponential%20Function.md) is [strictly increasing](../Real%20Sequences/Monotony%20of%20Real%20Sequences.md).
 >
 >$$
 >\mathrm{e}^x \lt \mathrm{e}^y \iff x \lt y
@@ -79,7 +79,7 @@ tags:
 
 >[!THEOREM] Theorem: Derivative of the Real Exponential Function
 >
->The [derivative](Differentiation/Derivatives.md) of the [real exponential function](The%20Real%20Exponential%20Function.md) is itself:
+>The [derivative](Differentiability.md) of the [real exponential function](The%20Real%20Exponential%20Function.md) is itself:
 >
 >$$
 >(\mathrm{e}^x)' = \mathrm{e}^x

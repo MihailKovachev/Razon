@@ -12,7 +12,7 @@ tags:
 
 >[!DEFINITION] Definition: Increasing Function
 >
->A [real function](Real%20Functions.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is **increasing** if, for all $x_1, x_2 \in D$,
+>A [real function](../Functions%20of%20the%20Real%20Numbers.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is **increasing** if, for all $x_1, x_2 \in D$,
 >
 >$$
 >x_1 \lt x_2 \implies f(x_1) \le f(x_2).
@@ -20,7 +20,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Strictly Increasing Function
 >>
->>A [real function](Real%20Functions.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is **strictly increasing** if, for all $x_1, x_2 \in D$,
+>>A [real function](../Functions%20of%20the%20Real%20Numbers.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is **strictly increasing** if, for all $x_1, x_2 \in D$,
 >>
 >>$$
 >>x_1 \lt x_2 \implies f(x_1) \lt f(x_2).
@@ -30,7 +30,7 @@ tags:
 
 >[!DEFINITION] Definition: Decreasing Function
 >
->A [real function](Real%20Functions.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is **decreasing** if, for all $x_1, x_2 \in D$,
+>A [real function](../Functions%20of%20the%20Real%20Numbers.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is **decreasing** if, for all $x_1, x_2 \in D$,
 >
 >$$
 >x_1 \lt x_2 \implies f(x_1) \ge f(x_2).
@@ -38,7 +38,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Strictly Decreasing Function
 >>
->>A [real function](Real%20Functions.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is **strictly decreasing** if, for all $x_1, x_2 \in D$,
+>>A [real function](../Functions%20of%20the%20Real%20Numbers.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is **strictly decreasing** if, for all $x_1, x_2 \in D$,
 >>
 >>$$
 >>x_1 \lt x_2 \implies f(x_1) \gt f(x_2).
@@ -48,14 +48,14 @@ tags:
 
 >[!DEFINITION] Definition: Monotonic Function
 >
->A [real function](Real%20Functions.md) is **monotonic** if it is (strictly) increasing or (strictly) decreasing.
+>A [real function](../Functions%20of%20the%20Real%20Numbers.md) is **monotonic** if it is (strictly) increasing or (strictly) decreasing.
 >
 
-## Criteria for Monotony
+## Criteria
 
 >[!THEOREM] Theorem: Monotony of Real Functions
 >
->Let $f: D \to \mathbb{R}$ be a [real function](Real%20Functions.md) which is [continuous](Continuity.md) on a [closed interval](../../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$ [differentiable](Differentiation/Derivatives.md) on the [open interval](../../../../../Set%20Theory/Ordering/Intervals.md) $(a;b)$:
+>Let $f: D \to \mathbb{R}$ be a [real function](../Functions%20of%20the%20Real%20Numbers.md) which is [continuous](Continuity.md) on a [closed interval](../../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$ [differentiable](Differentiability.md) on the [open interval](../../../../../Set%20Theory/Ordering/Intervals.md) $(a;b)$:
 >- $f$ is [increasing](Monotony.md) if and only if $f'(x) \ge 0$ for all $x \in (a;b)$;
 >- $f$ is [strictly increasing](Monotony.md) if and only if $f'(x) \gt 0$ for all $x \in (a;b)$;
 >- $f$ is [decreasing](Monotony.md) if and only if $f'(x) \le 0$ for all $x \in (a;b)$;
@@ -67,13 +67,13 @@ tags:
 >>
 >
 
-# Properties
+## Properties
 
->[!THEOREM] Theorem: Bijectivity of Real Monotonous Functions
+>[!THEOREM]- Theorem: Bijectivity of Real Monotonous Functions
 >
->Let $f: I \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](Real%20Functions.md).
+>Let $f: I \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Functions%20of%20the%20Real%20Numbers.md).
 >
->If $f$ is [continuous](Continuity.md) and [strictly monotonous](Monotony.md), then $f$ is a [bijective](../../Functions/Types%20of%20Functions/Bijection.md) between $I$ and its [image](../../Functions/Functions.md) $f(I)$.
+>If $f$ is [continuous](Continuity.md) and [strictly monotonous](Monotony.md), then $f$ is a [bijective](../../Functions/Injections,%20Surjections%20and%20Bijections.md) between $I$ and its [image](../../Functions/Functions.md) $f(I)$.
 >
 >>[!PROOF]-
 >>
@@ -81,11 +81,11 @@ tags:
 >>
 >
 
->[!THEOREM] Theorem: Inverses of Strictly Monotonous Real Functions
+>[!THEOREM]- Theorem: Inverses of Strictly Monotonous Real Functions
 >
->Let $f: I \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](Real%20Functions.md).
+>Let $f: I \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Functions%20of%20the%20Real%20Numbers.md).
 >
->If $f$ is [continuous](../../../Topology/Continuity/index.md) and [strictly increasing](Monotony.md) (strictly decreasing), then its [inverse](../../Functions/Types%20of%20Functions/Injection.md) $f^{-1}: f(I) \to I$ is continuous and strictly increasing (strictly decreasing).
+>If $f$ is [continuous](../../../Topology/Continuity/index.md) and [strictly increasing](Monotony.md) (strictly decreasing), then its [inverse](../../Functions/Injections,%20Surjections%20and%20Bijections.md) $f^{-1}: f(I) \to I$ is continuous and strictly increasing (strictly decreasing).
 >
 >>[!PROOF]-
 >>
@@ -95,9 +95,9 @@ tags:
 >>
 >
 
->[!THEOREM] Theorem: Integrability of Monotone Functions
+>[!THEOREM]- Theorem: Integrability of Monotone Functions
 >
->Every [monotone](Monotony.md) [real function](Real%20Functions.md) on a closed interval is also [Riemann-integrable](Integration/Definite%20Integrals.md) on it.
+>Every [monotone](Monotony.md) [real function](../Functions%20of%20the%20Real%20Numbers.md) on a closed interval is also [Riemann-integrable](Integration/Definite%20Integrals.md) on it.
 >
 >>[!PROOF]-
 >>

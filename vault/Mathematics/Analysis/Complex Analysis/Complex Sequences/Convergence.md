@@ -78,7 +78,7 @@ tags:
 
 >[!THEOREM] Theorem: Component-Wise Convergence
 >
->A [complex sequence](Complex%20Sequences.md) $\{a_n\}$ [converges](Convergence.md) to $L \in \mathbb{C}$ if and only if the [sequences](../../Real%20Analysis/Real%20Sequences/Real%20Sequence.md) of its real and imaginary part [converge](../../Real%20Analysis/Real%20Sequences/Convergence.md) to the real and imaginary part of $L$, respectively.
+>A [complex sequence](Complex%20Sequences.md) $\{a_n\}$ [converges](Convergence.md) to $L \in \mathbb{C}$ if and only if the [sequences](../../Real%20Analysis/Real%20Sequences/Real%20Sequence.md) of its real and imaginary part [converge](../../Real%20Analysis/Real%20Sequences/Convergence%20of%20Real%20Sequences.md) to the real and imaginary part of $L$, respectively.
 >
 >$$
 >\lim_{n \to \infty} a_n = L \iff \lim_{n \to \infty} \operatorname{Re}(a_n) = \operatorname{Re}(L) \qquad \text{and} \qquad \lim_{n \to \infty} \operatorname{Im}(a_n) = \operatorname{Im}(L)

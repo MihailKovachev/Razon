@@ -12,7 +12,7 @@ A *pseudorandom permutation (PRP)* is a specific type of [pseudorandom function 
 >
 >>[!INTUITION]-
 >>
->>A pseudorandom permutation is a subtype of a pseudorandom function where the output length matches the input length $l$. Furthermore, a PRP is a [bijection](../../../Mathematics/Analysis/Functions/Types%20of%20Functions/Bijection.md) which maps each binary string of length $l$ to a single binary string, also of length $l$. Finally, the PRP must be reversible in the sense that there is an efficient algorithm which can recover the input that was passed to the PRP in order to obtain a specific output.
+>>A pseudorandom permutation is a subtype of a pseudorandom function where the output length matches the input length $l$. Furthermore, a PRP is a [bijection](../../../Mathematics/Analysis/Functions/Injections,%20Surjections%20and%20Bijections.md) which maps each binary string of length $l$ to a single binary string, also of length $l$. Finally, the PRP must be reversible in the sense that there is an efficient algorithm which can recover the input that was passed to the PRP in order to obtain a specific output.
 >>
 >
 

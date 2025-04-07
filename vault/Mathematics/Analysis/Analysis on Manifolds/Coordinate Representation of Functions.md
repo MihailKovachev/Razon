@@ -9,9 +9,9 @@ tags:
 
 >[!DEFINITION] Definition: Coordinate Representation of a Function
 >
->Let $f: M \to \mathbb{R}^n$ be a [real vector-valued function](../Real%20Analysis/Real%20Vector-Valued%20Function.md) on a $k$-[manifold](../../Geometry/Manifolds/Manifolds.md) $M$ and let $(U, \phi)$ be a [chart](../../Geometry/Manifolds/Coordinate%20Systems/index.md) for $M$.
+>Let $f: M \to \mathbb{R}^n$ be a [real vector-valued function](../Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) on a $k$-[manifold](../../Geometry/Manifolds/Manifolds.md) $M$ and let $(U, \phi)$ be a [chart](../../Geometry/Manifolds/Coordinate%20Systems/index.md) for $M$.
 >
->The **coordinate representation** of $f$ on $(U, \phi)$ is the [real vector function](../Real%20Analysis/Real%20Vector%20Functions/Real%20Vector%20Function.md) ${}_{(U, \phi)}f: \phi(U) \subseteq \mathbb{R}^k \to \mathbb{R}^n$ obtained by the [compositions](../Real%20Analysis/Real%20Vector%20Functions/Real%20Vector%20Function.md) of $f$ and the [inverse](../Functions/Types%20of%20Functions/Injection.md) of $\phi$.
+>The **coordinate representation** of $f$ on $(U, \phi)$ is the [real vector function](../Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) ${}_{(U, \phi)}f: \phi(U) \subseteq \mathbb{R}^k \to \mathbb{R}^n$ obtained by the [compositions](../Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) of $f$ and the [inverse](../Functions/Injections,%20Surjections%20and%20Bijections.md) of $\phi$.
 >
 >$$
 >{}_{(U, \phi)}f \overset{\text{def}}{=} f \circ \phi^{-1}

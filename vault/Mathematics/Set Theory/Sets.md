@@ -1,5 +1,5 @@
 ---
-title: The Empty Set
+title: Sets
 tags:
   - set-theory
   - mathematics
@@ -22,6 +22,11 @@ tags:
 >>
 >>- A set can contain pretty much anything - numbers, letters, cars, sentences, people, colours and even other sets.
 >>- A set  can contain either finitely many or infinitely many elements.
+>
+
+>[!DEFINITION] Definition: Singleton
+>
+>A **singleton** is a [set](Sets.md) with exactly one element.
 >
 
 ## Specifying Sets
@@ -55,46 +60,7 @@ $$
 >Two [sets](Sets.md) are **equal** iff they contain the same elements.
 >
 
-# Subsets
-
->[!DEFINITION] Definition: Subset
->
->A [set](Sets.md) $A$ is a **subset** of the [set](Sets.md) $B$ if all elements of $A$ are also elements of $B$.
->
->$$
->a \in A \implies a \in B
->$$
->
->>[!NOTATION]-
->>
->>If $A$ is a subset of $B$, we write $A \subseteq B$.
->>
->>If $A$ is *not* a subset of $B$, we write $A \not\subseteq B$.
->>
->
->>[!DEFINITION] Definition: True Subset
->>
->>A [set](Sets.md) $A$ is a **true subset** of the [set](Sets.md) $B$ if $A \subseteq B$ and $A \ne B$.
->>
->>$$
->>(a\in A \implies a\in B) \land (\exists b \in B : b \notin A)
->>$$
->>
->>In other words, there are elements in $B$ which are *not* elements of $A$.
->>
->>>[!NOTATION]-
->>>
->>>If $A$ is a true subset of $B$, we write $A \subset B$.
->>>
->>>If $A$ is a subset, but not a *true* subset, of $B$, we write $A \subsetneq B$.
->>>
->>
->>>[!NOTE]
->>>
->>>True subset are also known as **strict subsets**.
->>>
->>
->
+# The Empty Set
 
 >[!AXIOM] Axiom: Existence of an Empty Set
 >
@@ -140,6 +106,4 @@ $$
 >>
 >>Suppose that the empty set $\varnothing$ is *not* a subset of $A$. Then there must exist an element $e \in \varnothing$ which is not an element of $A$, i.e. $e \notin A$. This is a contradiction, since the empty set contains no elements.
 >>
->
->^empty-set-is-subsets-of-every-set
 >

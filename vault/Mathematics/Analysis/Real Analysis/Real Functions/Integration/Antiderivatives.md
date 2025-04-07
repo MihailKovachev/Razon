@@ -12,7 +12,7 @@ tags:
 
 >[!DEFINITION] Definition: Antiderivative
 >
->An **antiderivative** of the [real function](../Real%20Functions.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is any [differentiable](../Differentiation/Derivatives.md) [function](../Real%20Functions.md) $F: D \subseteq \mathbb{R} \to \mathbb{R}$ whose [derivative](../Differentiation/Derivatives.md) is $f$.
+>An **antiderivative** of the [real function](../../Functions%20of%20the%20Real%20Numbers.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ is any [differentiable](../Differentiability.md) [function](../../Functions%20of%20the%20Real%20Numbers.md) $F: D \subseteq \mathbb{R} \to \mathbb{R}$ whose [derivative](../Differentiability.md) is $f$.
 >
 >$$
 >F'(x) = f(x)
@@ -22,7 +22,7 @@ tags:
 >>
 >>Let $F$ be an [antiderivative](Antiderivatives.md) of $f$.
 >>
->>Any other [differentiable](../Differentiation/Derivatives.md) [function](../Real%20Functions.md) $\mathcal{F}: D \subseteq \mathbb{R} \to \mathbb{R}$ is also an [antiderivative](Antiderivatives.md) of $f$ if and only if there is some constant $C \in \mathbb{R}$ such that
+>>Any other [differentiable](../Differentiability.md) [function](../../Functions%20of%20the%20Real%20Numbers.md) $\mathcal{F}: D \subseteq \mathbb{R} \to \mathbb{R}$ is also an [antiderivative](Antiderivatives.md) of $f$ if and only if there is some constant $C \in \mathbb{R}$ such that
 >>
 >>$$\mathcal{F}(x) = F(x) + C \qquad \forall x \in D$$
 >>
@@ -37,7 +37,7 @@ tags:
 
 >[!DEFINITION] Definition: Indefinite Integral
 >
->The **indefinite integral** of a [real function](../Real%20Functions.md) $f$ is the [set](../../../../../Set%20Theory/Sets.md) of all [antiderivatives](Antiderivatives.md) of $f$.
+>The **indefinite integral** of a [real function](../../Functions%20of%20the%20Real%20Numbers.md) $f$ is the [set](../../../../../Set%20Theory/Sets.md) of all [antiderivatives](Antiderivatives.md) of $f$.
 >
 >$$
 >\int f(x) \mathop{\mathrm{d}x} \overset{\text{def}}{=} \{F \mid F' = f\}
@@ -67,13 +67,13 @@ tags:
 >>
 >>Let $F(x)$ be an [antiderivative](Antiderivatives.md) $f(x)$ and $G(x)$ be an [antiderivative](Antiderivatives.md) of $g(x)$.
 >> 
->>Let's examine the [derivative](../Differentiation/Derivatives.md) of the right-hand side.
+>>Let's examine the [derivative](../Differentiability.md) of the right-hand side.
 >> 
 >>$$
 >>\frac{\mathrm{d}}{\mathrm{d}x}\left(\lambda \int f(x) \mathop{\mathrm{d}x} + \mu \int g(x) \mathop{\mathrm{d}x}\right)
 >>$$
 >> 
->>Since [differentiation](../Differentiation/Differentiation%20Rules.md) is linear, we have
+>>Since [differentiation](../Differentiability.md) is linear, we have
 >> 
 >>$$
 >>\begin{align*}\frac{\mathrm{d}}{\mathrm{d}x}\left(\lambda \int f(x) \mathop{\mathrm{d}x} + \mu \int g(x) \mathop{\mathrm{d}x}\right) &= \lambda\frac{\mathrm{d}}{\mathrm{d}x}\int f(x) \mathop{\mathrm{d}x} + \mu \frac{\mathrm{d}}{\mathrm{d}x}\int g(x) \mathop{\mathrm{d}x} \\ &= \lambda\frac{\mathrm{d}}{\mathrm{d}x} F(x) + \mu\frac{\mathrm{d}}{\mathrm{d}x}G(x) \\ &= \lambda f(x) + \mu g(x)\end{align*}
@@ -85,7 +85,7 @@ tags:
 
 >[!THEOREM] Theorem: Integration by Parts
 >
->If $u$ and $v$ are [continuously differentiable](../Differentiation/Derivatives.md), then
+>If $u$ and $v$ are [continuously differentiable](../Differentiability.md), then
 >
 >$$\int u(x) v'(x) \mathop{\mathrm{d}x} = u(x)v(x) + \int u'(x)v(x) \mathop{\mathrm{d}x}$$
 >

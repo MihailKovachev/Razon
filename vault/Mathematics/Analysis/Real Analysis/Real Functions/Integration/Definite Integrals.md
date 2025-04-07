@@ -12,7 +12,7 @@ tags:
 
 >[!DEFINITION] Definition: Riemann Sum
 >
->Let $f: \mathcal{D} \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](Real%20Functions/Real%20Functions.md), let $I = [a;b] \subseteq \mathcal{D}$ be a closed interval and let $x_0 \lt x_1 \lt \cdots \lt x_n \in I$.
+>Let $f: \mathcal{D} \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../../Functions%20of%20the%20Real%20Numbers.md), let $I = [a;b] \subseteq \mathcal{D}$ be a closed interval and let $x_0 \lt x_1 \lt \cdots \lt x_n \in I$.
 >
 >A **Riemann sum** of $f$ over $I$ is any sum of the form
 >
@@ -46,7 +46,7 @@ tags:
 
 >[!DEFINITION] Definition: Riemann-Integrability
 >
->A [real function](Real%20Functions/Real%20Functions.md) $f: \mathcal{D} \subseteq \mathbb{R} \to \mathbb{R}$ is **Riemann-integrable** on the interval $I = [a;b] \subseteq \mathcal{D}$ iff all of its [Riemann sums](Definite%20Integrals.md) on $I$ have the same [limit](../Limits/Limits%20of%20Real%20Functions.md) as $\Delta x_i$ approaches $0$.
+>A [real function](../../Functions%20of%20the%20Real%20Numbers.md) $f: \mathcal{D} \subseteq \mathbb{R} \to \mathbb{R}$ is **Riemann-integrable** on the interval $I = [a;b] \subseteq \mathcal{D}$ iff all of its [Riemann sums](Definite%20Integrals.md) on $I$ have the same [limit](../Limits/Limits%20of%20Real%20Functions.md) as $\Delta x_i$ approaches $0$.
 >
 >$$
 >\lim_{\Delta x_i\to 0}\sum_{i=1}^n f(x_i^\ast)\Delta x_i = S \in \mathbb{R}
@@ -119,7 +119,7 @@ tags:
 
 >[!THEOREM]- Theorem: Linearity of the Definite Integral
 >
->The [definite integral](Definite%20Integrals.md) is linear - if $f$ and $g$ are [real functions](Real%20Functions/Real%20Functions.md) which are [Riemann-integrable](Definite%20Integrals.md) on $I$, then for all $\alpha,\beta \in \mathbb{R}$
+>The [definite integral](Definite%20Integrals.md) is linear - if $f$ and $g$ are [real functions](../../Functions%20of%20the%20Real%20Numbers.md) which are [Riemann-integrable](Definite%20Integrals.md) on $I$, then for all $\alpha,\beta \in \mathbb{R}$
 >
 >$$
 >\int_I \alpha \, f(x) + \beta\, g(x) \mathop{\mathrm{d}x} = \alpha \int_I f(x) \mathop{\mathrm{d}x} + \beta \int_I g(x) \mathop{\mathrm{d}x}
@@ -133,7 +133,7 @@ tags:
 
 >[!THEOREM]- Theorem: Integration by Parts
 >
->Let $f$ and $g$ are [real functions](Real%20Functions/Real%20Functions.md) which are defined on the closed interval $[a;b]$ and are [continuously differentiable](../../Real%20Vector%20Functions/Vector%20Fields/Integration/Definite%20Integrals.md) on the open interval $(a;b)$, then they are [Riemann-integrable](Definite%20Integrals.md) on $[a;b]$ with
+>Let $f$ and $g$ are [real functions](../../Functions%20of%20the%20Real%20Numbers.md) which are defined on the closed interval $[a;b]$ and are [continuously differentiable](../../Real%20Vector%20Functions/Vector%20Fields/Integration/Definite%20Integrals.md) on the open interval $(a;b)$, then they are [Riemann-integrable](Definite%20Integrals.md) on $[a;b]$ with
 >
 >$$
 >\int_a^b f(x) g'(x) \mathop{\mathrm{d}x} = f(b)g(b) - f(a)g(a) - \int_a^b f'(x)g(x) \mathop{\mathrm{d}x}
@@ -147,9 +147,9 @@ tags:
 
 >[!THEOREM]- Theorem: Substitution
 >
->Let $g: [a;b] \to \mathbb{R}$ and $f: [c;d] \to \mathbb{R}$ be [real functions](Real%20Functions/Real%20Functions.md) such that the [image](../../../Functions/Functions.md) of $g$ is a [subset](../../../../../Set%20Theory/Sets.md) of $[c;d]$, i.e. $g([a;b]) \subseteq [c;d]$.
+>Let $g: [a;b] \to \mathbb{R}$ and $f: [c;d] \to \mathbb{R}$ be [real functions](../../Functions%20of%20the%20Real%20Numbers.md) such that the [image](../../../Functions/Functions.md) of $g$ is a [subset](../../../../../Set%20Theory/Sets.md) of $[c;d]$, i.e. $g([a;b]) \subseteq [c;d]$.
 >
->If $f$ is [continuous](Real%20Functions/Continuity.md) and $g$ is [continuously differentiable](Real%20Functions/Differentiation/Derivatives.md), then the following [definite Integral](Definite%20Integrals.md) can be solved via substitution.
+>If $f$ is [continuous](Real%20Functions/Continuity.md) and $g$ is [continuously differentiable](../Differentiability.md), then the following [definite Integral](Definite%20Integrals.md) can be solved via substitution.
 >
 >$$
 >\int_a^b f(g(x))g'(x) \mathop{\mathrm{d}x} = \int_{g(a)}^{g(b)} f(u) \mathop{\mathrm{d}u}
@@ -163,7 +163,7 @@ tags:
 
 >[!THEOREM]- Mean Value Theorem for Definite Integrals
 >
->Let $f,g: D \to \mathbb{R}$ be [real functions](Real%20Functions/Real%20Functions.md) on a [closed interval](../../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$.
+>Let $f,g: D \to \mathbb{R}$ be [real functions](../../Functions%20of%20the%20Real%20Numbers.md) on a [closed interval](../../../../../Set%20Theory/Ordering/Intervals.md) $D = [a;b] \subset \mathbb{R}$.
 >
 >If $f$ and $g$ are [continuous](Real%20Functions/Continuity.md) and $g(x) \gt 0$ for all $x\in D$, then there exists some $\xi \in (a;b)$ such that
 >
@@ -187,7 +187,7 @@ tags:
 
 >[!THEOREM]- Theorem: Integrability of the Absolute Value
 >
->Let $f$ be a [real function](Real%20Functions/Real%20Functions.md).
+>Let $f$ be a [real function](../../Functions%20of%20the%20Real%20Numbers.md).
 >
 >If $f$ is [Riemann-integrable](Definite%20Integrals.md) on $l$, then so is its absolute value $|f|$ and
 >
@@ -205,7 +205,7 @@ tags:
 
 >[!NOTATION] Notation: Improper Integrals
 >
->An **improper integral** is a [definite integral](Definite%20Integrals.md) for a [real function](../../Real-Valued%20Function.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ on an open or a semi-open interval $D$:
+>An **improper integral** is a [definite integral](Definite%20Integrals.md) for a [real function](../../Functions%20of%20the%20Real%20Numbers.md) $f: D \subseteq \mathbb{R} \to \mathbb{R}$ on an open or a semi-open interval $D$:
 >- If $D = [a;b)$ where $a, b \in \mathbb{R}$, the improper integral is defined through the [left-sided limit](../Limits/Limits%20of%20Real%20Functions.md)
 >
 >$$\int_a^b f(x) \mathop{\mathrm{d}x} \overset{\text{def}}{=} \lim_{\beta \to b^-} \int_a^\beta f(x) \mathop{\mathrm{d}x}$$

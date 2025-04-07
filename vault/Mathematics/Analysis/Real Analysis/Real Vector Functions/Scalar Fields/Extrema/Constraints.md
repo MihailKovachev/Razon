@@ -43,7 +43,7 @@ In practice, it is rare that we simply need to find the [local](Local%20Extrema.
 >
 >>[!INTUITION]-
 >>
->>Constraints restrict the part of the domain of $f$ in which we are interested. Although $f$ itself might not admit extrema on its entire domain, when restricted to only those values for which the constraint is fulfilled, this might change might. In other words, $f$ might not have extrema, but its [restriction](../../../../Functions/Restriction.md) $f\big|_{S}$ on $S = \{\mathbf{x} \mid g(\mathbf{x}) = c\}$ might.
+>>Constraints restrict the part of the domain of $f$ in which we are interested. Although $f$ itself might not admit extrema on its entire domain, when restricted to only those values for which the constraint is fulfilled, this might change might. In other words, $f$ might not have extrema, but its [restriction](../../../../Functions/Functions.md) $f\big|_{S}$ on $S = \{\mathbf{x} \mid g(\mathbf{x}) = c\}$ might.
 >>
 >
 >>^equality-constraint

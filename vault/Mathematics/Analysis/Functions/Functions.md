@@ -1,14 +1,14 @@
 ---
-title: Functions
+title: Restriction
 tags:
-    - functions
-    - analysis
-    - mathematics
+  - functions
+  - analysis
+  - mathematics
 ---
 
 >[!DEFINITION] Definition: Function
 >
->A **function** $f: D \to C$ from a [set](../../Set%20Theory/Sets.md) $D$ to a [set](../../Set%20Theory/Sets.md) $C$ is a [right-unique](../../Set%20Theory/Relations/Right-Unique%20Relation.md) [relation](../../Set%20Theory/Relations/index.md) $f \subseteq D\times C$.
+>A **function** $f: \mathcal{D} \to C$ from a [set](../../Set%20Theory/Sets.md) $\mathcal{D}$ to a [set](../../Set%20Theory/Sets.md) $C$ is a [right-unique](../../Set%20Theory/Relations.md) [relation](../../Set%20Theory/Relations.md) $f \subseteq \mathcal{D} \times C$.
 >
 >![](res/Function.drawio.svg)
 >
@@ -35,7 +35,7 @@ tags:
 >>>[!NOTATION]-
 >>>
 >>>$$
->>>f(D) \qquad f[D]
+>>>f(\mathcal{D}) \qquad f[\mathcal{D}]
 >>>$$
 >>>
 >>
@@ -47,7 +47,7 @@ tags:
 >
 >>[!INTUITION]-
 >>
->>A function $f$ is just a rule which to each $x \in D$ assigns a single $f(x) \in C$.
+>>A function $f$ is just a rule which to each $x \in \mathcal{D}$ assigns a single $f(x) \in C$.
 >>
 >
 
@@ -55,7 +55,7 @@ tags:
 >
 >Let $f: X \to Y$ be a [function](Functions.md).
 >
->The **inverse image** of a [subset](../../Set%20Theory/Sets.md) $S \subseteq Y$ under $f$ is the subset of $X$ defined as
+>The **inverse image** of a [subset](../../Set%20Theory/Subsets.md) $S \subseteq Y$ under $f$ is the subset of $X$ defined as
 >
 >$$
 >\{x \in X \mid f(x) \in S \}
@@ -67,4 +67,15 @@ tags:
 >>f^{-1} [S] \qquad f^{-1}(S) \qquad f^{-}(S)
 >>$$
 >>
+>
+
+>[!DEFINITION] Definition: Restriction
+>
+>Let $f: X \to Y$ be a [function](Functions.md).
+>
+>The **restriction** of $f$ on a [subset](../../Set%20Theory/Subsets.md) $S \subseteq X$ is the function $f\big|_S: S \to Y$ defined as
+>
+>$$
+>f\big|_S (x) = f(x) \qquad \forall x \in S
+>$$
 >

@@ -34,7 +34,7 @@ tags:
 
 >[!DEFINITION] Definition: Simple Curve
 >
->A **simple curve** is a [curve](Curves.md#Curves) $\mathcal{C}$ for which there exists an [injective](../../../Analysis/Functions/Types%20of%20Functions/Injection.md) [parametrization](Curves.md#Parametrizations) $\gamma: I \subset \mathbb{R} \to \mathbb{R}^n$ on a closed interval $I = [a;b]$ with a [continuous](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Scalar%20Fields/Continuity%20of%20Real%20Scalar%20Fields.md) [inverse](../../../Analysis/Functions/Types%20of%20Functions/Injection.md).
+>A **simple curve** is a [curve](Curves.md#Curves) $\mathcal{C}$ for which there exists an [injective](../../../Analysis/Functions/Injections,%20Surjections%20and%20Bijections.md) [parametrization](Curves.md#Parametrizations) $\gamma: I \subset \mathbb{R} \to \mathbb{R}^n$ on a closed interval $I = [a;b]$ with a [continuous](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Scalar%20Fields/Continuity%20of%20Real%20Scalar%20Fields.md) [inverse](../../../Analysis/Functions/Injections,%20Surjections%20and%20Bijections.md).
 >
 >>[!NOTE]
 >>

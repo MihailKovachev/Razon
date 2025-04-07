@@ -14,7 +14,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Real Part
 >>
->>The **real part** of $f$ is the [real-valued function](../Real%20Analysis/Real-Valued%20Function.md) $\operatorname{Re} f: X \to \mathbb{R}$ which, for each $x \in X$, returns the [real part](../../Algebra/Fields/The%20Complex%20Numbers/index.md) of $f(x)$.
+>>The **real part** of $f$ is the [real-valued function](../Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) $\operatorname{Re} f: X \to \mathbb{R}$ which, for each $x \in X$, returns the [real part](../../Algebra/Fields/The%20Complex%20Numbers/index.md) of $f(x)$.
 >>
 >>$$
 >>\operatorname{Re} f (x) \overset{\text{def}}{=} \operatorname{Re}(f(x)) \qquad \forall x \in X
@@ -23,7 +23,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Imaginary Part
 >>
->>The **imaginary part** of $f$ is the [real-valued function](../Real%20Analysis/Real-Valued%20Function.md) $\operatorname{Im} f: X \to \mathbb{R}$ which, for each $x \in X$, returns the [imaginary part](../../Algebra/Fields/The%20Complex%20Numbers/index.md) of $f(x)$.
+>>The **imaginary part** of $f$ is the [real-valued function](../Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) $\operatorname{Im} f: X \to \mathbb{R}$ which, for each $x \in X$, returns the [imaginary part](../../Algebra/Fields/The%20Complex%20Numbers/index.md) of $f(x)$.
 >>
 >>$$
 >>\operatorname{Im} f (x) \overset{\text{def}}{=} \operatorname{Im}(f(x)) \qquad \forall x \in X

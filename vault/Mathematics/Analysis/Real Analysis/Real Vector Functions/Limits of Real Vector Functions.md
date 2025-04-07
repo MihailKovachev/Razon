@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Limit of a Real Vector Function
 >
->Let $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [real vector function](Real%20Vector%20Function.md) and let $\mathbf{a} \in \mathbb{R}^m$ be an [accumulation point](../../../Topology/Interior,%20Boundary,%20Exterior/Accumulation%20Point.md) of $\mathcal{D}$.
+>Let $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [real vector function](../Functions%20of%20the%20Real%20Numbers.md) and let $\mathbf{a} \in \mathbb{R}^m$ be an [accumulation point](../../../Topology/Interior,%20Boundary,%20Exterior/Accumulation%20Point.md) of $\mathcal{D}$.
 >
 >We say that $\mathbf{L} \in \mathbb{R}^n$ is a **limit** of $f$ for $\mathbf{x} \to \mathbf{a}$ iff for each [open ball](../The%20Topology%20of%20Euclidean%20Space.md) $B_{\varepsilon}(\mathbf{L})$ around $\mathbf{L}$ there exists an [open ball](../The%20Topology%20of%20Euclidean%20Space.md) $B_{\delta}(\mathbf{a})$ around $\mathbf{a}$ such that for all $\mathbf{x} \in \mathcal{D}$ different from $\mathbf{a}$,
 >
@@ -42,7 +42,7 @@
 
 >[!THEOREM] Theorem: Limit via Component Functions
 >
->Let $f: D \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [real vector function](Real%20Vector%20Function.md) with [component functions](Real%20Vector%20Function.md) $f_1,\cdots, f_n$ and let $\mathbf{a} \in \mathbb{R}^m$.
+>Let $f: D \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [real vector function](../Functions%20of%20the%20Real%20Numbers.md) with [component functions](../Functions%20of%20the%20Real%20Numbers.md) $f_1,\cdots, f_n$ and let $\mathbf{a} \in \mathbb{R}^m$.
 >
 >Then $f$ has a [limit](Limits%20of%20Real%20Vector%20Functions.md) for $\mathbf{x} \to \mathbf{a}$ if and only if $f_1,\cdots, f_n$ have [limits](Scalar%20Fields/Limits%20of%20Real%20Scalar%20Fields.md) for $\mathbf{x} \to \mathbf{a}$. Moreover,
 >

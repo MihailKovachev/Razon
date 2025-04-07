@@ -41,9 +41,9 @@ tags:
 
 >[!THEOREM] Theorem: Convergence of Monotonic Sequences
 >
->An [increasing](../Real%20Functions/Monotony.md) [real sequence](Real%20Sequences.md) is [convergent](Convergence.md) if and only if it is [bounded above](../Real%20Functions/Function%20Bounds.md).
+>An [increasing](../Real%20Functions/Monotony.md) [real sequence](Real%20Sequences.md) is [convergent](Convergence%20of%20Real%20Sequences.md) if and only if it is [bounded above](../Real%20Functions/Bounds%20of%20Real%20Functions.md).
 >
->A [decreasing](../Real%20Functions/Monotony.md) [real sequence](Real%20Sequences.md) is [convergent](Convergence.md) if and only if it is [bounded below](../Real%20Functions/Function%20Bounds.md).
+>A [decreasing](../Real%20Functions/Monotony.md) [real sequence](Real%20Sequences.md) is [convergent](Convergence%20of%20Real%20Sequences.md) if and only if it is [bounded below](../Real%20Functions/Bounds%20of%20Real%20Functions.md).
 >
 >>[!PROOF]-
 >>

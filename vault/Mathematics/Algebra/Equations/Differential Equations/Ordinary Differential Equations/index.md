@@ -22,7 +22,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Solution to an ODE
 >>
->>A **solution** to the ODE on the [subset](../../../../Set%20Theory/Sets.md) $\mathcal{D} \subseteq \mathbb{R}$ is an $n$-times [differentiable](../../../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) [real function](../../../../Analysis/Real%20Analysis/Real%20Functions/Real%20Functions.md) $\phi: \mathcal{D} \to \mathbb{R}$ such that
+>>A **solution** to the ODE on the [subset](../../../../Set%20Theory/Sets.md) $\mathcal{D} \subseteq \mathbb{R}$ is an $n$-times [differentiable](../../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability.md) [real function](../../../../Analysis/Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) $\phi: \mathcal{D} \to \mathbb{R}$ such that
 >>
 >>$$
 >>F\left(x, \phi(x), \phi'(x), \phi''(x), \dotsc, \phi^{(n)}(x)\right) = 0 \qquad \forall x \in \mathcal{D}

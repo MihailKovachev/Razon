@@ -10,7 +10,7 @@ tags:
 >
 >Let $(S, \tau_S)$ be a [subspace](../../Topology/Topological%20Subspaces.md) of an $n$-[manifold](Manifolds.md).
 >
->If $S$ is [open](../../Topology/Topological%20Spaces/Open%20Sets.md), then $(S, \tau_S)$ is also an $n$-[manifold](Manifolds.md).
+>If $S$ is [open](../../Topology/Topological%20Spaces.md), then $(S, \tau_S)$ is also an $n$-[manifold](Manifolds.md).
 >
 >>[!PROOF]-
 >>

@@ -83,7 +83,7 @@ tags:
 
 >[!THEOREM]- Theorem: Law of the Unconscious Statistician (LOTUS)
 >
->Let $X$ be a [random variable](Random%20Variables.md) and let $g: \mathbb{R} \to \mathbb{R}$ be a [real function](../../Analysis/Real%20Analysis/Real%20Functions/Real%20Functions.md).
+>Let $X$ be a [random variable](Random%20Variables.md) and let $g: \mathbb{R} \to \mathbb{R}$ be a [real function](../../Analysis/Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md).
 >
 >If $X$ is [discrete](Random%20Variables.md#Discrete%20Random%20Variables) with [support](Random%20Variables.md#Discrete%20Random%20Variables) $S = \{x_1, x_2, \dotsc \}$ and [probability mass function](Random%20Variables.md#Discrete%20Random%20Variables) $p$, the [expectation](Expectation.md) of $g(X)$ is given by the [value](../../Analysis/Real%20Analysis/Real%20Series/Convergence.md) of the following [series](../../Analysis/Real%20Analysis/Real%20Series/Real%20Series.md):
 >

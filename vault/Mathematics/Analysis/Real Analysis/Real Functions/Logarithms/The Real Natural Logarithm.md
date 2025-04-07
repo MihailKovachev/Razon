@@ -12,7 +12,7 @@ tags:
 
 >[!THEOREM] Theorem: Injectivity of the Real Natural Logarithm
 >
->The [real exponential function](../The%20Real%20Exponential%20Function.md) is [injective](../../../Functions/Types%20of%20Functions/Injection.md) on $(0; \infty)$.
+>The [real exponential function](../The%20Real%20Exponential%20Function.md) is [injective](../../../Functions/Injections,%20Surjections%20and%20Bijections.md) on $(0; \infty)$.
 >
 >>[!PROOF]-
 >>
@@ -21,7 +21,7 @@ tags:
 >
 >>[!DEFINITION] Definition: The Real Natural Logarithm
 >>
->>The **real natural logarithm** is the [inverse function](../../../Functions/Types%20of%20Functions/Injection.md) of the [real exponential function](../The%20Real%20Exponential%20Function.md) on $(0; \infty)$.
+>>The **real natural logarithm** is the [inverse function](../../../Functions/Injections,%20Surjections%20and%20Bijections.md) of the [real exponential function](../The%20Real%20Exponential%20Function.md) on $(0; \infty)$.
 >>
 >>>[!NOTATION]
 >>>
@@ -60,7 +60,7 @@ tags:
 
 >[!THEOREM]- Theorem: Derivative of the Real Natural Logarithm
 >
->The [real natural logarithm](The%20Real%20Natural%20Logarithm.md) is  [differentiable](Differentiation/Derivatives.md) everywhere where it is defined and
+>The [real natural logarithm](The%20Real%20Natural%20Logarithm.md) is  [differentiable](../Differentiability.md) everywhere where it is defined and
 >
 >$$
 >(\ln x)' = \frac{1}{x}

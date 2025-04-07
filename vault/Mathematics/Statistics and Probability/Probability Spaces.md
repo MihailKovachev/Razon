@@ -11,7 +11,7 @@ At its core, the probability of an [event](Experiments.md) is just a [real numbe
 
 >[!DEFINITION] Definition: Probability Space
 >
->A **probability space** $(\Omega, P)$ is a [sample space](Experiments.md) $\Omega$ equipped with a [real-valued](../Analysis/Real%20Analysis/Real-Valued%20Function.md) **probability function** $P: \mathcal{P}(\Omega) \to [0;1]$ defined on the [power set](../Set%20Theory/Power%20Set.md) of $\Omega$ with the following properties:
+>A **probability space** $(\Omega, P)$ is a [sample space](Experiments.md) $\Omega$ equipped with a [real-valued](../Analysis/Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) **probability function** $P: \mathcal{P}(\Omega) \to [0;1]$ defined on the [power set](../Set%20Theory/Power%20Set.md) of $\Omega$ with the following properties:
 >- $P(\varnothing) = 0$ and $P(\Omega) = 1$;
 >- For every [countable](../Set%20Theory/Cardinality/Countable%20Sets.md) [collection](../Set%20Theory/Collections/Collections.md) $\mathcal{E} = \{E_1, E_2, \dotsc \}$ of [mutually exclusive](Experiments.md) [events](Experiments.md), we have
 >

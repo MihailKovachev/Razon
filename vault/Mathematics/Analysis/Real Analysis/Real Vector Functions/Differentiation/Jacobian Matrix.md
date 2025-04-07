@@ -1,6 +1,6 @@
 >[!DEFINITION] Definition: Jacobian Matrix
 >
->Let $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [partially differentiable](Partial%20Derivatives%20of%20Real%20Vector%20Functions.md) [real vector function](../Real%20Vector%20Function.md) with [component functions](../Real%20Vector%20Function.md) $f_1,\cdots,f_n$.
+>Let $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [partially differentiable](Partial%20Derivatives%20of%20Real%20Vector%20Functions.md) [real vector function](../../Functions%20of%20the%20Real%20Numbers.md) with [component functions](../../Functions%20of%20the%20Real%20Numbers.md) $f_1,\cdots,f_n$.
 >
 >The **Jacobian matrix** of $f$ is the $n \times m$-[matrix](../../../../../Algebra/Linear%20Algebra/Matrices/Square%20Matrices/Square%20Matrix.md) whose rows are the [gradients](../Scalar%20Fields/Differentiation/Gradient.md) of $f_1,\cdots,f_n$:
 >

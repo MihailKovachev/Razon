@@ -59,7 +59,7 @@ tags:
 >
 >Let $r \gt 0$ and $z \in \mathbb{C}$.
 >
->The [boundary](../../Topology/Interior,%20Boundary,%20Exterior/Boundary.md) of the $r$-[neighborhood](Topology%20of%20the%20Complex%20Plane.md#Neighborhoods) and the deleted $r$-[neighborhood](Topology%20of%20the%20Complex%20Plane.md#Neighborhoods) of $z$ is the disk
+>The [boundary](../../Topology/Interior,%20Boundary%20and%20Exterior.md) of the $r$-[neighborhood](Topology%20of%20the%20Complex%20Plane.md#Neighborhoods) and the deleted $r$-[neighborhood](Topology%20of%20the%20Complex%20Plane.md#Neighborhoods) of $z$ is the disk
 >
 >$$
 >\{ x \in \mathbb{C} \mid |x - z| = r \}

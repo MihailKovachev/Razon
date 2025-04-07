@@ -15,7 +15,7 @@ As with any physics model, classical mechanics is a simplification of the real w
 
 ## Space and Time
 
-Classical mechanics models [space and time](../Space%20and%20Time.md) as a [topological space](../../Mathematics/Topology/Topological%20Spaces/index.md) which is [homeomorphic](../../Mathematics/Topology/Continuity/Homeomorphisms/Homeomorphic%20Spaces.md) to the [Euclidean Space](../../Mathematics/Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^4$ and which has certain properties. This means that one always needs four numbers to describe the location of an object. These numbers are known as the **coordinates** of the object and there are two kinds of them. Three of the numbers are **spatial coordinates** and one number is a **temporal coordinate**.
+Classical mechanics models [space and time](../Space%20and%20Time.md) as a [topological space](../../Mathematics/Topology/Topological%20Spaces.md) which is [homeomorphic](../../Mathematics/Topology/Continuity/Homeomorphisms/Homeomorphic%20Spaces.md) to the [Euclidean Space](../../Mathematics/Analysis/Real%20Analysis/The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^4$ and which has certain properties. This means that one always needs four numbers to describe the location of an object. These numbers are known as the **coordinates** of the object and there are two kinds of them. Three of the numbers are **spatial coordinates** and one number is a **temporal coordinate**.
 
 ## Symmetries
 

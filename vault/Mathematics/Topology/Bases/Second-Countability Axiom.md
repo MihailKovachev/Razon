@@ -7,5 +7,5 @@ tags:
 
 >[!DEFINITION] Definition: Second-Countability Axiom
 >
->A [topological space](../Topological%20Spaces/index.md) is **second-countable** iff it has a [countable](../../Set%20Theory/Cardinality/Countable%20Sets.md) [base](./index.md).
+>A [topological space](../Topological%20Spaces.md) is **second-countable** iff it has a [countable](../../Set%20Theory/Cardinality/Countable%20Sets.md) [base](./index.md).
 >

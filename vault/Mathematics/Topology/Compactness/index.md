@@ -28,20 +28,20 @@ tags:
 
 >[!DEFINITION] Definition: Open Cover
 >
->Let $(X, \tau)$ be a [topological space](../Topological%20Spaces/index.md).
+>Let $(X, \tau)$ be a [topological space](../Topological%20Spaces.md).
 >
->A [cover](./index.md#covers) of $X$ is an **open cover** iff all of its elements are [open sets](../Topological%20Spaces/Open%20Sets.md).
+>A [cover](./index.md#covers) of $X$ is an **open cover** iff all of its elements are [open sets](../Topological%20Spaces.md).
 >
 
 # Compactness
 
 >[!DEFINITION] Definition: Compactness of a Topological Space
 >
->A [topological space](../Topological%20Spaces/index.md) is **compact** iff each of its [open covers](./index.md#covers) has a finite [subcover](./index.md#covers).
+>A [topological space](../Topological%20Spaces.md) is **compact** iff each of its [open covers](./index.md#covers) has a finite [subcover](./index.md#covers).
 >
 >>[!NOTE] Note: Compactness of a Subset
 >>
->>A [subset](../../Set%20Theory/Sets.md) of a [topological space](../Topological%20Spaces/index.md) is called compact iff it is [compact](/index.md#compactness) as a [subspace](../Topological%20Subspaces.md).
+>>A [subset](../../Set%20Theory/Sets.md) of a [topological space](../Topological%20Spaces.md) is called compact iff it is [compact](/index.md#compactness) as a [subspace](../Topological%20Subspaces.md).
 >>
 >
 

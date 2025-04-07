@@ -34,7 +34,7 @@ tags:
 >
 >>[!THEOREM] Theorem: Uniqueness of the Limit
 >>
->>The [limit](Convergence.md) of a [real sequence](Real%20Sequences.md), if it exists, is unique - if $\{a_n\}$ [converges](Convergence.md) to both $L$ and $M$, then $L = M$.
+>>The [limit](Convergence%20of%20Real%20Sequences.md) of a [real sequence](Real%20Sequences.md), if it exists, is unique - if $\{a_n\}$ [converges](Convergence%20of%20Real%20Sequences.md) to both $L$ and $M$, then $L = M$.
 >>
 >>>[!PROOF]-
 >>>
@@ -73,7 +73,7 @@ tags:
 
 >[!THEOREM]
 >
->A [real sequence](Real%20Sequences.md) $\{a_n\}$ [converges](Convergence.md) to $L \in \mathbb{R}$ if and only if
+>A [real sequence](Real%20Sequences.md) $\{a_n\}$ [converges](Convergence%20of%20Real%20Sequences.md) to $L \in \mathbb{R}$ if and only if
 >
 >$$
 >\lim_{n \to \infty} |a_n - L| = 0
@@ -87,7 +87,7 @@ tags:
 
 >[!THEOREM] Theorem: Cauchy Sequences
 >
->A [real sequence](Real%20Sequences.md) $\{a_n\}$ is [convergent](Convergence.md) if and only if, for each $\varepsilon \gt 0$, there exists some integer $N$ such that
+>A [real sequence](Real%20Sequences.md) $\{a_n\}$ is [convergent](Convergence%20of%20Real%20Sequences.md) if and only if, for each $\varepsilon \gt 0$, there exists some integer $N$ such that
 >
 >$$
 >\lim_{n \to \infty} |a_n - a_m| = 0 \qquad \forall n,m \ge N 
@@ -108,11 +108,11 @@ tags:
 
 >[!THEOREM] Theorem: Boundedness of Convergent Sequences
 >
->Every [convergent](Convergence.md) [real sequence](Real%20Sequences.md) is [bounded](../Real%20Functions/Function%20Bounds.md).
+>Every [convergent](Convergence%20of%20Real%20Sequences.md) [real sequence](Real%20Sequences.md) is [bounded](../Real%20Functions/Bounds%20of%20Real%20Functions.md).
 >
 >>[!PROOF]-
 >>
->>Suppose that $\{a_n\}$ [converges](Convergence.md) to some $L \in \mathbb{R}$. Then, by definition, for each $\varepsilon \gt 0$, there exists some integer $N$ such that
+>>Suppose that $\{a_n\}$ [converges](Convergence%20of%20Real%20Sequences.md) to some $L \in \mathbb{R}$. Then, by definition, for each $\varepsilon \gt 0$, there exists some integer $N$ such that
 >>
 >>$$
 >>|a_n - L| \lt \varepsilon \qquad \forall n \ge N.
@@ -153,7 +153,7 @@ tags:
 
 >[!THEOREM] Theorem: Convergence to Zero
 >
->A [real sequence](Real%20Sequences.md) $\{a_n\}$ [converges](Convergence.md) to zero if and only if $\{|a_n|\}$ converges to zero.
+>A [real sequence](Real%20Sequences.md) $\{a_n\}$ [converges](Convergence%20of%20Real%20Sequences.md) to zero if and only if $\{|a_n|\}$ converges to zero.
 >
 >$$
 >\lim_{n \to \infty} a_n = 0 \iff \lim_{n \to \infty} |a_n| = 0
@@ -169,7 +169,7 @@ tags:
 >
 >Let $\{a_n\}$ and $\{b_n\}$ be [real sequences](Real%20Sequences.md).
 >
->If $\{a_n\}$ [converges](Convergence.md) to zero and there exists some integer $N$ such that $|b_n| \le |a_n|$ for all $n \ge N$, then $\{b_n\}$ also [converges](Convergence.md) to zero.
+>If $\{a_n\}$ [converges](Convergence%20of%20Real%20Sequences.md) to zero and there exists some integer $N$ such that $|b_n| \le |a_n|$ for all $n \ge N$, then $\{b_n\}$ also [converges](Convergence%20of%20Real%20Sequences.md) to zero.
 >
 >>[!PROOF]-
 >>
@@ -179,7 +179,7 @@ tags:
 
 >[!THEOREM] Theorem: Limit Arithmetic
 >
->If $\{a_n\}$ and $\{b_n\}$ are both [convergent](Convergence.md) [real sequences](Real%20Sequences.md), then
+>If $\{a_n\}$ and $\{b_n\}$ are both [convergent](Convergence%20of%20Real%20Sequences.md) [real sequences](Real%20Sequences.md), then
 >
 >$$
 >\begin{align*}
@@ -341,9 +341,9 @@ tags:
 
 >[!THEOREM] The Squeeze Theorem for Sequences
 >
->Let $\{a_n\}$, $\{b_n\}$ and $\{c_n\}$ be [real sequences](Real%20Sequences.md) such that both $\{a_n\}$ and $\{b_n\}$ [converge](Convergence.md) to $L \in \mathbb{R}$.
+>Let $\{a_n\}$, $\{b_n\}$ and $\{c_n\}$ be [real sequences](Real%20Sequences.md) such that both $\{a_n\}$ and $\{b_n\}$ [converge](Convergence%20of%20Real%20Sequences.md) to $L \in \mathbb{R}$.
 >
->If there exists an integer $N$ such that $a_n \le c_n \le b_n$ for all $n \ge N$, then $\{c_n\}$ also [converges](Convergence.md) to $L$.
+>If there exists an integer $N$ such that $a_n \le c_n \le b_n$ for all $n \ge N$, then $\{c_n\}$ also [converges](Convergence%20of%20Real%20Sequences.md) to $L$.
 >
 >$$
 >\lim_{n\to\infty} c_n = \lim_{n\to\infty} a_n = \lim_{n\to\infty} b_n = L
@@ -391,7 +391,7 @@ tags:
 
 >[!DEFINITION] Definition: Divergence of Real Sequences
 >
->A [real sequence](Real%20Sequences.md) is **divergent** iff it does not [converge](Convergence.md) to any $\mathbb{R}$.
+>A [real sequence](Real%20Sequences.md) is **divergent** iff it does not [converge](Convergence%20of%20Real%20Sequences.md) to any $\mathbb{R}$.
 >
 >
 >>[!DEFINITION] Definition: Divergence towards Positive Infinity
@@ -428,6 +428,6 @@ tags:
 >
 >>[!WARNING]
 >>
->>Even though we use limit notation for sequences that diverge towards positive or negative infinity, these sequences are NOT [convergent](Convergence.md) and their limits do NOT exist.
+>>Even though we use limit notation for sequences that diverge towards positive or negative infinity, these sequences are NOT [convergent](Convergence%20of%20Real%20Sequences.md) and their limits do NOT exist.
 >>
 >

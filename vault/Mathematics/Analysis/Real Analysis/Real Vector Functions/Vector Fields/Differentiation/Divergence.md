@@ -16,7 +16,7 @@ Moreover, as we make the radius $r$ smaller and smaller, the sphere closes in on
 >
 >Let $\mathbf{F}: \mathcal{D} \subseteq \mathbb{R}^3 \to \mathbb{R}^3$ be a [real vector field](../Real%20Vector%20Field.md) which is [differentiable](../../../Real%20Vector%20Functions/Differentiation/Differentiability%20of%20Real%20Vector%20Functions.md) at $\mathbf{p}$ and let $S_r$ be a [parametric surface](../../../Real%20Vector%20Functions/Parametric%20Surfaces/Parametric%20Surface.md) whose [image](../../../../Functions/Functions.md) is a sphere of radius $r$ centered at $\mathbf{p}$ such that its [normal vector](../../../Real%20Vector%20Functions/Parametric%20Surfaces/Surface%20Normal%20Vector.md) is always oriented outwards.
 >
->If there exists some [neighbourhood](../../../../../Topology/Topological%20Spaces/Neighborhoods.md) of $\mathbf{p}$ where $\mathbf{F}$ is [continuously differentiable](../../../Real%20Vector%20Functions/Differentiation/Differentiability%20of%20Real%20Vector%20Functions.md), then the [limit](../../../Real%20Functions/Limits/Limits%20of%20Real%20Functions.md)
+>If there exists some [neighbourhood](../../../../../Topology/Topological%20Spaces.md) of $\mathbf{p}$ where $\mathbf{F}$ is [continuously differentiable](../../../Real%20Vector%20Functions/Differentiation/Differentiability%20of%20Real%20Vector%20Functions.md), then the [limit](../../../Real%20Functions/Limits/Limits%20of%20Real%20Functions.md)
 >
 >$$
 >\lim_{r \to 0^+} \frac{1}{V_r} \iint_{S_r} \mathbf{F} \cdot \mathrm{d}\mathbf{S}_r,
@@ -54,7 +54,7 @@ Moreover, as we make the radius $r$ smaller and smaller, the sphere closes in on
 
 >[!THEOREM] Theorem: Divergence in Cartesian Coordinates
 >
->Let $\boldsymbol{v}: \mathcal{D} \subseteq \mathbb{R}^3 \to \mathbb{R}^3$ be a [real vector field](../Real%20Vector%20Field.md) with [component functions](../../../Real%20Vector%20Functions/Real%20Vector%20Function.md) $v_1, v_2, v_3$ and let $\mathbf{p} \in \mathbb{R}^3$.
+>Let $\boldsymbol{v}: \mathcal{D} \subseteq \mathbb{R}^3 \to \mathbb{R}^3$ be a [real vector field](../Real%20Vector%20Field.md) with [component functions](../../../Functions%20of%20the%20Real%20Numbers.md) $v_1, v_2, v_3$ and let $\mathbf{p} \in \mathbb{R}^3$.
 >
 >If $\boldsymbol{v}$ is [continuously differentiable](../../../Real%20Vector%20Functions/Differentiation/Differentiability%20of%20Real%20Vector%20Functions.md) at $\mathbf{p}$, then its [divergence](Divergence.md) there can be calculated using the [partial derivatives](../../../Real%20Vector%20Functions/Scalar%20Fields/Differentiation/Partial%20Derivatives%20of%20Real%20Scalar%20Fields.md) of $v_1, v_2, v_3$ with respect to [Cartesian coordinates](../../../../../Geometry/Euclidean%20Geometry/Euclidean%20Space/Coordinate%20Systems/Cartesian%20Coordinate%20System.md):
 >

@@ -9,7 +9,7 @@ tags:
 
 >[!DEFINITION] Definition: Hausdorff Space
 >
->A [topological space](Topological%20Spaces/index.md) $(X,\tau)$ is a **Hausdorff space** iff for all distinct points $p_1,p_2 \in X$ there are [disjoint](../../Set%20Theory/Disjoint%20Sets.md) [neighbourhoods](Topological%20Spaces/Neighborhoods.md) $N(p_1)$ of $p_1$ and $N(p_2)$ of $p_2$.
+>A [topological space](Topological%20Spaces.md) $(X,\tau)$ is a **Hausdorff space** iff for all distinct points $p_1,p_2 \in X$ there are [disjoint](../../Set%20Theory/Disjoint%20Sets.md) [neighbourhoods](Topological%20Spaces.md) $N(p_1)$ of $p_1$ and $N(p_2)$ of $p_2$.
 >
 >>[!NOTE]
 >>
@@ -21,7 +21,7 @@ tags:
 
 >[!THEOREM] Theorem: Closedness of Compact Hausdorff Subspaces
 >
->Every [](Compactness/index.md#^compactness-of-a-topological-space) [subspace](Topological%20Subspaces.md) of a [Hausdorff space](Hausdorff%20Spaces.md) $(H,\tau_H)$ is [closed](Topological%20Spaces/Closed%20Sets.md) in $(H,\tau_H)$.
+>Every [](Compactness/index.md#^compactness-of-a-topological-space) [subspace](Topological%20Subspaces.md) of a [Hausdorff space](Hausdorff%20Spaces.md) $(H,\tau_H)$ is [closed](Topological%20Spaces.md) in $(H,\tau_H)$.
 >
 >>[!PROOF]-
 >>
@@ -31,13 +31,13 @@ tags:
 
 >[!THEOREM] Theorem: Finite Subsets of Hausdorff Spaces are Closed
 >
->Every finite [subset](../Set%20Theory/Sets.md) of a [Hausdorff space](Hausdorff%20Spaces.md) is [closed](Topological%20Spaces/Closed%20Sets.md).
+>Every finite [subset](../Set%20Theory/Sets.md) of a [Hausdorff space](Hausdorff%20Spaces.md) is [closed](Topological%20Spaces.md).
 >
 >>[!PROOF]-
 >>
 >>Let $(X, \tau)$ be a [Hausdorff space](Hausdorff%20Spaces.md).
 >>
->>Let $\{p_0\}$ contain only the point $p_0 \in X$. By definition, given any other point $p \in X$, there exists [disjoint](../../Set%20Theory/Disjoint%20Sets.md) [neighbourhoods](Topological%20Spaces/Neighborhoods.md) $N(p_0)$ and $N(p)$.
+>>Let $\{p_0\}$ contain only the point $p_0 \in X$. By definition, given any other point $p \in X$, there exists [disjoint](../../Set%20Theory/Disjoint%20Sets.md) [neighbourhoods](Topological%20Spaces.md) $N(p_0)$ and $N(p)$.
 >>
 >>TODO
 >>

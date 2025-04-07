@@ -12,7 +12,7 @@ tags:
 >
 >Let $M$ be a [set](../../Set%20Theory/Sets.md).
 >
->A **metric** on $M$ is a [real-valued function](../../Analysis/Real%20Analysis/Real-Valued%20Function.md) which has the following properties for all $x, y, z \in M$:
+>A **metric** on $M$ is a [real-valued function](../../Analysis/Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) which has the following properties for all $x, y, z \in M$:
 >
 >- Identity of indiscernibles: $d(x, y) \ge 0$ with $d(x, y) = 0 \iff x = y$
 >- Symmetry: $d(x,y) = d(y,x)$
@@ -64,7 +64,7 @@ tags:
 >
 >>[!DEFINITION] Definition: Metric Topology
 >>
->>The [topology](../Topological%20Spaces/index.md) $\tau_d$ is known as the **metric topology** induced on $M$ by $d$.
+>>The [topology](../Topological%20Spaces.md) $\tau_d$ is known as the **metric topology** induced on $M$ by $d$.
 >>
 >
 
@@ -72,7 +72,7 @@ tags:
 >
 >Let $(S,d)$ be a [metric space](./index.md) and let $\tau$ be the [topology](./index.md) induced on it by $d$.
 >
->A [subset](../../Set%20Theory/Sets.md) $U$ of $S$ is [open](../Topological%20Spaces/Open%20Sets.md) if and only if for each $u \in U$ there exists an [open ball](./index.md) $B_\varepsilon (u)$ which is contained entirely in $U$.
+>A [subset](../../Set%20Theory/Sets.md) $U$ of $S$ is [open](../Topological%20Spaces.md) if and only if for each $u \in U$ there exists an [open ball](./index.md) $B_\varepsilon (u)$ which is contained entirely in $U$.
 >
 >>[!PROOF]-
 >>

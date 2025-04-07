@@ -11,7 +11,7 @@ tags:
 >
 >Suppose we have an [experiment](Experiments.md) with [sample space](Experiments.md) $\Omega$.
 >
->A **random variable** is a [real-valued function](../../Analysis/Real%20Analysis/Real-Valued%20Function.md) $X: \Omega \to \mathbb{R}$.
+>A **random variable** is a [real-valued function](../../Analysis/Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) $X: \Omega \to \mathbb{R}$.
 >
 >>[!DEFINITION] Definition: Discrete and Continuous Random Variables
 >>
@@ -44,7 +44,7 @@ A random variable is just a way to assign a value to each outcome in the [sample
 
 >[!DEFINITION] Definition: Cumulative Distribution Function (CDF)
 >
->The **cumulative distribution function** of a [continuous random variable](Random%20Variables.md#Continuous%20Random%20Variables) $X: \Omega \to \mathbb{R}$ is the [function](../../Analysis/Real%20Analysis/Real%20Functions/Real%20Functions.md) $F_X: \mathbb{R} \to [0;1]$ which to each $x \in \mathbb{R}$ assigns the [probability](Probability%20Spaces.md) that $X$ is less than $x$ when the [experiment](Experiments.md) is carried out.
+>The **cumulative distribution function** of a [continuous random variable](Random%20Variables.md#Continuous%20Random%20Variables) $X: \Omega \to \mathbb{R}$ is the [function](../../Analysis/Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) $F_X: \mathbb{R} \to [0;1]$ which to each $x \in \mathbb{R}$ assigns the [probability](Probability%20Spaces.md) that $X$ is less than $x$ when the [experiment](Experiments.md) is carried out.
 >
 >$$
 >F_X(x) \overset{\text{def}}{=} P(X \lt x)
@@ -121,7 +121,7 @@ Essentially, a [discrete random variable](Random%20Variables.md#Discrete%20Rando
 
 >[!DEFINITION] Definition: Probability Mass Function
 >
->The **probability mass function** of a [discrete random variable](Random%20Variables.md#Discrete%20Random%20Variables) $X: \Omega \to \mathbb{R}$ is the [function](../../Analysis/Real%20Analysis/Real%20Functions/Real%20Functions.md) $p_X: \mathbb{R} \to [0;1]$ which to each possible value $x \in X(\Omega)$ of $X$ assigns the [probability](Probability%20Spaces.md) that $X$ is equal to $x$ when the [experiment](Experiments.md) is carried out.
+>The **probability mass function** of a [discrete random variable](Random%20Variables.md#Discrete%20Random%20Variables) $X: \Omega \to \mathbb{R}$ is the [function](../../Analysis/Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) $p_X: \mathbb{R} \to [0;1]$ which to each possible value $x \in X(\Omega)$ of $X$ assigns the [probability](Probability%20Spaces.md) that $X$ is equal to $x$ when the [experiment](Experiments.md) is carried out.
 >
 >$$
 >p_X(x) \overset{\text{def}}{=} P(X = x)
@@ -146,14 +146,14 @@ Essentially, a [discrete random variable](Random%20Variables.md#Discrete%20Rando
 
 >[!DEFINITION] Definition: Continuous Random Variable
 >
->A [random variable](Random%20Variables.md) is **continuous** if and only if it is not [discrete](Random%20Variables.md#Discrete%20Random%20Variables) and its [cumulative distribution function](Random%20Variables.md#Cumulative%20Density%20Functions) is [differentiable](../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) except for possibly finitely many points where it is [continuous](../../Analysis/Real%20Analysis/Real%20Functions/Continuity.md) but not [differentiable](../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md).
+>A [random variable](Random%20Variables.md) is **continuous** if and only if it is not [discrete](Random%20Variables.md#Discrete%20Random%20Variables) and its [cumulative distribution function](Random%20Variables.md#Cumulative%20Density%20Functions) is [differentiable](../../Analysis/Real%20Analysis/Real%20Functions/Differentiability.md) except for possibly finitely many points where it is [continuous](../../Analysis/Real%20Analysis/Real%20Functions/Continuity.md) but not [differentiable](../../Analysis/Real%20Analysis/Real%20Functions/Differentiability.md).
 >
 
 ## Probability Density Function
 
 >[!DEFINITION] Definition: Probability Density Function
 >
->The **probability density function** of a [continuous random variable](Random%20Variables.md#Continuous%20Random%20Variables) is the [derivative](../../Analysis/Real%20Analysis/Real%20Functions/Differentiation/Derivatives.md) of its [cumulative distribution function](Random%20Variables.md#Cumulative%20Density%20Functions).
+>The **probability density function** of a [continuous random variable](Random%20Variables.md#Continuous%20Random%20Variables) is the [derivative](../../Analysis/Real%20Analysis/Real%20Functions/Differentiability.md) of its [cumulative distribution function](Random%20Variables.md#Cumulative%20Density%20Functions).
 >
 
 ### Properties

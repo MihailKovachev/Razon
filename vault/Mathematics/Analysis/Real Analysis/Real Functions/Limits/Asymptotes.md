@@ -12,9 +12,9 @@ tags:
 
 >[!DEFINITION] Definition: Vertical Asymptote
 >
->Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
+>Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../../Functions%20of%20the%20Real%20Numbers.md).
 >
->The line $x = c \in \mathbb{R}$ is a **vertical asymptote** of $f$ if $f$ has at least one [infinite one-sided limit](Limits%20of%20Real%20Functions.md) at $c$, i.e. at least one of the following holds:
+>We say that $f$ has a **vertical asymptote** at $x = c \in \mathbb{R}$ if it has at least one [infinite one-sided limit](Limits%20of%20Real%20Functions.md) at $c$, i.e. at least one of the following holds:
 >
 >- $\displaystyle \lim_{x \to c^-} f(x) = -\infty$
 >- $\displaystyle \lim_{x \to c^+} f(x) = -\infty$
@@ -23,15 +23,15 @@ tags:
 >
 >>[!INTUITION]-
 >>
->>Intuitively, this definition means that the value of $f(x)$ gets closer and closer to $\pm \infty$ as $x$ approaches $c$ either from the left or from the right.
+>>Intuitively, this definition means that the value of $f(x)$ gets closer and closer to $- \infty$ or $+ \infty$ as $x$ approaches $c$ either from the left or from the right.
 >>
 >
 
 >[!DEFINITION] Definition: Horizontal Asymptote
 >
->Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
+>Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../../Functions%20of%20the%20Real%20Numbers.md).
 >
->The line $y = a \in \mathbb{R}$ is a **horizontal asymptote** of $f$ if the [limit](Limits%20of%20Real%20Functions.md) of $f$ as $x$ approaches positive or negative infinity is $a$, i.e. if at least one of the following holds:
+>We say that $f$ has a **horizontal asymptote** $y = a \in \mathbb{R}$ if the [limit](Limits%20of%20Real%20Functions.md) of $f$ as $x$ approaches positive or negative infinity is $a$, i.e. if at least one of the following holds:
 >
 >- $\displaystyle \lim_{x \to -\infty} f(x) = a$
 >- $\displaystyle \lim_{x \to \infty} f(x) = a$
@@ -44,7 +44,7 @@ tags:
 
 >[!DEFINITION] Definition: Oblique Asymptote
 >
->Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Real%20Functions.md).
+>Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../../Functions%20of%20the%20Real%20Numbers.md).
 >
 >The line $y = ax + b$ is an **oblique** or **slanted asymptote** of $f$ if at least one of the following is true:
 >- $\displaystyle \lim_{x \to -\infty} [f(x) - (ax + b)] = 0$
@@ -60,7 +60,7 @@ tags:
 
 >[!THEOREM] Theorem: Oblique Asymptotes
 >
->Let $f$ be a [real function](../Real%20Functions.md).
+>Let $f$ be a [real function](../../Functions%20of%20the%20Real%20Numbers.md).
 >
 >The [straight line](../../../../Geometry/Euclidean%20Geometry/Curves/Straight%20Lines/Straight%20Line.md) $y = ax + b$ is an [asymptote](Asymptotes.md) of $f$ if and only if the [limits](Limits%20of%20Real%20Functions.md) $\lim_{x \to \pm \infty} \frac{f(x)}{x}$ and $\lim_{x \to \pm \infty} (f(x) - ax)$ exist and
 >

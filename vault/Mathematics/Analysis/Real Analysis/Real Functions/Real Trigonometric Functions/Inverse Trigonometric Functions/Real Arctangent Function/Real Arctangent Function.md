@@ -1,6 +1,6 @@
 >[!THEOREM] Theorem: Injectivity of the Real Tangent Function
 >
->The [restriction](../../../../../Functions/Restriction.md) of the [real tangent function](../../Real%20Tangent%20Function/Real%20Tangent%20Function.md) on the [interval](../../../../../../../Set%20Theory/Ordering/Intervals.md) $\displaystyle \left(-\frac{\pi}{2}; \frac{\pi}{2} \right)$ and thus admits an [inverse function](../../../../../Functions/Types%20of%20Functions/Injection.md) on it.
+>The [restriction](../../../../../Functions/Functions.md) of the [real tangent function](../../Real%20Tangent%20Function/Real%20Tangent%20Function.md) on the [interval](../../../../../../../Set%20Theory/Ordering/Intervals.md) $\displaystyle \left(-\frac{\pi}{2}; \frac{\pi}{2} \right)$ and thus admits an [inverse function](../../../../../Functions/Injections,%20Surjections%20and%20Bijections.md) on it.
 >
 >>[!PROOF]-
 >>
@@ -9,7 +9,7 @@
 >
 >>[!DEFINITION] Definition: Real Arctangent Function
 >>
->>The **real arctangent function** is the [inverse function](../../../../../Functions/Types%20of%20Functions/Injection.md) of the [restriction](../../../../../Functions/Restriction.md) of the [real tangent function](../../Real%20Tangent%20Function/Real%20Tangent%20Function.md) on the [interval](../../../../../../../Set%20Theory/Ordering/Intervals.md) $\displaystyle \left(-\frac{\pi}{2}; \frac{\pi}{2} \right)$.
+>>The **real arctangent function** is the [inverse function](../../../../../Functions/Injections,%20Surjections%20and%20Bijections.md) of the [restriction](../../../../../Functions/Functions.md) of the [real tangent function](../../Real%20Tangent%20Function/Real%20Tangent%20Function.md) on the [interval](../../../../../../../Set%20Theory/Ordering/Intervals.md) $\displaystyle \left(-\frac{\pi}{2}; \frac{\pi}{2} \right)$.
 >>
 >>>[!NOTATION]-
 >>>

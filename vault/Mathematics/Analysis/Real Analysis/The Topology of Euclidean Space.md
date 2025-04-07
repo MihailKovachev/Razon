@@ -37,7 +37,7 @@ tags:
 
 >[!TIP] Tip: Open Sets in Euclidean Space
 >
->The [open subsets](../../../Topology/Topological%20Spaces/Open%20Sets.md) of the [Euclidean space](The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$ are precisely the following:
+>The [open subsets](../../Topology/Topological%20Spaces.md) of the [Euclidean space](The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$ are precisely the following:
 >- All [open balls](The%20Topology%20of%20Euclidean%20Space.md);
 >- All [unions](../../../Set%20Theory/Collections/Operations%20with%20Collections.md) of arbitrary [collections](../../Set%20Theory/Collections/Collections.md) of [open balls](The%20Topology%20of%20Euclidean%20Space.md);
 >- All [intersections](../../../Set%20Theory/Collections/Operations%20with%20Collections.md) of finite [collections](../../Set%20Theory/Collections/Collections.md) of [open balls](The%20Topology%20of%20Euclidean%20Space.md).
@@ -69,7 +69,7 @@ tags:
 
 >[!THEOREM] Heine-Borel Theorem: Compactness in Euclidean Space
 >
->A [subspace](../../../Topology/Topological%20Subspaces.md) of the [Euclidean space](The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$ is [compact](../../../Topology/Compactness/index.md) if and only if it is [closed](../../../Topology/Topological%20Spaces/Closed%20Sets.md) and [bounded](../../../Topology/Metric%20Spaces/Boundedness%20in%20Metric%20Spaces.md).
+>A [subspace](../../Topology/Topological%20Subspaces.md) of the [Euclidean space](The%20Topology%20of%20Euclidean%20Space.md) $\mathbb{R}^n$ is [compact](../../../Topology/Compactness/index.md) if and only if it is [closed](../../Topology/Topological%20Spaces.md) and [bounded](../../../Topology/Metric%20Spaces/Boundedness%20in%20Metric%20Spaces.md).
 >
 >>[!PROOF]-
 >>

@@ -44,7 +44,7 @@ tags:
 >
 >We are given a [real power series](./index.md) $\displaystyle \sum_{n \in \mathcal{D}} a_n (x-c)^n$ and want to determine its [interval of convergence](Convergence.md).
 >
->1. Evaluate either one of the [limits](../Real%20Sequences/Convergence.md) $\lim_{n \to \infty} \left| \frac{a_n}{a_{n+1}}\right|$ and $\lim_{n\to \infty} \frac{1}{\sqrt[n]{|a_n|}}$. Choose whichever one is easier to calculate.
+>1. Evaluate either one of the [limits](../Real%20Sequences/Convergence%20of%20Real%20Sequences.md) $\lim_{n \to \infty} \left| \frac{a_n}{a_{n+1}}\right|$ and $\lim_{n\to \infty} \frac{1}{\sqrt[n]{|a_n|}}$. Choose whichever one is easier to calculate.
 >
 >2. If the limit is zero, then the power series [converges](Convergence.md) only for $x = c$.
 > 

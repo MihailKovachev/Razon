@@ -51,7 +51,7 @@ tags:
 >
 >>[!THEOREM]
 >>
->>[Congruence](Congruence.md) is an [equivalence relation](../../Set%20Theory/Relations/Equivalence%20Relation.md).
+>>[Congruence](Congruence.md) is an [equivalence relation](../../Set%20Theory/Relations.md).
 >>
 >>>[!PROOF]-
 >>>

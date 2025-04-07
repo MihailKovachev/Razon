@@ -1,6 +1,6 @@
 >[!THEOREM] Theorem: Derivative of the Real Sine Function
 >
->The [derivative](../../Differentiation/Derivatives.md) of the [real sine function](Real%20Sine%20Function.md) is the [real cosine function](../Real%20Cosine%20Function/Real%20Cosine%20Function.md).
+>The [derivative](../../Differentiability.md) of the [real sine function](Real%20Sine%20Function.md) is the [real cosine function](../Real%20Cosine%20Function/Real%20Cosine%20Function.md).
 >
 >$$
 >(\sin x)' = \cos x

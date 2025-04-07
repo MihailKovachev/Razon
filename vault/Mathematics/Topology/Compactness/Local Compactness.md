@@ -8,5 +8,5 @@ tags:
 
 >[!DEFINITION] Definition: Local Compactness
 >
->A [topological space](../Topological%20Spaces/index.md) $(X, \tau)$ is **locally compact** iff each point $x \in X$ has a [compact](./index.md) [neighbourhood](../Topological%20Spaces/Neighborhoods.md).
+>A [topological space](../Topological%20Spaces.md) $(X, \tau)$ is **locally compact** iff each point $x \in X$ has a [compact](./index.md) [neighbourhood](../Topological%20Spaces.md).
 >

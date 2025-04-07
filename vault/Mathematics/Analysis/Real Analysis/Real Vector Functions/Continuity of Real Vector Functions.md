@@ -1,6 +1,6 @@
 >[!DEFINITION] Continuity of a Real Vector Function
 >
->Let $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [real vector function](Real%20Vector%20Function.md).
+>Let $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [real vector function](../Functions%20of%20the%20Real%20Numbers.md).
 >
 >We say that $f$ is **continuous at** $\mathbf{a} \in \mathcal{D}$ iff its [limit](Limits%20of%20Real%20Vector%20Functions.md) for $\mathbf{x} \to \mathbf{a}$ is $f(\mathbf{a})$
 >
@@ -14,9 +14,9 @@
 >
 >>[!DEFINITION] Definition: Piecewise Continuity
 >>
->>Let $f: D \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [real vector function](Real%20Vector%20Function.md).
+>>Let $f: D \subseteq \mathbb{R}^m \to \mathbb{R}^n$ be a [real vector function](../Functions%20of%20the%20Real%20Numbers.md).
 >>
->>We say that $f$ is **piecewise continuous** if $D$ can be expressed as the [union](../../../Set%20Theory/Collections/Operations%20with%20Collections.md) of a finite [collection](../../../Set%20Theory/Collections/Collections.md) of [disjoint sets](../../../../Set%20Theory/Disjoint%20Sets.md) $D = D_1 \cup \cdots \cup D_p$ such that the [restrictions](../../Functions/Restriction.md) $f\big|_{D_1},\ldots, f\big|_{D_p}$ are [continuous](Continuity%20of%20Real%20Vector%20Functions.md).
+>>We say that $f$ is **piecewise continuous** if $D$ can be expressed as the [union](../../../Set%20Theory/Collections/Operations%20with%20Collections.md) of a finite [collection](../../../Set%20Theory/Collections/Collections.md) of [disjoint sets](../../../../Set%20Theory/Disjoint%20Sets.md) $D = D_1 \cup \cdots \cup D_p$ such that the [restrictions](../../Functions/Functions.md) $f\big|_{D_1},\ldots, f\big|_{D_p}$ are [continuous](Continuity%20of%20Real%20Vector%20Functions.md).
 >>
 >
 
@@ -24,7 +24,7 @@
 
 >[!THEOREM] Theorem: Continuity via Component Functions
 >
->A [real vector function](Real%20Vector%20Function.md) $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ is [continuous](Continuity%20of%20Real%20Vector%20Functions.md) at $\mathbf{x}_0 \in \mathcal{D}$ if and only if its [component functions](Real%20Vector%20Function.md) $f_1, \dotsc, f_n$ are [continuous](Continuity%20of%20Real%20Vector%20Functions.md) at $\mathbf{x}_0$.
+>A [real vector function](../Functions%20of%20the%20Real%20Numbers.md) $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ is [continuous](Continuity%20of%20Real%20Vector%20Functions.md) at $\mathbf{x}_0 \in \mathcal{D}$ if and only if its [component functions](../Functions%20of%20the%20Real%20Numbers.md) $f_1, \dotsc, f_n$ are [continuous](Continuity%20of%20Real%20Vector%20Functions.md) at $\mathbf{x}_0$.
 >
 >>[!PROOF]-
 >>
@@ -34,7 +34,7 @@
 
 >[!THEOREM] Theorem: Continuity via Limits of Scalar Fields
 >
->A [real vector function](Real%20Vector%20Function.md) $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ is [continuous](Continuity%20of%20Real%20Vector%20Functions.md) at $\mathbf{a} \in \mathcal{D}$ if and only if $\mathbf{a} \in \mathcal{D}$ is an [isolated point](../../../Topology/Interior,%20Boundary,%20Exterior/Isolated%20Points.md) of $\mathcal{D}$ or the following [limit](Scalar%20Fields/Limits%20of%20Real%20Scalar%20Fields.md) is zero.
+>A [real vector function](../Functions%20of%20the%20Real%20Numbers.md) $f: \mathcal{D} \subseteq \mathbb{R}^m \to \mathbb{R}^n$ is [continuous](Continuity%20of%20Real%20Vector%20Functions.md) at $\mathbf{a} \in \mathcal{D}$ if and only if $\mathbf{a} \in \mathcal{D}$ is an [isolated point](../../../Topology/Interior,%20Boundary,%20Exterior/Isolated%20Points.md) of $\mathcal{D}$ or the following [limit](Scalar%20Fields/Limits%20of%20Real%20Scalar%20Fields.md) is zero.
 >
 >$$
 >\lim_{\mathbf{x} \to \mathbf{a}} ||f(\mathbf{x}) - f(\mathbf{a})|| = 0

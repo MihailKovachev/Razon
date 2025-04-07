@@ -24,4 +24,4 @@ tags:
 >![](res/Position%20of%20Particle.svg)
 >
 
-In physics, we usually want to express the [position](Position.md) of a [particle](../../Physical%20Systems/Point%20Masses/Point%20Mass.md) as a [function](../../../Mathematics/Analysis/Real%20Analysis/Real%20Vector%20Functions/Real%20Vector%20Function.md) $\mathbf{r}: \mathbb{R} \to \mathbb{R}$ of [time](../../Classical%20Mechanics/Space%20and%20Time.md) because we want to see how it changes with time. 
+In physics, we usually want to express the [position](Position.md) of a [particle](../../Physical%20Systems/Point%20Masses/Point%20Mass.md) as a [function](../../../Mathematics/Analysis/Real%20Analysis/Functions%20of%20the%20Real%20Numbers.md) $\mathbf{r}: \mathbb{R} \to \mathbb{R}$ of [time](../../Classical%20Mechanics/Space%20and%20Time.md) because we want to see how it changes with time. 
