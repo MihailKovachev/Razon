@@ -9,7 +9,12 @@ tags:
   - mathematics
 ---
 
+# Right Triangles
+
 >[!DEFINITION] Definition: Right Triangle
 >
->A [triangle](../Triangles.md) is **right** iff one of its [interior angles](../../Polygons.md) is $\frac{\pi}{2}$ ($90^\degree$).
+>A **right triangle** is a [triangle](Triangles.md) with one [interior angle](../Polygons.md) equal to $90\degree$.
 >
+
+## Properties
+

@@ -15,7 +15,7 @@ tags:
 >P(x_1, \cdots, x_n) = 0_F,
 >$$
 >
->where $P(x_1, \cdots, x_n)$ is a [nonzero](../../Rings/Commutative%20Rings/Polynomials/Zero%20Polynomial.md) [polynomial](../../Rings/Commutative%20Rings/Polynomials/Polynomials.md).
+>where $P(x_1, \cdots, x_n)$ is a [nonzero](../../Rings/Commutative%20Rings/Polynomials/Polynomials.md) [polynomial](../../Rings/Commutative%20Rings/Polynomials/Polynomials.md).
 >
 >>[!DEFINITION] Definition: Solution of a Polynomial Equation
 >>

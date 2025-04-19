@@ -17,7 +17,39 @@ tags:
 
 ## Properties
 
->[!THEOREM] Theorem: Real Polynomial Equations with Integer Coefficients
+>[!THEOREM]- Theorem: Maximum Number of Roots
+>
+>The maximum number of distinct roots which the [real polynomial equation](Real%20Polynomial%20Equations.md)
+>
+>$$
+>A(x) = 0
+>$$
+>
+>can have is equal to the [degree](../../Rings/Commutative%20Rings/Polynomials/Polynomials.md#Degree) of $A$.
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
+>[!THEOREM]- Theorem: Roots and Divisibility
+>
+>A [number](../../Fields/The%20Real%20Numbers/The%20Real%20Numbers.md) $p \in \mathbb{R}$ is a root of the [real polynomial equation](Real%20Polynomial%20Equations.md)
+>
+>$$
+>A(x) = 0
+>$$
+>
+>if and only if $A(x)$ is [divisible](../../Fields/The%20Real%20Numbers/Real%20Polynomials.md#Polynomial%20Division) by $(x - p)$.
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
+>[!THEOREM]- Theorem: Real Polynomial Equations with Integer Coefficients I
 >
 >If the coefficients $a_0, \cdots, a_n$ of the [real polynomial equation](Real%20Polynomial%20Equations.md)
 >
@@ -81,6 +113,22 @@ tags:
 >>
 >
 
+>[!THEOREM]- Theorem: Real Polynomial Equations with Integer Coefficients II
+>
+>If the coefficients of the [real polynomial equation](Real%20Polynomial%20Equations.md)
+>
+>$$
+>A(x) = 0
+>$$
+>
+>are [integers](TODO) and it has a [rational](TODO) [root](../../Rings/Commutative%20Rings/Polynomials/Polynomials.md) $x^\ast = \frac{p}{q}$ (where $p$ and $q$ are [coprime](TODO)), then for every [integer](TODO) $m$, the [number](../../Rings/Commutative%20Rings/Polynomials/Polynomials.md#Evaluation) $A(m)$ is divisible by $p - mq$.
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
 # Reciprocal Polynomial Equations
 
 >[!DEFINITION] Definition: Reciprocal Polynomial Equations
@@ -102,7 +150,7 @@ tags:
 
 ## Properties
 
->[!THEOREM]- Algorithm: Degree Reduction for Reciprocal Polynomial Equations of Even Degree
+>[!ALGORITHM]- Algorithm: Degree Reduction for Reciprocal Polynomial Equations of Even Degree
 >
 >We are given a [reciprocal polynomial equation](Real%20Polynomial%20Equations.md#Reciprocal%20Polynomial%20Equations)
 >
@@ -110,15 +158,21 @@ tags:
 >a_0 x^{2n} + a_1x^{2n - 1} + \cdots + a_{n-1} x^{n+1} + a_n x^n + a_{n-1} p x^{n-1} + \cdots + a_1 p^{n-1}x + a_0 p^n = 0
 >$$
 >
->of degree $2n$. 
+>of degree $2n$. We can reduce it to a [real polynomial equation](Real%20Polynomial%20Equations.md) of degree $n$ in the following way:
 >
 >1. Divide by $x^n$.
->2. Substitute $y = x + \frac{p}{x}$
 >
->>[!PROOF]-
->>
->>TODO
->>
+>2. Group the terms appropriately.
+>
+>$$
+>a_0\left(x^n + \frac{p^n}{x^n}\right) + a_1 \left(x^{n-1} + \frac{p^{n-1}}{x^{n-1}}\right) + \cdots + a_{n-1} \left( x + \frac{p}{x}\right) + a_n = 0
+>$$
+>
+>3. Substitute $y = x + \frac{p}{x}$.
+>
+>$$
+>a_0 y^n + a_1 y^{n-1} + \cdots + a_{n-1} y + a_n = 0
+>$$
 >
 
 >[!THEOREM]- Theorem: Roots of Reciprocal Polynomial Equations of Odd Degree

@@ -2,7 +2,7 @@
 >
 >Let $R$ be a [commutative ring](../../index.md) and let $A(x)$ and $B(x)$ be two [univariate polynomials](./index.md) over $R$ such that the [degree](../Polynomials.md) of $A$ is greater than or equal to the degree of $B$.
 >
->If $B(x)$ is [nonzero](../Zero%20Polynomial.md), then there exist unique polynomials $Q(x)$ and $R(x)$ such that
+>If $B(x)$ is [nonzero](../Polynomials.md), then there exist unique polynomials $Q(x)$ and $R(x)$ such that
 >
 >$$
 >A(x) = Q(x)B(x) + R(x),
@@ -41,7 +41,7 @@
 >>A(x) = (x-p)Q(x) + R(x)
 >>$$
 >>
->>Since the [degree](../Polynomials.md) of $B(x)$ is $1$, the degree of $R$ must either be $1$, i.e. $R$ is a constant and contains no variables or $R$ must be [zero](../Zero%20Polynomial.md). We can therefore denote $R(x)$ as just $R$. For $x = p$ we obtain 
+>>Since the [degree](../Polynomials.md) of $B(x)$ is $1$, the degree of $R$ must either be $1$, i.e. $R$ is a constant and contains no variables or $R$ must be [zero](../Polynomials.md). We can therefore denote $R(x)$ as just $R$. For $x = p$ we obtain 
 >>
 >>$$
 >>A(p) = (p-p)Q(p) + R = 0 + R = R

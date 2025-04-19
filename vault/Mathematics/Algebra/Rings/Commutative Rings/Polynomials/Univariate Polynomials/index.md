@@ -48,7 +48,7 @@ tags:
 
 >[!THEOREM] Theorem: Equality of Univariate Polynomials
 >
->Let $A(x)$ and $B(x)$ be two [nonzero](../Zero%20Polynomial.md) [polynomials](./index.md) over an [integral domain](../../Integral%20Domains/Integral%20Domain.md) with [degrees](../Polynomials.md) $\deg(A)$ and $\deg(B)$.
+>Let $A(x)$ and $B(x)$ be two [nonzero](../Polynomials.md) [polynomials](./index.md) over an [integral domain](../../Integral%20Domains/Integral%20Domain.md) with [degrees](../Polynomials.md) $\deg(A)$ and $\deg(B)$.
 >
 >If $A(x)$ and $B(x)$ have the same [value](../Polynomials.md) for $\max\{\deg(A), \deg(B)\}+1$ different values for $x$, then $A$ and $B$ are [equal](../Polynomials.md).
 >

@@ -25,11 +25,20 @@ tags:
 >>
 >
 
+>[!DEFINITION] Definition: Zero Polynomial
+>
+>The **zero polynomial** over a [commutative ring](../index.md) $R$ in the variables $x_1, \cdots, x_n$ is the [polynomial](Polynomials.md) whose coefficients are all $0$, i.e. 
+>
+>$$
+>\mathcal{Z}(x_1, \cdots, x_n) = 0
+>$$
+>
+
 ## Degree
 
 >[!DEFINITION] Definition: Degree of a Polynomial
 >
->The **degree** of a [nonzero](Zero%20Polynomial.md) [polynomial](Polynomials.md) $P$ is the highest [degree](Monomials.md) amongst its [monomials](Monomials.md).
+>The **degree** of a [nonzero](Polynomials.md) [polynomial](Polynomials.md) $P$ is the highest [degree](Monomials.md) amongst its [monomials](Monomials.md).
 >
 >>[!NOTATION]
 >>
@@ -87,6 +96,18 @@ tags:
 >>
 >
 
+>[!THEOREM]- Theorem: Equality of Univariate Polynomials
+>
+>Let $A(x)$ and $B(x)$ be [polynomials](Polynomials.md) and let $n$ be equal to the larger of the [degrees](Polynomials.md#Degree) of $A$ and $B$, i.e. $n = \max \{\deg(A), \deg(B)\}$.
+>
+>If one can find $n+1$ distinct values $x_1, \dotsc, x_{n+1}$ such that the [evaluations](Polynomials.md#Evaluation) $A(x_1), \dotsc, A(x_{n+1})$ are respectively equal to $B(x_1), \dotsc, B(x_{n+1})$, then $A$ and $B$ are [equal](Polynomials.md#Equality).
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
 # Operations
 
 >[!DEFINITION] Definition: Polynomial Addition
@@ -98,4 +119,3 @@ tags:
 >
 >TODO
 >
-
