@@ -622,7 +622,7 @@ tags:
 
 ## Comparative Degree
 
-The [comparative degree] in modern Greek is used to compare the intensity of adjectives and to show that one thing has more of a given property than another and can by formed in one of two ways:
+The [comparative degree](TODO) in modern Greek is used to compare the intensity of adjectives and to show that one thing has more of a given property than another and can by formed in one of two ways:
 - periphrastically - using the adverb "πιο";
 - synthetically - using the suffixes "-τερος" and "-ίων"
 
@@ -632,3 +632,54 @@ By far the most common way is the first one as forming the comparative is very s
 >
 >ψηλός, ψηλή, ψηλό / (long) - πιο ψηλός, πιο ψηλή, πιο ψηλό (longer)
 >
+
+The synthetic way to build the comparative degree is to add a variation of the suffix "-τερος, -τερη, -τερο" to the stem of the adjective:
+- Adjectives ending in -ος, - η / α, -ο add -ότερος, -ότερη, -ότερο;
+- Adjectives ending in -ύς, -ιά, -ύ add -ύτερος, -ύτερη, -ύτερο;
+- Adjectives ending in -ης, -ης, -ες add -έστερος, -έστερη, -έστερο;
+- Adjectives ending in -ων, -ων, -ον add -ονέστερος, -ονέστερη, -ονέστερο;
+
+>[!TIP]
+>
+>All synthetic comparatives decline like adjectives ending in -ος, -η, -ο.
+>
+
+>[!EXAMPLE]- Example: Synthetic Comparative
+>
+>ψηλός, ψηλή, ψηλό (long) - ψηλότερος, ψηλότερη, ψηλότερο (longer)
+>
+
+>[!WARNING] Warning: Irregular Comparatives
+>
+>The synthetic comparative of certain adjectives is irregular:
+>
+>|Positive|Comparative|
+>|:--:|:--:|
+>|απλός, -ή, -ό|απλούστερος, -η, -ο|
+>|καλός, -ή, -ό|καλήτερος, -η, -ο|
+>|κακός, -ή, -ό|χειρότερος, -η, -ο|
+>|μεγάλος, -η, -ο|μεγαλύτερος, -η, -ο|
+>|πολύς, πολλή, πολύ|περισσότερος, -η, -ο|
+>
+
+### Making Comparisons
+
+The comparisons are made using the comparative degree and "από" which translates to the word "than" in English. The noun to which we compare is always in the accusative.
+
+>[!EXAMPLE]- Example: Comparisons with από
+>
+>Η Ελένη είναι ψηλότερη από τη Μαρία. / Η Ελένη είναι πιο ψηλή από τη Μαρία. (Helen is taller than Maria.)
+>
+
+If [personal pronouns](Pronouns.md#Personal%20Pronouns) are used with the adjectives καλύτερος, μεγαλύτερος, μικρότερος, ανώτερος, κατώτερος, then the construction "από + accusative" can be replaced by the genitive [personal pronoun](Pronouns.md#Personal%20Pronouns).
+
+>[!EXAMPLE]- Example: Personal Pronouns with καλύτερος, μεγαλύτερος, μικρότερος, ανώτερος, κατώτερος
+>
+>Η Ελένη είναι δύο χρόνια μεγαλύτερη από μένα. / Η Ελένη είναι δύο χρόνια μεγαλύτερη μου. (Helen is two years older than me.)
+>
+
+##  Relative Superlative Degree
+
+
+
+## Absolute Superlative Degree

@@ -72,8 +72,8 @@ tags:
       <td style="text-align:center; vertical-align: middle;">αυτές</td>
       <td style="text-align:center; vertical-align: middle;">αυτής, της</td>
       <td style="text-align:center; vertical-align: middle;">αυτών, τους</td>
-      <td style="text-align:center; vertical-align: middle;">αυτήν, την</td>
-      <td style="text-align:center; vertical-align: middle;">αυτές, τις</td>
+      <td style="text-align:center; vertical-align: middle;">αυτή(ν), τη(ν)</td>
+      <td style="text-align:center; vertical-align: middle;">αυτές, τις, τες</td>
       <td style="text-align:center; vertical-align: middle;">-</td>
       <td style="text-align:center; vertical-align: middle;">-</td>
     </tr>
@@ -92,7 +92,49 @@ tags:
   </tbody>
 </table>
 
-Wherever there are two forms separated by a comma, the longer form is known as the **strong form** of the personal pronoun and thr shorter is its **weak form**.
+The third person accusative of the feminine singular is αυτήν / την only if the following word starts with a vowel or κ, π, τ, ξ, ψ, γκ, μπ, ντ and is αυτή / τη otherwise.
+
+Sometimes, there may be ambiguity about whether a pronoun in a sentence is genitive personal pronoun or a [possessive pronoun](Pronouns.md#Possessive%20Pronouns). This is resolved in speech by placing stress on the pronoun and in writing by adding and accent mark on it if it is a [personal pronoun](Pronouns.md#Personal%20Pronoun). However, there is no need for an accent mark in writing when both a [personal pronoun](Pronouns.md#Personal%20Pronouns) and a [possessive pronoun](Pronouns.md#Possessive%20Pronouns) are used, since it is obvious which is which in this case.
+
+>[!EXAMPLE]- Example: Ambiguous Pronouns
+>
+>Ο καθηγητής μού εξήγησε το μάθημα. - The teacher explained the lesson *to me*.
+>
+>Ο καθηγητής μου εξήγησε το μάθημα. - *My* teacher explained the lesson.
+>
+>Ο καθηγητής μου μου εξήγησε το μάθημα. - *My* teacher explained the lesson *to me*.
+>
+
+## Usage
+
+The nominative personal pronouns are not necessary because the verb conjugation shows who the subject is. Instead, these pronouns are usually used for emphasis in order to show that a specific someone and not someone else is doing the action.
+
+Personal pronouns which only have one form can also be used either before or after the verb. Wherever there are two forms separated by a comma, the longer form is known as the **strong form** of the personal pronoun and the shorter is its **weak form**. This distinction is very important because the different forms can only take specific places in the sentence:
+- Strong forms can come either before or after the verb. 
+- Weak forms always precede the verb in indicative and subjunctive sentences. The only exception is "τες" which always follows the verb.
+- Weak forms, however, always follow verbs in the imperative mood and participles.
+
+>[!EXAMPLE]- Example: Position of the Personal Pronouns
+>
+>Εγώ θα πληρώσω. / Θα πληρώσω εγώ. (I will pay.)
+>
+>Τον βλέπω. / Αυτόν βλέπω. / Βλέπω αυτόν. (I see him.)
+>
+>Τη βλέπω. / Αυτή βλέπω. / Βλέπω αυτή. (I see her.)
+>
+>Αν τις δεις, φώναξέ τες. (If you see them, call them.)
+>
+>Δώσε μου το μολύβι. (Give me the pencil.)
+>
+>Τραγουδούσε κοιτάζοντάς τη στα μάτια. (Looking her in the eyes, he was singing.)
+>
+
+It is also quite common to see the strong and the weak form of the same personal pronoun used one after ther other.
+
+>[!EXAMPLE]
+>
+>Εμένα με λένε Ελένη. (They call me Helen.)
+>
 
 # Possessive Pronouns
 
@@ -147,3 +189,104 @@ The [adjective](../Latin/Adjectives.md) δικός, ή, ό can also be used to e
 >
 >Μένουν στο δικό τους σπίτι. - They live in their own house.
 >
+
+# Relative Pronouns
+
+Relative pronouns are used to introduce relative clauses. 
+
+The most common relative pronoun is που. It is indeclinable and can stand for any noun regardless of its gender, case or number.
+
+>[!EXAMPLE]- Example: The Relative Pronoun "που"
+>
+>Έχασα το βιβλίο που μου δάνεισες. (I lost the book which you gave me.)
+>
+
+The relative pronoun οποίος, οποία, οποίο is a more formal equivalent of που. It is always preceded by the [definite article](Definiteness.md) and must agree in gender, case and number with the noun it refers to. It is declined like an [adjective](Adjectives.md) ending in -ος, -α, -ο.
+
+>[!EXAMPLE]- Example: οποίος, οποία, οποίο
+>
+>Έχασα το βιβλίο το οποίο μου δάνεισες. (I lost the book which you gave me.)
+>
+
+The relative pronoun όποιος, όποια, όποιο means "whoever" / "whichever" / "anyone who". It is used *without* the [definite article](Definiteness.md) and declines like an [adjective](Adjectives.md) ending in -ος, -α, -ο.
+
+>[!EXAMPLE]- Example: όποιος, όποια, όποιο
+>
+>Όπιος θέλει μπορεί να έρθει μαζί μας. (Whoever wants can come with us.)
+>
+
+The construction "ό, τι" serves a very similar purpose as όποιος, όποια, όποιο but can only be used with inanimate objects and is indeclinable. It is best translated as "whatever" / "what" / "any".
+
+>[!EXAMPLE]- Example: ό, τι
+>
+>Θα φάω ό, τι βρω στο ψυγείο. (I will eat whatever I find in the fridge.)
+>
+
+The relative pronoun όσος, όση, όσο means "as much as" / "as many as". It is used *without* the [definite article](Definiteness.md) and must agree in gender, case and number with the noun it refers to. It declines like an [adjective](Adjectives.md) ending in -ος, -η, -ο.
+
+>[!EXAMPLE]- Example: όσος, όση, όσο
+>
+>Θα αγοράσω όσα μήλα θέλεις. (I will buy as many apples as you want.)
+>
+
+# Demonstrative Pronouns
+
+Demonstrative pronouns indicate which specific object a person is talking about.
+
+The pronoun αυτός, αυτή, αυτό can be translated as "this" / "these" and is used whenever the object is close to the speaker. It must agree in gender, case and number with the [noun](Nouns.md) it refers to and declines like an [adjective](Adjectives.md) ending in -ος, -η, -ο. This pronoun is always used in conjunction with the [definite](Definiteness.md) article and is placed right before it.
+
+>[!EXAMPLE]- Example: αυτός, αυτή, αυτό
+>
+>Μπράβο σου για *αυτό το ρόλο*. (Congratulations for this role.)
+>
+
+The pronoun εκείνος, εκείνη, εκείνο can be translated as "that" / "those" and is used whenever the object is farther from the speaker. It must agree in gender, case and number with the [noun](Nouns.md) it refers to and declines like an [adjective](Adjectives.md) ending in -ος, -η, -ο. This pronoun is always used in conjunction with the [definite](Definiteness.md) article and is placed right before it.
+
+>[!EXAMPLE]- Example: εκείνος, εκείνη, εκείνο
+>
+>Εκείνο το βιβλίο είναι δικό μου. (That book is mine.)
+>
+
+# Interrogative Pronouns
+
+The interrogative pronoun "τι" is used to ask questions about inanimate objects and is indeclinable.
+
+>[!EXAMPLE]- Example: Questions with τι
+>
+>Τι κάνεις? (What are you doing?)
+>
+>Με τι γράφεις? (What are you writing with?)
+>
+>Από τι ώρα περιμένεις? (Since what time are you waiting?)
+>
+
+The interrogative pronoun ποιος, ποια, ποιο is used for asking questions about people and for asking questions about inanimate objects when there is a limited number of them and the speaker essentially wants to "choose" one over the others. The pronoun must agree with the thing it refers to in gender, case and number. It is declined like an [adjective](Adjectives.md) ending in -ος, -α, -ο, although the genetive singular and genitive plural can also have the forms ποιανού and ποιανών, respectively.
+
+>[!EXAMPLE]- Example: Questions with ποιος, ποια, ποιο
+>
+>Ποιος είναι αυτός? - Who is this? (asking about a man)
+>
+>Ποια είναι αυτή? - Who is this? (asking about a woman)
+>
+>Ποια ταινία θέλεις να δούμε? - Which movie do you want to watch?
+>
+>Ποιο χρώμα προτιμάς? - Which color do you prefer?
+>
+
+The interrogative pronouns τίνος and τίνων are used to enquire about the owner of something. The former is used when the thing is singular and the latter is used when the thing is plural.
+
+>[!EXAMPLE]- Example: Questions with τίνος / τίνων
+>
+>Τίνος είναι αυτό το παλτό? - Whose coat is this?
+>
+>Τίνων είναι αυτά τα παιδιά που παίζουν στην αυλή? - Whose children are these which are playing in the yard?
+>
+
+The interrogative pronoun πόσος, πόση, πόσο is used for asking about quantity and can be translated as "how much" / "how many". It is declined like an [adjective](Adjectives.md) ending in -ος, -η, -ο and must agree with the thing it refers to in gender, case and number.
+
+>[!EXAMPLE]- Example: Questions with πόσος, πόση, πόσο
+>
+>Πόσο γάλα θέλεις στον καφέ σου? - How much milk do you want in your coffee?
+>
+
+
