@@ -19,7 +19,7 @@ tags:
 
 >[!DEFINITION] Definition: Real Function
 >
->A **real function** is a [real-valued functions](Functions%20of%20the%20Real%20Numbers.md) whose [domain](../Functions/Functions.md) is a [subset](../../../Set%20Theory/Subsets.md) of the [real numbers](../../../Algebra/Fields/The%20Real%20Numbers/The%20Real%20Numbers.md):
+>A **real function** is a [real-valued function](Functions%20of%20the%20Real%20Numbers.md) whose [domain](../Functions/Functions.md) is a [subset](../../../Set%20Theory/Subsets.md) of the [real numbers](../../../Algebra/Fields/The%20Real%20Numbers/The%20Real%20Numbers.md):
 >
 >$$
 >f: \mathcal{D} \subseteq \mathbb{R} \to \mathbb{R}

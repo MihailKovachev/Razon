@@ -7,7 +7,7 @@ tags:
     - mathematics
 ---
 
-# Convergence and Limits
+# Convergence and Real Limits
 
 >[!DEFINITION] Definition: Convergence of Real Sequences
 >
@@ -21,7 +21,7 @@ tags:
 >
 >The number $L$, if it exists, is called the **limit** of $\{a_n\}$ as $n$ approaches infinity.
 >
->>[!NOTATION]-
+>>[!NOTATION]
 >>
 >>The most common notation is
 >>
@@ -69,9 +69,9 @@ tags:
 >>
 >
 
-## Convergence Criteria
+## Characterizations
 
->[!THEOREM]
+>[!THEOREM]- Theorem: Approaching Zero
 >
 >A [real sequence](Real%20Sequences.md) $\{a_n\}$ [converges](Convergence%20of%20Real%20Sequences.md) to $L \in \mathbb{R}$ if and only if
 >
@@ -85,7 +85,7 @@ tags:
 >>
 >
 
->[!THEOREM] Theorem: Cauchy Sequences
+>[!THEOREM]- Theorem: Cauchy Sequences
 >
 >A [real sequence](Real%20Sequences.md) $\{a_n\}$ is [convergent](Convergence%20of%20Real%20Sequences.md) if and only if, for each $\varepsilon \gt 0$, there exists some integer $N$ such that
 >
@@ -104,9 +104,9 @@ tags:
 >>
 >
 
-## Limit Properties
+## Properties
 
->[!THEOREM] Theorem: Boundedness of Convergent Sequences
+>[!THEOREM]- Theorem: Boundedness of Convergent Sequences
 >
 >Every [convergent](Convergence%20of%20Real%20Sequences.md) [real sequence](Real%20Sequences.md) is [bounded](../Real%20Functions/Bounds%20of%20Real%20Functions.md).
 >
@@ -151,7 +151,7 @@ tags:
 >>
 >
 
->[!THEOREM] Theorem: Convergence to Zero
+>[!THEOREM]- Theorem: Convergence to Zero
 >
 >A [real sequence](Real%20Sequences.md) $\{a_n\}$ [converges](Convergence%20of%20Real%20Sequences.md) to zero if and only if $\{|a_n|\}$ converges to zero.
 >
@@ -165,15 +165,51 @@ tags:
 >>
 >
 
->[!THEOREM]
+>[!THEOREM]- The Squeeze Theorem for Sequences
 >
->Let $\{a_n\}$ and $\{b_n\}$ be [real sequences](Real%20Sequences.md).
+>Let $\{a_n\}$, $\{b_n\}$ and $\{c_n\}$ be [real sequences](Real%20Sequences.md) such that both $\{a_n\}$ and $\{b_n\}$ [converge](Convergence%20of%20Real%20Sequences.md) to $L \in \mathbb{R}$.
 >
->If $\{a_n\}$ [converges](Convergence%20of%20Real%20Sequences.md) to zero and there exists some integer $N$ such that $|b_n| \le |a_n|$ for all $n \ge N$, then $\{b_n\}$ also [converges](Convergence%20of%20Real%20Sequences.md) to zero.
+>If there exists an integer $N$ such that $a_n \le c_n \le b_n$ for all $n \ge N$, then $\{c_n\}$ also [converges](Convergence%20of%20Real%20Sequences.md) to $L$.
+>
+>$$
+>\lim_{n\to\infty} c_n = \lim_{n\to\infty} a_n = \lim_{n\to\infty} b_n = L
+>$$
 >
 >>[!PROOF]-
 >>
->>TODO
+>>Let $\varepsilon \gt 0$. Since $(a_n)_{n \in \mathbb{N}}$ and $(b_n)_{n \in \mathbb{N}}$ are convergent, there exist $N_a, N_b \in \mathbb{N}$ such that
+>>
+>>$$
+>>|a_n - L| \lt \varepsilon \qquad \forall n \gt N_a
+>>$$
+>>
+>>$$
+>>|b_n - L| \lt \varepsilon \qquad \forall n \gt N_b
+>>$$
+>>
+>>We also assumed that there is an integer $N$ such that
+>>
+>>$$
+>>a_n \le c_n \le b_n \qquad \forall n \gt N
+>>$$
+>>
+>>It follows then
+>>
+>>$$
+>>L - \varepsilon \lt a_n \le c_n \le b_n \lt L + \varepsilon \qquad \forall n \ge \max \{N, N_a, N_b\}
+>>$$
+>>
+>>From this we see that
+>>
+>>$$
+>>L - \varepsilon \le c_n \le L + \varepsilon \qquad \forall n \ge \max \{N, N_a, N_b\}
+>>$$
+>>
+>>This is the same as
+>>
+>>$$
+>>|c_n - L| \lt \varepsilon \qquad n \ge \max \{N, N_a, N_b\}
+>>$$
 >>
 >
 
@@ -339,95 +375,197 @@ tags:
 >>
 >
 
->[!THEOREM] The Squeeze Theorem for Sequences
->
->Let $\{a_n\}$, $\{b_n\}$ and $\{c_n\}$ be [real sequences](Real%20Sequences.md) such that both $\{a_n\}$ and $\{b_n\}$ [converge](Convergence%20of%20Real%20Sequences.md) to $L \in \mathbb{R}$.
->
->If there exists an integer $N$ such that $a_n \le c_n \le b_n$ for all $n \ge N$, then $\{c_n\}$ also [converges](Convergence%20of%20Real%20Sequences.md) to $L$.
->
->$$
->\lim_{n\to\infty} c_n = \lim_{n\to\infty} a_n = \lim_{n\to\infty} b_n = L
->$$
->
->>[!PROOF]-
->>
->>Let $\varepsilon \gt 0$. Since $(a_n)_{n \in \mathbb{N}}$ and $(b_n)_{n \in \mathbb{N}}$ are convergent, there exist $N_a, N_b \in \mathbb{N}$ such that
->>
->>$$
->>|a_n - L| \lt \varepsilon \qquad \forall n \gt N_a
->>$$
->>
->>$$
->>|b_n - L| \lt \varepsilon \qquad \forall n \gt N_b
->>$$
->>
->>We also assumed that there is an integer $N$ such that
->>
->>$$
->>a_n \le c_n \le b_n \qquad \forall n \gt N
->>$$
->>
->>It follows then
->>
->>$$
->>L - \varepsilon \lt a_n \le c_n \le b_n \lt L + \varepsilon \qquad \forall n \ge \max \{N, N_a, N_b\}
->>$$
->>
->>From this we see that
->>
->>$$
->>L - \varepsilon \le c_n \le L + \varepsilon \qquad \forall n \ge \max \{N, N_a, N_b\}
->>$$
->>
->>This is the same as
->>
->>$$
->>|c_n - L| \lt \varepsilon \qquad n \ge \max \{N, N_a, N_b\}
->>$$
->>
->
-
-# Divergence
+# Divergence and Infinite Limits
 
 >[!DEFINITION] Definition: Divergence of Real Sequences
 >
 >A [real sequence](Real%20Sequences.md) is **divergent** iff it does not [converge](Convergence%20of%20Real%20Sequences.md) to any $\mathbb{R}$.
 >
+
+There are two special types of divergence in which we are often interested. 
+
+>[!DEFINITION] Definition: Divergence towards Positive Infinity
 >
->>[!DEFINITION] Definition: Divergence towards Positive Infinity
->>
->>A [real sequence](Real%20Sequences.md) $\{a_n\}$ **diverges towards positive infinity** iff for each $A \in \mathbb{R}$ there is some integer $N$ such that
->>
->>$$
->>a_n \gt A \qquad \forall n \ge N
->>$$
->>
->>>[!NOTATION]-
->>>
->>>$$
->>>\lim_{n \to \infty} a_n = \infty
->>>$$
->>>
->>
+>A [real sequence](Real%20Sequences.md) $\{a_n\}$ **diverges towards positive infinity** iff for each $A \in \mathbb{R}$ there is some integer $N$ such that
 >
->>[!DEFINITION] Definition: Divergence towards Negative Infinity
->>
->>A [real sequence](Real%20Sequences.md) $\{a_n\}$ **diverges towards negative infinity** iff for each $A \in \mathbb{R}$ there is some integer $N$ such that
+>$$
+>a_n \gt A \qquad \forall n \ge N
+>$$
+>
+>>[!NOTATION]
 >>
 >>$$
->>a_n \lt A \qquad \forall n \ge N
+>>\lim_{n \to \infty} a_n = \infty
 >>$$
->>
->>>[!NOTATION]-
->>>
->>>$$
->>>\lim_{n \to \infty} a_n = -\infty
->>>$$
->>>
 >>
 >
->>[!WARNING]
+
+>[!DEFINITION] Definition: Divergence towards Negative Infinity
+>
+>A [real sequence](Real%20Sequences.md) $\{a_n\}$ **diverges towards negative infinity** iff for each $A \in \mathbb{R}$ there is some integer $N$ such that
+>
+>$$
+>a_n \lt A \qquad \forall n \ge N
+>$$
+>
+>>[!NOTATION]
 >>
->>Even though we use limit notation for sequences that diverge towards positive or negative infinity, these sequences are NOT [convergent](Convergence%20of%20Real%20Sequences.md) and their limits do NOT exist.
+>>$$
+>>\lim_{n \to \infty} a_n = -\infty
+>>$$
+>>
+>
+
+Even though we use limit notation for sequences that diverge towards positive or negative infinity, these sequences are *not* [convergent](Convergence%20of%20Real%20Sequences.md) and their limits do *not* exist. However, we often talk of "infinite limits" because of the notation we have chosen. Just remember that, strictly speaking, the "limits" of [divergent](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) [real sequences](Real%20Sequences.md) *never* exist.
+
+## Properties
+
+>[!THEOREM]- Theorem: The Limit of $\frac{1}{n^k}$
+>
+>For every natural number $k \gt 0$, the [real sequence](Real%20Sequences.md) $\{ \frac{1}{n^k}\}$ [converges](Convergence%20of%20Real%20Sequences.md) to $0$.
+>
+>$$
+>\lim_{n \to \infty} \frac{1}{n^k} = 0
+>$$
+>
+>>[!PROOF]-
+>>
+>>*The following proof was generated by AI and may contain mistakes.* TODO: Review
+>>
+>>We want to prove that the sequence $a_n = \frac{1}{n^k}$ converges to $0$ for any fixed natural number $k > 0$.
+>>By the definition of convergence, we need to show that for every $\epsilon > 0$, there exists a natural number $N$ such that for all $n > N$, we have $|a_n - 0| < \epsilon$.
+>>
+>>Let $\epsilon > 0$ be an arbitrary positive real number. We want to find an $N \in \mathbb{N}$ such that for all $n > N$,
+>>
+>>$$|\frac{1}{n^k} - 0| < \epsilon$$
+>>
+>>Since $n$ is a natural number, $n \ge 1$. Since $k$ is a natural number $k > 0$, we have $n^k \ge 1^k = 1$. Thus, $n^k$ is always positive.
+>>Therefore, the absolute value simplifies to:
+>>
+>>$$|\frac{1}{n^k} - 0| = |\frac{1}{n^k}| = \frac{1}{n^k}$$
+>>
+>>So, we need to find $N \in \mathbb{N}$ such that for all $n > N$,
+>>
+>>$$\frac{1}{n^k} < \epsilon$$
+>>
+>>Since $\epsilon > 0$ and $n^k > 0$, we can rearrange the inequality:
+>>Take the reciprocal of both sides (this reverses the inequality sign):
+>>
+>>$$n^k > \frac{1}{\epsilon}$$
+>>
+>>Since $k > 0$, we can take the $k$-th root of both sides. The function $x \mapsto x^{1/k}$ is strictly increasing for positive $x$.
+>>
+>>$$n > \left(\frac{1}{\epsilon}\right)^{1/k}$$
+>>
+>>We need to find a natural number $N$ such that for all $n > N$, the condition $n > (\frac{1}{\epsilon})^{1/k}$ holds.
+>>By the Archimedean Property of the real numbers, for any positive real number, such as $(\frac{1}{\epsilon})^{1/k}$, there exists a natural number $N$ greater than it.
+>>So, we can choose $N$ to be any natural number such that
+>>
+>>$$N > \left(\frac{1}{\epsilon}\right)^{1/k}$$
+>>
+>>For example, we can choose $N = \lfloor (\frac{1}{\epsilon})^{1/k} \rfloor + 1$.
+>>
+>>Now, let's verify this choice of $N$. Suppose $n$ is any natural number such that $n > N$. Since $N > (\frac{1}{\epsilon})^{1/k}$, we have $n > N > (\frac{1}{\epsilon})^{1/k}$. So, $n > (\frac{1}{\epsilon})^{1/k}$. Since $k > 0$, raising both sides to the power of $k$ (which is an increasing function for positive values) preserves the inequality:
+>>
+>>$$n^k > \left(\left(\frac{1}{\epsilon}\right)^{1/k}\right)^k$$
+>>
+>>$$n^k > \frac{1}{\epsilon}$$
+>>
+>>Since $n^k > 0$ and $\epsilon > 0$, we can take the reciprocal of both sides, which reverses the inequality:
+>>
+>>$$\frac{1}{n^k} < \epsilon$$
+>>
+>>Since we already established that $|\frac{1}{n^k} - 0| = \frac{1}{n^k}$, we have shown that for any $n > N$,
+>>
+>>$$|\frac{1}{n^k} - 0| < \epsilon$$
+>>
+>>Since we found such an $N$ for an arbitrary $\epsilon > 0$, by the definition of convergence, the sequence $\frac{1}{n^k}$ converges to $0$.
+>>
+>>This completes the proof.
+>
+
+>[!THEOREM]- Theorem: Reciprocal Limits
+>
+>Let $\{a_n\}$ be a [real sequence](Real%20Sequences.md).
+>
+>If $\{a_n\}$ [converges](Convergence%20of%20Real%20Sequences.md) to $0$ and there exists some integer $N$ such that $a_n \gt 0$ for all $n \ge N$, then $\{\frac{1}{a_n}\}$ [diverges](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) towards $+\infty$.
+>
+>$$
+>a_n \gt 0 \text{ and } \lim_{n \to \infty} a_n = 0 \implies \lim_{n \to \infty} \frac{1}{a_n} = +\infty
+>$$
+>
+>If $\{a_n\}$ [converges](Convergence%20of%20Real%20Sequences.md) to $0$ and there exists some integer $N$ such that $a_n \lt 0$ for all $n \ge N$, then $\{\frac{1}{a_n}\}$ [diverges](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) towards $-\infty$.
+>
+>$$
+>a_n \lt 0 \text{ and } \lim_{n \to \infty} a_n = 0 \implies \lim_{n \to \infty} \frac{1}{a_n} = -\infty
+>$$
+>
+>If $\{a_n\}$ [diverges](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) towards either $+\infty$ or $-\infty$, then $\{\frac{1}{a_n}\}$ [converges](Convergence%20of%20Real%20Sequences.md) to $0$.
+>
+>$$
+>\lim_{n \to \infty} a_n = \pm \infty \implies \lim_{n \to \infty} \frac{1}{a_n} = 0
+>$$ 
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
+>[!THEOREM]- Theorem: Arithmetic with Infinite Limits
+>
+>Let $\{a_n\}$ and $\{b_n\}$ be [real sequences](Real%20Sequences.md). 
+>
+>If $\{a_n\}$ [converges](Convergence%20of%20Real%20Sequences.md#Convergence%20and%20Real%20Limits) but $\{b_n\}$ [diverges](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) towards $\pm \infty$, then $\{a_n + b_n\}$ also [diverges](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) towards $\pm \infty$.
+>
+>$$
+>\lim_{n \to \infty} a_n \in \mathbb{R} \text{ and } \lim_{n \to \infty} b_n = \pm \infty \implies \lim_{n\to \infty} (a_n + b_n) = \pm \infty
+>$$
+>
+>If $\{a_n\}$ [converges](Convergence%20of%20Real%20Sequences.md#Convergence%20and%20Real%20Limits) towards $L \in \mathbb{R}$ but $\{b_n\}$ [diverges](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) towards $\pm \infty$, then $\{a_n \cdot b_n\}$ also [diverges](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) towards $\pm \infty$ when $L \gt 0$ and [diverges](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) towards $\mp \infty$ when $L \lt 0$.
+>
+>$$
+>\lim_{n \to \infty} a_n = L \in \mathbb{R} \text{ and } \lim_{n \to \infty} b_n = \pm \infty \implies \lim_{n\to \infty} (a_n \cdot b_n) = \begin{cases} \pm \infty \qquad \text{ if } L \gt 0 \\ \mp \infty \qquad \text{ if } L \lt 0\end{cases}
+>$$
+>
+>If $\{a_n\}$ and $\{b_n\}$ both [diverge](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) towards $\pm \infty$, then $\{a_n + b_n\}$ also [diverges](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) towards $\pm \infty$ and $\{a_n \cdot b_n\}$ [diverges](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) towards $+ \infty$.
+>
+>$$
+>\lim_{n \to \infty} a_n = \lim_{n \to \infty} b_n = \pm \infty \implies \lim_{n \to \infty} (a_n + b_n) = \pm \infty \text{ and } \lim_{n \to \infty} (a_n \cdot b_n) = + \infty
+>$$
+>
+>If $\{a_n\}$ [diverges](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) towards $\pm \infty$ but $\{b_n\}$ [diverges](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) towards $\mp \infty$, then $\{a_n \cdot b_n\}$ [diverges](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) towards $- \infty$. However, this information is insufficient to determine $\lim_{n\to \infty} (a_n + b_n)$.
+>
+>$$
+>\lim_{n \to \infty} a_n = \pm \infty \text{ and } \lim_{n \to \infty} b_n = \mp \infty \implies \lim_{n \to \infty} (a_n \cdot b_n) = -\infty
+>$$
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
+>[!THEOREM]- Theorem: The Limit of $\left(1 + \frac{1}{n}\right)^n$ and its Variations
+>
+>The [real sequence](Real%20Sequences.md) $a_n = \left(1 + \frac{1}{n}\right)^n$ [converges](Convergence%20of%20Real%20Sequences.md#Convergence%20and%20Real%20Limits) towards [Euler's number](../Real%20Functions/The%20Real%20Exponential%20Function.md) $\mathrm{e}$.
+>
+>$$
+>\lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^n = \mathrm{e}
+>$$
+>
+>Similarly, the [limits](Convergence%20of%20Real%20Sequences.md#Convergence%20and%20Real%20Limits) of the following [real sequences](Real%20Sequences.md) can also be expressed using the [real exponential function](../Real%20Functions/The%20Real%20Exponential%20Function.md):
+>
+>$$
+>\lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^{n + r} = \mathrm{e} \qquad \forall r \in \mathbb{R}
+>$$
+>
+>$$
+>\lim_{n \to \infty} \left(1 + \frac{r}{n}\right)^n = \mathrm{e}^r \qquad \forall r \in \mathbb{R}
+>$$
+>
+>>[!PROOF]-
+>>
+>>TODO
 >>
 >
