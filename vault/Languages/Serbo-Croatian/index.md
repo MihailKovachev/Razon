@@ -1,5 +1,5 @@
 ---
-title: Bosnian-Croatian-Montenegrin-Serbian
+title: Serbo-Croation
 tags:
     - serbo-croatian-language
     - languages
