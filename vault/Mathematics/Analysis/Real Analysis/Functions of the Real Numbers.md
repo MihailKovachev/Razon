@@ -15,6 +15,17 @@ tags:
 >A **real-valued function** is a [function](../Functions/Functions.md) whose [codomain](../Functions/Functions.md) are the [real numbers](../../Algebra/Fields/The%20Real%20Numbers/The%20Real%20Numbers.md).
 >
 
+>[!DEFINITION] Definition: Operations with Real-Valued Functions
+>
+>Let $f: \mathcal{D}_f \to \mathbb{R}$ and $g: \mathcal{D}_g \to \mathbb{R}$ be [real-valued functions](Functions%20of%20the%20Real%20Numbers.md).
+>
+>We define
+>- the **sum** of $f$ and $g$ as $f + g: \mathcal{D}_f \cap \mathcal{D}_g \to \mathbb{R}$ with $(f+g)(x) = f(x) + g(x)$;
+>- the **difference** $f - g: \mathcal{D}_f \cap \mathcal{D}_g \to \mathbb{R}$ with $(f-g)(x) = f(x) - g(x)$;
+>- the **product** of $f$ and $g$ as $fg: \mathcal{D}_f \cap \mathcal{D}_g \to \mathbb{R}$ with $(fg)(x) = f(x) g(x)$;
+>- the **ratio** $f/g: \mathcal{D} \to \mathbb{R}$ with $\mathcal{D} = \{x \in \mathcal{D}_f \cap \mathcal{D}_g \mid g(x) \ne 0\}$ and $(f/g)(x) = \frac{f(x)}{g(x)}$.
+>
+
 ## Real Functions
 
 >[!DEFINITION] Definition: Real Function

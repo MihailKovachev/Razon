@@ -213,7 +213,7 @@ tags:
 >>
 >
 
->[!THEOREM] Theorem: Limit Arithmetic
+>[!THEOREM]- Theorem: Limit Arithmetic
 >
 >If $\{a_n\}$ and $\{b_n\}$ are both [convergent](Convergence%20of%20Real%20Sequences.md) [real sequences](Real%20Sequences.md), then
 >
@@ -419,6 +419,21 @@ There are two special types of divergence in which we are often interested.
 Even though we use limit notation for sequences that diverge towards positive or negative infinity, these sequences are *not* [convergent](Convergence%20of%20Real%20Sequences.md) and their limits do *not* exist. However, we often talk of "infinite limits" because of the notation we have chosen. Just remember that, strictly speaking, the "limits" of [divergent](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) [real sequences](Real%20Sequences.md) *never* exist.
 
 ## Properties
+
+>[!THEOREM]- Theorem: The Limit of $q^n$
+>
+>The [real sequence](Real%20Sequences.md) $q^n$:
+>- [converges](Convergence%20of%20Real%20Sequences.md#Convergence%20and%20Real%20Limits) to $0$ if and only if $|q| \lt 1$;
+>- [converges](Convergence%20of%20Real%20Sequences.md#Convergence%20and%20Real%20Limits) to $1$ if and only if $|q| = 1$;
+>- [diverges](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) if and only if $|q| \gt 1$;
+>- [diverges](Convergence%20of%20Real%20Sequences.md#Divergence%20and%20Infinite%20Limits) towards $+ \infty$ if and only if $q \gt 1$.
+>
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
 
 >[!THEOREM]- Theorem: The Limit of $\frac{1}{n^k}$
 >

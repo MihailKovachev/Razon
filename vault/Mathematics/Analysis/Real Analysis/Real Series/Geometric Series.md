@@ -47,7 +47,7 @@ tags:
 
 >[!THEOREM]- Theorem: Convergence of Geometric Series
 >
->A [geometric series](Geometric%20Series.md) $(a_n)_{n \in \mathbb{N}}$ with ratio $q$ [converges absolutely](Convergence.md) if and only if $|q| \lt 1$ and [diverges otherwise](Convergence.md). If $(a_n)_{n \in \mathbb{N}}$. If $(a_n)_{n \in \mathbb{N}}$ [converges](Convergence.md), then
+>A [geometric series](Geometric%20Series.md) $(a_n)_{n \in \mathbb{N}}$ with ratio $q$ [converges absolutely](Convergence.md) if and only if $|q| \lt 1$ and [diverges otherwise](Convergence.md). If $(a_n)_{n \in \mathbb{N}}$ [converges](Convergence.md), then
 >
 >$$
 >\sum_{n = 1}^{\infty} a_n = \frac{a_1}{1 - q}
