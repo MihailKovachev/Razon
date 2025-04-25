@@ -1,5 +1,5 @@
 ---
-title: Euclidean Space
+title: The Topology of Euclidean Space
 tags:
   - euclidean-geometry
   - geometry

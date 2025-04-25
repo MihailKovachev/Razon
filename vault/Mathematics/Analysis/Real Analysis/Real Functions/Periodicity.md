@@ -7,6 +7,7 @@ tags:
   - mathematics
 ---
 
+# Periodicity
 
 >[!DEFINITION] Definition: Periodic Function
 >
@@ -24,4 +25,16 @@ tags:
 >$$
 >f(x+P) = -f(x) \qquad \forall x \in D
 >$$
+>
+
+## Properties
+
+>[!THEOREM]- Theorem: Modifications of Periodic Functions
+>
+>If $f(x)$ has a [period](Periodicity.md) of $P$, then $f(\alpha x)$, where $\alpha \in \mathbb{R}$ has a [period](Periodicity.md) of $\frac{P}{\alpha}$, provided that $\alpha \ne 0$.
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
 >

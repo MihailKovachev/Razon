@@ -27,7 +27,7 @@ tags:
 |6|[Convergence of Real Sequences](../Mathematics/Analysis/Real%20Analysis/Real%20Sequences/Convergence%20of%20Real%20Sequences.md)|Convergence and limits of real sequences.||
 |7|[Monotony of Real Sequences](../Mathematics/Analysis/Real%20Analysis/Real%20Sequences/Monotony%20of%20Real%20Sequences.md)|Monotony of real sequences.||
 |8|[Limits of Real Functions](../Mathematics/Analysis/Real%20Analysis/Real%20Functions/Limits/Limits%20of%20Real%20Functions.md)|One-sided limits, two-sided limits, infinite limits, limits at infinity.||
-|9|[Limit Properties](../Mathematics/Analysis/Real%20Analysis/Real%20Functions/Limits/Limit%20Properties.md)|Linearity of limits, arithmetic with limits.|Ignore L'Hôpital's rule for now.|
+|9|[Limits of Real Functions](../Mathematics/Analysis/Real%20Analysis/Real%20Functions/Limits/Limits%20of%20Real%20Functions.md)|Linearity of limits, arithmetic with limits.|Ignore L'Hôpital's rule for now.|
 |10|[Asymptotes](../Mathematics/Analysis/Real%20Analysis/Real%20Functions/Limits/Asymptotes.md)|Asymptotes and how to find them.||
 |11|[Continuity](../Mathematics/Analysis/Real%20Analysis/Real%20Functions/Continuity.md)|Continuity of real functions, properties of continuous functions.|Ignore properties related to integration for now.|
 |12|[Differentiability](../Mathematics/Analysis/Real%20Analysis/Real%20Functions/Differentiability.md)|Differentiability and derivatives of real functions, differentiation rules, common derivatives.||
