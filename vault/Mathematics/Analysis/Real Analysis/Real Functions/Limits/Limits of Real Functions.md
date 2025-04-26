@@ -382,16 +382,16 @@ tags:
 >\lim_{x \to c} f(x) = \pm \infty \implies \lim_{x \to c} \frac{1}{f(x)} = 0.
 >$$
 >
->- If $\lim_{x \to c} f(x) = 0$ and there exists some [neighborhood](../../The%20Topology%20of%20Euclidean%20Space.md) of $c$ on which $f(x) \gt 0$, then $\lim_{x \to c} \frac{1}{f(x)} = + \infty$, i.e.
+>- If $\lim_{x \to c} f(x) = 0$ and there exists some [neighborhood](../../The%20Topology%20of%20Euclidean%20Space.md) $\mathcal{N}$ of $c$ on which $f(x) \gt 0$, then $\lim_{x \to c} \frac{1}{f(x)} = + \infty$, i.e.
 >
 >$$
->\lim_{x \to c} f(x) = 0 \text{ and } f(x) \gt 0 \text{ for all } x \in (c - \varepsilon; c + \varepsilon) \implies \lim_{x \to c} \frac{1}{f(x)} = + \infty.
+>\lim_{x \to c} f(x) = 0 \text{ and } f(x) \gt 0 \text{ for all } x \in \mathcal{N} \implies \lim_{x \to c} \frac{1}{f(x)} = + \infty.
 >$$
 >
->- If $\lim_{x \to c} f(x) = 0$ and [neighborhood](../../The%20Topology%20of%20Euclidean%20Space.md) of $c$ on which $f(x) \lt 0$, then $\lim_{x \to c} \frac{1}{f(x)} = - \infty$, i.e.
+>- If $\lim_{x \to c} f(x) = 0$ and [neighborhood](../../The%20Topology%20of%20Euclidean%20Space.md) $\mathcal{N}$ of $c$ on which $f(x) \lt 0$, then $\lim_{x \to c} \frac{1}{f(x)} = - \infty$, i.e.
 >
 >$$
->\lim_{x \to c} f(x) = 0 \text{ and } f(x) \lt 0 \text{ for all } x \in (c - \varepsilon; c + \varepsilon) \implies \lim_{x \to c} \frac{1}{f(x)} = - \infty.
+>\lim_{x \to c} f(x) = 0 \text{ and } f(x) \lt 0 \text{ for all } x \in \mathcal{N} \implies \lim_{x \to c} \frac{1}{f(x)} = - \infty.
 >$$
 >
 >>[!PROOF]-
@@ -448,7 +448,7 @@ tags:
 >>
 >
 
->[!THEOREM]-
+>[!THEOREM]- Theorem
 >
 >Let $g$ be a [real function](../../Functions%20of%20the%20Real%20Numbers.md#Real%20Function) whose [limit](Limits%20of%20Real%20Functions.md#Real%20Limits) for some $c \in \mathbb{R}$ is zero, i.e. $\lim_{x \to c} g(x) = 0$, and let $f$ be some other [real function](../../Functions%20of%20the%20Real%20Numbers.md#Real%20Function).
 >

@@ -5,9 +5,11 @@ tags:
     - languages
 ---
 
+# The Arabic Alphabet
+
+The Arabic alphabet consists of 28 letters - 25 of them are used to represent consonant sounds and 3 of them are used to represent long vowel sounds.
 
 <table style="text-align:center;">
-<caption>Arabic letters usage in Literary Arabic</caption>
 <thead>
 <tr>
 <th style="text-align:center">Final</th>
@@ -286,7 +288,7 @@ tags:
 <td style="text-align:center">ـو</td>
 <td style="text-align:center">و</td>
 <td style="text-align:center">و</td>
-<td style="text-align:center">/w/, /uː/</td>
+<td style="text-align:center">/w/ (final), /uː/</td>
 <td style="text-align:center">وَاو</td>
 <td style="text-align:center">[waːw]</td>
 <td style="text-align:center">w, ū</td>
@@ -296,20 +298,56 @@ tags:
 <td style="text-align:center">ـيـ</td>
 <td style="text-align:center">يـ</td>
 <td style="text-align:center">ي</td>
-<td style="text-align:center">/j/, /iː/</td>
+<td style="text-align:center">/j/ (final), /iː/</td>
 <td style="text-align:center">يَاء</td>
 <td style="text-align:center">[jaːʔ]</td>
 <td style="text-align:center">y, ī</td>
 </tr>
-<tr>
-<td style="text-align:center"></td>
-<td style="text-align:center"></td>
-<td style="text-align:center"></td>
-<td style="text-align:center">ء</td>
-<td style="text-align:center">/ʔ/</td>
-<td style="text-align:center">هَمْزة</td>
-<td style="text-align:center">[hamza(h)]</td>
-<td style="text-align:center">ʾ / ʔ</td>
-</tr>
 </tbody>
 </table>
+
+The Arabic script is written from right to left and top to bottom.
+
+## Hamza
+
+The symbol ء is known as هَمْزة (hamzah) and is used to indicate a glottal stop /ʔ/. It can appear either on its own like a separate letter or as a diacritic on ي, و,ا, indicating that said letter should be preceded by a glottal stop:
+- The hamza can be placed above or below an initial or isolated ا (turning into أ or إ)  but it can only placed above a medial or a final ا (turning into ـأ).
+- The hamza can only be placed above a medial or final و (such as ـؤ) and is never used on an initial و.
+- The hamza can only be placed above a medial or final ي (turning into ـئ or ـئـ or ئـ) and is never used on an initial ي.
+
+## Vowels
+
+Short vowel sounds are rarely indicated in written Arabic. Instead, the speaker needs to rely on their knowledge of the language to determine what vowels to pronounce. However, different vowels can result in drastically different meanings. This is why there is a system of diacritics to indicate short vowel sounds when clarity is imperative such as when studying the language or reading the Quran. When a text uses this system, it is said to *vocalized* and it is *unvocalized* otherwise.
+
+|Diacritic|IPA|Name (Arabic Script)|Name (Romanized)|
+|:--:|:--:|:--:|:--:|
+|ــَـ|/a/|فَتْحَة|fat·ḥah|
+|ــُـ|/u/|ضَمَّة|ḍammah|
+|ــِـ|/i/|كَسْرَة|kasrah|
+|ــْـ |/ø/|سُكُون|sukūn|
+
+When a diacritic is placed on a consonant letter, it indicates that the letter should be pronounced followed by the respective short vowel. The sukūn is a special diacritic which indicates that there is *no* vowel after the letter.
+
+The long vowel /a:/ in unvocalized texts is indicated by ا. In vocalized texts it is indicated by  ا and a fat·ḥah on the consonant preceding ا. 
+
+The long vowel /u:/ in unvocalized texts is indicated by و. In vocalized texts it is indicated by و and a dammah on the consonant preceding و.
+
+The long vowel /i:/ in unvocalized texts is indicated by ي. In vocalized texts it is indicated by ي and a kasrah on the consonant preceding ي.
+
+## Gemination
+
+**Gemination** or doubling of a consonant is indicated not by writing the letter for it twice but rather by placing a special diacritic ــّـ called شَدَّة (shaddah) on top of it.
+
+|Diacritic|Name (Arabic Script)|Name (Romanized)|Meaning|
+|:--:|:--:|:--:|:--:|
+|ــّـ| شَدَّة |shaddah|Doubling of the consonant.|
+
+A shaddah may be combined with another diacritic for indicating a short vowel.
+
+## Ligatures
+
+Ligatures are quire common in written Arabic. Although there are many optional ligatures, the ligature between ل and ا is compulsory.
+
+|Final|Medial|Initial|Isolated|Letters|IPA|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|ﻼ|ﻼ|ﻻ‎|ﻻ‎|ل + ا|/la:/
