@@ -8,57 +8,63 @@ tags:
 
 # Adjectives
 
+Adjectives in modern
+
+## Declension
+
+Nouns decline in gender, case and number in order to match the [noun](Nouns.md) they pertain to. Unlike nouns, however, the stress does not change in the different forms.
+
 <table>
-  <caption>Adjectives in -ος, -η / -α, -ο</caption>
+<caption>Adjectives in -ος, -η / -α, -ο</caption>
+<tr>
+<th rowspan="2"></th>
+<th colspan="3" style="text-align: center">Singular</th>
+<th colspan="3" style="text-align: center">Plural</th>
+</tr>
+<tr>
+<th style="text-align: center">Masculine</th>
+<th style="text-align: center">Feminine</th>
+<th style="text-align: center">Neuter</th>
+<th style="text-align: center">Masculine</th>
+<th style="text-align: center">Feminine</th>
+<th style="text-align: center">Neuter</th>
+</tr>
+<tr>
+<th style="text-align: center">Nominative</th>
+<td style="text-align: center">-ος</td>
+<td style="text-align: center">-η / -α</td>
+<td style="text-align: center">-ο</td>
+<td style="text-align: center">-οι</td>
+<td style="text-align: center">-ες</td>
+<td style="text-align: center">-α</td>
+</tr>
   <tr>
-    <th rowspan="2"></th>
-    <th colspan="3" style="text-align: center">Singular</th>
-    <th colspan="3" style="text-align: center">Plural</th>
-  </tr>
+<th style="text-align: center">Genitive</th>
+<td style="text-align: center">-ου</td>
+<td style="text-align: center">-ης / -ας</td>
+<td style="text-align: center">-ου</td>
+<td style="text-align: center">-ων</td>
+<td style="text-align: center">-ων</td>
+<td style="text-align: center">-ων</td>
+</tr>
   <tr>
-    <th style="text-align: center">Masculine</th>
-    <th style="text-align: center">Feminine</th>
-    <th style="text-align: center">Neuter</th>
-    <th style="text-align: center">Masculine</th>
-    <th style="text-align: center">Feminine</th>
-    <th style="text-align: center">Neuter</th>
-  </tr>
-  <tr>
-    <th style="text-align: center">Nominative</th>
-    <td style="text-align: center">-ος</td>
-    <td style="text-align: center">-η / -α</td>
-    <td style="text-align: center">-ο</td>
-    <td style="text-align: center">-οι</td>
-    <td style="text-align: center">-ες</td>
-    <td style="text-align: center">-α</td>
-  </tr>
-  <tr>
-    <th style="text-align: center">Genitive</th>
-    <td style="text-align: center">-ου</td>
-    <td style="text-align: center">-ης / -ας</td>
-    <td style="text-align: center">-ου</td>
-    <td style="text-align: center">-ων</td>
-    <td style="text-align: center">-ων</td>
-    <td style="text-align: center">-ων</td>
-  </tr>
-  <tr>
-    <th style="text-align: center">Accusative</th>
-    <td style="text-align: center">-ο</td>
-    <td style="text-align: center">-η / -α</td>
-    <td style="text-align: center">-ο</td>
-    <td style="text-align: center">-ους</td>
-    <td style="text-align: center">-ες</td>
-    <td style="text-align: center">-α</td>
-  </tr>
-  <tr>
-    <th style="text-align: center">Vocative</th>
-    <td style="text-align: center">-ε</td>
-    <td style="text-align: center">-η / -α</td>
-    <td style="text-align: center">-ο</td>
-    <td style="text-align: center">-οι</td>
-    <td style="text-align: center">-ες</td>
-    <td style="text-align: center">-α</td>
-  </tr>
+<th style="text-align: center">Accusative</th>
+<td style="text-align: center">-ο</td>
+<td style="text-align: center">-η / -α</td>
+<td style="text-align: center">-ο</td>
+<td style="text-align: center">-ους</td>
+<td style="text-align: center">-ες</td>
+<td style="text-align: center">-α</td>
+</tr>
+<tr>
+<th style="text-align: center">Vocative</th>
+<td style="text-align: center">-ε</td>
+<td style="text-align: center">-η / -α</td>
+<td style="text-align: center">-ο</td>
+<td style="text-align: center">-οι</td>
+<td style="text-align: center">-ες</td>
+<td style="text-align: center">-α</td>
+</tr>
 </table>
 
 >[!EXAMPLE]- Example: Declension of Adjectives in -ος, -η / -α, -ο

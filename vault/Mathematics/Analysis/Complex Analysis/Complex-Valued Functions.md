@@ -49,7 +49,7 @@ tags:
 >(fg)(x) \overset{\text{def}}{=} f(x) \cdot g(x) \qquad \forall x \in \mathcal{D}_f \cap \mathcal{D}_g 
 >$$
 >
->- The **ratio** of $f$ and $g$ is the [function](Complex-Valued%20Functions.md) $fg: \mathcal{D}_f \cap \mathcal{D}_g \to \mathbb{C}$ defined as
+>- The **quotient** of $f$ and $g$ is the [function](Complex-Valued%20Functions.md) $fg: \mathcal{D}_f \cap \mathcal{D}_g \to \mathbb{C}$ defined as
 >
 >$$
 >f/g (x) \overset{\text{def}}{=} \frac{f(x)}{g(x)} \qquad \forall x \in \mathcal{D}_f \cap \mathcal{D}_g 

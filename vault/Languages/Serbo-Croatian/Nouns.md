@@ -9,9 +9,9 @@ tags:
 
 ## Declension
 
-Nouns in [Serbo-Croatian](index.md) change their form depending on their [case](Case%20System.md) and [number](TODO) by adding different endings. These endings differ from noun to noun, but all nouns can be separated into three distinct groups (declensions) based on their [genitive](Case%20System.md) [singular](TODO) ending. These declensions are known as **a-type**, **e-type** and **i-type**. Nouns belonging to one group use largely the same endings, although some variations may be observed depending on the noun's [gender](TODO). 
+Nouns in [Serbo-Croatian](index.md) change their form depending on their [case](Syntax.md) and [number](TODO) by adding different endings. These endings differ from noun to noun, but all nouns can be separated into three distinct groups (declensions) based on their [genitive](Syntax.md) [singular](TODO) ending. These declensions are known as **a-type**, **e-type** and **i-type**. Nouns belonging to one group use largely the same endings, although some variations may be observed depending on the noun's [gender](TODO). 
 
-If you know the gender and the declension of a noun, then you can determine the endings this noun uses. Luckily though, this can often be done using only the [nominative](Case%20System.md) [singular](TODO) form of the noun with the help of the following rules of thumb:
+If you know the gender and the declension of a noun, then you can determine the endings this noun uses. Luckily though, this can often be done using only the [nominative](Syntax.md) [singular](TODO) form of the noun with the help of the following rules of thumb:
 - If the noun ends in a consonant, then it is most likely an a-type masculine noun.
 - If the noun ends in -e or -o, then it is almost certainly an a-type neuter noun. Most exceptions are proper male names such as Marko, Đorđe, Rade - these are a-type masculine nouns.
 - If the noun ends in -a, then it is an e-type feminine noun. Note that the noun itself may actually refer to a male person such as "sudija" ("male judge"). Grammatically, however, the noun remains feminine.
@@ -69,7 +69,7 @@ Unfortunately, the a-type declension is not that simple. There are many differen
 </tr>
 </table>
 
-Most masculine monosyllabic and some masculine disyllabic nouns also add the infix "-ev-" / "-ov-" before the endings of the plural forms for the [nominative](Case%20System.md), [genitive](Case%20System.md), [dative](Case%20System.md) and [accusative](Case%20System.md). Generally, the "-ev-" infix is used when the stem ends in c, č, ć, đ, j, lj, nj, š, ž, št, and sometimes r, while the "-ov-" infix is used the rest of the time, although exceptions do exist.
+Most masculine monosyllabic and some masculine disyllabic nouns also add the infix "-ev-" / "-ov-" before the endings of the plural forms for the [nominative](Syntax.md), [genitive](Syntax.md), [dative](Syntax.md) and [accusative](Syntax.md). Generally, the "-ev-" infix is used when the stem ends in c, č, ć, đ, j, lj, nj, š, ž, št, and sometimes r, while the "-ov-" infix is used the rest of the time, although exceptions do exist.
 
 >[!EXAMPLE]- Example: Plurals with "-ev-" / "-ov-"
 >

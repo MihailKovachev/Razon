@@ -12,21 +12,27 @@ tags:
 
 >[!DEFINITION] Definition: Derivative of a Real Function
 >
->Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Functions%20of%20the%20Real%20Numbers.md).
+>Let $f: \mathcal{D} \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Functions%20of%20the%20Real%20Numbers.md).
 >
->The **derivative of** $f$ **in** $x_0 \in D$ is the [limit](Limits/Limits%20of%20Real%20Functions.md)
+>The **derivative of** $f$ **at** $x_0 \in \mathcal{D}$ is the [limit](Limits/Limits%20of%20Real%20Functions.md)
 >
 >$$
->\lim_{\Delta x \to 0} \frac{f(x_0 + \Delta x) - f(x_0)}{\Delta x}
+>\lim_{\Delta x \to 0} \frac{f(x_0 + \Delta x) - f(x_0)}{\Delta x},
 >$$
 >
->More generally, the derivative of $f$ is the [function](../Functions%20of%20the%20Real%20Numbers.md) which maps every $x \in D$ to $f'(x)$.
+>if it exists.
 >
->>[!NOTATION]-
+>>[!NOTATION]
 >>
 >>$$
 >>f'(x_0) \qquad \frac{\mathrm{d}f}{\mathrm{d}x} (x_0) \qquad \frac{\mathrm{d}}{\mathrm{d}x}f(x_0)
 >>$$
+>>
+>
+>>[!NOTE] Note: Derivative Function
+>>
+>>When we say just "the derivative of $f$", we mean the [function](../Functions%20of%20the%20Real%20Numbers.md#Real%20Functions) which maps every $x \in D$ to $f'(x)$.
+>>
 >
 >>[!DEFINITION] Definition: Higher-Order Derivatives
 >>
@@ -35,7 +41,7 @@ tags:
 >> - The **first order derivative of** $f$ is just the aforementioned derivative $f'$;
 >> - The **second order derivative of** $f$ is the derivative of $f'$, etc.
 >>
->>>[!NOTATION]-
+>>>[!NOTATION]
 >>>
 >>>$$
 >>>f' \qquad f'' \qquad f''' \qquad f^{\mathrm{IV}} \qquad f^{\mathrm{V}} \qquad \cdots \qquad f^{(n)}
@@ -50,16 +56,16 @@ tags:
 
 >[!DEFINITION] Definition: Differentiability
 >
->Let $f: D \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Functions%20of%20the%20Real%20Numbers.md).
+>Let $f: \mathcal{D} \subseteq \mathbb{R} \to \mathbb{R}$ be a [real function](../Functions%20of%20the%20Real%20Numbers.md).
 >
->We say that $f$ is **differentiable at** some $x \in D$ if the first-order derivative of $f$ in $x$ exists.
+>We say that a [real function](../Functions%20of%20the%20Real%20Numbers.md#Real%20Functions) $f$ is **differentiable at** some $x \in \mathcal{D}$ if the derivative of $f$ at $x$, i.e. $f'(x)$, exists.
 >
->We say that $f$ is $k$**-times (continuously) differentiable on** $D$ if its $k$-th derivative exists (and is [continuous](Continuity.md)).
+>We say that $f$ is $k$**-times (continuously) differentiable on** $S \subseteq \mathcal{D}$ if its $k$-th order derivative exists (and is [continuous](Continuity.md)).
 >
 
 >[!DEFINITION] Definition: Critical Point
 >
->We call $x_0 \in D$ a **critical point** of $f: D \subseteq \mathbb{R} \to \mathbb{R}$ if $f$ is not [differentiable](Differentiability.md) at $x_0$ or its [derivative](Differentiability.md) at $x_0$ is zero.
+>We call $x_0 \in \mathcal{D}$ a **critical point** of $f: \mathcal{D} \subseteq \mathbb{R} \to \mathbb{R}$ if $f$ is not [differentiable](Differentiability.md) at $x_0$ or its [derivative](Differentiability.md) at $x_0$ is zero.
 >
 
 ## Properties

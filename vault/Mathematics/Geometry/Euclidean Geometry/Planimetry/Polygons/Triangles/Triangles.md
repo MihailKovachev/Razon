@@ -67,7 +67,7 @@ tags:
 
 >[!THEOREM]- Theorem: Law of Sines
 >
->The ratios of each side in a [triangle](Triangles.md) to the [sine](../../../../../Analysis/Real%20Analysis/Real%20Functions/Real%20Trigonometric%20Functions/Real%20Sine%20Function/Real%20Sine%20Function.md) of its opposite angle are all equal to the [diameter](../../Plane%20Curves/Circles/Circle.md) of the [circumcircle](Triangles.md#Properties).
+>The ratios of each side in a [triangle](Triangles.md) to the [sine](../../../../../Analysis/Real%20Analysis/Real%20Functions/Real%20Trigonometric%20Functions/Real%20Sine%20Function.md) of its opposite angle are all equal to the [diameter](../../Plane%20Curves/Circles/Circle.md) of the [circumcircle](Triangles.md#Properties).
 >
 >$$
 >\frac{a}{\sin \alpha} = \frac{b}{\sin \beta} = \frac{c}{\sin \gamma} = 2R
@@ -83,7 +83,7 @@ tags:
 
 >[!THEOREM]- Theorem: Law of Cosines
 >
->The side lengths $a,b,c$ of a [triangle](Triangles.md) and the [cosines](../../../../../Analysis/Real%20Analysis/Real%20Functions/Real%20Trigonometric%20Functions/Real%20Cosine%20Function/Real%20Cosine%20Function.md) of the corresponding opposite angles $\alpha$, $\beta$, $\gamma$ are related as follows:
+>The side lengths $a,b,c$ of a [triangle](Triangles.md) and the [cosines](../../../../../Analysis/Real%20Analysis/Real%20Functions/Real%20Trigonometric%20Functions/Real%20Cosine%20Function.md) of the corresponding opposite angles $\alpha$, $\beta$, $\gamma$ are related as follows:
 >
 >$$
 >\begin{align*}

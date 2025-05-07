@@ -270,7 +270,7 @@ tags:
 >
 >Let $f$ and $g$ be [real functions](../../Functions%20of%20the%20Real%20Numbers.md#Real%20Functions) and let $c \in \mathbb{R}$.
 >
->If there exists some $\varepsilon \gt 0$ such that $f(x) = g(x)$ for all $x \in (c - \varepsilon; c) \cup (c; c+\varepsilon)$ and the [limit](Limits%20of%20Real%20Functions.md#Real%20Limits) of $g$ for $x \to c$ is $L \in \mathbb{R}$, then
+>If there exists some [deleted neighborhood](../../The%20Topology%20of%20Euclidean%20Space.md) of $c$ on which $f$ and $g$ are equal and the [limit](Limits%20of%20Real%20Functions.md#Real%20Limits) of $g$ for $x \to c$ is $L \in \mathbb{R}$, then
 >
 >$$
 >\lim_{x \to c} f(x) = \lim_{x \to c} g(x) = L.
@@ -278,7 +278,7 @@ tags:
 >
 >>[!NOTE]
 >>
->>This theorem is extremely powerful because it allows us to find the limit of $f$ by finding another function $g$ (usually through algebraic manipulations) whose limit is easier to compute, so long as the two functions are equal in some neighborhood of $c$. We don't care about what happens at $x = c$ or if $f$ and $g$ are even defined at $c$.
+>>This theorem is extremely powerful because it allows us to find the limit of $f$ by finding another function $g$ (usually through algebraic manipulations) whose limit is easier to compute, so long as the two functions are equal around $c$. We don't care about what happens at $x = c$ or if $f$ and $g$ are even defined at $c$.
 >>
 >
 >>[!PROOF]-
@@ -441,6 +441,14 @@ tags:
 >$$
 >\lim_{x \to c} g(x) \le \lim_{x \to c} f(x)
 >$$
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
+>[!THEOREM]- Theorem: L'Hôpital's rule
 >
 >>[!PROOF]-
 >>

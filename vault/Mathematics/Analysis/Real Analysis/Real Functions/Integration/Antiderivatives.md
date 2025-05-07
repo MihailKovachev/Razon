@@ -1,5 +1,5 @@
 ---
-title: Elementary Antiderivatives
+title: Antiderivatives
 tags:
   - antiderivatives
   - real-functions

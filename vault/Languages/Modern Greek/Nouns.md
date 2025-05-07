@@ -7,7 +7,7 @@ tags:
 
 # Introduction
 
-Each noun in [modern Greek](index.md) has an inherent grammatical gender which can be either masculine, feminine or neuter. Additionally, most nouns change their form depending on their role in a sentence according to the [case system](Case%20System.md) of the language. Finally, nouns can also change their form to show that they refer to one thing or to many instances of the same thing. This process of changing forms is known as **declension**.
+Each noun in [modern Greek](index.md) has an inherent grammatical gender which can be either masculine, feminine or neuter. Additionally, most nouns change their form depending on their role in a sentence according to the [case system](Syntax.md) of the language. Finally, nouns can also change their form to show that they refer to one thing or to many instances of the same thing. This process of changing forms is known as **declension**.
 
 # Masculine Nouns
 

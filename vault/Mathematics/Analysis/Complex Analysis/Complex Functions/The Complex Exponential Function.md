@@ -67,7 +67,7 @@ tags:
 
 >[!THEOREM] Theorem: Euler's Formula
 >
->For every $\varphi \in \mathbb{R}$, the real part of the [complex exponential](The%20Complex%20Exponential%20Function.md) $\mathrm{e}^{\mathrm{i}\varphi}$ is the [real cosine](../../Real%20Analysis/Real%20Functions/Real%20Trigonometric%20Functions/Real%20Cosine%20Function/Real%20Cosine%20Function.md) of $\varphi$ and the imaginary part is the [real sine](../../Real%20Analysis/Real%20Functions/Real%20Trigonometric%20Functions/Real%20Cosine%20Function/Real%20Cosine%20Function.md) of $\varphi$:
+>For every $\varphi \in \mathbb{R}$, the real part of the [complex exponential](The%20Complex%20Exponential%20Function.md) $\mathrm{e}^{\mathrm{i}\varphi}$ is the [real cosine](../../Real%20Analysis/Real%20Functions/Real%20Trigonometric%20Functions/Real%20Cosine%20Function.md) of $\varphi$ and the imaginary part is the [real sine](../../Real%20Analysis/Real%20Functions/Real%20Trigonometric%20Functions/Real%20Cosine%20Function.md) of $\varphi$:
 >
 >$$
 >\mathrm{e}^{\mathrm{i}\varphi} = \cos \varphi + \mathrm{i} \sin \varphi

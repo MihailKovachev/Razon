@@ -317,7 +317,7 @@ The symbol ء is known as هَمْزة (hamzah) and is used to indicate a glotta
 
 ## Vowels
 
-Short vowel sounds are rarely indicated in written Arabic. Instead, the speaker needs to rely on their knowledge of the language to determine what vowels to pronounce. However, different vowels can result in drastically different meanings. This is why there is a system of diacritics to indicate short vowel sounds when clarity is imperative such as when studying the language or reading the Quran. When a text uses this system, it is said to *vocalized* and it is *unvocalized* otherwise.
+Short vowel sounds are rarely indicated in written Arabic. Instead, the speaker needs to rely on their knowledge of the language to determine what vowels to pronounce. However, different vowels can result in drastically different meanings. This is why there is a system of diacritics to indicate short vowel sounds when clarity is imperative such as when studying the language or reading the Quran. When a text uses this system, it is said to be *vocalized* and it is *unvocalized* otherwise.
 
 |Diacritic|IPA|Name (Arabic Script)|Name (Romanized)|
 |:--:|:--:|:--:|:--:|

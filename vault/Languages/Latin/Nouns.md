@@ -5,7 +5,9 @@ tags:
     - languages
 ---
 
-# Noun Stem
+# Nouns
+
+Every noun in Latin has an inherent grammatical gender which can be either masculine, feminine or neuter.
 
 The stem of a Latin noun is always determined by removing the [declension](Nouns.md#Declension) ending from its [genitive](TODO) [singular](TODO) form.
 
@@ -164,6 +166,8 @@ There are two charts for nouns in the second declension depending on their [gend
 </tbody>
 </table>
 
+For nouns whose nominative singular ends in "-er", the vocative and nominative forms are identical. If the noun's nominative singular form ends in "-ius" or "-ium", then the noun's vocative singular form ends in "-ī" and not "-iī", i.e. "Vergilius" becomes "Vergilī". Moreover, the stress in this form is always on the same syllable is in the nominative singular.
+
 <table>
 <caption>Second Declension Endings Chart (Neuter)</caption>
 <tbody>
@@ -215,16 +219,267 @@ There are two charts for nouns in the second declension depending on their [gend
 </tbody>
 </table>
 
-For nouns which end in "-er", the vocative and nominative forms are identical. If the noun's nominative singular form ends in "-ius" or "-ium", then the noun's vocative singular form ends in "-ī" and not "-iī", i.e. "Vergilius" becomes "Vergilī". Moreover, the stress this form is always on the same syllable is in the nominative singular.
-
->[!TIP] Tip: Dative and Ablative
->
->The dative and ablative forms are the same.
->
-
 ## Third Declension
 
+<table>
+<caption>Third Declension Endings (Masculine and Feminine)</caption>
+<tbody>
+<tr>
+<th rowspan="2" colspan="2"></th>
+<th colspan="2" align="center">Number</th>
+</tr>
+<tr>
+<th align="center">Singular</th>
+<th align="center">Plural</th>
+</tr>
+<tr>
+<th align="center" style="vertical-align:middle" scope="colgroup" rowspan="7">Case</th>
+<th align="center">Nominative</th>
+<td align="center">-a, -e, -ī, -ō, -y, -c, -l, -n, -r, -s, -t, or -x</td>
+<td align="center">-ēs</td>
+</tr>
+<tr>
+<th align="center">Genitive</th>
+<td align="center">-is</td>
+<td align="center">-um</td>
+</tr>
+<tr>
+<th align="center">Dative</th>
+<td align="center">-ī</td>
+<td align="center">-ibus</td>
+</tr>
+<tr>
+<th align="center">Accusative</th>
+<td align="center">-em</td>
+<td align="center">-ēs</td>
+</tr>
+<tr>
+<th align="center">Ablative</th>
+<td align="center">-e</td>
+<td align="center">-ibus</td>
+</tr>
+<tr>
+<th align="center">Locative</th>
+<td align="center">-ī</td>
+<td align="center">-ibus</td>
+</tr>
+<tr>
+<th align="center">Vocative</th>
+<td align="center">=Nominative</td>
+<td align="center">= Nominative</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+
+<table>
+<caption>Third Declension Endings (Neuter)</caption>
+<tbody>
+<tr>
+<th rowspan="2" colspan="2"></th>
+<th colspan="2" align="center">Number</th>
+</tr>
+<tr>
+<th align="center">Singular</th>
+<th align="center">Plural</th>
+</tr>
+<tr>
+<th align="center" style="vertical-align:middle" scope="colgroup" rowspan="7">Case</th>
+<th align="center">Nominative</th>
+<td align="center"></td>
+<td align="center">-ia</td>
+</tr>
+<tr>
+<th align="center">Genitive</th>
+<td align="center">-is</td>
+<td align="center">-ium</td>
+</tr>
+<tr>
+<th align="center">Dative</th>
+<td align="center">-ī</td>
+<td align="center">-ibus</td>
+</tr>
+<tr>
+<th align="center">Accusative</th>
+<td align="center">-em</td>
+<td align="center">-ia</td>
+</tr>
+<tr>
+<th align="center">Ablative</th>
+<td align="center">-ī</td>
+<td align="center">-ibus</td>
+</tr>
+<tr>
+<th align="center">Locative</th>
+<td align="center">-ī</td>
+<td align="center">-ibus</td>
+</tr>
+<tr>
+<th align="center">Vocative</th>
+<td align="center">=Nominative</td>
+<td align="center">= Nominative</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+
+There is a special subset of third declension nouns known as "i-stems". These are a remnant of Old Latin and use slightly different endings.
+
+<table>
+<caption>Third Declension i-Stem Endings (Masculine and Feminine)</caption>
+<tbody>
+<tr>
+<th rowspan="2" colspan="2"></th>
+<th colspan="2" align="center">Number</th>
+</tr>
+<tr>
+<th align="center">Singular</th>
+<th align="center">Plural</th>
+</tr>
+<tr>
+<th align="center" style="vertical-align:middle" scope="colgroup" rowspan="7">Case</th>
+<th align="center">Nominative</th>
+<td align="center">-</td>
+<td align="center">-ēs</td>
+</tr>
+<tr>
+<th align="center">Genitive</th>
+<td align="center">-is</td>
+<td align="center">-um</td>
+</tr>
+<tr>
+<th align="center">Dative</th>
+<td align="center">-ī</td>
+<td align="center">-ibus</td>
+</tr>
+<tr>
+<th align="center">Accusative</th>
+<td align="center">-em, -im</td>
+<td align="center">-ēs</td>
+</tr>
+<tr>
+<th align="center">Ablative</th>
+<td align="center">-e</td>
+<td align="center">-ibus</td>
+</tr>
+<tr>
+<th align="center">Locative</th>
+<td align="center">-ī</td>
+<td align="center">-īs</td>
+</tr>
+<tr>
+<th align="center">Vocative</th>
+<td align="center">=Nominative</td>
+<td align="center">= Nominative</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+
+<table>
+<caption>Third Declension i-Stem Endings (Neuter)</caption>
+<tbody>
+<tr>
+<th rowspan="2" colspan="2"></th>
+<th colspan="2" align="center">Number</th>
+</tr>
+<tr>
+<th align="center">Singular</th>
+<th align="center">Plural</th>
+</tr>
+<tr>
+<th align="center" style="vertical-align:middle" scope="colgroup" rowspan="7">Case</th>
+<th align="center">Nominative</th>
+<td align="center">-</td>
+<td align="center">-ia</td>
+</tr>
+<tr>
+<th align="center">Genitive</th>
+<td align="center">-is</td>
+<td align="center">-ium</td>
+</tr>
+<tr>
+<th align="center">Dative</th>
+<td align="center">-ī</td>
+<td align="center">-ibus</td>
+</tr>
+<tr>
+<th align="center">Accusative</th>
+<td align="center">-em, -im</td>
+<td align="center">-ēs</td>
+</tr>
+<tr>
+<th align="center">Ablative</th>
+<td align="center">-e</td>
+<td align="center">-ibus</td>
+</tr>
+<tr>
+<th align="center">Locative</th>
+<td align="center">-ī</td>
+<td align="center">-īs</td>
+</tr>
+<tr>
+<th align="center">Vocative</th>
+<td align="center">=Nominative</td>
+<td align="center">= Nominative</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+
+
 ## Fourth Declension
+
+<table>
+<caption>Fourth Declension Endings</caption>
+<tbody>
+<tr>
+<th rowspan="2" colspan="2"></th>
+<th colspan="2" align="center">Number</th>
+</tr>
+<tr>
+<th align="center">Singular</th>
+<th align="center">Plural</th>
+</tr>
+<tr>
+<th align="center" style="vertical-align:middle" scope="colgroup" rowspan="7">Case</th>
+<th align="center">Nominative</th>
+<td align="center">-us, -ū</td>
+<td align="center">-ūs</td>
+</tr>
+<tr>
+<th align="center">Genitive</th>
+<td align="center">-ūs</td>
+<td align="center">-uum</td>
+</tr>
+<tr>
+<th align="center">Dative</th>
+<td align="center">-uī</td>
+<td align="center">-ibus, -ubus</td>
+</tr>
+<tr>
+<th align="center">Accusative</th>
+<td align="center">-um</td>
+<td align="center">-ia</td>
+</tr>
+<tr>
+<th align="center">Ablative</th>
+<td align="center">-ū</td>
+<td align="center">-ibus, -ubus</td>
+</tr>
+<tr>
+<th align="center">Locative</th>
+<td align="center">-ī</td>
+<td align="center">= Dative</td>
+</tr>
+<tr>
+<th align="center">Vocative</th>
+<td align="center">=Nominative</td>
+<td align="center">= Nominative</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
 
 ## Fifth Declension
 
