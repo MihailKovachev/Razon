@@ -40,7 +40,7 @@ Unfortunately, the a-type declension is not that simple. There are many differen
 <tr>
 <th style="text-align:center">Genitive</th>
 <td style="text-align:center">-a</td>
-<td style="text-align:center">-a</td>
+<td style="text-align:center">-ā</td>
 </tr>
 <tr>
 <th style="text-align:center">Dative</th>
@@ -69,9 +69,9 @@ Unfortunately, the a-type declension is not that simple. There are many differen
 </tr>
 </table>
 
-Most masculine monosyllabic and some masculine disyllabic nouns also add the infix "-ev-" / "-ov-" before the endings of the plural forms for the [nominative](Syntax.md), [genitive](Syntax.md), [dative](Syntax.md) and [accusative](Syntax.md). Generally, the "-ev-" infix is used when the stem ends in c, č, ć, đ, j, lj, nj, š, ž, št, and sometimes r, while the "-ov-" infix is used the rest of the time, although exceptions do exist.
+Most masculine monosyllabic and some masculine disyllabic nouns also add the infix "-ēv-" / "-ōv-" before the endings of the plural forms for the [nominative](Syntax.md), [genitive](Syntax.md), [dative](Syntax.md) and [accusative](Syntax.md). Generally, the "-ēv-" infix is used when the stem ends in c, č, ć, đ, j, lj, nj, š, ž, št, and sometimes r, while the "-ōv-" infix is used the rest of the time, although exceptions do exist.
 
->[!EXAMPLE]- Example: Plurals with "-ev-" / "-ov-"
+>[!EXAMPLE]- Example: Plurals with "-ēv-" / "-ēv-"
 >
 >bor
 >
@@ -95,7 +95,7 @@ Most masculine monosyllabic and some masculine disyllabic nouns also add the inf
 <tr>
 <th style="text-align:center">Genitive</th>
 <td style="text-align:center">-a</td>
-<td style="text-align:center">-a</td>
+<td style="text-align:center">-ā</td>
 </tr>
 <tr>
 <th style="text-align:center">Dative</th>

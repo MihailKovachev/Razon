@@ -44,5 +44,5 @@ tags:
 
 >[!DEFINITION] Definition: Midpoint
 >
->The **midpoint** of a [line segment](../Straight%20Lines/Line%20Segments.md) is the [point](../../Euclidean%20Space/Points%20vs%20Vectors/index.md) which divides it into two [congruence](../../Geometric%20Shapes.md) line segments.
+>The **midpoint** of a [line segment](../Straight%20Lines/Line%20Segments.md) is the [point](../../Euclidean%20Geometry.md) which divides it into two [congruence](../../Geometric%20Shapes.md) line segments.
 >

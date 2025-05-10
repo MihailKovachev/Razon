@@ -68,7 +68,7 @@ tags:
 
 >[!THEOREM] Theorem: Inradius in a Triangle
 >
->The [inradius](../../Tangential%20Polygons.md) $r$ of a [triangle](../../Polygons.md) with [sides](../../../../index.md) $a,b,c$ and [semiperimeter](../../Polygons.md) $s$ is given by
+>The [inradius](../../Tangential%20Polygons.md) $r$ of a [triangle](../../Polygons.md) with [sides](../../../../Euclidean%20Geometry.md) $a,b,c$ and [semiperimeter](../../Polygons.md) $s$ is given by
 >
 >$$r = \sqrt{\frac{(s-a)(s-b)(s-c)}{s}}$$
 >

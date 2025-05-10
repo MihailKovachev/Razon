@@ -17,6 +17,13 @@ A proof by induction looks very much like a domino. Essentially, it boils down t
 
 We can imagine the proof as an infinite chain of dominoes. The inductive step is like proving that if we can push any domino, it will fall in just the right way so as to push the domino to its right. Then, the base case is just the proof that there is indeed at least one piece of domino we can actually push - once we push this piece, all the pieces to its right will fall thanks to the inductive step.
 
+>[!TIP] Tip: The Principle of Mathematical Induction
+>
+>The principle of mathematical induction can be summarized as follows:
+>
+>>If there exists some $k \in \mathbb{Z}$ for which $P(k)$ is true and if $P(n)$ implies $P(n + 1)$ for all $n \ge k$, then $P(n)$ is true for all $n \ge k$.
+>
+
 Essentially, if we manage to prove the inductive step and find a base case, then we would have proven that $P$ holds for all integers greater than or equal to $k$.
 
 >[!EXAMPLE]- Example: Proof of the Sum of the First $n$ Natural Numbers

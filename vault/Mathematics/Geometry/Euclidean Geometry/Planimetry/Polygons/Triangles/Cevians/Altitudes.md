@@ -12,7 +12,7 @@ tags:
 >[!DEFINITION] Definition: Altitude
 >
 >An **altitude** in a [triangle](../Triangles.md) is a [line segment](../../../../Curves/Straight%20Lines/Line%20Segments.md) $h$ with the following properties:
->- The endpoints of $h$ are a [vertex](../../Polygons.md) $V$ of the triangle and a [point](../../../../Euclidean%20Space/Points%20vs%20Vectors/index.md) on the [extension](../../../../Curves/Straight%20Lines/Line%20Segments.md) of the [side](../../Polygons.md) $s$ opposite to $V$.
+>- The endpoints of $h$ are a [vertex](../../Polygons.md) $V$ of the triangle and a [point](../../../../Euclidean%20Geometry.md) on the [extension](../../../../Curves/Straight%20Lines/Line%20Segments.md) of the [side](../../Polygons.md) $s$ opposite to $V$.
 >- The segment $h$ is [perpendicular](../../../../Curves/Straight%20Lines/Angle%20between%20Lines.md) to the extension of $s$.
 >
 >>[!DEFINITION] Definition: Base
@@ -37,6 +37,6 @@ tags:
 >
 >>[!DEFINITION] Definition: Orthocenter
 >>
->>The [point](../../../../Euclidean%20Space/Points%20vs%20Vectors/index.md) of intersection of the [extensions](../../../../Curves/Straight%20Lines/Line%20Segments.md) of a [triangle](../Triangles.md)'s [altitudes](Altitudes.md)  is known as the triangle's **orthocenter**.
+>>The [point](../../../../Euclidean%20Geometry.md) of intersection of the [extensions](../../../../Curves/Straight%20Lines/Line%20Segments.md) of a [triangle](../Triangles.md)'s [altitudes](Altitudes.md)  is known as the triangle's **orthocenter**.
 >>
 >

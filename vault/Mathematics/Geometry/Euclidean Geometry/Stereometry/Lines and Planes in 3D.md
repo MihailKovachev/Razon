@@ -6,7 +6,20 @@ tags:
     - mathematics
 ---
 
-# 
+# Lines and Planes in 3D
+
+>[!THEOREM]- Theorem: Line and Point $\implies$ Plane
+>
+>If $l$ is a [straight lines](Straight%20Lines%20in%203D.md) and $P$ is a [point](../Euclidean%20Geometry.md) which does not lie on $l$, then there exists a unique [plane](Planes%20in%203D.md) $\lambda$ which contains both $l$ and $P$.
+>
+>![](res/Point%20and%20Line%20Imply%20Plane.svg)
+>
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
 
 >[!THEOREM]- The Theorem of Three Perpendiculars
 >

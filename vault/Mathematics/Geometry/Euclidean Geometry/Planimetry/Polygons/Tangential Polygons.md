@@ -53,7 +53,7 @@ tags:
 >
 >>[!THEOREM] Theorem: Incenter of a Tangential Polygon
 >>
->>The [incenter](Tangential%20Polygons.md) of a [tangential polygon](Tangential%20Polygons.md) is the [point](../../Euclidean%20Space/Points%20vs%20Vectors/index.md) where the [bisectors](../../Angles/Plane%20Angles/Angle%20Bisector%20of%20a%20Plane%20Angle.md) of the polygon's [interior angles](Polygons.md) intersect.
+>>The [incenter](Tangential%20Polygons.md) of a [tangential polygon](Tangential%20Polygons.md) is the [point](../../Euclidean%20Geometry.md) where the [bisectors](../../Angles/Plane%20Angles/Angle%20Bisector%20of%20a%20Plane%20Angle.md) of the polygon's [interior angles](Polygons.md) intersect.
 >>
 >>>[!PROOF]-
 >>>

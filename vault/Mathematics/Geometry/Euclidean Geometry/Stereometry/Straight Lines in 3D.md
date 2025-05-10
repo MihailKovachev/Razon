@@ -8,12 +8,44 @@ tags:
 
 # Straight Lines in 3D
 
->[!DEFINITION] Definition: Perpendicularity
+>[!DEFINITION] Definition: Straight Line
 >
->Two [straight lines](Straight%20Lines%20in%203D.md) in 3D are **perpendicular** if the angle between them is a right angle.
+>A **straight line** in [3D space](Stereometry.md) is an [unbounded](TODO) [locus of points](Stereometry.md) which is [homeomorphic](../../../Topology/Continuity/Homeomorphisms/Homeomorphic%20Spaces.md) to the [real numbers](../../../Algebra/Fields/The%20Real%20Numbers/The%20Real%20Numbers.md) $\mathbb{R}$.
 >
 
-## Parallel Lines
+>[!DEFINITION] Definition: Angle between Straight Lines
+>
+>Let $a$ and $b$ be [straight lines](Straight%20Lines%20in%203D.md) in 3D.
+>
+>The **angle** between $a$ and $b$ is the [angle](../../../Algebra/Linear%20Algebra/Vector%20Spaces/Inner%20Product%20Spaces/Angle.md) between any pair of [vectors](../Euclidean%20Geometry.md) such that one of the [vectors](../Euclidean%20Geometry.md) is between [points](../Euclidean%20Geometry.md) which lie on $a$ and the other is between [points](../Euclidean%20Geometry.md) which lie on $b$.
+>
+>>[!NOTATION]
+>>
+>>$$
+>>\angle (a;b)
+>>$$
+>
+>>[!DEFINITION] Definition: Perpendicularity
+>>
+>>Two [straight lines](Straight%20Lines%20in%203D.md) in 3D are **perpendicular** if the [angle](Straight%20Lines%20in%203D.md) between them is a right angle.
+>>
+>
+
+## Properties
+
+>[!THEOREM]- Theorem: Intersecting Lines $\implies$ Plane
+>
+>For each pair of intersecting [straight lines](Straight%20Lines%20in%203D.md) there exists a unique [plane](Planes%20in%203D.md) which contains them.
+>
+>![](res/Intersecting%20Lines%20Imply%20Plane.svg)
+>
+>>[!PROOF]-
+>>
+>>TODO
+>>
+>
+
+# Parallel Lines
 
 >[!THEOREM]- Theorem: Parallel Lines and Points
 >
@@ -65,7 +97,7 @@ tags:
 >>
 >
 
-## Skew Lines
+# Skew Lines
 
 >[!DEFINITION] Definition: Skew Lines
 >

@@ -11,7 +11,7 @@ tags:
 >
 >For every two distinct [straight lines](../Curves/Straight%20Lines/Straight%20Line.md) which lie in the same [plane](../Surfaces/Planes.md) there are two possibilities:
 >
->- The lines intersect in a single [point](../Euclidean%20Space/Points%20vs%20Vectors/index.md).
+>- The lines intersect in a single [point](../Euclidean%20Geometry.md).
 >- The lines do not intersect.
 >
 >>[!PROOF]-

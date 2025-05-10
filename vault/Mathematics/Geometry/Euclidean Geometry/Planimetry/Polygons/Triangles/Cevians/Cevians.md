@@ -13,7 +13,7 @@ tags:
 
 >[!DEFINITION] Definition: Cevian
 >
->A **cevian** in a [triangle](../Triangles.md) is a [line segment](../../../../Curves/Straight%20Lines/Line%20Segments.md) whose endpoints are a [vertex](../../Polygons.md) of the triangle and a [point](../../../../Euclidean%20Space/Points%20vs%20Vectors/index.md) on the [side](../../Polygons.md) opposite to the vertex.
+>A **cevian** in a [triangle](../Triangles.md) is a [line segment](../../../../Curves/Straight%20Lines/Line%20Segments.md) whose endpoints are a [vertex](../../Polygons.md) of the triangle and a [point](../../../../Euclidean%20Geometry.md) on the [side](../../Polygons.md) opposite to the vertex.
 >
 >![](res/Cevian.svg)
 >

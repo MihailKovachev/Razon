@@ -10,7 +10,7 @@ tags:
 
 >[!DEFINITION] Definition: Chord
 >
->A **chord** in a [circle](Circle.md) is any [line segment](../../../Curves/Straight%20Lines/Line%20Segments.md) whose endpoints are [points](../../../Euclidean%20Space/Points%20vs%20Vectors/index.md) of the circle.
+>A **chord** in a [circle](Circle.md) is any [line segment](../../../Curves/Straight%20Lines/Line%20Segments.md) whose endpoints are [points](../../../Euclidean%20Geometry.md) of the circle.
 >
 >![](res/Chord%20in%20a%20Circle.svg)
 >

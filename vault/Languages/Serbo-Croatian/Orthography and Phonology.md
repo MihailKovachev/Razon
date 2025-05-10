@@ -9,10 +9,6 @@ tags:
 
 The [Serbo-Croatian](index.md) language may be written using either a Latin or a [Cyrillic script](../Cyrillic%20Script.md). The Serbian, Bosnian and Montenegrin standards use both scripts equally often, but Croatian is only written using the Latin script.
 
-The language is largely phonemic which means that letters always make the same sounds.
-
-## Cyrillic Script
-
 [Serbo-Croatian](index.md) uses the following variation of the [Cyrillic script](../Cyrillic%20Script.md):
 
 |Letter|IPA|
@@ -49,8 +45,6 @@ The language is largely phonemic which means that letters always make the same s
 |Ш ш|/ʂ/|
 
 The Cyrillic script is the only script in which official documents in Serbia are printed.
-
-## Latin Script
 
 |Letter|IPA|
 |:--:|:--:|
@@ -124,3 +118,10 @@ Since [Serbo-Croatian](index.md) is a largely phonemic language, it is rather ea
 |Џ џ|Dž dž|/d͡ʐ/|
 |Ш ш|Š š|/ʂ/|
 
+# Phonology
+
+The language is largely phonemic which means that letters always make the same sounds.
+
+## Pitch Accent
+
+short falling (ȅ), short rising (è), long falling (ȇ), and long rising (é)
