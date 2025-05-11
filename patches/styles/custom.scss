@@ -1,8 +1,8 @@
-@use "sass:map";
+@use "./base.scss";
 
-@use "./variables.scss" as *;
-@use "./syntax.scss";
+// put your custom CSS here!
 
+// Tables
 th {
     text-align: left;
     padding: 0.4rem 0.7rem;
