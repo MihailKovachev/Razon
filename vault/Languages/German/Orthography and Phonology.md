@@ -152,7 +152,6 @@ German is a largely phonemic language, meaning that letters or groups of letters
 <th style="text-align:center">Grapheme(s)</th>
 <th style="text-align:center">Phoneme(s)</th>
 <th style="text-align:center">Examples</th>
-<th style="text-align:center">Examples</th>
 </tr>
 </thead>
 <tbody>
@@ -165,31 +164,26 @@ German is a largely phonemic language, meaning that letters or groups of letters
 <td style="text-align:center">Aa aa</td>
 <td style="text-align:center">/aː/</td>
 <td style="text-align:center">Saal /zaːl/</td>
-<td></td>
 </tr>
 <tr>
 <td style="text-align:center">Ä ä</td>
 <td style="text-align:center">/ɛ/, /ɛː/</td>
 <td style="text-align:center">ändern /ɛndɐn/<br>wäre /vɛːʁə/</td>
-<td></td>
 </tr>
 <tr>
 <td style="text-align:center">B b</td>
 <td style="text-align:center">/b/ initially or before vowels</br>/p/ at the end of syllables</td>
 <td style="text-align:center">Bombe /bɔmbə/<br>grob /gʁoːp/</td>
-<td></td>
 </tr>
 <tr>
 <td style="text-align:center">C c</td>
 <td style="text-align:center">/t͡s/ before ä, e, i, ö<br>/k/ otherwise</td>
-<td style="text-align:center"></td>
 <td style="text-align:center"></td>
 </tr>
 <tr>
 <td style="text-align:center">Ch Ch</td>
 <td style="text-align:center">/x/ after a, o, u<br>/ç/ after other vowels or consonants<br>/k/ or /ç/ initially in words of Ancient Greek origin<br>/ç/ in the suffix -chen<br>/tʃ/ or /ʃ/ in some loanwords and foreign proper names</td>
 <td style="text-align:center">Fach /fax/, Doch /dɔx/, Buch /bʊx/<br>Becher /beçɐ/, solcher /zɔlçɐ/</td>
-<td style="text-align:center"></td>
 </tr>
 </tbody>
 </table>

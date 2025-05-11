@@ -365,6 +365,8 @@ The formation of the comparative's base form is really simple - just add *-(e)r*
 >
 >müde -> müder
 >
+>dunkel -> dunkler
+>
 
 The following adjectives also receive an [Umlaut](Orthography%20and%20Phonology.md) when forming the comparative base form: *alt*, *grob*, *dumm*, *arg*, *arm*, *hart*, *kalt*, *krank*, *lang*, *nah*, *scharf*, *schwach*, *schwarz*, *stark*, *warm*, *groß*, *jung*, *klug* and *kurz*. Additionally, the following adjectives may or may not receive an [Umlaut](Orthography%20and%20Phonology.md): *nass*, *bang*, *blass*, *glatt*, *karg*, *schmal*, *fromm*, *rot*, *krumm* and *gesund*. There are no other adjectives which receive an [Umlaut](Orthography%20and%20Phonology.md).
 
