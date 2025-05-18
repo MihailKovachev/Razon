@@ -310,6 +310,20 @@ Both uppercase and lowercase letters are used. The letter `U u` may be introduce
 
 ## Classical Latin
 
+The pronunciation of [Classical Latin](./index.md) is very simple and predictable, since its [orthography](Orthography%20and%20Phonology.md#Orthography) is largely phonemic, especially when the [modern conventions](Orthography%20and%20Phonology.md#Modern%20Conventions) are obeyed.
+
+<table>
+<caption>Classical Latin Pronunciation</caption>
+<thead>
+<tr>
+<th style="text-align:center;vertical-align:middle">Grapheme(s)</th>
+<th style="text-align:center;vertical-align:middle">Phoneme(s)</th>
+<th style="text-align:center;vertical-align:middle">Example</th>
+<th style="text-align:center;vertical-align:middle">English Approximation</th>
+</tr>
+</thead>
+</table>
+
 ## Ecclesiastical Latin
 
 Since [Ecclesiastical Latin](./index.md) never had any native speakers, it had no single pronunciation. Instead, every speaker had their own pronunciation depending on where they were from and what languages they spoke.
@@ -374,6 +388,36 @@ However, around the end of the 19th century and the early 20th century, a pronun
 <td style="text-align:center;vertical-align:middle">pulcher</td>
 </tr>
 <tr>
+<td style="text-align:center;vertical-align:middle">D, d</td>
+<td style="text-align:center;vertical-align:middle">/d/</td>
+<td style="text-align:center;vertical-align:middle"><b>d</b>dominus</td>
+<td style="text-align:center;vertical-align:middle">be<b>d</b></td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">E, e</td>
+<td style="text-align:center;vertical-align:middle">/ɛ/, /e/</td>
+<td style="text-align:center;vertical-align:middle">t<u>e</u>mpus</td>
+<td style="text-align:center;vertical-align:middle">p<u>e</u>t</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">Ei, ei</td>
+<td style="text-align:center;vertical-align:middle">/ɛi̯/</td>
+<td style="text-align:center;vertical-align:middle">t<u>e</u>mpus</td>
+<td style="text-align:center;vertical-align:middle">th<u>ey</u></td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">Eu, eu</td>
+<td style="text-align:center;vertical-align:middle">/ɛu̯/</td>
+<td style="text-align:center;vertical-align:middle">t<u>e</u>mpus</td>
+<td style="text-align:center;vertical-align:middle">p<u>e</u>t</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">F, f</td>
+<td style="text-align:center;vertical-align:middle">/f/</td>
+<td style="text-align:center;vertical-align:middle"><u>f</u>orma</td>
+<td style="text-align:center;vertical-align:middle"><u>f</u>oot</td>
+</tr>
+<tr>
 <td style="text-align:center;vertical-align:middle" rowspan=2>G, g</td>
 <td style="text-align:center;vertical-align:middle">/d͡ʒ/ before ae, e, i, oe, y</td>
 <td style="text-align:center;vertical-align:middle"></td>
@@ -390,5 +434,168 @@ However, around the end of the 19th century and the early 20th century, a pronun
 <td style="text-align:center;vertical-align:middle">signum</td>
 <td style="text-align:center;vertical-align:middle">ca<i>ny</i>on</td>
 </tr>
+<tr>
+<td style="text-align:center;vertical-align:middle" rowspan=2>H, h</td>
+<td style="text-align:center;vertical-align:middle">Almost always silent</td>
+<td style="text-align:center;vertical-align:middle"><u>h</u>ora</td>
+<td style="text-align:center;vertical-align:middle"></td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">/k/ between vowels in some words</td>
+<td style="text-align:center;vertical-align:middle">mi<u>h</u>i</td>
+<td style="text-align:center;vertical-align:middle">s<u>c</u>orpion</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">I, i</td>
+<td style="text-align:center;vertical-align:middle">/i/</td>
+<td style="text-align:center;vertical-align:middle">v<u>i</u>r</td>
+<td style="text-align:center;vertical-align:middle">s<u>ee</u>p but short</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">J, j</td>
+<td style="text-align:center;vertical-align:middle">/j/</td>
+<td style="text-align:center;vertical-align:middle">Ga<u>j</u>us</td>
+<td style="text-align:center;vertical-align:middle"><u>y</u>acht</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">K, k</td>
+<td style="text-align:center;vertical-align:middle">/k/, never aspirated</td>
+<td style="text-align:center;vertical-align:middle"><u>k</u>alendae</td>
+<td style="text-align:center;vertical-align:middle">s<u>k</u>irt</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">L, l</td>
+<td style="text-align:center;vertical-align:middle">/l/</td>
+<td style="text-align:center;vertical-align:middle">ca<u>l</u>idus</td>
+<td style="text-align:center;vertical-align:middle">s<u>l</u>ip</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">M, m</td>
+<td style="text-align:center;vertical-align:middle">/m/</td>
+<td style="text-align:center;vertical-align:middle"><u>m</u>agnus</td>
+<td style="text-align:center;vertical-align:middle"><u>m</u>eet</td>
+</tr>
 </tbody>
+<tr>
+<td style="text-align:center;vertical-align:middle">N, n</td>
+<td style="text-align:center;vertical-align:middle">/n/</td>
+<td style="text-align:center;vertical-align:middle"><u>n</u>ox</td>
+<td style="text-align:center;vertical-align:middle"><u>n</u>o</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">O, o</td>
+<td style="text-align:center;vertical-align:middle">/ɔ/, /o/</td>
+<td style="text-align:center;vertical-align:middle">p<u>o</u>rta</td>
+<td style="text-align:center;vertical-align:middle">s<u>o</u>rt</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">Oe, oe</td>
+<td style="text-align:center;vertical-align:middle">/ε/, /e/</td>
+<td style="text-align:center;vertical-align:middle">p<u>oe</u>na</td>
+<td style="text-align:center;vertical-align:middle">p<u>e</u>t</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">P, p</td>
+<td style="text-align:center;vertical-align:middle">/p/, never aspirated</td>
+<td style="text-align:center;vertical-align:middle"><u>p</u>ars</td>
+<td style="text-align:center;vertical-align:middle">s<u>p</u>lit</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">Qu, qu</td>
+<td style="text-align:center;vertical-align:middle">/kʷ/</td>
+<td style="text-align:center;vertical-align:middle"><u>qu</u>ae</td>
+<td style="text-align:center;vertical-align:middle"><u>qu</u>ery</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">R, r</td>
+<td style="text-align:center;vertical-align:middle">/r/</td>
+<td style="text-align:center;vertical-align:middle"><u>r</u>ex</td>
+<td style="text-align:center;vertical-align:middle" rowspan=2>Rolled like in Italian or Spanish</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">Rh, rh</td>
+<td style="text-align:center;vertical-align:middle">/r/</td>
+<td style="text-align:center;vertical-align:middle"></td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle" rowspan=2>S, s</td>
+<td style="text-align:center;vertical-align:middle">/s/</td>
+<td style="text-align:center;vertical-align:middle"><u>s</u>acer</td>
+<td style="text-align:center;vertical-align:middle"><u>s</u>ee</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">/z/ between vowels in informal situations</td>
+<td style="text-align:center;vertical-align:middle">mi<u>s</u>er</td>
+<td style="text-align:center;vertical-align:middle"><u>z</u>one</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle" rowspan=2>Sc, sc</td>
+<td style="text-align:center;vertical-align:middle">/ʃ/ before ae, e, i, oe, y</td>
+<td style="text-align:center;vertical-align:middle">a<u>sc</u>endere</td>
+<td style="text-align:center;vertical-align:middle"><u>sh</u>op</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">/sk/ otherwise</td>
+<td style="text-align:center;vertical-align:middle">pa<u>sc</u>unt</td>
+<td style="text-align:center;vertical-align:middle">bu<u>sk</u></td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle" rowspan=2>T, t</td>
+<td style="text-align:center;vertical-align:middle">/t/, never aspirated</td>
+<td style="text-align:center;vertical-align:middle"><u>t</u>imere</td>
+<td style="text-align:center;vertical-align:middle">s<u>t</u>op</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">/t͡s/ when followed by an unstressed i, unless preceded by s, t or x</td>
+<td style="text-align:center;vertical-align:middle">na<u>t</u>io</td>
+<td style="text-align:center;vertical-align:middle">pi<u>zz</u>a</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">U, u</td>
+<td style="text-align:center;vertical-align:middle">/u/</td>
+<td style="text-align:center;vertical-align:middle">p<u>u</u>lvis</td>
+<td style="text-align:center;vertical-align:middle">c<u>oo</u>l but short</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">Ui, ui</td>
+<td style="text-align:center;vertical-align:middle">/ui̯/</td>
+<td style="text-align:center;vertical-align:middle"></td>
+<td style="text-align:center;vertical-align:middle"></td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">V, v</td>
+<td style="text-align:center;vertical-align:middle">/v/</td>
+<td style="text-align:center;vertical-align:middle"><u>v</u>idere</td>
+<td style="text-align:center;vertical-align:middle"><u>v</u>ase</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle" rowspan=2>X, x</td>
+<td style="text-align:center;vertical-align:middle">/ks/</td>
+<td style="text-align:center;vertical-align:middle">de<u>x</u>ter</td>
+<td style="text-align:center;vertical-align:middle">fo<u>x</u></td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">/ɡz/ word initially between vowels</td>
+<td style="text-align:center;vertical-align:middle">e<u>x</u>audi</td>
+<td style="text-align:center;vertical-align:middle">e<u>x</u>hume</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle" rowspan=2>xc</td>
+<td style="text-align:center;vertical-align:middle">/kʃ/ before ae, e, i, oe, y</td>
+<td style="text-align:center;vertical-align:middle">e<u>xc</u>elsis</td>
+<td style="text-align:center;vertical-align:middle">a<u>ct</u>ion</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">/ksk/ otherwise</td>
+<td style="text-align:center;vertical-align:middle">e<u>xc</u>lamare</td>
+<td style="text-align:center;vertical-align:middle">e<u>xc</u>lamation</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">Y, y</td>
+<td style="text-align:center;vertical-align:middle">/i/</td>
+<td style="text-align:center;vertical-align:middle">brad<u>y</u>pus</td>
+<td style="text-align:center;vertical-align:middle">s<u>ee</u>k but short</td>
+</tr>
 </table>
+
+In [Ecclesiastical Latin](./index.md), the distinction between long and short vowels is not made - all vowels are short.

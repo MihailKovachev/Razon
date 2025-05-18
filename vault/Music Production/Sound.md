@@ -4,13 +4,13 @@ tags:
     - music-production
 ---
 
-# Sound
+# Introduction
 
 **Sound** is what our brains experience when our ears detect variations in the pressure of the air surrounding us. As the pressure changes, it causes some parts of the inside of the ears to move. These movements are then turned into electric signals which propagate through the neurons inside the brain and are ultimately interpreted as sound.
 
 How do we know that it is the changes which matter and not the pressure itself? Well, If this were not the case, then listening to a song at home would sound completely different from listening to the same song on a mountain peak, since the overall pressure of the air at the top of the mountain is less than the overall pressure of the air in your living room. However, we do not experience any significant difference in practice, indicating that our ears are primarily designed to detect pressure changes and not absolute pressure.
 
-## Waveforms
+# Waveforms
 
 The waveform of a sound is a graph which illustrates how air pressure varies in time as the sound is playing.
 
@@ -21,6 +21,16 @@ The term "amplitude" is pretty much synonymous with "pressure". However, the val
 Another common convention is to assign an amplitude of $-1.0$ to the lowest value to which air pressure drops while the sound is playing and an amplitude of $1.0$ to the highest value to which air pressure rises while the sound is playing. An amplitude of $0.0$ is then assigned to the arithmetic mean of the minimum and the maximum, exactly halfway in-between the two values. This is a very common thing to do when visualizing sounds recorded in isolation. Nevertheless, there are also many cases in which this is not done.
 
 The crucial thing to remember is that the actual pressure values behind the amplitudes are irrelevant, only the changes in the amplitude matter. Therefore, the way we perceive a sound is uniquely determined by the shape of its waveform.
+
+
+>[!NOTE] Note: Physically-Accurate Waveforms
+>
+>In practice, waveforms are much more complex than the simplified illustration above and look more like this:
+>
+>TODO
+>
+
+
 
 # Volume
 
@@ -57,11 +67,3 @@ Now, lets see what happens when the number of oscillations, i.e. the frequency, 
 ![](res/Sound%20Wave%20110%20Hz.wav)
 
 Therefore, lower frequencies are perceived as lower pitches, i.e. they sound more like a bass, and higher frequencies are perceived as higher pitches.
-
-## Overtones
-
-In practice, sounds are never 
-
-## Timbre
-
-The **timbre** (**tone quality** or **tone quality**) of a sound is what makes each sound unique and allows us distinguish between different sound sources such as a piano and a violin playing the same pitch.  

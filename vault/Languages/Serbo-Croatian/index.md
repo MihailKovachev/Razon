@@ -1,5 +1,5 @@
 ---
-title: Serbo-Croation
+title: Serbo-Croatian
 tags:
     - serbo-croatian-language
     - languages

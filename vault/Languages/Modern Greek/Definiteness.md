@@ -47,7 +47,7 @@ English has a single definite article, namely the word "the". However, the defin
 </tr>
 <tr>
 <th style="text-align: center">Accusative</th>
-<td style="text-align: center">τον</td>
+<td style="text-align: center">το(ν)</td>
 <td style="text-align: center">τη(ν)</td>
 <td style="text-align: center">το</td>
 <td style="text-align: center">τους</td>
@@ -56,11 +56,13 @@ English has a single definite article, namely the word "the". However, the defin
 </tr>
 </table>
 
-The accusative feminine singular of the [definite article](Definiteness.md) is "την" only when the next word starts with one of κ, π, τ, ξ, ψ, γκ, μπ, ντ and is "τη" otherwise.
+The accusative masculine and feminine singular of the [definite article](Definiteness.md) always end in *-ν* when the next word starts with a vowel or one of κ, π, τ, ξ, ψ, γκ, μπ, ντ. The final *-ν* is optional in all other situations. Nevertheless, the full form *τον* is usually used when the article relates to a proper name such as *τον Στέφανο*.
 
 ## Usage
 
 # The Indefinite Article
+
+## Declension
 
 These are the forms of the indefinite article of modern Greek.
 

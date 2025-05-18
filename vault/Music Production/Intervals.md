@@ -25,16 +25,15 @@ There are two fundamental [intervals](Intervals.md) which are crucial for all of
 
 >[!DEFINITION] Definition: Unison
 >
->A **unison** is the [interval](Intervals.md) between two identical [pitches](Sound.md#Pitch), i.e. the [interval](Intervals.md) with value $1:1$.
+>A **(perfect) unison** is the [interval](Intervals.md) between two identical [pitches](Sound.md#Pitch), i.e. the [interval](Intervals.md) with value $1:1$.
 >
 
 >[!DEFINITION] Definition: Octave
 >
->An **octave** is the [interval](Intervals.md) between two [pitches](Sound.md#Pitch) where the frequency of one of the [pitches](Sound.md#Pitch) is exactly double the frequency of the other, i.e. the [interval](Intervals.md) with value $2:1$.
+>An **(perfect) octave** is the [interval](Intervals.md) between two [pitches](Sound.md#Pitch) where the frequency of one of the [pitches](Sound.md#Pitch) is exactly double the frequency of the other, i.e. the [interval](Intervals.md) with value $2:1$.
 >
 
 # Naming
 
 For us humans, working directly with numbers is unintuitive and confusing. This is why we have devised a more comprehensible naming system for [intervals](Intervals.md). 
-
-
+|
