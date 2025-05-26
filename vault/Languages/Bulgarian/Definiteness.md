@@ -1,3 +1,11 @@
+---
+title: Definiteness
+tags:
+    - bulgarian-language
+    - languages
+---
+
+
 # The Definite Article
 
 The definite article is used to indicate that a word refers to something which is unique or was previously mentioned.

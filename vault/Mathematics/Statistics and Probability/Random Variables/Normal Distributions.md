@@ -82,7 +82,7 @@
 >F(x) = \Phi\left(\frac{x - \mu}{\sigma}\right),
 >$$
 >
->where $Phi$ is the [cumulative distribution function](Random%20Variables.md#Cumulative%20Distribution%20Function) of $X$'s [standardization](Normal%20Distributions.md#General%20Normal%20Distributions).
+>where $\Phi$ is the [cumulative distribution function](Random%20Variables.md#Cumulative%20Distribution%20Function) of $X$'s [standardization](Normal%20Distributions.md#General%20Normal%20Distributions).
 >
 >>[!PROOF]-
 >>

@@ -32,8 +32,7 @@ English has a single definite article, namely the word "the". However, the defin
 <td style="text-align: center">ο</td>
 <td style="text-align: center">η</td>
 <td style="text-align: center">το</td>
-<td style="text-align: center">οι</td>
-<td style="text-align: center">οι</td>
+<td style="text-align: center" colspan=2>οι</td>
 <td style="text-align: center">τα</td>
 </tr>
 <tr>
@@ -41,9 +40,7 @@ English has a single definite article, namely the word "the". However, the defin
 <td style="text-align: center">του</td>
 <td style="text-align: center">της</td>
 <td style="text-align: center">του</td>
-<td style="text-align: center">των</td>
-<td style="text-align: center">των</td>
-<td style="text-align: center">των</td>
+<td style="text-align: center" colspan=3>των</td>
 </tr>
 <tr>
 <th style="text-align: center">Accusative</th>

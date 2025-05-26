@@ -121,6 +121,8 @@ Certain combinations of letters are pronounced differently from the normal way t
 |Ντ, ντ|/d/ at the start of a word and in some loanwords </br> /nd/ otherwise, but often reduced to /d/ in informal speech|
 |ΤΖ, τζ|/d͡z/|
 
-# Stress
+# Phonology
+
+## Stress Accent
 
 The stress of a word in modern Greek always falls on one of the last the syllables called the "antepenult", "penult" and "ultima". This stress is indicated by placing an [acute accent](Orthography%20and%20Phonology.md#Diacritics) over the stressed syllable.

@@ -5,11 +5,14 @@ tags:
     - languages
 ---
 
-# The Arabic Alphabet
+# The Arabic Script
 
-The Arabic alphabet consists of 28 letters - 25 of them are used to represent consonant sounds and 3 of them are used to represent long vowel sounds.
+The [writing system](../../Linguistics/Writing%20Systems.md) used by the [Arabic](./index.md) language is an [abjad](../../Linguistics/Writing%20Systems.md#Abjads) consisting of 28 letters. Each letter represents one [consonant](TODO) sound and three of the letters can also denote a long [vowel](TODO).
+
+The Arabic script is written from right to left and top to bottom. Since it is a cursive script, most letters have multiple forms which depend on their position within a word.
 
 <table style="text-align:center;">
+<caption>The Arabic Script</caption>
 <thead>
 <tr>
 <th style="text-align:center">Final</th>
@@ -288,7 +291,7 @@ The Arabic alphabet consists of 28 letters - 25 of them are used to represent co
 <td style="text-align:center">ـو</td>
 <td style="text-align:center">و</td>
 <td style="text-align:center">و</td>
-<td style="text-align:center">/w/ (final), /uː/</td>
+<td style="text-align:center">/w/, /uː/</td>
 <td style="text-align:center">وَاو</td>
 <td style="text-align:center">[waːw]</td>
 <td style="text-align:center">w, ū</td>
@@ -298,7 +301,7 @@ The Arabic alphabet consists of 28 letters - 25 of them are used to represent co
 <td style="text-align:center">ـيـ</td>
 <td style="text-align:center">يـ</td>
 <td style="text-align:center">ي</td>
-<td style="text-align:center">/j/ (final), /iː/</td>
+<td style="text-align:center">/j/, /iː/</td>
 <td style="text-align:center">يَاء</td>
 <td style="text-align:center">[jaːʔ]</td>
 <td style="text-align:center">y, ī</td>
@@ -306,33 +309,12 @@ The Arabic alphabet consists of 28 letters - 25 of them are used to represent co
 </tbody>
 </table>
 
-The Arabic script is written from right to left and top to bottom.
-
 ## Hamza
 
 The symbol ء is known as هَمْزة (hamzah) and is used to indicate a glottal stop /ʔ/. It can appear either on its own like a separate letter or as a diacritic on ي, و,ا, indicating that said letter should be preceded by a glottal stop:
 - The hamza can be placed above or below an initial or isolated ا (turning into أ or إ)  but it can only placed above a medial or a final ا (turning into ـأ).
 - The hamza can only be placed above a medial or final و (such as ـؤ) and is never used on an initial و.
 - The hamza can only be placed above a medial or final ي (turning into ـئ or ـئـ or ئـ) and is never used on an initial ي.
-
-## Vowels
-
-Short vowel sounds are rarely indicated in written Arabic. Instead, the speaker needs to rely on their knowledge of the language to determine what vowels to pronounce. However, different vowels can result in drastically different meanings. This is why there is a system of diacritics to indicate short vowel sounds when clarity is imperative such as when studying the language or reading the Quran. When a text uses this system, it is said to be *vocalized* and it is *unvocalized* otherwise.
-
-|Diacritic|IPA|Name (Arabic Script)|Name (Romanized)|
-|:--:|:--:|:--:|:--:|
-|ــَـ|/a/|فَتْحَة|fat·ḥah|
-|ــُـ|/u/|ضَمَّة|ḍammah|
-|ــِـ|/i/|كَسْرَة|kasrah|
-|ــْـ |/ø/|سُكُون|sukūn|
-
-When a diacritic is placed on a consonant letter, it indicates that the letter should be pronounced followed by the respective short vowel. The sukūn is a special diacritic which indicates that there is *no* vowel after the letter.
-
-The long vowel /a:/ in unvocalized texts is indicated by ا. In vocalized texts it is indicated by  ا and a fat·ḥah on the consonant preceding ا. 
-
-The long vowel /u:/ in unvocalized texts is indicated by و. In vocalized texts it is indicated by و and a dammah on the consonant preceding و.
-
-The long vowel /i:/ in unvocalized texts is indicated by ي. In vocalized texts it is indicated by ي and a kasrah on the consonant preceding ي.
 
 ## Gemination
 
@@ -351,3 +333,44 @@ Ligatures are quire common in written Arabic. Although there are many optional l
 |Final|Medial|Initial|Isolated|Letters|IPA|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |ﻼ|ﻼ|ﻻ‎|ﻻ‎|ل + ا|/la:/
+
+# Vowels
+
+There are only three [vowel](TODO) sounds in [Arabic](./index.md) and they can be either short or long: [a] / [aː], [i] / [iː] and [u] / [uː].
+
+The long vowels [aː], [iː], [uː] are represented by the letters ا (alif), ي (yā') and و (wāw), respectively.
+
+>[!NOTE] Note: 'Alif maqṣūrah (أَلِفٌ مَقْصُورَةٌ)
+>
+>In some words, the long vowel /aː/ at the end of a word can be denoted by a modified version of ي (yā') but without the dots (ـى).
+>
+
+Short vowel sounds are not written. Instead, the speaker needs to rely on their knowledge of the language to determine what vowels to pronounce when reading. 
+
+
+
+## Vocalization
+
+Although short vowel sounds are never written in practice, different vowels can result in drastically different meanings. This is why there is a system of diacritics to indicate short vowel sounds when clarity is imperative such as when studying the language or reading the Quran. The process of using this system is known as **vocalization**.
+
+|Diacritic|IPA|Name (Arabic Script)|Name (Romanized)|
+|:--:|:--:|:--:|:--:|
+|ــَـ|/a/|فَتْحَة|fat·ḥah|
+|ــِـ|/i/|كَسْرَة|kasrah|
+|ــُـ|/u/|ضَمَّة|ḍammah|
+|ــْـ |/ø/|سُكُون|sukūn|
+
+When a diacritic is placed on a consonant letter, it indicates that the letter should be pronounced followed by the respective short vowel. The sukūn is a special diacritic which indicates that there is *no* vowel after the letter.
+
+In vocalized texts, long vowels are indicated by the combination of the appropriate letter and the respective diacritic placed on the letter preceding it:
+- The long vowel /a:/ is indicated by ا and a fat·ḥah on the letter preceding ا;
+- The long vowel /i:/ is indicated by ي and a kasrah on the consonant preceding ي;
+- The long vowel /u:/ is indicated by و and a ḍammah on the consonant preceding و.
+
+>[!NOTE] Note: Dagger 'Alif
+>
+>In some common words, the long vowel /aː/ is written as a miniature version of 'alif placed on above the consonant which precedes the vowel:
+>
+
+# Stress
+

@@ -65,7 +65,7 @@ tags:
 >
 >Let $S$ be a [multiset](../Set%20Theory/Multisets.md) with cardinality $k$.
 >
->A **permutation with repetition** of $S$ is a $k$-[tuple](../Set%20Theory/Tuples.md) of elements from $S$ in which each element $s_i$ as many times as its multiplicity $k_i$.
+>A **permutation with repetition** of $S$ is a $k$-[tuple](../Set%20Theory/Tuples.md) of elements from $S$ in which each element $s_i$ is present as many times as its multiplicity $k_i$.
 >
 >>[!EXAMPLE]-
 >>
