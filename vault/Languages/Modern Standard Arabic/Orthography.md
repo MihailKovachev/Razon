@@ -1,0 +1,385 @@
+---
+tags:
+    - arabic-language
+    - languages
+---
+
+# Orthography
+
+The [writing system](../../Linguistics/Writing%20Systems.md) used by the [Arabic](../../index.md) language is an [abjad](../../Linguistics/Writing%20Systems.md#Abjads) consisting of 28 letters. It is a cursive script written from right to left and top to bottom. All letters have between two and four forms depending on their position in a word so as to be able to connect with the letters surrounding them:
+- The initial form is used at the start of a word and connects with the letter after it.
+- The medial form is used in the middle of a word and connects with the letters before and after it.
+- The final form is used at the end of a word and connects with the letter preceding it.
+
+The letters ʾalif (ا), dāl (د), dhāl (ذ), rāʾ (ر), zayn (ز), and wāw (و) are known as non-connecting letters. They only have two forms and do not connect to a subsequent letter in the word. Any letter that follows them must begin a new connection, taking its initial form (or isolated form if it is the last letter of the word).
+
+<table>
+<caption>The Arabic Script</caption>
+<thead>
+<tr>
+<th style="text-align:center">Final</th>
+<th style="text-align:center">Medial</th>
+<th style="text-align:center">Initial</th>
+<th style="text-align:center">Isolated</th>
+<th style="text-align:center">IPA</th>
+<th style="text-align:center">Name</th>
+<th style="text-align:center">Romanization</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center" colspan=2>ـا</td>
+<td style="text-align:center" colspan=2>ا</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">أَلِف [ʔalif] ʾalif</td>
+<td style="text-align:center">ʾ / ʔ, ā</td>
+</tr>
+<tr>
+<td style="text-align:center">ـب</td>
+<td style="text-align:center">ـبـ</td>
+<td style="text-align:center">بـ</td>
+<td style="text-align:center">ب</td>
+<td style="text-align:center">/b/</td>
+<td style="text-align:center">بَاء [baːʔ] bāʾ</td>
+<td style="text-align:center">b</td>
+</tr>
+<tr>
+<td style="text-align:center">ـت</td>
+<td style="text-align:center">ـتـ</td>
+<td style="text-align:center">تـ</td>
+<td style="text-align:center">ت</td>
+<td style="text-align:center">/t/</td>
+<td style="text-align:center">تَاء [taːʔ] tāʾ</td>
+<td style="text-align:center">t</td>
+</tr>
+<tr>
+<td style="text-align:center">ـث</td>
+<td style="text-align:center">ـثـ</td>
+<td style="text-align:center">ثـ</td>
+<td style="text-align:center">ث</td>
+<td style="text-align:center">/θ/</td>
+<td style="text-align:center">ثَاء [θaːʔ] thāʾ</td>
+<td style="text-align:center">ṯ, th</td>
+</tr>
+<tr>
+<td style="text-align:center">ـج</td>
+<td style="text-align:center">ـجـ</td>
+<td style="text-align:center">جـ</td>
+<td style="text-align:center">ج</td>
+<td style="text-align:center">/d͡ʒ/</td>
+<td style="text-align:center">جِيم [d͡ʒiːm] jīm</td>
+<td style="text-align:center">j</td>
+</tr>
+<tr>
+<td style="text-align:center">ـح</td>
+<td style="text-align:center">ـحـ</td>
+<td style="text-align:center">حـ</td>
+<td style="text-align:center">ح</td>
+<td style="text-align:center">/ħ/</td>
+<td style="text-align:center">حَاء [ħaːʔ] ḥāʾ</td>
+<td style="text-align:center">ḥ</td>
+</tr>
+<tr>
+<td style="text-align:center">ـخ</td>
+<td style="text-align:center">ـخـ</td>
+<td style="text-align:center">خـ</td>
+<td style="text-align:center">خ</td>
+<td style="text-align:center">/x/</td>
+<td style="text-align:center">خَاء [xaːʔ] khāʾ</td>
+<td style="text-align:center">ḵ, kh</td>
+</tr>
+<tr>
+<td style="text-align:center" colspan=2>ـد</td>
+<td style="text-align:center" colspan=2>د</td>
+<td style="text-align:center">/d/</td>
+<td style="text-align:center">دَال [daːl] dāl</td>
+<td style="text-align:center">d</td>
+</tr>
+<tr>
+<td style="text-align:center" colspan=2>ـذ</td>
+<td style="text-align:center" colspan=2>ذ</td>
+<td style="text-align:center">/ð/</td>
+<td style="text-align:center">ذَال [ðaːl] dhāl</td>
+<td style="text-align:center">ḏ / dh</td>
+</tr>
+<tr>
+<td style="text-align:center" colspan=2>ـر</td>
+<td style="text-align:center" colspan=2>ر</td>
+<td style="text-align:center">/r/</td>
+<td style="text-align:center">رَاء [raːʔ] rāʾ</td>
+<td style="text-align:center">r</td>
+</tr>
+<tr>
+<td style="text-align:center" colspan=2>ـز</td>
+<td style="text-align:center" colspan=2>ز</td>
+<td style="text-align:center">/z/</td>
+<td style="text-align:center">زَاي [zaːj] zāy</td>
+<td style="text-align:center">z</td>
+</tr>
+<tr>
+<td style="text-align:center">ـس</td>
+<td style="text-align:center">ـسـ</td>
+<td style="text-align:center">سـ</td>
+<td style="text-align:center">س</td>
+<td style="text-align:center">/s/</td>
+<td style="text-align:center">سِين [siːn] sīn</td>
+<td style="text-align:center">s</td>
+</tr>
+<tr>
+<td style="text-align:center">ـش</td>
+<td style="text-align:center">ـشـ</td>
+<td style="text-align:center">شـ</td>
+<td style="text-align:center">ش</td>
+<td style="text-align:center">/ʃ/</td>
+<td style="text-align:center">شِين [ʃiːn] shīn</td>
+<td style="text-align:center">š, sh</td>
+</tr>
+<tr>
+<td style="text-align:center">ـص</td>
+<td style="text-align:center">ـصـ</td>
+<td style="text-align:center">صـ</td>
+<td style="text-align:center">ص</td>
+<td style="text-align:center">/sˤ/</td>
+<td style="text-align:center">صَاد [sˤaːd] ṣād</td>
+<td style="text-align:center">ṣ</td>
+</tr>
+<tr>
+<td style="text-align:center">ـض</td>
+<td style="text-align:center">ـضـ</td>
+<td style="text-align:center">ضـ</td>
+<td style="text-align:center">ض</td>
+<td style="text-align:center">/dˤ/</td>
+<td style="text-align:center">ضَاد [dˤaːd] ḍād</td>
+<td style="text-align:center">ḍ</td>
+</tr>
+<tr>
+<td style="text-align:center">ـط</td>
+<td style="text-align:center">ـطـ</td>
+<td style="text-align:center">طـ</td>
+<td style="text-align:center">ط</td>
+<td style="text-align:center">/tˤ/</td>
+<td style="text-align:center">طَاء [tˤaːʔ] ṭāʾ</td>
+<td style="text-align:center">ṭ</td>
+</tr>
+<tr>
+<td style="text-align:center">ـظ</td>
+<td style="text-align:center">ـظـ</td>
+<td style="text-align:center">ظـ</td>
+<td style="text-align:center">ظ</td>
+<td style="text-align:center">/ðˤ/</td>
+<td style="text-align:center">ظَاء [ðˤaːʔ] ẓāʾ</td>
+<td style="text-align:center">ẓ</td>
+</tr>
+<tr>
+<td style="text-align:center">ـع</td>
+<td style="text-align:center">ـعـ</td>
+<td style="text-align:center">عـ</td>
+<td style="text-align:center">ع</td>
+<td style="text-align:center">/ʕ/</td>
+<td style="text-align:center">عَيْن [ʕajn] ʕain</td>
+<td style="text-align:center">ʻ / ʕ</td>
+</tr>
+<tr>
+<td style="text-align:center">ـغ</td>
+<td style="text-align:center">ـغـ</td>
+<td style="text-align:center">غـ</td>
+<td style="text-align:center">غ</td>
+<td style="text-align:center">/ɣ/</td>
+<td style="text-align:center">غَيْن [ɣajn] ghayn</td>
+<td style="text-align:center">ḡ / gh</td>
+</tr>
+<tr>
+<td style="text-align:center">ـف</td>
+<td style="text-align:center">ـفـ</td>
+<td style="text-align:center">فـ</td>
+<td style="text-align:center">ف</td>
+<td style="text-align:center">/f/</td>
+<td style="text-align:center">فَاء [faːʔ] fāʾ</td>
+<td style="text-align:center">f</td>
+</tr>
+<tr>
+<td style="text-align:center">ـق</td>
+<td style="text-align:center">ـقـ</td>
+<td style="text-align:center">قـ</td>
+<td style="text-align:center">ق</td>
+<td style="text-align:center">/q/</td>
+<td style="text-align:center">قَاف [qaːf] qāf</td>
+<td style="text-align:center">q</td>
+</tr>
+<tr>
+<td style="text-align:center">ـك</td>
+<td style="text-align:center">ـكـ</td>
+<td style="text-align:center">كـ</td>
+<td style="text-align:center">ك</td>
+<td style="text-align:center">/k/</td>
+<td style="text-align:center">كَاف [kaːf] kāf</td>
+<td style="text-align:center">k</td>
+</tr>
+<tr>
+<td style="text-align:center">ـل</td>
+<td style="text-align:center">ـلـ</td>
+<td style="text-align:center">لـ</td>
+<td style="text-align:center">ل</td>
+<td style="text-align:center">/l/</td>
+<td style="text-align:center">لاَم [laːm] lām</td>
+<td style="text-align:center">l</td>
+</tr>
+<tr>
+<td style="text-align:center">ـم</td>
+<td style="text-align:center">ـمـ</td>
+<td style="text-align:center">مـ</td>
+<td style="text-align:center">م</td>
+<td style="text-align:center">/m/</td>
+<td style="text-align:center">مِيم [miːm] mīm</td>
+<td style="text-align:center">m</td>
+</tr>
+<tr>
+<td style="text-align:center">ـن</td>
+<td style="text-align:center">ـنـ</td>
+<td style="text-align:center">نـ</td>
+<td style="text-align:center">ن</td>
+<td style="text-align:center">/n/</td>
+<td style="text-align:center">نُون [nuːn] nūn</td>
+<td style="text-align:center">n</td>
+</tr>
+<tr>
+<td style="text-align:center">ـه</td>
+<td style="text-align:center">ـهـ</td>
+<td style="text-align:center">هـ</td>
+<td style="text-align:center">ه</td>
+<td style="text-align:center">/h/</td>
+<td style="text-align:center">هَاء [haːʔ] hāʾ</td>
+<td style="text-align:center">h</td>
+</tr>
+<tr>
+<td style="text-align:center" colspan=2>ـو</td>
+<td style="text-align:center" colspan=2>و</td>
+<td style="text-align:center">/w/, /uː/</td>
+<td style="text-align:center">وَاو [waːw] wāw</td>
+<td style="text-align:center">w, ū</td>
+</tr>
+<tr>
+<td style="text-align:center">ـي</td>
+<td style="text-align:center">ـيـ</td>
+<td style="text-align:center">يـ</td>
+<td style="text-align:center">ي</td>
+<td style="text-align:center">/j/, /iː/</td>
+<td style="text-align:center">يَاء [jaːʔ] yāʾ</td>
+<td style="text-align:center">y, ī</td>
+</tr>
+</tbody>
+</table>
+
+All letters except for ʾalif (ا), wāw (و) and yāʾ (ي) denote a single [consonant](#Consonants) sound. The letters wāw (و) and yāʾ (ي) can denote either the [consonants](#Consonants) /w/ and /j/ or the long [vowels](#Vowels) /uː/ and /iː/, respectively. The letter ʾalif (ا) does not have its own pronunciation. Instead, it can represent a few different sounds depending on how its used.
+
+>[!NOTE]+ Note: Spelling Variants of ʾalif (ا)
+>
+>The letter ʾalif (ا) has two additional spelling variants:
+>- Dagger ʾAlif (الألف الخنجرية, al-ʾAlif al-Khanjariyyah) is a short diacritic (ـٰ) used to indicate that the [consonant](#Consonants) on which it is placed is followed by the [long vowel](#Vowels) /aː/. This is used only in a few words such as الله (Allāh) in the Quran. Outside of the Quran, it is rarely used. 
+>- ʾAlif Maqṣūrah (الأَلِف المَقْصُورَة) only occurs at a word-final position and looks like a dotless yāʾ (ى). It is pronounced as [long vowel](#Vowels) /aː/ and is used only in specific situations.
+>
+
+>[!NOTE]+ Note: تَاء مَرْبُوطَة (tā' marbūṭa)
+>
+>There is a special variant of the letter tā' known as **تَاء مَرْبُوطَة (tā' marbūṭa)**. It can only occur at the end of words. It is written as ﺔ when linked to the previous letter and as ة when unlinked. The pronunciation of tā' marbūṭa varies:
+>- In [full form](#Full%20Form%20and%20Pause%20Form), it is pronounced as /t/ (e.g. سَيَّارَةٌ, sayyāratun).
+>- In [pause form](#Full%20Form%20and%20Pause%20Form), it is pronounced as /h/ (e.g. سَيَّارَةْ sayyārah). However, if the word is the first word of an [[TODO|إضافة]], then it is again pronounced as /t/.
+> 
+
+Short [vowels](#Vowels) are almost never written in practice. Speakers have to rely on contextual cues to determine which vowels to pronounce. However, there is a system of diacritics, known as [vocalization](#Vocalization), which is used to indicate short [vowels](#Vowels) in specific contexts.
+
+## Vocalization
+
+A system of diacritics known as **vocalization** is used to show the pronunciation of [short vowels](#Vowels):
+
+|Diacritic|IPA|Name|
+|:--:|:--:|:--:|
+|ـَ|/a/|فَتْحَة fatḥah|
+|ـِ|/i/|كَسْرَة kasrah|
+|ـُ|/u/|ضَمَّة ḍammah|
+|ــْـ |/ø/|سُكُون sukūn|
+
+When such a diacritic is placed on any letter except ʾalif (ا), wāw (و) and yāʾ (ي), it indicates that the [consonant](#Consonants) should be pronounced followed by the respective [short vowel](#Vowels). When placed on wāw (و) or yāʾ (ي), the diacritic indicates /w/ or /j/ + the [short vowel](#Vowels), respectively.
+
+In vocalized texts, [long vowels](#Vowels) are indicated by the following combinations of ʾalif (ا), wāw (و) or yāʾ (ي) (without diacritics) and the respective diacritic placed on the letter preceding ʾalif (ا), wāw (و) or yāʾ (ي):
+- The [long vowel](#Vowels) /a:/ is indicated by ا and a fat·ḥah on the letter before ا;
+- The [long vowel](#Vowels) /u:/ is indicated by و and a ḍammah on the consonant before و.
+- The [long vowel](#Vowels) /i:/ is indicated by ي and a kasrah on the consonant before ي;
+
+The sukūn is a special diacritic which indicates that there is *no* [vowel](#Vowels) after the letter.
+
+>[!NOTE] Note: Use of Vocalization
+>
+>Vocalization is almost never used in practice. It is only used in the Quran and when teaching the language. Rarely, it might also be used to resolve ambiguity.
+>
+
+### Tanwīn
+
+Three additional diacritics known as **تَنوِين (tanwīn)** may occur on word-final letters. They indicate that the letter should be pronounced followed by a particular [short vowel](#Vowels) + /n/. The use of tanwīn is governed by the grammatical rules of [[TODO|nunation]].
+
+|Diacritic|IPA|Name|
+|:--:|:--:|:--:|
+|ـً|/an/|فَتْحَتَيْنِ fatḥahtayn|
+|ـٍ|/in/|كَسْرَتَيْنِ kasratayn|
+|ـٌ|/un/|ضَمَّتَيْنِ ḍammatayn|
+
+## Hamza
+
+The symbol ء is known as هَمْزة (hamza) and is used to indicate a [[TODO|glottal stop]] /ʔ/. It can appear either on its own like a separate letter or as a diacritic on a "seat": one of ʾalif (ا), wāw (و) and yāʾ (ي). When used as seats for hamza, the letters ʾalif (ا), wāw (و) and yāʾ (ي) themselves do *not* denote any sound. Furthermore, yāʾ (ي) loses its two dots when acting as a seat for hamza.
+
+When hamza is the first [consonant](#Consonants) in a word, it is always written either above or below an ʾalif seat:
+- It is written above ʾalif (أ) when the following vowel is /a/ (أَ) or /u/ (أُ) - these are pronounced /ʔa/ and /ʔu/, respectively.
+- It is written below ʾalif (إ) when the following vowel is /i/ (إِ) - this is pronounced /ʔi/.
+
+It is also common to omit a word-initial hamza symbol and only write the ʾalif seat.
+
+>[!NOTE]+ Note: Weak Hamza (هَمْزَة الوَصْل, hamzat al-waṣl)
+>
+>In certain situations, the [[TODO|glottal stop]] /ʔ/ at a word-initial position is pronounced only if the word is at the beginning of a sentence and it is otherwise dropped completely. Such a [[TODO|glottal stop]] /ʔ/ is known as a **weak hamza** (هَمْزَة الوَصْل, hamzat al-waṣl) and is indicated by an ʾalif seat without a hamza symbol. In [vocalized](#Vocalization) texts, it is indicated by ٱ (an ʾalif with a waṣlah sign).
+>
+
+A medial hamza is written on the line as an unlinked letter when:
+- denoting /ʔa(ː)/ preceded by an ʾalif denoting the [long vowel](#Vowels) /aː/ - قِرَاءَة (qirā'a).
+- denoting /ʔa(ː)/ or /ʔu(ː)/ preceded by a wāw denoting the [long vowel](#Vowels) /uː/ or by a wāw without a subsequent [vowel](#Vowels) - مُرُوءَة (murūʾa), ضَوْءُهُ (ḍawʾuhu).
+
+ In all other situations, a medial hamza is written on one of the three seats. The seat is determined by the [vowels](#Vowels) surrounding the hamza with precedence according to the order /i(ː)/ > /u(ː)/ > /a(ː)/.
+ -  If there is an /i(ː)/ either preceding or following /ʔ/, then hamza takes yāʾ as a seat - سُئِلَ (suʾila), بِئْر (biʾr).
+ - If there is no /i(ː)/ surrounding the /ʔ/ but there is /u(ː)/ either before or after it, then hamza takes wāw as a seat - سُؤَال (su'āl), رُؤُوس (ruʾūs). 
+ - If there is neither /i(ː)/ nor /u(ː)/ surrounding the /ʔ/, but there is /a(ː)/ either before or after it, then hamza takes ʾalif as a seat - سَأَلَ (saʾala), رَأْس (raʾs).
+
+A final hamza is written on the line as an unlinked letter when preceded by any [long vowel](#Vowels) or any [consonant](#Consonants) - عِبْء (ʿibʾ), سَمَاء (samāʾ), هُدُوء (hudūʾ), شَيْء (shayʾ). It is written on a seat when preceded by a short [vowel](#Vowels). The vowel determines which seat to take:
+- /a/ -> ʾalif, such as in قَرَأَ (qaraʾa);
+- /u/ -> wāw, such as in تَكَافُؤ (takāfuʾ) ;
+- /i/ -> yāʾ, such as in شَاطِئ (shāṭiʾ).
+
+
+>[!NOTE]+ Note:  ألِف مدَّة (ʾalif madda)
+>
+>A special symbol (آ) known as ألِف مدَّة (ʾalif madda) is used to denote the combination /ʔaː/ of a [[TODO|glottal stop]] /ʔ/ followed by the [long vowel](#Vowels) /aː/.
+>
+
+## Gemination
+
+**Gemination** or doubling of a consonant is indicated not by writing the letter for it twice but rather by placing a special diacritic ــّـ called شَدَّة (shaddah) on top of it.
+
+|Diacritic|Name (Arabic Script)|Name (Romanized)|Meaning|
+|:--:|:--:|:--:|:--:|
+|ــّـ| شَدَّة |shaddah|Doubling of the consonant.|
+
+A shaddah may be combined with another diacritic for indicating a short vowel.
+
+## Ligatures
+
+Ligatures are quire common in written Arabic. Although there are many optional ligatures, the ligature between ل and ا is compulsory.
+
+|Final|Medial|Initial|Isolated|Letters|IPA|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|ﻼ|ﻼ|ﻻ‎|ﻻ‎|ل + ا|/la:/
+
+
+# Sources
+
+1. [Arabic Alphabet - Wikipedia](https://en.wikipedia.org/wiki/Arabic_alphabet)
+2. [Hamza - Wikipedia](https://en.wikipedia.org/wiki/Hamza)
+3. [A Reference Grammar of Modern Standard Arabic](https://doi.org/10.1017/CBO9780511486975)
+4. [Standard Arabic Phonology](https://en.wikipedia.org/wiki/Standard_Arabic_phonology)

@@ -1,0 +1,50 @@
+---
+title: Parametrization
+tags:
+  - vector-analysis
+  - real-analysis
+  - analysis
+  - euclidean-geometry
+  - geometry
+  - mathematics
+---
+
+# Parametrization
+
+>[!DEFINITION] Definition: Surface Parametrization
+>
+>Let $\mathcal{S}$ be a [surface](./Surfaces.md) in $\mathbb{R}^n$.
+>
+>A **parametrization** of $\mathcal{S}$ is a [continuous](../../../Analysis/Real%20Analysis/Real%20Vector%20Functions/Continuity%20(Real%20Vector%20Functions).md) [function](../../../Analysis/Real%20Analysis/Real-Valued%20Functions.md) $\varphi: \mathcal{D} \subseteq \mathbb{R}^2 \to \mathbb{R}^n$ on a [connected set](../../../Analysis/Real%20Analysis/Euclidean%20Space/Euclidean%20Space.md#Connectedness) $\mathcal{D}$ which is [injective](../../../Analysis/Functions/Injections,%20Surjections%20and%20Bijections.md) on $\mathcal{D}$ except possibly at the [boundary](../../../Topology/Interior,%20Boundary,%20Exterior.md) $\partial \mathcal{D}$ and whose [image](../../../Analysis/Functions/Functions.md) is $\mathcal{S}$.
+>
+
+## Equivalence of Parametrizations
+
+>[!DEFINITION] Definition: Reparametrization
+>
+>Let $\psi: \mathcal{D}_{\psi} \subseteq \mathbb{R}^2 \to \mathbb{R}^n$ and $\phi: \mathcal{D}_{\phi} \subseteq \mathbb{R}^2 \to \mathbb{R}^n$ be [parametrizations](./Surfaces.md#Parametrizations) of the same [surface](./Surfaces.md#Surfaces) $\mathcal{S} \subset \mathbb{R}^n$.
+>
+>A **reparametrization** between $\psi$ and $\phi$ is a [bijective](../../../Analysis/Functions/Injections,%20Surjections%20and%20Bijections.md) [function](../../../Analysis/Real%20Analysis/Real-Valued%20Functions.md) $h_{\mathcal{D}_{\psi} \to \mathcal{D}_{\phi}}: \mathcal{D}_{\psi} \to \mathcal{D}_{\phi}$ with [inverse](../../../Analysis/Functions/Injections,%20Surjections%20and%20Bijections.md) $h_{\mathcal{D}_{\phi} \to \mathcal{D}_{\psi}}: \mathcal{D}_{\phi} \to \mathcal{D}_{\psi}$ such that
+>
+>$$
+>\begin{aligned}
+>\psi(\mathbf{x}) = \phi(h_{\mathcal{D}_{\psi} \to \mathcal{D}_{\phi}}(\mathbf{x})) \qquad \forall \mathbf{x} \in \mathcal{D}_{\psi} \\
+>\phi(\mathbf{x}) = \psi(h_{\mathcal{D}_{\phi} \to \mathcal{D}_{\psi}}(\mathbf{x})) \qquad \forall \mathbf{x} \in \mathcal{D}_{\phi}
+>\end{aligned}
+>$$
+>
+>>[!NOTE]
+>>
+>>This is the most general definition for reparametrization. However, it is quite common to require that both $h_{I_{\psi} \to I_{\phi}}$ and $h_{I_{\phi} \to I_{\psi}}$ have additional properties such as [Continuity (Real Functions)](../../../Analysis/Real%20Analysis/Real%20Functions/Continuity%20(Real%20Functions).md), [continuous differentiability](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability%20(Real%20Functions).md) or [smoothness](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability%20(Real%20Functions).md). In this case, when we say that a reparametrization has some property, we mean that both $h_{I_{\psi} \to I_{\phi}}$ and $h_{I_{\phi} \to I_{\psi}}$ have this property.
+>>
+>
+
+>[!DEFINITION] Definition: Equivalence of Parametrizations
+>
+>Two [parametrizations](./Surfaces.md#Parametrizations) of a [surface](./Surfaces.md#Parametrizations) $\mathcal{S}$ are **equivalent** if and only if there exists a [reparametrization](./Surfaces.md#Equivalence%20of%20Parametrizations) between them.
+>
+>>[!NOTE] Note
+>>
+>>This is the most general definition of equivalence for parametrizations. However, sometimes we require that such a [reparametrization](./Surfaces.md#Equivalence%20of%20Parametrizations) also has additional properties such as [Continuity (Real Functions)](../../../Analysis/Real%20Analysis/Real%20Functions/Continuity%20(Real%20Functions).md), [continuous differentiability](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability%20(Real%20Functions).md) or [smoothness](../../../Analysis/Real%20Analysis/Real%20Functions/Differentiability%20(Real%20Functions).md). In this case, we say that $\psi$ and $\phi$ are "equivalent up to a PROPERTY reparametrization" such as "equivalent up to a continuous reparametrization" or "equivalent up to a smooth reparametrization".
+>>
+>

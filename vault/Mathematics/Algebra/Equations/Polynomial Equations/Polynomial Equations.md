@@ -1,0 +1,47 @@
+---
+title: Polynomial Equations
+tags:
+  - polynomial-equations
+  - equations
+  - algebra
+  - mathematics
+---
+
+>[!DEFINITION] Definition: Polynomial Equation
+>
+>A **polynomial equation** over a [field](../../../../index.md) $F$ is an [Equation](../Equation.md) of the form
+>
+>$$
+>P(x_1, \cdots, x_n) = 0_F,
+>$$
+>
+>where $P(x_1, \cdots, x_n)$ is a [nonzero](../../Polynomials/Univariate%20Polynomials.md) [polynomial](../../Polynomials/Univariate%20Polynomials.md).
+>
+>>[!DEFINITION] Definition: Solution of a Polynomial Equation
+>>
+>>A **solution** to the [polynomial equation](./Polynomial%20Equations.md) $P(x_1, \cdots, x_n) = 0_F$ is an $n$-[Tuples](../../../Set%20Theory/Tuples.md) $S = (\lambda_1, \cdots, \lambda_n)$ of elements from $F$ such that the [value](../../Polynomials/Univariate%20Polynomials.md) of $P$ at $S$ is $0_F$.
+>>
+>
+
+>[!TIP] Polynomial Equation in a Single Variable
+>
+>A [polynomial equation](./Polynomial%20Equations.md) in a single variable has the form
+>
+>$$
+>a_n x^n + a_{n-1} x^{n-1} + \cdots + a_1 x + a_0 = 0
+>$$
+>
+
+>[!DEFINITION] Definition: Quadratic Equation
+>
+>A **quadratic equation** is a [polynomial equation](./Polynomial%20Equations.md) $P = 0$, where $P$ is a [[Quadratic Polynomials|quadratic polynomial]].
+>
+
+>[!IMPORTANT] Quadratic Equation in a Single Variable
+>
+>A [quadratic equation](./Polynomial%20Equations.md) in a single variable has the form
+>
+>$$
+>a x^2 + bx + c = 0
+>$$
+>

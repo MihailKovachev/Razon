@@ -1,0 +1,7 @@
+---
+tags:
+    - phonetics
+    - linguistics
+---
+
+# Consonants
