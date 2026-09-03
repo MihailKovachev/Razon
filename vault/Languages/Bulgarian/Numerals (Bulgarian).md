@@ -98,15 +98,16 @@ When there are two forms, both are equivalent but the second one is consider mor
 
 >[!TIP] Tip: Pronunciation of the Tens
 >
->In casual speech, it is very common to not pronounce the final ⟨т⟩. This is also the case when they are in compound numerals.
+>In casual speech, it is very common to not pronounce the final *-т*. This is also the case when they are in compound numerals.
 >
 
 ### Compound Cardinal Numerals
 
-Compound cardinal numerals are formed by stringing together [simple cardinal numerals](#Simple%20Cardinal%20Numerals), starting with the largest and moving to the smallest. The parts are listed as separate words separated by a space. The last part is joined to the rest with the [conjunction](../../Mathematics/Algebra/Boolean%20Algebra/Conjunction.md) "и" to indicate the end of the compount. 
+Compound cardinal numerals are formed by stringing together [simple cardinal numerals](#Simple%20Cardinal%20Numerals), starting with the largest and moving to the smallest. The parts are listed as separate words separated by a space. The last part is joined to the rest with the [conjunction](../../Mathematics/Algebra/Boolean%20Algebra/Conjunction.md) "и" to indicate the end of the compount.
+
 - The [simple cardinal numerals](#Simple%20Cardinal%20Numerals) "един, -а, -о" and "два, -е" decline appropriately even as parts of compound numerals.
 - When the number of 1000s is greater than 1, then the form used is "хѝляди".
-- The [simple cardinal numerals](#Simple%20Cardinal%20Numerals) "милион", "милиарда", "трилион", etc. append ⟨а⟩ when their number is more than one. This is essentially their [count form](./Nouns%20(Bulgarian).md#Count%20Form) as masculine [nouns](./Nouns%20(Bulgarian).md) and reflects their origin as such in [Old Church Slavonic](../Old%20Church%20Slavonic/Old%20Church%20Slavonic.md). When their number is equal to 1, the [numeral](#Simple%20Cardinal%20Numerals) "един" may optionally precede them.
+- The [simple cardinal numerals](#Simple%20Cardinal%20Numerals) "милион", "милиарда", "трилион", etc. append *-а* when their number is more than one. This is essentially their [count form](./Nouns%20(Bulgarian).md#Count%20Form) as masculine [nouns](./Nouns%20(Bulgarian).md) and reflects their origin as such in [Old Church Slavonic](../Old%20Church%20Slavonic/Old%20Church%20Slavonic.md). When their number is equal to 1, the [numeral](#Simple%20Cardinal%20Numerals) "един" may optionally precede them.
 
 >[!EXAMPLE]- Example: Formation of Compound Cardinal Numerals
 >

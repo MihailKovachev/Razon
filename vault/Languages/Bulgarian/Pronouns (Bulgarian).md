@@ -1,176 +1,301 @@
 ---
-title: Pronouns
 tags:
     - bulgarian-language
     - languages
 ---
 
-# Personal Pronouns
+# Pronouns (Bulgarian)
+
+## Personal Pronouns
+
+All personal pronouns have the [grammatical categories](TODO) [person](TODO) (first, second, third), [number](TODO) (singular and plural) and [case](TODO) (nominative, accusative, dative). The third person singular personal pronouns also have [gender](TODO).
 
 <table>
-<caption>First Person Personal Pronouns</caption>
+<caption>Possessive Pronouns (Nominative Case)</caption>
 <tr>
-<th style="text-align:center; vertical-align:middle"></th>
-<th style="text-align:center; vertical-align:middle" colspan=3>Singular</th>
+<th style="text-align:center; vertical-align:middle" colspan=2></th>
+<th style="text-align:center; vertical-align:middle">Singular</th>
 <th style="text-align:center; vertical-align:middle">Plural</th>
 </tr>
 <tr>
-<th style="text-align:center; vertical-align:middle">1st Person</th>
-<td style="text-align:center; vertical-align:middle">мой</td>
-</tr>
-</table>
-
-# Possessive Pronouns
-
-<table>
-<caption>Possessive Pronouns</caption>
-<tr>
-<th style="text-align:center; vertical-align:middle" rowspan=3 colspan=3></th>
-<th style="text-align:center; vertical-align:middle" colspan=6>Singular</th>
-<th style="text-align:center; vertical-align:middle" rowspan=2 colspan=2>Plural</th>
-<th style="text-align:center; vertical-align:middle" rowspan=3 colspan=2>Short</th>
+<th style="text-align:center; vertical-align:middle" colspan=2>First Person</th>
+<td style="text-align:center; vertical-align:middle">аз</td>
+<td style="text-align:center; vertical-align:middle">нѝе, ний</td>
 </tr>
 <tr>
-<th style="text-align:center; vertical-align:middle" colspan=2>Masculine</th>
-<th style="text-align:center; vertical-align:middle" colspan=2>Feminine</th>
-<th style="text-align:center; vertical-align:middle" colspan=2>Neuter</th>
-</tr>
-<th style="text-align:center; vertical-align:middle">Indefinite</th>
-<th style="text-align:center; vertical-align:middle">Definite</th>
-<th style="text-align:center; vertical-align:middle">Indefinite</th>
-<th style="text-align:center; vertical-align:middle">Definite</th>
-<th style="text-align:center; vertical-align:middle">Indefinite</th>
-<th style="text-align:center; vertical-align:middle">Definite</th>
-<th style="text-align:center; vertical-align:middle">Indefinite</th>
-<th style="text-align:center; vertical-align:middle">Definite</th>
-<tr>
-</tr>
-<tr>
-<th style="text-align:center; vertical-align:middle" rowspan=5>Singular</th>
-<th style="text-align:center; vertical-align:middle" colspan=2>1st Person</th>
-<td style="text-align:center; vertical-align:middle">мой</td>
-<td style="text-align:center; vertical-align:middle">моят, моя</td>
-<td style="text-align:center; vertical-align:middle">моя</td>
-<td style="text-align:center; vertical-align:middle">моята</td>
-<td style="text-align:center; vertical-align:middle">мое</td>
-<td style="text-align:center; vertical-align:middle">моето</td>
-<td style="text-align:center; vertical-align:middle">мои</td>
-<td style="text-align:center; vertical-align:middle">моите</td>
-<td style="text-align:center; vertical-align:middle">ми</td>
-</tr>
-<tr>
-<th style="text-align:center; vertical-align:middle" colspan=2>2nd Person</th>
-<td style="text-align:center; vertical-align:middle">твой</td>
-<td style="text-align:center; vertical-align:middle">твоят, твоя</td>
-<td style="text-align:center; vertical-align:middle">твоя</td>
-<td style="text-align:center; vertical-align:middle">твоята</td>
-<td style="text-align:center; vertical-align:middle">твое</td>
-<td style="text-align:center; vertical-align:middle">твоето</td>
-<td style="text-align:center; vertical-align:middle">твои</td>
-<td style="text-align:center; vertical-align:middle">твоите</td>
+<th style="text-align:center; vertical-align:middle" colspan=2>Second Person</th>
 <td style="text-align:center; vertical-align:middle">ти</td>
+<td style="text-align:center; vertical-align:middle">вѝе, вий</td>
 </tr>
 <tr>
-<th style="text-align:center; vertical-align:middle" rowspan=3>3rd Person</th>
+<th style="text-align:center; vertical-align:middle" rowspan=3>Third Person</th>
 <th style="text-align:center; vertical-align:middle">Masculine</th>
-<td style="text-align:center; vertical-align:middle">негов</td>
-<td style="text-align:center; vertical-align:middle">неговият, неговия</td>
-<td style="text-align:center; vertical-align:middle">негова</td>
-<td style="text-align:center; vertical-align:middle">неговата</td>
-<td style="text-align:center; vertical-align:middle">негово</td>
-<td style="text-align:center; vertical-align:middle">неговото</td>
-<td style="text-align:center; vertical-align:middle">негови</td>
-<td style="text-align:center; vertical-align:middle">неговите</td>
-<td style="text-align:center; vertical-align:middle">му</td>
+<td style="text-align:center; vertical-align:middle">той</td>
+<td style="text-align:center; vertical-align:middle" rowspan=3>те</td>
 </tr>
 <tr>
 <th style="text-align:center; vertical-align:middle">Feminine</th>
-<td style="text-align:center; vertical-align:middle">неин</td>
-<td style="text-align:center; vertical-align:middle">нейният, нейния</td>
-<td style="text-align:center; vertical-align:middle">нейна</td>
-<td style="text-align:center; vertical-align:middle">нейната</td>
-<td style="text-align:center; vertical-align:middle">нейно</td>
-<td style="text-align:center; vertical-align:middle">нейното</td>
-<td style="text-align:center; vertical-align:middle">нейни</td>
-<td style="text-align:center; vertical-align:middle">нейните</td>
+<td style="text-align:center; vertical-align:middle">тя</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle">Neuter</th>
+<td style="text-align:center; vertical-align:middle">то</td>
+</tr>
+</table>
+
+The forms *ний* and *вий* are common in colloquial speech, archaic and poetic texts, but are not common in everyday written communication.
+
+<table>
+<caption>Full Personal Pronouns (Accusative Case)</caption>
+<tr>
+<th style="text-align:center; vertical-align:middle" colspan=2></th>
+<th style="text-align:center; vertical-align:middle">Singular</th>
+<th style="text-align:center; vertical-align:middle">Plural</th>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" colspan=2>First Person</th>
+<td style="text-align:center; vertical-align:middle">мѐне, мен</td>
+<td style="text-align:center; vertical-align:middle">нас</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" colspan=2>Second Person</th>
+<td style="text-align:center; vertical-align:middle">тѐбе, теб</td>
+<td style="text-align:center; vertical-align:middle">вас</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" rowspan=3>Third Person</th>
+<th style="text-align:center; vertical-align:middle">Masculine</th>
+<td style="text-align:center; vertical-align:middle">нѐго</td>
+<td style="text-align:center; vertical-align:middle" rowspan=3>тях</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle">Feminine</th>
+<td style="text-align:center; vertical-align:middle">нѐя</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle">Neuter</th>
+<td style="text-align:center; vertical-align:middle">нѐго</td>
+</tr>
+</table>
+
+The forms *мене* / *мен* and *тебе* / *теб* are equivalent.
+
+<table>
+<caption>Full Personal Pronouns (Dative Case)</caption>
+<tr>
+<th style="text-align:center; vertical-align:middle" colspan=2></th>
+<th style="text-align:center; vertical-align:middle">Singular</th>
+<th style="text-align:center; vertical-align:middle">Plural</th>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" colspan=2>First Person</th>
+<td style="text-align:center; vertical-align:middle">мѐне</td>
+<td style="text-align:center; vertical-align:middle">нам</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" colspan=2>Second Person</th>
+<td style="text-align:center; vertical-align:middle">тѐбе</td>
+<td style="text-align:center; vertical-align:middle">вам</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" rowspan=3>Third Person</th>
+<th style="text-align:center; vertical-align:middle">Masculine</th>
+<td style="text-align:center; vertical-align:middle">нѐму</td>
+<td style="text-align:center; vertical-align:middle" rowspan=3>тям</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle">Feminine</th>
+<td style="text-align:center; vertical-align:middle">ней</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle">Neuter</th>
+<td style="text-align:center; vertical-align:middle">нѐму</td>
+</tr>
+</table>
+
+The full dative forms are practically extinct nowadays and are only seen in old texts. Instead, they have been entirely supplanted by a construction using the [preposition](../Modern%20Greek/Prepositions.md) *на* with the full [accusative forms](#Personal%20Pronouns).
+
+>[!EXAMPLE]- Example: *на* + Accusitive instead of Dative
+>
+>Тази отговорност се пада <u>нам</u>. 'This responsibility falls to us.'
+>
+>Тази отговорност се пада <u>на нас</u>. 'This responsibility falls to us.'
+>
+><u>Тебе</u> го казвам. 'I am saying it <u>to you</u>.'
+>
+><u>На теб</u> го казвам. 'I am saying it <u>to you</u>.'
+>
+>Наградата беше дадена <u>ней</u>. 'The reward was given <u>to her</u>.'
+>
+>Наградата беше дадена <u>на нея</u>. 'The reward was given <u>to her</u>.'
+>
+
+### Short Personal Pronouns
+
+The [personal pronouns](#Personal%20Pronouns) also have short forms in the accusative and dative:
+
+<table>
+<caption>Short Personal Pronouns (Accusative Case)</caption>
+<tr>
+<th style="text-align:center; vertical-align:middle" colspan=2></th>
+<th style="text-align:center; vertical-align:middle">Singular</th>
+<th style="text-align:center; vertical-align:middle">Plural</th>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" colspan=2>First Person</th>
+<td style="text-align:center; vertical-align:middle">ме</td>
+<td style="text-align:center; vertical-align:middle">ни</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" colspan=2>Second Person</th>
+<td style="text-align:center; vertical-align:middle">те</td>
+<td style="text-align:center; vertical-align:middle">ви</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" rowspan=3>Third Person</th>
+<th style="text-align:center; vertical-align:middle">Masculine</th>
+<td style="text-align:center; vertical-align:middle">го</td>
+<td style="text-align:center; vertical-align:middle" rowspan=3>ги</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle">Feminine</th>
+<td style="text-align:center; vertical-align:middle">я</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle">Neuter</th>
+<td style="text-align:center; vertical-align:middle">го</td>
+</tr>
+</table>
+
+<table>
+<caption>Short Personal Pronouns (Dative Case)</caption>
+<tr>
+<th style="text-align:center; vertical-align:middle" colspan=2></th>
+<th style="text-align:center; vertical-align:middle">Singular</th>
+<th style="text-align:center; vertical-align:middle">Plural</th>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" colspan=2>First Person</th>
+<td style="text-align:center; vertical-align:middle">ми</td>
+<td style="text-align:center; vertical-align:middle">ни</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" colspan=2>Second Person</th>
+<td style="text-align:center; vertical-align:middle">ти</td>
+<td style="text-align:center; vertical-align:middle">ви</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" rowspan=3>Third Person</th>
+<th style="text-align:center; vertical-align:middle">Masculine</th>
+<td style="text-align:center; vertical-align:middle">му</td>
+<td style="text-align:center; vertical-align:middle" rowspan=3>им</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle">Feminine</th>
 <td style="text-align:center; vertical-align:middle">ѝ</td>
 </tr>
 <tr>
 <th style="text-align:center; vertical-align:middle">Neuter</th>
-<td style="text-align:center; vertical-align:middle">негов</td>
-<td style="text-align:center; vertical-align:middle">неговият, неговия</td>
-<td style="text-align:center; vertical-align:middle">негова</td>
-<td style="text-align:center; vertical-align:middle">неговата</td>
-<td style="text-align:center; vertical-align:middle">негово</td>
-<td style="text-align:center; vertical-align:middle">неговото</td>
-<td style="text-align:center; vertical-align:middle">негови</td>
-<td style="text-align:center; vertical-align:middle">неговите</td>
 <td style="text-align:center; vertical-align:middle">му</td>
 </tr>
-<tr></tr>
+</table>
+
+They are semantically equivalent to the full forms but are subject to additional constraints regarding word order:
+
+- [Short personal pronouns](#Short%20Personal%20Pronouns) are always verb-adjacent.
+- A [short personal pronouns](#Short%20Personal%20Pronouns) is always preverbal, unless this would put it in a sentence-initial position, in which case it becomes postverbal. 
+- Dative [short personal pronouns](#Short%20Personal%20Pronouns)
+
+## Possessive Pronouns
+
+<table>
+<caption>Possessive Pronouns</caption>
 <tr>
-<th style="text-align:center; vertical-align:middle" rowspan=5>Plural</th>
-<th style="text-align:center; vertical-align:middle" colspan=2>1st Person</th>
+<th style="text-align:center; vertical-align:middle" rowspan=2 colspan=3></th>
+<th style="text-align:center; vertical-align:middle" colspan=3>Singular</th>
+<th style="text-align:center; vertical-align:middle" rowspan=2>Plural</th>
+<th style="text-align:center; vertical-align:middle" rowspan=2>Short</th>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle">Masculine</th>
+<th style="text-align:center; vertical-align:middle">Feminine</th>
+<th style="text-align:center; vertical-align:middle">Neuter</th>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" rowspan=5>Singular</th>
+<th style="text-align:center; vertical-align:middle" colspan=2>First Person</th>
+<td style="text-align:center; vertical-align:middle">мой</td>
+<td style="text-align:center; vertical-align:middle">мо̀я</td>
+<td style="text-align:center; vertical-align:middle">мо̀е</td>
+<td style="text-align:center; vertical-align:middle">мо̀и</td>
+<td style="text-align:center; vertical-align:middle">ми</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" colspan=2>Second Person</th>
+<td style="text-align:center; vertical-align:middle">твой</td>
+<td style="text-align:center; vertical-align:middle">тво̀я</td>
+<td style="text-align:center; vertical-align:middle">тво̀е</td>
+<td style="text-align:center; vertical-align:middle">тво̀и</td>
+<td style="text-align:center; vertical-align:middle">ти</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" rowspan=3>Third Person</th>
+<th style="text-align:center; vertical-align:middle">Masculine</th>
+<td style="text-align:center; vertical-align:middle">нѐгов</td>
+<td style="text-align:center; vertical-align:middle">нѐгова</td>
+<td style="text-align:center; vertical-align:middle">нѐгово</td>
+<td style="text-align:center; vertical-align:middle">нѐгови</td>
+<td style="text-align:center; vertical-align:middle">му</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle">Feminine</th>
+<td style="text-align:center; vertical-align:middle">нѐин</td>
+<td style="text-align:center; vertical-align:middle">нѐйна</td>
+<td style="text-align:center; vertical-align:middle">нѐйно</td>
+<td style="text-align:center; vertical-align:middle">нѐйни</td>
+<td style="text-align:center; vertical-align:middle">ѝ</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle">Neuter</th>
+<td style="text-align:center; vertical-align:middle">нѐгов</td>
+<td style="text-align:center; vertical-align:middle">нѐгова</td>
+<td style="text-align:center; vertical-align:middle">нѐгово</td>
+<td style="text-align:center; vertical-align:middle">нѐгови</td>
+<td style="text-align:center; vertical-align:middle">му</td>
+</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" rowspan=3>Plural</th>
+<th style="text-align:center; vertical-align:middle" colspan=2>First Person</th>
 <td style="text-align:center; vertical-align:middle">наш</td>
-<td style="text-align:center; vertical-align:middle">нашият, нашия</td>
-<td style="text-align:center; vertical-align:middle">наша</td>
-<td style="text-align:center; vertical-align:middle">нашата</td>
-<td style="text-align:center; vertical-align:middle">наше</td>
-<td style="text-align:center; vertical-align:middle">нашето</td>
-<td style="text-align:center; vertical-align:middle">наши</td>
-<td style="text-align:center; vertical-align:middle">нашите</td>
+<td style="text-align:center; vertical-align:middle">на̀ша</td>
+<td style="text-align:center; vertical-align:middle">на̀ше</td>
+<td style="text-align:center; vertical-align:middle">на̀ши</td>
 <td style="text-align:center; vertical-align:middle">ни</td>
 </tr>
 <tr>
-<th style="text-align:center; vertical-align:middle" colspan=2>2nd Person</th>
+<th style="text-align:center; vertical-align:middle" colspan=2>Secnd Person</th>
 <td style="text-align:center; vertical-align:middle">ваш</td>
-<td style="text-align:center; vertical-align:middle">вашият, вашия</td>
-<td style="text-align:center; vertical-align:middle">ваша</td>
-<td style="text-align:center; vertical-align:middle">вашата</td>
-<td style="text-align:center; vertical-align:middle">ваше</td>
-<td style="text-align:center; vertical-align:middle">вашето</td>
-<td style="text-align:center; vertical-align:middle">ваши</td>
-<td style="text-align:center; vertical-align:middle">вашите</td>
+<td style="text-align:center; vertical-align:middle">ва̀ша</td>
+<td style="text-align:center; vertical-align:middle">ва̀ше</td>
+<td style="text-align:center; vertical-align:middle">ва̀ши</td>
 <td style="text-align:center; vertical-align:middle">ви</td>
 </tr>
 <tr>
-<th style="text-align:center; vertical-align:middle" colspan=2>3rd Person</th>
-<td style="text-align:center; vertical-align:middle">техен</td>
-<td style="text-align:center; vertical-align:middle">техният, техния</td>
-<td style="text-align:center; vertical-align:middle">тяхна</td>
-<td style="text-align:center; vertical-align:middle">тяхната</td>
-<td style="text-align:center; vertical-align:middle">тяхно</td>
-<td style="text-align:center; vertical-align:middle">тяхното</td>
-<td style="text-align:center; vertical-align:middle">техни</td>
-<td style="text-align:center; vertical-align:middle">техните</td>
+<th style="text-align:center; vertical-align:middle" colspan=2>Third Person</th>
+<td style="text-align:center; vertical-align:middle">тѐхен</td>
+<td style="text-align:center; vertical-align:middle">тя̀хна</td>
+<td style="text-align:center; vertical-align:middle">тя̀хно</td>
+<td style="text-align:center; vertical-align:middle">тѐхни</td>
 <td style="text-align:center; vertical-align:middle">им</td>
 </tr>
 </table>
 
->[!TIP] Tip: Stress in the Possessive Pronouns
->
->The stress in all forms of the possessive pronouns always falls on the first syllable. The short forms are never stressed, even though "ѝ" is written with a [grave accent](./Orthography.md#Diacritics).
->
+The [stress](./Phonology.md#Stress) in all  forms of the possessive pronouns always falls on the first syllable. The short forms are never stressed, even though *ѝ* is written with a [grave accent](./Orthography%20(Bulgarian).md#Diacritics).
 
-When there are no [Adjectives (Bulgarian)](./Adjectives%20(Bulgarian).md) describing the [noun](./Nouns%20(Bulgarian).md) which the short [possessive pronouns](#Possessive%20Pronouns) pertain to, then the latter always follow the noun they pertain to. If there are one or more [Adjectives (Bulgarian)](./Adjectives%20(Bulgarian).md) which go with the same [noun](./Nouns%20(Bulgarian).md) as the short [possessive pronouns](#Possessive%20Pronouns), then the latter always follow the first of these [Adjectives (Bulgarian)](./Adjectives%20(Bulgarian).md). Since there are is no distinction between definite and indefinite versions for [short possessive pronouns](#Possessive%20Pronouns), [Definite Article (Bulgarian)](./Definite%20Article%20(Bulgarian).md) is indicated in the same way as if the [possessive pronoun](#Possessive%20Pronouns) were never there.
+### Short Possessive Pronouns
 
->[!EXAMPLE]- Example: Short Possessive Pronouns
->
->кръвта ми (my blood), чантата ти (your bag), очите 
->
+The [possessive pronouns](#Possessive%20Pronouns) also have short forms:
 
->[!TIP] Tip: Definiteness and Short Possessive Pronouns
->
->Although not strictly necessary, [short possessive pronouns](#Possessive%20Pronouns) are almost always used with [definite](./Definite%20Article%20(Bulgarian).md) [Nouns (Bulgarian)](./Nouns%20(Bulgarian).md), except with a few very common exceptions. In fact, using them with [indefinite](./Definite%20Article%20(Bulgarian).md) [Nouns (Bulgarian)](./Nouns%20(Bulgarian).md) is considered rather poetic.
->
->>[!WARNING] Warning: Exceptions
->>
->>The words "жена" (wife) and "дъщеря" (daughter) are never used in their [definite](./Definite%20Article%20(Bulgarian).md) forms when accompanied by a [short possessive pronoun](#Possessive%20Pronouns), including [reflexive short possessive pronouns](#Reflexive%20Possessive%20Pronouns), i.e. it is always
->>
->>жена ми / ти / му / ни / ви / им / си
->>
->>дъщеря ми / ти / му / ѝ / ни / ви / им / си
->>
->
+
 
 ## Reflexive Possessive Pronouns

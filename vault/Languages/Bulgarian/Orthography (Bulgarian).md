@@ -4,9 +4,9 @@ tags:
     - languages
 ---
 
-# Orthography
+# Orthography (Bulgarian)
 
-[Bulgarian](./Bulgarian.md) is written using an [alphabet](TODO)
+[Bulgarian](./Bulgarian.md) is written with an [alphabet](../../Linguistics/Alphabet.md) derived from the [Cyrillic script](../Cyrillic%20Script.md).
 
 |Uppercase Letter|Lowercase Letter|Bulgarian Name|Transliteration|
 |:--:|:--:|:--:|:--:|
@@ -76,7 +76,7 @@ Bulgarian features
 
 ## Vowels
 
-There are six [[TODO|vowel]] [[TODO|phonemes]] in [Bulgarian](../../index.md).
+There are six [[TODO|vowel]] [[TODO|phonemes]] in [Bulgarian](../../Music/index.md).
 
 <table>
 <caption>Bulgarian Vowel Phonemes</caption>

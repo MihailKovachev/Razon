@@ -46,7 +46,7 @@ The majority of adjectives have an indefinite masculine singular which ends in a
 >|червѐн (red)|
 >
 
-Some adjectives have a masciline form ending in ⟨и⟩. This is known as an **augmented form**. 
+Some adjectives have a masciline form ending in *-и*. This is known as an **augmented form**. 
 
 >[!EXAMPLE]-
 >
@@ -64,7 +64,7 @@ Some adjectives have a masciline form ending in ⟨и⟩. This is known as an **
 >|ру̀ски (russian)|
 >
 
-Some adjectives have both an unaugmented form ending in a consonant as well as an augmented form ending in ⟨и⟩. They are mostly equivalent, but the latter is uncommon in everyday speech.
+Some adjectives have both an unaugmented form ending in a consonant as well as an augmented form ending in *-и*. They are mostly equivalent, but the latter is uncommon in everyday speech.
 
 >[!EXAMPLE]-
 >
@@ -77,80 +77,81 @@ Some adjectives have both an unaugmented form ending in a consonant as well as a
 
 ### Feminine Adjectives
 
-Most adjectives build the feminine singular by appending ⟨а⟩ to the masculine form. This is always done with the unaugmented masculine form if it exists. Otherwise, this is done after removing the ⟨и⟩ from the augmented form. 
+Most adjectives build the feminine singular by appending *-а* to the masculine form. This is always done with the unaugmented masculine form if it exists. Otherwise, this is done after removing the *-и* from the augmented form.
+
 - One should beware changes due to [variable ya](./Variable%20Ya%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ.md).
 - Most adjectives whose masculine singular ends in an [unstressed](./Phonology.md#Stress) ⟨ен⟩ drop the ⟨е⟩ in the feminine form, but many do not. 
-- The vast majority of adjectives whose masculine singular ends in the suffix ⟨ен⟩ preceded by ⟨а⟩, ⟨ъ⟩, ⟨о⟩, ⟨у⟩, ⟨е⟩ or ⟨и⟩ replace the ⟨е⟩ from the suffix with ⟨й⟩, but some retain it.
-- Adjective whose masculine singular ends in one of the suffixes ⟨ъв⟩, ⟨ък⟩, ⟨ъл⟩ or ⟨ър⟩ drop the ⟨ъ⟩ from the suffix.
+- The vast majority of adjectives whose masculine singular ends in the suffix *-ен* preceded by ⟨а⟩, ⟨ъ⟩, ⟨о⟩, ⟨у⟩, ⟨е⟩ or ⟨и⟩ replace the ⟨е⟩ from the suffix with ⟨й⟩, but some retain it.
+- Adjective whose masculine singular ends in one of the suffixes *-ъв*, *-ък*, *-ъл* or *-ър* drop the ⟨ъ⟩ from the suffix.
 
 >[!EXAMPLE]-
 >
 >|Masculine Singular|Feminine Singular|Notes|
 >|:--:|:--:|:--:|
->|ба̀вен (slow)|ба̀вна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is dropped.|
->|бето̀нен (of concrete)|бето̀нена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained.|
+>|ба̀вен (slow)|ба̀вна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped.|
+>|бето̀нен (of concrete)|бето̀нена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is retained.|
 >|бивш (ex-)|бѝвша||
->|бѝрен (of beer)|бѝрена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained.|
->|бѝстър (clear)|бѝстра|The ⟨ъ⟩ from the suffix ⟨ър⟩ is dropped.|
->|блѝзък (close)|блѝзка|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped.|
->|бо̀дър (vigorous)|бо̀дра|The ⟨ъ⟩ from the suffix ⟨ър⟩ is dropped.|
->|бо̀ен (ready to fight)|бо̀йна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ turns into ⟨й⟩ because it is preceded by ⟨о⟩.|
->|бу̀ен (tumultuous)|бу̀йна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ turns into ⟨й⟩ because it is preceded by ⟨у⟩.|
+>|бѝрен (of beer)|бѝрена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is retained.|
+>|бѝстър (clear)|бѝстра|The ⟨ъ⟩ from the suffix *-ър* is dropped.|
+>|блѝзък (close)|блѝзка|The ⟨ъ⟩ from the suffix *-ък* is dropped.|
+>|бо̀дър (vigorous)|бо̀дра|The ⟨ъ⟩ from the suffix *-ър* is dropped.|
+>|бо̀ен (ready to fight)|бо̀йна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* turns into ⟨й⟩ because it is preceded by ⟨о⟩.|
+>|бу̀ен (tumultuous)|бу̀йна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* turns into ⟨й⟩ because it is preceded by ⟨у⟩.|
 >|бъ̀лгарски (Bulgarian)|бъ̀лгарска|The augmented form is used because there is no unaugmented one.|
->|бял (white)|бя̀ла|Despite a [variable ya](./Variable%20Ya%20(Bulgarian).md) in the root, there is no transition from ⟨я⟩ to ⟨е⟩ because all necessary conditions are fulfilled.|
->|вѐдър (vigorous, fresh)|вѐдра|The ⟨ъ⟩ from the suffix ⟨ър⟩ is dropped.|
->|вѝнен (related to wine)|вѝнена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained.||
->|висо̀чък (a little tall)|висо̀чка|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped.|
->|висо̀кичък (a little tall)|висо̀кичка|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped.|
+>|бял (white)|бя̀ла|The [variable ya](./Variable%20Ya%20(Bulgarian).md) is ⟨я⟩ and nof ⟨е⟩ since all necessary conditions are fulfilled.|
+>|вѐдър (vigorous, fresh)|вѐдра|The ⟨ъ⟩ from the suffix *-ър* is dropped.|
+>|вѝнен (related to wine)|вѝнена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is retained.||
+>|висо̀чък (a little tall)|висо̀чка|The ⟨ъ⟩ from the suffix *-ък* is dropped.|
+>|висо̀кичък (a little tall)|висо̀кичка|The ⟨ъ⟩ from the suffix *-ък* is dropped.|
 >|висо̀к (tall)|висо̀ка||
 >|висш (higher, superior)|вѝсша||
->|внима̀телен (careful)|внима̀телна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is dropped.|
->|воѐнен (military)|воѐнна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is dropped.|
+>|внима̀телен (careful)|внима̀телна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped.|
+>|воѐнен (military)|воѐнна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped.|
 >|въ̀лчи (related to wolf)|въ̀лча|The augmented form is used because there is no unaugmented one.|
->|гла̀дък (smooth)|гла̀дка|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped.|
->|глѝнен (of clay)|глѝнена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained.|
+>|гла̀дък (smooth)|гла̀дка|The ⟨ъ⟩ from the suffix *-ък* is dropped.|
+>|глѝнен (of clay)|глѝнена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is retained.|
 >|глух (deaf)|глу̀ха||
->|голя̀м (big)|голя̀ма|Despite a [variable ya](./Variable%20Ya%20(Bulgarian).md) in the root, there is no transition from ⟨я⟩ to ⟨е⟩ because all necessary conditions are fulfilled.|
+>|голя̀м (big)|голя̀ма|The [variable ya](./Variable%20Ya%20(Bulgarian).md) is ⟨я⟩ and not ⟨е⟩ since all necessary conditions are fulfilled.|
 >|горѝст (covered by forests)|горѝста||
 >|го̀рски (related to forest)|го̀рска|The augmented form is used because there is no unaugmented one.|
->|гро̀зен (ugly)|гро̀зна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is dropped.|
->|дво̀ен (double)|дво̀йна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ turns into ⟨й⟩ because it is preceded by ⟨о⟩.|
+>|гро̀зен (ugly)|гро̀зна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped.|
+>|дво̀ен (double)|дво̀йна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* turns into ⟨й⟩ because it is preceded by ⟨о⟩.|
 >|дѐсен (right)|дя̀сна|This is actually not an instance of a [variable ya](./Variable%20Ya%20(Bulgarian).md) but rather a historical development by analogy of "лява".|
->|добъ̀р (good)|добра̀|The ⟨ъ⟩ from the suffix ⟨ър⟩ is dropped.|
+>|добъ̀р (good)|добра̀|The ⟨ъ⟩ from the suffix *-ър* is dropped.|
 >|друг (other, another)|дру̀га||
->|дъ̀рвен (wooden)|дъ̀рвена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained.|
->|дъ̀рзък (daring)|дръ̀зка|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped. [Mobile ъ](./Mobile%20Ъ.md) transitions from ⟨ър⟩ into ⟨ръ⟩.|
->|ѐдър (large)|ѐдра|The ⟨ъ⟩ from the suffix ⟨ър⟩ is dropped.|
->|естѐствен (natural)|естѐствена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained.|
->|желѐзен (of iron)|желя̀зна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is dropped. The [variable ya](./Variable%20Ya%20(Bulgarian).md) transitions from ⟨е⟩ to ⟨я⟩ because all necessary conditions are fulfilled.|
+>|дъ̀рвен (wooden)|дъ̀рвена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is retained.|
+>|дъ̀рзък (daring)|дръ̀зка|The ⟨ъ⟩ from the suffix *-ък* is dropped. [Mobile ъ](./Mobile%20Ъ.md) transitions from ⟨ър⟩ into ⟨ръ⟩.|
+>|ѐдър (large)|ѐдра|The ⟨ъ⟩ from the suffix *-ър* is dropped.|
+>|естѐствен (natural)|естѐствена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is retained.|
+>|желѐзен (of iron)|желя̀зна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped. The [variable ya](./Variable%20Ya%20(Bulgarian).md) is ⟨я⟩ and not ⟨е⟩ since all necessary conditions are fulfilled.|
 >|зелѐн (green)|зелѐна||
->|зѐмен (earthly)|зѐмна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is dropped.|
->|зла̀тен (golden)|зла̀тна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is dropped.|
->|зрял (ripe)|зря̀ла|Despite a [variable ya](./Variable%20Ya%20(Bulgarian).md) in the root, there is no transition from ⟨я⟩ to ⟨е⟩ because all necessary conditions are fulfilled.|
->|карто̀нен (of cardboard)|карто̀нена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained.|
+>|зѐмен (earthly)|зѐмна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped.|
+>|зла̀тен (golden)|зла̀тна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped.|
+>|зрял (ripe)|зря̀ла|The [variable ya](./Variable%20Ya%20(Bulgarian).md) is ⟨я⟩ and not ⟨е⟩ since all necessary conditions are fulfilled.|
+>|карто̀нен (of cardboard)|карто̀нена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is retained.|
 >|коко̀ши (related to chicken)|коко̀ша|The augmented form is used because there is no unaugmented one.|
->|ко̀нен (related to horse)|ко̀нна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is dropped.|
->|копрѝнен (of silk)|копрѝнена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained.|
->|кра̀тък (short in duration)|кра̀тка|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped.|
->|крѐхък (fragile)|крѐхка|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped.|
->|кро̀тък (calm)|кро̀тка|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped.|
->|кръ̀гъл (circular)|кръ̀гла|The ⟨ъ⟩ from the suffix ⟨ъл⟩ is dropped.|
->|лѐден (icy, of ice)|лѐдена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained.|
->|лирѝчен (lyrical)|лирѝчна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is dropped.|
->|ло̀вък (agile)|ло̀вка|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped.|
->|ло̀ен (of grease)|ло̀ена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained despite being preceded by ⟨о⟩.|
->|лу̀нен (lunar, of the Moon)|лу̀нна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ from the suffix ⟨ен⟩ is dropped.|
->|ляв (left)|ля̀ва|Despite a [variable ya](./Variable%20Ya%20(Bulgarian).md) in the root, there is no transition from ⟨я⟩ to ⟨е⟩ because all necessary conditions are fulfilled.|
->|ма̀лък (small)|ма̀лка|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped.|
->|ма̀слен (buttery, of fat)|ма̀слена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained.|
->|мѐден (of honey; of copper)|мѐдена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is dropped.|
->|мо̀кър (wet)|мо̀кра|The ⟨ъ⟩ from the suffix ⟨ър⟩ is dropped.|
->|мъ̀ртъв (dead)|мъ̀ртва|The ⟨ъ⟩ from the suffix ⟨ъв⟩ is dropped.|
->|ненадѐен (unexpexted)|ненадѐйна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ turns into ⟨й⟩ because it is preceded by ⟨е⟩.|
->|нѝзък (condemnable)|нѝзка|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped.|
+>|ко̀нен (related to horse)|ко̀нна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped.|
+>|копрѝнен (of silk)|копрѝнена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is retained.|
+>|кра̀тък (short in duration)|кра̀тка|The ⟨ъ⟩ from the suffix *-ък* is dropped.|
+>|крѐхък (fragile)|крѐхка|The ⟨ъ⟩ from the suffix *-ък* is dropped.|
+>|кро̀тък (calm)|кро̀тка|The ⟨ъ⟩ from the suffix *-ък* is dropped.|
+>|кръ̀гъл (circular)|кръ̀гла|The ⟨ъ⟩ from the suffix *-ъл* is dropped.|
+>|лѐден (icy, of ice)|лѐдена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is retained.|
+>|лирѝчен (lyrical)|лирѝчна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped.|
+>|ло̀вък (agile)|ло̀вка|The ⟨ъ⟩ from the suffix *-ък* is dropped.|
+>|ло̀ен (of grease)|ло̀ена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is retained despite being preceded by ⟨о⟩.|
+>|лу̀нен (lunar, of the Moon)|лу̀нна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ from the suffix *-ен* is dropped.|
+>|ляв (left)|ля̀ва|The [variable ya](./Variable%20Ya%20(Bulgarian).md) is ⟨я⟩ and not ⟨е⟩ since all necessary conditions are fulfilled.|
+>|ма̀лък (small)|ма̀лка|The ⟨ъ⟩ from the suffix *-ък* is dropped.|
+>|ма̀слен (buttery, of fat)|ма̀слена|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is retained.|
+>|мѐден (of honey; of copper)|мѐдена (of honey); мѐдна (of copper)|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped in one meaning but retained in the other.|
+>|мо̀кър (wet)|мо̀кра|The ⟨ъ⟩ from the suffix *-ър* is dropped.|
+>|мъ̀ртъв (dead)|мъ̀ртва|The ⟨ъ⟩ from the suffix *-ъв* is dropped.|
+>|ненадѐен (unexpexted)|ненадѐйна|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* turns into ⟨й⟩ because it is preceded by ⟨е⟩.|
+>|нѝзък (condemnable)|нѝзка|The ⟨ъ⟩ from the suffix *-ък* is dropped.|
 >|низш (lower, inferior, reproachable)|нѝзша||
->|нѝсичък (a little short in height)|нѝсичка|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped.|
->|нѝсък (short in height)|нѝска|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped.|
+>|нѝсичък (a little short in height)|нѝсичка|The ⟨ъ⟩ from the suffix *-ък* is dropped.|
+>|нѝсък (short in height)|нѝска|The ⟨ъ⟩ from the suffix *-ък* is dropped.|
 >|ням (mute)|ня̀ма|Despite a [variable ya](./Variable%20Ya%20(Bulgarian).md) in the root, there is no transition from ⟨я⟩ to ⟨е⟩ because all necessary conditions are fulfilled.|
 >|обикновѐн (ordinary)|обикновѐна||
 >|о̀вчи (related to sheep)|о̀вча|The augmented form is used because there is no unaugmented one.|
@@ -192,7 +193,7 @@ Most adjectives build the feminine singular by appending ⟨а⟩ to the masculi
 >|я̀рък (bright)|я̀рка|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped. This is not an instance of a [variable ya](./Variable%20Ya%20(Bulgarian).md).|
 >
 
-A few adjectives build the feminine singular by appending ⟨я⟩ to the masculine form. This is always done with the unaugmented masculine form if it exists. Otherwise, this is done after removing the ⟨и⟩ from the augmented form.
+A few adjectives build the feminine singular by appending *-я* to the masculine form. This is always done with the unaugmented masculine form if it exists. Otherwise, this is done after removing the *-и* from the augmented form.
 
 >[!EXAMPLE]-
 >
@@ -204,7 +205,8 @@ A few adjectives build the feminine singular by appending ⟨я⟩ to the mascul
 
 ### Neuter Adjectives
 
-Most adjectives build the neuter singular by appending ⟨о⟩ to the masculine form. This is always done with the unaugmented masculine form if it exists. Otherwise, this is done after removing the ⟨и⟩ from the augmented form. One should beware changes due to [variable ya](./Variable%20Ya%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ.md).
+Most adjectives build the neuter singular by appending *-о* to the masculine form. This is always done with the unaugmented masculine form if it exists. Otherwise, this is done after removing the *-и* from the augmented form. One should beware changes due to [variable ya](./Variable%20Ya%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ.md).
+
 - Most adjectives whose masculine singular ends in an [unstressed](./Phonology.md#Stress) ⟨ен⟩ drop the ⟨е⟩ in the feminine form, but many do not. 
 - The vast majority of adjectives whose masculine singular ends in the suffix ⟨ен⟩ preceded by ⟨а⟩, ⟨ъ⟩, ⟨о⟩, ⟨у⟩, ⟨е⟩ or ⟨и⟩ replace the ⟨е⟩ from the suffix with ⟨й⟩, but some retain it.
 - Adjective whose masculine singular ends in one of the suffixes ⟨ъв⟩, ⟨ък⟩, ⟨ъл⟩ or ⟨ър⟩ drop the ⟨ъ⟩ from the suffix.
@@ -318,7 +320,7 @@ Most adjectives build the neuter singular by appending ⟨о⟩ to the masculine
 >|я̀рък (bright)|я̀рко|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped. This is not an instance of a [variable ya](./Variable%20Ya%20(Bulgarian).md).|
 >
 
-Adjectives whose unaugmented masculine singular ends in ⟨ш⟩ can build the neuter singular by appending either ⟨о⟩ or ⟨е⟩. The two resulting forms are equivalent.
+Adjectives whose unaugmented masculine singular ends in *-ш* can build the neuter singular by appending either *-о* or *-е*. The two resulting forms are equivalent.
 
 >[!EXAMPLE]-
 >
@@ -329,7 +331,7 @@ Adjectives whose unaugmented masculine singular ends in ⟨ш⟩ can build the n
 >|низш (lower, inferior, reproachable)|нѝзшо, нѝзше|Forms in both ⟨о⟩ and ⟨е⟩, since the masculine singular ends in ⟨ш⟩.|
 >
 
-Adjectives that only have an augmented form with ⟨ж⟩, ⟨ч⟩ or ⟨ш⟩ build the neuter singular by dropping the ⟨и⟩ and appending ⟨о⟩ or ⟨е⟩. The two resulting forms are equivalent.
+Adjectives that only have an augmented form whose *-и* is preceded by ⟨ж⟩, ⟨ч⟩ or ⟨ш⟩ build the neuter singular by dropping the *-и* and appending *-о* or *-е*. The two resulting forms are equivalent.
 
 >[!EXAMPLE]-
 >
@@ -340,7 +342,7 @@ Adjectives that only have an augmented form with ⟨ж⟩, ⟨ч⟩ or ⟨ш⟩ 
 >|о̀вчи (related to sheep)|о̀вчо, о̀вче|The augmented form is used because there is no unaugmented one. Forms in both ⟨о⟩ and ⟨е⟩, since the masculine singular has only an augmented form and there is ⟨ч⟩ before ⟨и⟩.|
 >
 
-Very few adjectives build the neuter singular by appending ⟨ьо⟩. This is always done with the unaugmented masculine form if it exists. Otherwise, this is done after removing the ⟨и⟩ from the augmented form. One should beware changes due to [variable ya](./Variable%20Ya%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ.md).
+Very few adjectives build the neuter singular by appending *-ьо*. This is always done with the unaugmented masculine form if it exists. Otherwise, this is done after removing the ⟨и⟩ from the augmented form. One should beware changes due to [variable ya](./Variable%20Ya%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ.md).
 
 >[!EXAMPLE]- Example: Neuter Adjectives in *-ьо*
 >
@@ -353,12 +355,12 @@ Very few adjectives build the neuter singular by appending ⟨ьо⟩. This is a
 
 Adjectives also have a plural form which is used with plural [nouns](./Nouns%20(Bulgarian).md) regardless of their [gender](./Nouns%20(Bulgarian).md#Gender).
 
-The plural is built by appending ⟨и⟩ to the unaugmented masculine singular if it exists. Otherwise, the plural form is identical to the augmented masculine singular.
+The plural is built by appending *-и* to the unaugmented masculine singular if it exists. Otherwise, the plural form is identical to the augmented masculine singular.
 
 - One should beware changes due to [variable ya](./Variable%20Ya%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ.md).
-- Most adjectives whose masculine singular ends in an [unstressed](./Phonology.md#Stress) ⟨ен⟩ drop the ⟨е⟩ in the feminine form, but many do not. 
-- The vast majority of adjectives whose masculine singular ends in the suffix ⟨ен⟩ preceded by ⟨а⟩, ⟨ъ⟩, ⟨о⟩, ⟨у⟩, ⟨е⟩ or ⟨и⟩ replace the ⟨е⟩ from the suffix with ⟨й⟩, but some retain it.
-- Adjective whose masculine singular ends in one of the suffixes ⟨ъв⟩, ⟨ък⟩, ⟨ъл⟩ or ⟨ър⟩ drop the ⟨ъ⟩ from the suffix.
+- Most adjectives whose masculine singular ends in an [unstressed](./Phonology.md#Stress) *-ен* drop the ⟨е⟩ in the feminine form, but many do not. 
+- The vast majority of adjectives whose masculine singular ends in the suffix *-ен* preceded by ⟨а⟩, ⟨ъ⟩, ⟨о⟩, ⟨у⟩, ⟨е⟩ or ⟨и⟩ replace the ⟨е⟩ from the suffix with ⟨й⟩, but some retain it.
+- Adjective whose masculine singular ends in one of the suffixes *-ъв*, *-ък*, *-ъл* or *-ър* drop the ⟨ъ⟩ from the suffix.
 
 >[!EXAMPLE]-
 >
@@ -457,15 +459,15 @@ The plural is built by appending ⟨и⟩ to the unaugmented masculine singular 
 >|тѝквен (related to pumpkin)|тѝквени||The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained.|
 >|то̀пъл (warm)|то̀пли|The ⟨ъ⟩ from the suffix ⟨ъл⟩ is dropped.|
 >|тра̀ен (lasting)|тра̀йни|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ turns into ⟨й⟩ because it is preceded by ⟨а⟩.|
->|тъ̀ничък (a little thin)|тъ̀нички|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped.|
->|тъ̀нък (thin)|тъ̀нки|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped.|
->|хартѝен (of paper)|хартѝени|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained despite being preceded by ⟨и⟩.|
->|хѝтър (cunning, clever)|хѝтри|The ⟨ъ⟩ from the suffix ⟨ър⟩ is dropped.|
->|хла̀дък (cool)|хла̀дки|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped.|
->|хра̀бър (brave)|хра̀бри|The ⟨ъ⟩ from the suffix ⟨ър⟩ is dropped.|
+>|тъ̀ничък (a little thin)|тъ̀нички|The ⟨ъ⟩ from the suffix *-ък* is dropped.|
+>|тъ̀нък (thin)|тъ̀нки|The ⟨ъ⟩ from the suffix *-ък* is dropped.|
+>|хартѝен (of paper)|хартѝени|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is retained despite being preceded by ⟨и⟩.|
+>|хѝтър (cunning, clever)|хѝтри|The ⟨ъ⟩ from the suffix *-ър* is dropped.|
+>|хла̀дък (cool)|хла̀дки|The ⟨ъ⟩ from the suffix *-ък* is dropped.|
+>|хра̀бър (brave)|хра̀бри|The ⟨ъ⟩ from the suffix *-ър* is dropped.|
 >|цял (whole|цѐли|The [variable ya](./Variable%20Ya%20(Bulgarian).md) is ⟨е⟩ instead of ⟨я⟩, since the next syllable contains ⟨и⟩.|
->|ча̀ен (of tea)|ча̀ени|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained despite being preceded by ⟨а⟩.|
->|щѐдър (generous)|щѐдра|The ⟨ъ⟩ from the suffix ⟨ър⟩ is dropped.|
->|я̀рък (bright)|я̀рки|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped. This is not an instance of a [variable ya](./Variable%20Ya%20(Bulgarian).md).|
+>|ча̀ен (of tea)|ча̀ени|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is retained despite being preceded by ⟨а⟩.|
+>|щѐдър (generous)|щѐдра|The ⟨ъ⟩ from the suffix *-ър* is dropped.|
+>|я̀рък (bright)|я̀рки|The ⟨ъ⟩ from the suffix *-ък* is dropped. This is not an instance of a [variable ya](./Variable%20Ya%20(Bulgarian).md).|
 >
 
