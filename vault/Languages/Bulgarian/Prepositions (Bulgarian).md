@@ -26,7 +26,7 @@ The [preposition](./Prepositions%20(Bulgarian).md) *без* is used in expressio
 
 ## *в*, *във*
 
-The [preposition](./Prepositions%20(Bulgarian).md) takes the form *във* when the next word starts with ⟨в⟩ or ⟨ф⟩ and *в* otherwise.
+The [preposition](./Prepositions%20(Bulgarian).md) takes the form *във* when the next word starts with *в-* or *ф-* and *в* otherwise.
 
 The [preposition](./Prepositions%20(Bulgarian).md) *в* / *във* signifies an inward movement or an act of entering, similar to the English preposition *into*. This also applies to more abstract contexts.
 
@@ -63,7 +63,7 @@ The [preposition](./Prepositions%20(Bulgarian).md) *в* / *във* is used with 
 
 ## *вместо*
 
-The [preposition](./Prepositions%20(Bulgarian).md) *вместо* signifies the replacing of one thing with another, similar to *instead of* in English.
+The [preposition](./Prepositions%20(Bulgarian).md) *вмѐсто* signifies the replacing of one thing with another, similar to *instead of* in English.
 
 >[!EXAMPLE]-
 >
@@ -71,3 +71,25 @@ The [preposition](./Prepositions%20(Bulgarian).md) *вместо* signifies the 
 >
 ><u>Вместо награда</u> получаваш глоба. '<u>Instead of a reward</u>, you get a fine.'
 >
+
+## *върху*
+
+The [preposition](./Prepositions%20(Bulgarian).md) *върху̀* signifies motion towards the top of something, similar to English *on* or *on top of*.
+
+>[!EXAMPLE]-
+>
+>|Example|Translation|Notes|
+>|:--:|:--:|:--:|
+>|Той скочи <u>върху масата</u>.|He jumped <u>onto the table</u>.|He was initially somewhere else (e.g. the floor) and jumped on top of the table.|
+>
+
+The [preposition](./Prepositions%20(Bulgarian).md) *върху̀* signifies spatial relations similar to the English *on* and *on top of*.
+
+>[!EXAMPLE]-
+>
+>|Example|Translation|Notes|
+>|:--:|:--:|:--:|
+>|Тя седи <u>върху лицето му.</u>|She is sitting <u>on his face</u>.|
+>
+
+## *до*

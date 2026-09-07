@@ -77,8 +77,8 @@ Nouns in Bulgarian can be either **singular** or **plural**. Unlike in English, 
 
 The vast majority of monosyllabic masculine nouns ending in a consonant form the plural by appending *-ове* to the singular. This is especially true of nouns of foreign origin, although exceptions exist even there.
 
-- The [stress](./Phonology.md#Stress) in the resulting form is generally unpredictable.
-- One should beware changes in a [variable ya](./Variable%20Ya%20(Bulgarian).md).
+- The [stress](./Phonology%20(Bulgarian).md#Stress) in the resulting form is generally unpredictable.
+- One should beware changes in a [variable ya](./Yat%20Reflex%20(Bulgarian).md).
 
 >[!EXAMPLE]- Example: Masculine Monosyllabics with Plural in *-ове*
 >
@@ -101,12 +101,12 @@ The vast majority of monosyllabic masculine nouns ending in a consonant form the
 >|блок (block)|бло̀кове (blocks)||
 >|бюст (pair of breasts)|бю̀стове (pairs of breasts)||
 >|град (city)|градовѐ (cities)||
->|цвят (color)|цветовѐ (colors)|The [variable ya](./Variable%20Ya%20(Bulgarian).md) is ⟨е⟩ and not ⟨я⟩, since it is not [stressed](./Phonology.md#Stress).|
+>|цвят (color)|цветовѐ (colors)|The [variable ya](./Yat%20Reflex%20(Bulgarian).md) is ⟨е⟩ and not ⟨я⟩, since it is not [stressed](./Phonology%20(Bulgarian).md#Stress).|
 >
 
 The majority of monosyllabic masculine nouns whose singular ends in *-й* form the plural by dropping *-й* with *-еве*.
 
-- The [stress](./Phonology.md#Stress) in the resulting form is generally unpredictable.
+- The [stress](./Phonology%20(Bulgarian).md#Stress) in the resulting form is generally unpredictable.
 
 >[!EXAMPLE]- Example: Masculine Monosyllabic with Plural in *-еве*
 >
@@ -132,7 +132,7 @@ The majority of monosyllabic masculine nouns whose singular ends in *-й* form t
 Some monosyllabic masculine nouns form the plural by appending *-и*.
 
 - In most of these cases, a final *-г*, *-к*, *-х* transitions into ⟨з⟩, ⟨ц⟩, ⟨с⟩, respectively.
-- Some nouns experience a [stress](./Phonology.md#Stress) shift in the plural.
+- Some nouns experience a [stress](./Phonology%20(Bulgarian).md#Stress) shift in the plural.
 
 >[!EXAMPLE]- Example: Masculine Monosyllabic Nouns with Plural in *-и*
 >
@@ -191,7 +191,7 @@ A few monosyllabic masculine nouns form the plural by appending *-ища*. Some 
 >|трап|тра̀пове, тра̀пища||
 >
 
-The following monosyllabic masculine nouns form the plural by appending *-е*. They always shift the [stress](./Phonology.md#Stress) to the ultima.
+The following monosyllabic masculine nouns form the plural by appending *-е*. They always shift the [stress](./Phonology%20(Bulgarian).md#Stress) to the ultima.
 
 |Singular|Plural|
 |:--:|:--:|
@@ -201,7 +201,7 @@ The following monosyllabic masculine nouns form the plural by appending *-е*. T
 |мъж (man)|мъжѐ (men)|
 |цар (tsar)|царѐ (tsars)|
 
-The following monosyllabic masculine nouns form the plural by appending *-а*. They always shift the [stress](./Phonology.md#Stress) to the ultima.
+The following monosyllabic masculine nouns form the plural by appending *-а*. They always shift the [stress](./Phonology%20(Bulgarian).md#Stress) to the ultima.
 
 |Singular|Plural|
 |:--:|:--:|
@@ -213,9 +213,9 @@ The plural of *брат* (brother) is *бра̀тя* (brothers).
 
 Most polysyllabic masculine nouns form the plural by appending *-и*.
 
-- With very few exceptions, there is no [stress](./Phonology.md#Stress) shift in the plural.
+- With very few exceptions, there is no [stress](./Phonology%20(Bulgarian).md#Stress) shift in the plural.
 - When the singular ends in *-й*, *-а* or *-я*, then these are dropped from the plural.
-- An [unstressed](./Phonology.md#Stress) ⟨ъ⟩ in the ultima of the singular which is surrounded by an [obstruent](TODO) and [sonorant](TODO) is dropped in the plural. Most words ending in *-ък* are exceptions to this rule.
+- An [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨ъ⟩ in the ultima of the singular which is surrounded by an [obstruent](TODO) and [sonorant](TODO) is dropped in the plural. Most words ending in *-ък* are exceptions to this rule.
 - If the ultima of the singular contains ⟨е⟩ originating from [Proto-Slavic](TODO) ⟨ь⟩, then this ⟨е⟩ is dropped in the plural.
 - If the singular ends in the suffix *-ец* preceded by ⟨а⟩, ⟨ъ⟩, ⟨о⟩, ⟨у⟩, ⟨е⟩ or ⟨и⟩, then the ⟨е⟩ in the suffix changes to ⟨й⟩.
 - In most cases, a final *-г*, *-к*, *-х* in the singular transitions into ⟨з⟩, ⟨ц⟩, ⟨с⟩, respectively, in the plural. This transition rarely takes place in nouns of foreign origin.
@@ -281,7 +281,7 @@ Most polysyllabic masculine nouns form the plural by appending *-и*.
 >|спекта̀къл (spectacle)|спекта̀кли (spectacles)|The ⟨ъ⟩ between the [obstruent](TODO) ⟨к⟩ and the [sonorant](TODO) ⟨л⟩ is dropped.|
 >|ста̀рец (old man)|ста̀рци (old men)|The ⟨е⟩ in the ultima is dropped, since it originates from [Proto-Slavic](TODO) ⟨ь⟩.|
 >|стрелѐц (archer)|стрелцѝ (archers)|The ⟨е⟩ in the ultima is dropped, since it originates from [Proto-Slavic](TODO) ⟨ь⟩.||
->|съдия̀ (judge)|съдѝи (judge)|The final *-я* is dropped. The [stress](./Phonology.md#Stress) shifts.|
+>|съдия̀ (judge)|съдѝи (judge)|The final *-я* is dropped. The [stress](./Phonology%20(Bulgarian).md#Stress) shifts.|
 >|съ̀рбин (Serb)|съ̀рби (Serbs)|The suffix *-ин* is dropped.|
 >|успѐх (success)|успѐхи (achievements)|The final *-х* is retained.|
 >|ученѝк (student)|ученѝци (students)|The final *-к* transitions into ⟨ц⟩.|
@@ -408,7 +408,7 @@ The [count form](#Count%20Form) is *not* used when the noun is modified by "ко
 
 ### Feminine Nouns
 
-Almost all feminine singular nouns ending in a consonant form the plural by appending *-и*. If the singular ends in a syllable containing ⟨ъ⟩ or ⟨е⟩, then this ⟨ъ⟩ / ⟨е⟩ is dropped in some plurals but retained in others. With very few exceptions, there are no [stress shifts](./Phonology.md#Stress)
+Almost all feminine singular nouns ending in a consonant form the plural by appending *-и*. If the singular ends in a syllable containing ⟨ъ⟩ or ⟨е⟩, then this ⟨ъ⟩ / ⟨е⟩ is dropped in some plurals but retained in others. With very few exceptions, there are no [stress shifts](./Phonology%20(Bulgarian).md#Stress)
 
 >[!EXAMPLE]- Example: Plural of Feminine Singular Nouns Ending in a Consonant
 >
@@ -424,7 +424,7 @@ Almost all feminine singular nouns ending in a consonant form the plural by appe
 >|ра̀дост (happiness)|ра̀дости|
 >
 
-Almost all feminine nouns ending in *-а* or *-я* form the plural by replacing the *-а* / *-я* with *-и*. With very few exceptions, there are no [stress](./Phonology.md#Stress) shift.
+Almost all feminine nouns ending in *-а* or *-я* form the plural by replacing the *-а* / *-я* with *-и*. With very few exceptions, there are no [stress](./Phonology%20(Bulgarian).md#Stress) shift.
 
 >[!EXAMPLE]- Example: Plural of Feminine Singular Nouns Ending in *-а* or *-я*
 >
@@ -503,7 +503,7 @@ A few other words also form a plural ending in *-я*.
 >|цвѐте|цветя̀||
 >
 
-Almost all neuter nouns whose singular ends in *-е*, *-ле* or *-че* form the plural by appending *-та*. These do not experience a [stress](./Phonology.md#Stress) shift in the plural. 
+Almost all neuter nouns whose singular ends in *-е*, *-ле* or *-че* form the plural by appending *-та*. These do not experience a [stress](./Phonology%20(Bulgarian).md#Stress) shift in the plural. 
 
 >[!EXAMPLE]-
 >
@@ -552,16 +552,20 @@ Neuter singular nouns ending in *-о* which originate from TODO form the plural 
 >|сказу̀емо|сказу̀еми|
 >
 
-The following neuter nouns have plural forms ending in *-ена*.
+Some neuter nouns have plural forms ending in *-ена*.
 
-|Singular|Plural|
-|:--:|:--:|
-|брѐме (burden)|бремена̀, брѐмета (rarely)|
-|врѐме (time)|времена̀|
-|зна̀ме (flag)|знамена̀|
-|плѐме (tribe)|племена̀|
-|сѐме (seed)|семена̀|
-|сѝрене (cheese)|сирена̀|
+>[!EXAMPLE]- Example: Neuter Nouns with Plural in *-ена*
+>
+>|Singular|Plural|
+>|:--:|:--:|
+>|брѐме (burden)|бремена̀, брѐмета (rarely)|
+>|врѐме (time)|времена̀|
+>|зна̀ме (flag)|знамена̀|
+>|ѝме (name)|имена̀|
+>|плѐме (tribe)|племена̀|
+>|сѐме (seed)|семена̀|
+>|сѝрене (cheese)|сирена̀|
+>
 
 The following neuter nouns have plural forms in *-еса*.
 
@@ -584,7 +588,7 @@ The following neuter nouns have very irregular plural forms.
 
 The case inflections for nouns have largely vanished, leaving only a general and a vocative singular case as well as a few minor remnants.
 
-Most masculine singular nouns ending in a consonant other than *-ж*, *-к*, *-х*, *-ц*, *-ч* and *-ш* form the vocative singular by appending *-е*. With very few exceptions, there is no [stress](./Phonology.md#Stress) shift in the vocative singular.
+Most masculine singular nouns ending in a consonant other than *-ж*, *-к*, *-х*, *-ц*, *-ч* and *-ш* form the vocative singular by appending *-е*. With very few exceptions, there is no [stress](./Phonology%20(Bulgarian).md#Stress) shift in the vocative singular.
 
 - A final *-г* usually transitions into ⟨ж⟩.
 
@@ -607,7 +611,7 @@ Most masculine singular nouns ending in a consonant other than *-ж*, *-к*, *-�
 >|Стоя̀н|Стоя̀не||
 >
 
-Most masculine singular nouns ending in *-ж*, *-к*, *-х*, *-ц*, *-ч* or *-ш* form the vocative singular by appending *-о*. They do not experience a [stress](./Phonology.md#Stress) shift.
+Most masculine singular nouns ending in *-ж*, *-к*, *-х*, *-ц*, *-ч* or *-ш* form the vocative singular by appending *-о*. They do not experience a [stress](./Phonology%20(Bulgarian).md#Stress) shift.
 
 >[!EXAMPLE]- Example: Vocative of Masculine Singular Nouns Ending in *-ж*, *-к*, *-х*, *-ц*, *-ч* or *-ш*
 >
@@ -621,7 +625,7 @@ Most masculine singular nouns ending in *-ж*, *-к*, *-х*, *-ц*, *-ч* or *-�
 >|сирома̀х|сирома̀хо|
 >
 
-Masculine singular nouns formed with the suffix *-ин* form the vocative singular by appending *-о*. They do not experience a [stress](./Phonology.md) shift.
+Masculine singular nouns formed with the suffix *-ин* form the vocative singular by appending *-о*. They do not experience a [stress](./Phonology%20(Bulgarian).md) shift.
 
 >[!EXAMPLE]- Example: Vocative of Masculine Singular Nouns Ending in *-ин* 
 >
@@ -632,7 +636,7 @@ Masculine singular nouns formed with the suffix *-ин* form the vocative singul
 >|цѝганин (gypsy)|цѝганино|
 >
 
-Masculine nouns whose singular ends in *-й* form the vocative singular by replacing this *-й* with *-ю*. There is no [stress](./Phonology.md#Stress) shift.
+Masculine nouns whose singular ends in *-й* form the vocative singular by replacing this *-й* with *-ю*. There is no [stress](./Phonology%20(Bulgarian).md#Stress) shift.
 
 >[!EXAMPLE]- Example: Vocative of Masculine Singular Nouns Ending in *-й*
 >
@@ -644,7 +648,7 @@ Masculine nouns whose singular ends in *-й* form the vocative singular by repla
 >|сла̀вей|сла̀вею|
 >
 
-Masculine nouns whose singular ends in a consonant other than *-ж*, *-к*, *-х*, *-ц*, *-ч* or *-ш* and which was once palatalized form the vocative singular by appending *-ю*. There may be a [stress](./Phonology.md#Stress) shift.
+Masculine nouns whose singular ends in a consonant other than *-ж*, *-к*, *-х*, *-ц*, *-ч* or *-ш* and which was once palatalized form the vocative singular by appending *-ю*. There may be a [stress](./Phonology%20(Bulgarian).md#Stress) shift.
 
 >[!EXAMPLE]-
 >
@@ -658,7 +662,7 @@ Masculine nouns whose singular ends in a consonant other than *-ж*, *-к*, *-х
 >|учѝтел (teacher)|учѝтелю|
 >
 
-Feminine singular nouns ending in *-а* build the vocative singular by replacing this *-а* with *-о*. The [stress](./Phonology.md#Stress) in the resulting form never falls on the ultima. This forces a shift to the penult in the vocative if the [stress](./Phonology.md#Stress) in the singular originally fell on the ultima.
+Feminine singular nouns ending in *-а* build the vocative singular by replacing this *-а* with *-о*. The [stress](./Phonology%20(Bulgarian).md#Stress) in the resulting form never falls on the ultima. This forces a shift to the penult in the vocative if the [stress](./Phonology%20(Bulgarian).md#Stress) in the singular originally fell on the ultima.
 
 >[!EXAMPLE]- Example: Vocative of Feminine Singular Nouns Ending in *-а*
 >
@@ -675,7 +679,7 @@ Feminine singular nouns ending in *-а* build the vocative singular by replacing
 >|сестра̀ (sister)|сѐстро|
 >
 
-Feminine singular nouns ending in consonant + *-я* preceded by a consonant form the vocative by replacing this *-я* with *-ьо*. The [stress](./Phonology.md#Stress) in the resulting form never falls on the ultima. This forces a shift to the penult in the vocative if the [stress](./Phonology.md#Stress) in the singular originally fell on the ultima.
+Feminine singular nouns ending in consonant + *-я* preceded by a consonant form the vocative by replacing this *-я* with *-ьо*. The [stress](./Phonology%20(Bulgarian).md#Stress) in the resulting form never falls on the ultima. This forces a shift to the penult in the vocative if the [stress](./Phonology%20(Bulgarian).md#Stress) in the singular originally fell on the ultima.
 
 >[!EXAMPLE]- Example: Vocative of Feminine Singular Nouns Ending in Consonant + *-я*
 >
@@ -685,7 +689,7 @@ Feminine singular nouns ending in consonant + *-я* preceded by a consonant form
 >|лѐля (aunt)|лѐльо|
 >
 
-Feminine singular souns ends in a vowel + *-я* form the vocative singular by replacing this *-я* with *-йо*. The [stress](./Phonology.md#Stress) in the resulting form never falls on the ultima. This forces a shift to the penult in the vocative if the [stress](./Phonology.md#Stress) in the singular originally fell on the ultima.
+Feminine singular souns ends in a vowel + *-я* form the vocative singular by replacing this *-я* with *-йо*. The [stress](./Phonology%20(Bulgarian).md#Stress) in the resulting form never falls on the ultima. This forces a shift to the penult in the vocative if the [stress](./Phonology%20(Bulgarian).md#Stress) in the singular originally fell on the ultima.
 
 >[!EXAMPLE]- Example: Vocative of Feminine Singular Nouns Ending in Vowel + *-я*
 >

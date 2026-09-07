@@ -15,9 +15,9 @@ The definite article is used to indicate that a word refers to something which i
 >
 >>[!IMPORTANT] Important: Pronunciation of the Short and Full Articles
 >>
->>The articles *-а* and *-ът* are both pronounced [ɤ] when [stressed](./Phonology.md#Stress) and [ɐ] otherwise.
+>>The articles *-а* and *-ът* are both pronounced [ɤ] when [stressed](./Phonology%20(Bulgarian).md#Stress) and [ɐ] otherwise.
 >>
->>The articles *-я* and *-ят* are both pronounced [jɤ] when [stressed](./Phonology.md#Stress) [jɐ] otherwise.
+>>The articles *-я* and *-ят* are both pronounced [jɤ] when [stressed](./Phonology%20(Bulgarian).md#Stress) [jɐ] otherwise.
 >>
 >>Pronouncing the final *-т* in a full article is only done when the speaker explicitly wants to put additional emphasis on it.
 >>
@@ -31,8 +31,8 @@ Nouns can take any one of the forms *-а*, *-ът*, *-я*, *-ят*, *-та*, *-�
 
 All masculine singular nouns ending in an etymologically non-palatalized consonant build the definite singular form by appending *-а*, *-ът* to the indefinite singular. 
 
-- Pollysyllabic masculine nouns do not experience a [stress](./Phonology.md#Stress) shift, but monosyllabic ones may. 
-- One should beware changes due to [variable ya](./Variable%20Ya%20(Bulgarian).md) and [movable ъ](./Mobile%20Ъ.md).
+- Pollysyllabic masculine nouns do not experience a [stress](./Phonology%20(Bulgarian).md#Stress) shift, but monosyllabic ones may. 
+- One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [movable ъ](./Mobile%20Ъ.md).
 - Nouns ending in the suffix *-зъм* drop the ⟨ъ⟩ when the definite article is attached.
 
 >[!EXAMPLE]- Example: Masculine Nouns with Definite Article *-а*, *-ът*
@@ -54,10 +54,10 @@ All masculine singular nouns ending in an etymologically non-palatalized consona
 >|борѐц (fighter)|борѐца (the fighter)|борѐцът (the fighter)||
 >|брат (brother)|бра̀та (the brother)|бра̀тът (the brother)||
 >|бронз (bronze)|бро̀нза (the bronze)|бро̀нзът (the bronze)||
->|бряг (coast)|брега̀ (the coast)|брегъ̀т (the coast)|[Variable ya](./Variable%20Ya%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology.md#Stress).|
+>|бряг (coast)|брега̀ (the coast)|брегъ̀т (the coast)|[Variable ya](./Yat%20Reflex%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology%20(Bulgarian).md#Stress).|
 >|бунт (rebellion)|бу̀нта (the rebellion)|бу̀нтът (the rebellion)||
 >|бюст (breasts)|бю̀ста (the breasts)|бю̀стът (the breasts)||
->|бяс (rage)|беса̀ (the rage)|бесъ̀т (the rage)|[Variable ya](./Variable%20Ya%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology.md#Stress).|
+>|бяс (rage)|беса̀ (the rage)|бесъ̀т (the rage)|[Variable ya](./Yat%20Reflex%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology%20(Bulgarian).md#Stress).|
 >|вал|ва̀ла|ва̀лът||
 >|валс (waltz)|ва̀лса (the waltz)|ва̀лсът (the waltz)||
 >|век (century)|века̀ (the century)|векъ̀т (the century)|
@@ -77,7 +77,7 @@ All masculine singular nouns ending in an etymologically non-palatalized consona
 >|героѝзъм (heroism)|героѝзма (the heroism)|героѝзмът (the heroism)||
 >|глад (hunger)|глада̀ (the hunger)|гладъ̀т (the hunger)||
 >|глас (voice)|гласа̀ (the voice)|гласъ̀т (the voice)||
->|гняв (anger)|гнева̀ (the anger)|гневъ̀т (the anger)|[Variable ya](./Variable%20Ya%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology.md#Stress).|
+>|гняв (anger)|гнева̀ (the anger)|гневъ̀т (the anger)|[Variable ya](./Yat%20Reflex%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology%20(Bulgarian).md#Stress).|
 >|гост (guest)|го̀ста (the guest)|го̀стът (the guests)||
 >|град (city)|града̀ (the city)|градъ̀т (the city)||
 >|грим (make-up)|грѝма (make-up)|грѝмът (make-up)||
@@ -85,7 +85,7 @@ All masculine singular nouns ending in an etymologically non-palatalized consona
 >|гръб (back)|гърба̀ (the back)|гърбъ̀т (the back)|[Movable ъ](./Mobile%20Ъ.md) changes ⟨ръ⟩ to ⟨ър⟩.|
 >|грък (Greek)|гърка̀ (the Greek)|гъркъ̀т (the Greek)|[Movable ъ](./Mobile%20Ъ.md) changes ⟨ръ⟩ to ⟨ър⟩.|
 >|гръм (thunder)|гърма̀ (the thunder)|гърмъ̀т (the thunder)|[Movable ъ](./Mobile%20Ъ.md) changes ⟨ръ⟩ to ⟨ър⟩.|
->|грях (sin)|греха̀ (the sin)|грехъ̀т (the sin)|[Variable ya](./Variable%20Ya%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology.md#Stress).|
+>|грях (sin)|греха̀ (the sin)|грехъ̀т (the sin)|[Variable ya](./Yat%20Reflex%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology%20(Bulgarian).md#Stress).|
 >|двор|дво̀ра|дво̀рът||
 >|джоб (pocket)|джо̀ба (the pocket)|джо̀бът (the pocket)||
 >|дим (smoke)|дима̀ (the smoke)|димъ̀т (the smoke)||
@@ -93,7 +93,7 @@ All masculine singular nouns ending in an etymologically non-palatalized consona
 >|дроб (liver)|дроба̀ (the liver)|дробъ̀т (the liver)||
 >|дух (spirit)|духа̀ (the spirit)|духъ̀т (the spirit)||
 >|дъх (breath)|дъха̀ (the spirit)|дъхъ̀т (the spirit)||
->|дял (share)|дела̀ (the share)|делъ̀т (the share)|[Variable ya](./Variable%20Ya%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology.md#Stress).|
+>|дял (share)|дела̀ (the share)|делъ̀т (the share)|[Variable ya](./Yat%20Reflex%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology%20(Bulgarian).md#Stress).|
 >|ентусиа̀зъм (enthusiasm)|ентусиа̀зма (the enthusiasm)|ентусиа̀змът (the enthusiasm)||
 >|жрец (priest)|жрѐца (the priest)|жрѐцът (the priest)||
 >|звук (sound)|звука̀ (the sound)|звукъ̀т (the sound)||
@@ -127,9 +127,9 @@ All masculine singular nouns ending in an etymologically non-palatalized consona
 >|роб (slave)|ро̀ба (the slave)|ро̀бът (the slave)|
 >|рог (horn)|рога̀ (the horn)|рогъ̀т (the horn)||
 >|сарка̀зъм (sarcasm)|сарка̀зма (the sarcasm)|сарка̀змът (the sarcasm)||
->|свят (world)|света̀ (the world)|светъ̀т (the world)|[Variable ya](./Variable%20Ya%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology.md#Stress).|
->|смях (laugh)|смеха̀ (the laugh)|смехъ̀т (the laugh)|[Variable ya](./Variable%20Ya%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology.md#Stress).|
->|сняг (snow)|снега̀ (the snow)|снегъ̀т (the snow)|[Variable ya](./Variable%20Ya%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology.md#Stress).|
+>|свят (world)|света̀ (the world)|светъ̀т (the world)|[Variable ya](./Yat%20Reflex%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology%20(Bulgarian).md#Stress).|
+>|смях (laugh)|смеха̀ (the laugh)|смехъ̀т (the laugh)|[Variable ya](./Yat%20Reflex%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology%20(Bulgarian).md#Stress).|
+>|сняг (snow)|снега̀ (the snow)|снегъ̀т (the snow)|[Variable ya](./Yat%20Reflex%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology%20(Bulgarian).md#Stress).|
 >|социалѝзъм (socialism)|социалѝзма (the socialism)|социалѝзмът (the socialism)||
 >|спор (altercation)|спо̀ра (the altercation)|спо̀рът (the altercation)|
 >|стил (style)|стила̀ (the style)|стилъ̀т (the style||
@@ -139,15 +139,15 @@ All masculine singular nouns ending in an etymologically non-palatalized consona
 >|труд (toil)|труда̀ (the toil)|трудъ̀т (the toil)||
 >|хляб (bread)|хля̀ба (the bread)|хля̀бът (the bread)||
 >|хотѐл (hotel)|хотѐла (the hotel)|хотѐлът (the hotel)||
->|цвят (color)|цвета̀ (the color)|цветъ̀т (the color)|[Variable ya](./Variable%20Ya%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology.md#Stress).|
->|цяр (remedy)|цера̀ (the remedy)|церъ̀т (the remedy|[Variable ya](./Variable%20Ya%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology.md#Stress).|
+>|цвят (color)|цвета̀ (the color)|цветъ̀т (the color)|[Variable ya](./Yat%20Reflex%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology%20(Bulgarian).md#Stress).|
+>|цяр (remedy)|цера̀ (the remedy)|церъ̀т (the remedy|[Variable ya](./Yat%20Reflex%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology%20(Bulgarian).md#Stress).|
 >|човѐк (human)|човѐка (the human)|човѐкът (the human)||
 >
 
 All masculine singular nouns ending in an etymologically palatalized consonant build the definite singular form by appending *-я*, *-ят* to the indefinite singular. 
 
-- Pollysyllabic masculine nouns do not experience a [stress](./Phonology.md#Stress) shift, but monosyllabic ones may. 
-- One should beware changes due to [variable ya](./Variable%20Ya%20(Bulgarian).md) and [movable ъ](./Mobile%20Ъ.md).
+- Pollysyllabic masculine nouns do not experience a [stress](./Phonology%20(Bulgarian).md#Stress) shift, but monosyllabic ones may. 
+- One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [movable ъ](./Mobile%20Ъ.md).
 
 >[!EXAMPLE]- Example: Masculine Singular Nouns with Definite Article *-я*, *-ят*
 >
@@ -183,7 +183,7 @@ All masculine singular nouns ending in *-й* form the definite singular by repla
 >|слой (layer)|сло̀я (the layer)|сло̀ят (the layer)||
 >
 
-All masculine singular nouns ending in *-а* or *-я* form the definite singular by appending the article *-та*. There are no [stress](./Phonology.md#Stress) shifts.
+All masculine singular nouns ending in *-а* or *-я* form the definite singular by appending the article *-та*. There are no [stress](./Phonology%20(Bulgarian).md#Stress) shifts.
 
 >[!EXAMPLE]- Example: Masculine Singular Nouns with Definite Article *-та*
 >
@@ -196,7 +196,7 @@ All masculine singular nouns ending in *-а* or *-я* form the definite singular
 >|съдия̀ (judge)|съдия̀та (the judge)|
 >
 
-All masculine singular nouns ending in *-о* or *-е* form the definite singular by appending the article *-то*. There are no [stress](./Phonology.md#Stress) shifts.
+All masculine singular nouns ending in *-о* or *-е* form the definite singular by appending the article *-то*. There are no [stress](./Phonology%20(Bulgarian).md#Stress) shifts.
 
 >[!EXAMPLE]- Example: Masculine Singular Nouns with Definite Article *-то*
 >
@@ -210,7 +210,7 @@ All masculine singular nouns ending in *-о* or *-е* form the definite singular
 
 ### Feminine Nouns
 
-All feminine singular [nouns](./Nouns%20(Bulgarian).md) form the definite singular by appending the article *-та*. Those which end in *-а* or *-я* do not experience a [stress](./Phonology.md#Stress) shift, while all others shift the [stress](./Phonology.md#Stress) to the definite article. When the [stress](./Phonology.md#Stress) shifts, one should beware changes due to [variable ya](./Variable%20Ya%20(Bulgarian).md).
+All feminine singular [nouns](./Nouns%20(Bulgarian).md) form the definite singular by appending the article *-та*. Those which end in *-а* or *-я* do not experience a [stress](./Phonology%20(Bulgarian).md#Stress) shift, while all others shift the [stress](./Phonology%20(Bulgarian).md#Stress) to the definite article. When the [stress](./Phonology%20(Bulgarian).md#Stress) shifts, one should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md).
 
 >[!EXAMPLE]- Example: Feminine Singular Nouns with Definite Article *-та*
 >
@@ -219,7 +219,7 @@ All feminine singular [nouns](./Nouns%20(Bulgarian).md) form the definite singul
 >|бѐдност (poverty)|бедността̀ (the poverty)||
 >|вѐчер (evening)|вечерта̀ (the evening)||
 >|вода̀ (water)|вода̀та (the water)||
->|вя̀рност (truthfulness)|верността̀ (the truthfulness)|[Variable ya](./Variable%20Ya%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology.md#Stress).|
+>|вя̀рност (truthfulness)|верността̀ (the truthfulness)|[Variable ya](./Yat%20Reflex%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology%20(Bulgarian).md#Stress).|
 >|гора̀ (forest)|гора̀та (the forest)||
 >|градѝна (garden)|градѝната||
 >|длан (palm)|дланта̀ (the palm)||
@@ -238,7 +238,7 @@ All feminine singular [nouns](./Nouns%20(Bulgarian).md) form the definite singul
 
 ### Neuter Nouns
 
-All neuter singular [nouns](./Nouns%20(Bulgarian).md) form the definite singular by appending the article *-то*. There are no [stress](./Phonology.md#Stress) shifts.
+All neuter singular [nouns](./Nouns%20(Bulgarian).md) form the definite singular by appending the article *-то*. There are no [stress](./Phonology%20(Bulgarian).md#Stress) shifts.
 
 >[!EXAMPLE]-
 >
@@ -260,7 +260,7 @@ All neuter singular [nouns](./Nouns%20(Bulgarian).md) form the definite singular
 
 ### Plural Nouns
 
-All plural [nouns](./Nouns%20(Bulgarian).md) ending in *-е* or *-и* form the definite by appending the article *-те*. There are no [stress](./Phonology.md#Stress) shifts.
+All plural [nouns](./Nouns%20(Bulgarian).md) ending in *-е* or *-и* form the definite by appending the article *-те*. There are no [stress](./Phonology%20(Bulgarian).md#Stress) shifts.
 
 >[!EXAMPLE]- Example: Plural Nouns with Definite Article *-те*
 >
@@ -285,7 +285,7 @@ All plural [nouns](./Nouns%20(Bulgarian).md) ending in *-е* or *-и* form the d
 >|ръка̀|ръцѐ|ръцѐте|
 >
 
-All plural [nouns](./Nouns%20(Bulgarian).md) ending in *-а* or *-я* form the definite by appending the article *-та*. There are no additional [stress](./Phonology.md#Stress) shifts.
+All plural [nouns](./Nouns%20(Bulgarian).md) ending in *-а* or *-я* form the definite by appending the article *-та*. There are no additional [stress](./Phonology%20(Bulgarian).md#Stress) shifts.
 
 >[!EXAMPLE]- Example: Plural Nouns with Definite Article *-та*
 >
@@ -315,12 +315,12 @@ Adjectives use the following [articles](./Definite%20Article%20(Bulgarian).md) d
 |:--:|:--:|:--:|:--:|
 |-я, -ят|-та|-то|-те|
 
-[Adjectives](./Adjectives%20(Bulgarian).md) do not experience additional [stress](./Phonology.md#Stress) shifts when taking the [definite article](./Definite%20Article%20(Bulgarian).md). For the feminine singular, neuter singular and plural, the [definite article](./Definite%20Article%20(Bulgarian).md) is appended directly to the corresponding indefinite form. However, masculine singular adjectives are more complicated:
+[Adjectives](./Adjectives%20(Bulgarian).md) do not experience additional [stress](./Phonology%20(Bulgarian).md#Stress) shifts when taking the [definite article](./Definite%20Article%20(Bulgarian).md). For the feminine singular, neuter singular and plural, the [definite article](./Definite%20Article%20(Bulgarian).md) is appended directly to the corresponding indefinite form. However, masculine singular adjectives are more complicated:
 
 - If the [adjective](./Adjectives%20(Bulgarian).md) has only an [augmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives), then the [article](./Definite%20Article%20(Bulgarian).md) is appended directly to it.
 - If the [adjective](./Adjectives%20(Bulgarian).md) has an [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives), then this form is augmented by appending ⟨и⟩ and the [definite article](./Definite%20Article%20(Bulgarian).md) is then appended to this form.
-- One should beware changes due to [variable ya](./Variable%20Ya%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ.md).
-- Most masculine singular adjectives ending in an [unstressed](./Phonology.md#Stress) *-ен* drop the ⟨е⟩ when the [article](./Definite%20Article%20(Bulgarian).md) is attached, but many do not. 
+- One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ.md).
+- Most masculine singular adjectives ending in an [unstressed](./Phonology%20(Bulgarian).md#Stress) *-ен* drop the ⟨е⟩ when the [article](./Definite%20Article%20(Bulgarian).md) is attached, but many do not. 
 - The vast majority of masculine singular adjectives ending in the suffix *-ен* preceded by ⟨а⟩, ⟨ъ⟩, ⟨о⟩, ⟨у⟩, ⟨е⟩ or ⟨и⟩ replace the ⟨е⟩ from the suffix with ⟨й⟩, but some retain it.
 - Masculine singular adjectives ending in one of the suffixes *-ъв*, *-ък*, *-ъл* or *-ър* drop the ⟨ъ⟩ from the suffix.
 
@@ -328,30 +328,30 @@ Adjectives use the following [articles](./Definite%20Article%20(Bulgarian).md) d
 >
 >|Masculine Singular|Definite Masculine Singular (Short Article)|Definite Masculine Singular (Full Article)|Notes|
 >|:--:|:--:|:--:|:--:|
->|азо̀тен (of nitrogen)|азо̀тния|азо̀тният|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped.| 
->|ба̀вен (slow)|ба̀вния|ба̀вният|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) is used.|
->|бѐден (poor)|бѐдния|бѐдният|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) is used.|
->|безу̀мен (mindless)|безу̀мния|безу̀мният|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) is used.|
+>|азо̀тен (of nitrogen)|азо̀тния|азо̀тният|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix *-ен* is dropped.| 
+>|ба̀вен (slow)|ба̀вния|ба̀вният|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix *-ен* is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) is used.|
+>|бѐден (poor)|бѐдния|бѐдният|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix *-ен* is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) is used.|
+>|безу̀мен (mindless)|безу̀мния|безу̀мният|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix *-ен* is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) is used.|
 >|бивш (ex-)|бѝвшия|бѝвшият|An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) is used.|
 >|бос (bare-footed)|бо̀сия|бо̀сият|An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
 >|бъ̀лгарски (Bulgarian)|бъ̀лгарския|бъ̀лгарският|The [article](./Definite%20Article%20(Bulgarian).md) is attached directly, since there is only an [augmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives).|
->|бял (white)|бѐлия|бѐлият|The [variable ya](./Variable%20Ya%20(Bulgarian).md) is ⟨е⟩ instead of ⟨я⟩, since the next syllable contains ⟨и⟩.|
+>|бял (white)|бѐлия|бѐлият|The [variable ya](./Yat%20Reflex%20(Bulgarian).md) is ⟨е⟩ instead of ⟨я⟩, since the next syllable contains ⟨и⟩.|
 >|вѐчен (eternal)|вѐчния|вѐчният|An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
 >|висш (higher, superior)|вѝсшия|вѝсшият|An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
 >|вра̀жески (hostile)|вра̀жеския|вра̀жеският|The [article](./Definite%20Article%20(Bulgarian).md) is attached directly, since there is only an [augmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives).|
 >|въ̀лчи (related to wolves)|въ̀лчия|въ̀лчият|The [article](./Definite%20Article%20(Bulgarian).md) is attached directly, since there is only an [augmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives).|
->|голя̀м (big)|голѐма|голѐмият|The [variable ya](./Variable%20Ya%20(Bulgarian).md) is ⟨е⟩ instead of ⟨я⟩, since the next syllable contains ⟨и⟩. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
+>|голя̀м (big)|голѐма|голѐмият|The [variable ya](./Yat%20Reflex%20(Bulgarian).md) is ⟨е⟩ instead of ⟨я⟩, since the next syllable contains ⟨и⟩. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
 >|гра̀дски (urban)|гра̀дския|гра̀дският|The [article](./Definite%20Article%20(Bulgarian).md) is attached directly, since there is only an [augmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives).|
 >|гро̀зен (ugly)|гро̀зния|гро̀зният|An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
 >|добъ̀р (good)|добрѝя|добрѝят|The ⟨ъ⟩ from the suffix ⟨ър⟩ is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
 >|жесто̀к (cruel)|жесто̀кия|жесто̀кият|An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
 >|жив (living)|жѝвия|жѝвият|An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
->|зрял (ripe)|зрѐлия|зрѐлият|The [variable ya](./Variable%20Ya%20(Bulgarian).md) is ⟨е⟩ instead of ⟨я⟩, since the next syllable contains ⟨и⟩. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.||
+>|зрял (ripe)|зрѐлия|зрѐлият|The [variable ya](./Yat%20Reflex%20(Bulgarian).md) is ⟨е⟩ instead of ⟨я⟩, since the next syllable contains ⟨и⟩. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.||
 >|ко̀зи (related to goats)|ко̀зия|ко̀зият|The [article](./Definite%20Article%20(Bulgarian).md) is attached directly, since there is only an [augmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives).|
->|ко̀нен (related to horses)|ко̀нния|ко̀нният|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) is used.|
+>|ко̀нен (related to horses)|ко̀нния|ко̀нният|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix *-ен* is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) is used.|
 >|лисѝчи (related to foxes)|лисѝчия|лисѝчият|The [article](./Definite%20Article%20(Bulgarian).md) is attached directly, since there is only an [augmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives).|
->|лу̀нен (lunar)|лу̀нния|лу̀нният|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) is used.|
->|ляв (left)|лѐвия|лѐвият|The [variable ya](./Variable%20Ya%20(Bulgarian).md) is ⟨е⟩ instead of ⟨я⟩, since the next syllable contains ⟨и⟩. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
+>|лу̀нен (lunar)|лу̀нния|лу̀нният|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix *-ен* is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) is used.|
+>|ляв (left)|лѐвия|лѐвият|The [variable ya](./Yat%20Reflex%20(Bulgarian).md) is ⟨е⟩ instead of ⟨я⟩, since the next syllable contains ⟨и⟩. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
 >|ма̀лък (small)|ма̀лкия|ма̀лкият|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
 >|мъ̀ртъв|мъ̀ртвия|мъ̀ртвият|The ⟨ъ⟩ from the suffix ⟨ъв⟩ is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
 >|о̀вчи (related to sheep)|о̀вчия|о̀вчият|The [article](./Definite%20Article%20(Bulgarian).md) is attached directly, since there is only an [augmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives).|
@@ -360,10 +360,10 @@ Adjectives use the following [articles](./Definite%20Article%20(Bulgarian).md) d
 >|стар (old)|ста̀рия|ста̀рият|An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
 >|стра̀шен (scary)|стра̀шния|стра̀шният|An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
 >|то̀пъл (warm)|то̀плия|то̀плият|The ⟨ъ⟩ from the suffix ⟨ъл⟩ is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
->|у̀трешен (morning)|у̀трешния|у̀трешният|The [unstressed](./Phonology.md#Stress) ⟨е⟩ in the suffix *-ен* is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
+>|у̀трешен (morning)|у̀трешния|у̀трешният|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix *-ен* is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
 >|хѝтър (cunning, clever)|хѝтрия|хѝтрият|The ⟨ъ⟩ from the suffix ⟨ър⟩ is dropped. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
 >|ху̀бав (beautiful)|ху̀бавия|ху̀бавият|An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
->|цял (whole)|цѐлия|цѐлият|The [variable ya](./Variable%20Ya%20(Bulgarian).md) is ⟨е⟩, since the next syllable contains ⟨и⟩. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
+>|цял (whole)|цѐлия|цѐлият|The [variable ya](./Yat%20Reflex%20(Bulgarian).md) is ⟨е⟩, since the next syllable contains ⟨и⟩. An ⟨и⟩ is attached before the [article](./Definite%20Article%20(Bulgarian).md) since the [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives) must be used.|
 >
 
 >[!EXAMPLE]- Example: Definite Forms of Feminine Singular Adjectives
@@ -499,7 +499,7 @@ Adjectives use the following [articles](./Definite%20Article%20(Bulgarian).md) d
 |:--:|:--:|:--:|:--:|
 |-я, -ят|-та|-то|-те|
 
-[Simple ordinal numerals](./Numerals%20(Bulgarian).md#Simple%20Ordinal%20Numerals) do not experience additional [stress](./Phonology.md#Stress) shifts when taking the [definite article](./Definite%20Article%20(Bulgarian).md). For the feminine singular, neuter singular and plural, the [definite article](./Definite%20Article%20(Bulgarian).md) is appended directly to the corresponding indefinite form. However, masculine singular [numerals](./Numerals%20(Bulgarian).md#Simple%20Ordinal%20Numerals) are more complicated:
+[Simple ordinal numerals](./Numerals%20(Bulgarian).md#Simple%20Ordinal%20Numerals) do not experience additional [stress](./Phonology%20(Bulgarian).md#Stress) shifts when taking the [definite article](./Definite%20Article%20(Bulgarian).md). For the feminine singular, neuter singular and plural, the [definite article](./Definite%20Article%20(Bulgarian).md) is appended directly to the corresponding indefinite form. However, masculine singular [numerals](./Numerals%20(Bulgarian).md#Simple%20Ordinal%20Numerals) are more complicated:
 
 - If the masculine singular does not end in *-и*, then an ⟨и⟩ is appended before attaching the [definite article](./Definite%20Article%20(Bulgarian).md).
 - If the masculine singular ends in the suffix *-ен*, then the ⟨е⟩ is dropped.

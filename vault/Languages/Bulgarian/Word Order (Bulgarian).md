@@ -4,5 +4,5 @@ tags:
     - languages
 ---
 
-# Phonology
+# Word Order (Bulgarian)
 
