@@ -1,11 +1,10 @@
 ---
-title: Adjectives
 tags:
     - spanish-language
     - languages
 ---
 
-# Adjectives
+# Adjectives (Spanish)
 
 [Adjectives](TODO) in [Spanish](./index.md) [inflect](TODO) for [gender](TODO) and [number](TODO). They retain the same [stress](./Orthography%20and%20Phonology.md#Stress) in all forms, which can lead to an [acute accent](./Orthography%20and%20Phonology.md#Diacritics) appearing in some forms but not in others. 
 
@@ -66,19 +65,19 @@ tags:
 </tbody>
 </table>
 
-Almost all [adjectives](./Adjectives.md) fall into one of the above categories, although some exceptions do exist.
+Almost all [adjectives](./Adjectives%20(Spanish).md) fall into one of the above categories, although some exceptions do exist.
 
 ## Number
 
-[Plural](#Number) of [adjectives](./Adjectives.md) is pretty much identical to the [plural](./Nouns.md#Number) formation of [nouns](./Nouns.md):
+[Plural](#Number) of [adjectives](./Adjectives%20(Spanish).md) is pretty much identical to the [plural](./Nouns%20(Spanish).md#Number) formation of [nouns](./Nouns%20(Spanish).md):
 
 |Category|Plural|Example|
 |:--|:--|:--|
-|[Adjectives](./Adjectives.md) ending in an [unstressed](./Orthography%20and%20Phonology.md#Stress) [vowel](./Orthography%20and%20Phonology.md#Vowels) or [diphthong](./Orthography%20and%20Phonology.md#Vowels) which does not end in *-y*|Add *-s*|rojo -> rojos, roja -> rojas (red); grande -> grandes|
-|[Adjectives](./Adjectives.md) ending in a [stressed](./Orthography%20and%20Phonology.md#Stress) *-í* or *-ú*|Add *-es*|israelí -> israelíes; hindú -> hindúes|
-|[Adjectives](./Adjectives.md) ending in a [stressed](./Orthography%20and%20Phonology.md#Stress) *-á*, *-ó* or *-é*|Add *-s*|calé -> calés (gypsy)|
-|[Adjectives](./Adjectives.md) ending in a [consonant](./Orthography%20and%20Phonology.md#Consonants)|Add *-es*|cortés -> corteses (polite); útil -> útiles (useful)|
-|[Adjectives](./Adjectives.md) ending in *-z*|Replace *-z* with *-ces*|feliz -> felices|
+|[Adjectives (Spanish)](./Adjectives%20(Spanish).md) ending in an [unstressed](./Orthography%20and%20Phonology.md#Stress) [vowel](./Orthography%20and%20Phonology.md#Vowels) or [diphthong](./Orthography%20and%20Phonology.md#Vowels) which does not end in *-y*|Add *-s*|rojo -> rojos, roja -> rojas (red); grande -> grandes|
+|[Adjectives (Spanish)](./Adjectives%20(Spanish).md) ending in a [stressed](./Orthography%20and%20Phonology.md#Stress) *-í* or *-ú*|Add *-es*|israelí -> israelíes; hindú -> hindúes|
+|[Adjectives (Spanish)](./Adjectives%20(Spanish).md) ending in a [stressed](./Orthography%20and%20Phonology.md#Stress) *-á*, *-ó* or *-é*|Add *-s*|calé -> calés (gypsy)|
+|[Adjectives (Spanish)](./Adjectives%20(Spanish).md) ending in a [consonant](./Orthography%20and%20Phonology.md#Consonants)|Add *-es*|cortés -> corteses (polite); útil -> útiles (useful)|
+|[Adjectives (Spanish)](./Adjectives%20(Spanish).md) ending in *-z*|Replace *-z* with *-ces*|feliz -> felices|
 
 ## Comparative
 
@@ -95,7 +94,7 @@ The [comparative](TODO) in [Spanish](./index.md) is built periphrastically using
 >menos interesante (less interesting)
 >
 
-A few [adjectives](./Adjectives.md) have special [comparative](#Comparative) forms and therefore do not use "más". These are the same both in the [masculine](#Gender) and [feminine](#Gender):
+A few [adjectives](./Adjectives%20(Spanish).md) have special [comparative](#Comparative) forms and therefore do not use "más". These are the same both in the [masculine](#Gender) and [feminine](#Gender):
 
 |Positive|Comparative|
 |:--:|:--:|
@@ -109,7 +108,7 @@ A few [adjectives](./Adjectives.md) have special [comparative](#Comparative) for
 >When "grande" and "pequeño" refer to size, then the "más" construction can also be used.
 >
 
-Comparisons of inequality are done using the construction [comparative](#Comparative) + "que" ("than"). Comparisons of equality are done using the construction "tan" + [positive](./Adjectives.md) + "como"
+Comparisons of inequality are done using the construction [comparative](#Comparative) + "que" ("than"). Comparisons of equality are done using the construction "tan" + [positive](./Adjectives%20(Spanish).md) + "como"
 
 >[!EXAMPLE]- Example: Comparisons
 >
@@ -124,7 +123,7 @@ Comparisons of inequality are done using the construction [comparative](#Compara
 
 There are two [superlatives](TODO) in [Spanish](./index.md).
 
-The **relative superlative** expresses the idea of the highest or lowest possible degree of a given quality within a given context. It is expressed using the [definite article](./Definiteness.md) and the [comparative](./Adjectives.md). The [preposition](./Prepositions.md) "de" can optionally be used to introduce the context of the [relative superlative](#Superlative).
+The **relative superlative** expresses the idea of the highest or lowest possible degree of a given quality within a given context. It is expressed using the [definite article](./Definite%20Article%20(Spanish).md) and the [comparative](./Adjectives%20(Spanish).md). The [preposition](./Prepositions.md) "de" can optionally be used to introduce the context of the [relative superlative](#Superlative).
 
 >[!EXAMPLE]- Example: Relative Superlative
 >
@@ -137,7 +136,7 @@ The **relative superlative** expresses the idea of the highest or lowest possibl
 >Es el más alto. (It is the tallest.)
 >
 
-The **absolute superlative** expresses the idea of a very great or extreme degree. It is built by adding the suffix *-ísimo/a/os/as* to the [positive](./Adjectives.md). If the [positive](./Adjectives.md) ends in a [vowel](./Orthography%20and%20Phonology.md#Vowel), then it is dropped before adding the suffix. If the letter before the suffix is "c", "g" or "z", then it changes to "qu", "qu" or "c", respectively, in order to retain the pronunciation.
+The **absolute superlative** expresses the idea of a very great or extreme degree. It is built by adding the suffix *-ísimo/a/os/as* to the [positive](./Adjectives%20(Spanish).md). If the [positive](./Adjectives%20(Spanish).md) ends in a [vowel](./Orthography%20and%20Phonology.md#Vowel), then it is dropped before adding the suffix. If the letter before the suffix is "c", "g" or "z", then it changes to "qu", "qu" or "c", respectively, in order to retain the pronunciation.
 
 >[!EXAMPLE]- Example: Absolute Superlative
 >

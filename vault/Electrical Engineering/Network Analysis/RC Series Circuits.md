@@ -97,7 +97,13 @@ We are interested in how $v_C(t)$ and $v_R(t)$ respond to various inputs $v(t) =
 
 ## General Input Response
 
-The governing equations for $v_C(t)$ and $v_R(t)$ are a [first-order](../../Mathematics/Analysis/Real%20Analysis/Differential%20Equations/Ordinary%20Differential%20Equations/Real%20Ordinary%20Differential%20Equations.md), [autonomous](../../Mathematics/Analysis/Real%20Analysis/Differential%20Equations/Ordinary%20Differential%20Equations/Autonomous%20Systems/Autonomous%20Systems.md) [linear](../../Mathematics/Analysis/Real%20Analysis/Differential%20Equations/Ordinary%20Differential%20Equations/Linear%20Ordinary%20Differential%20Equations.md) [ordinary differential equations](../../Mathematics/Analysis/Real%20Analysis/Differential%20Equations/Ordinary%20Differential%20Equations/Real%20Ordinary%20Differential%20Equations.md). However, on their own, they are actually insufficient for determining $v_C(t)$ and $v_R(t)$ in response to $v_{\text{in}}(t)$. To determine $v_C(t)$ or $v_R(t)$ for all $t$ we also need to know the value $v_C(t_{\text{initial}}) = V_{C, \text{initial}}$ or $v_R(t_{\text{initial}}) = V_{R, \text{initial}}$ at least at one time $t_{\text{initial}}$. Since the [series circuit](./One-Ports/One-Port%20Series%20Circuits.md) relates $v_C(t)$ and $v_R(t)$ by $v_C(t) + v_R(t) = v_{\text{in}}(t)$, we actually need just one of $v_R(t_{\text{initial}})$ or $v_C(t_{\text{initial}})$ and can then easily calculate the other. The convention is to always use $v_C(t_{\text{initial}})$ and occasionally use $V_{R, \text{initial}}$ as a shortcut for $v_{\text{in}}(t_{\text{initial}}) - v_C(t_{\text{initial}})$. 
+The governing equation for $v_C(t)$ is a [first-order linear ordinary differential equation](../../Mathematics/Analysis/Real%20Analysis/Differential%20Equations/Ordinary%20Differential%20Equations/First-Order%20Linear%20Ordinary%20Differential%20Equations.md):
+
+$$\frac{\mathrm{d}v_C}{\mathrm{d}t}(t) = -\frac{1}{RC} v_C(t) + \frac{1}{RC}v_{\text{in}}(t)$$
+
+On its own, it is insufficient to predict the evolution of an [RC series circuit](./RC%20Series%20Circuits.md). To do this, one also needs to know the [voltage](TODO) $V_{C, 0}$ across the [capacitor](./One-Ports/Strictly%20Linear%20Capacitive%20One-Ports.md) at some time $t_0$ in order to form an [initial value problem](../../Mathematics/Analysis/Real%20Analysis/Differential%20Equations/Ordinary%20Differential%20Equations/First-Order%20Linear%20Initial%20Value%20Problems.md):
+
+$$\frac{\mathrm{d}v_C}{\mathrm{d}t}(t) = -\frac{1}{RC} v_C(t) + \frac{1}{RC}v_{\text{in}}(t) \qquad v_C(t_0) = V_{C,0}$$
 
 >[!THEOREM] Theorem: General Input Response for $v_C(t)$
 >

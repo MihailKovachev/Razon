@@ -5,7 +5,7 @@ tags:
     - languages
 ---
 
-# Definitenes
+# Definite Article (Spanish)
 
 [Spanish](./index.md) uses an article to express definiteness.
 
@@ -33,4 +33,4 @@ tags:
 </tr>
 </table>
 
-The feminine definite article takes the form "el" only when it is immediately before a [noun](./Nouns.md) starting with "a" or "ha". 
+The feminine definite article takes the form "el" only when it is immediately before a [noun](./Nouns%20(Spanish).md) starting with "a" or "ha". 

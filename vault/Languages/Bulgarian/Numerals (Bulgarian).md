@@ -8,7 +8,7 @@ tags:
 
 ## Cardinal Numerals
 
-**Cardinal numerals** (**числителни бройни**) indicate a specific quantity. With the exception of "едѝн" (one) and "две" (two) as well as their derivatives, they do not decline for gender. Most do not decline for number either, but a few do.
+**Cardinal numerals** (**числителни бройни**) indicate a specific quantity. With the exception of *едѝн* (one) and *две* (two) as well as their derivatives, they do not decline for gender. Most do not decline for number either, but a few do.
 
 ### Simple Cardinal Numerals
 
@@ -98,15 +98,16 @@ When there are two forms, both are equivalent but the second one is consider mor
 
 >[!TIP] Tip: Pronunciation of the Tens
 >
->In casual speech, it is very common to not pronounce the final ⟨т⟩. This is also the case when they are in compound numerals.
+>In casual speech, it is very common to not pronounce the final *-т*. This is also the case when they are in compound numerals.
 >
 
 ### Compound Cardinal Numerals
 
-Compound cardinal numerals are formed by stringing together [simple cardinal numerals](#Simple%20Cardinal%20Numerals), starting with the largest and moving to the smallest. The parts are listed as separate words separated by a space. The last part is joined to the rest with the [conjunction](../../Mathematics/Algebra/Boolean%20Algebra/Conjunction.md) "и" to indicate the end of the compount. 
-- The [simple cardinal numerals](#Simple%20Cardinal%20Numerals) "един, -а, -о" and "два, -е" decline appropriately even as parts of compound numerals.
-- When the number of 1000s is greater than 1, then the form used is "хѝляди".
-- The [simple cardinal numerals](#Simple%20Cardinal%20Numerals) "милион", "милиарда", "трилион", etc. append ⟨а⟩ when their number is more than one. This is essentially their [count form](./Nouns%20(Bulgarian).md#Count%20Form) as masculine [nouns](./Nouns%20(Bulgarian).md) and reflects their origin as such in [Old Church Slavonic](../Old%20Church%20Slavonic/Old%20Church%20Slavonic.md). When their number is equal to 1, the [numeral](#Simple%20Cardinal%20Numerals) "един" may optionally precede them.
+Compound cardinal numerals are formed by stringing together [simple cardinal numerals](#Simple%20Cardinal%20Numerals), starting with the largest and moving to the smallest. The parts are listed as separate words separated by a space. The last part is joined to the rest with the [conjunction](../../Mathematics/Algebra/Boolean%20Algebra/Conjunction.md) *и* to indicate the end of the compount.
+
+- The [simple cardinal numerals](#Simple%20Cardinal%20Numerals) *един*, *-а*, *-о* and *два*, *-е* decline appropriately even as parts of compound numerals.
+- When the number of 1000s is greater than 1, then the form used is *хѝляди*.
+- The [simple cardinal numerals](#Simple%20Cardinal%20Numerals) *милион*, *милиард*, *трилион*, etc. append *-а* when their number is more than one. This is essentially their [count form](./Nouns%20(Bulgarian).md#Count%20Form) as masculine [nouns](./Nouns%20(Bulgarian).md) and reflects their origin as such in [Old Church Slavonic](../Old%20Church%20Slavonic/Old%20Church%20Slavonic.md). When their number is equal to 1, the [numeral](#Simple%20Cardinal%20Numerals) *един* may optionally precede them.
 
 >[!EXAMPLE]- Example: Formation of Compound Cardinal Numerals
 >
@@ -114,10 +115,10 @@ Compound cardinal numerals are formed by stringing together [simple cardinal num
 >|:--:|:--:|:--:|
 >|двадесет и пет|25||
 >|трийсет и един|31|Masculine form "един".|
->|петдесет и една|51|Feminine form "една".|
->|шейсет и едно|61|Neuter form "едно".|
+>|петдесет и една|51|Feminine form *една*.|
+>|шейсет и едно|61|Neuter form *едно*.|
 >|двеста и осемдесет|280||
->|хиляда петстотин двайсет и два|1522|Masculine form "два". The form "хиляда" is used since the number of 1000s is 1.|
+>|хиляда петстотин двайсет и два|1522|Masculine form *два*. The form *хиляда* is used since the number of 1000s is 1.|
 >|три хиляди осемдесет и две|3082|Feminine or neuter form "две". The form "хиляди" is used since the number of 1000s is 3 (greater than 1).|
 >|милион и двеста|1 000 200||
 >|един милион хиляда петстотин трийсет и 3|1 001 533||
@@ -185,8 +186,6 @@ Fractional numerals (**числѝтелни дро̀бни**) are used to expres
 |19|деветна̀десета, деветна̀йста|деветна̀десети, деветна̀йсти|
 |20|два̀десета, два̀йста|два̀десети, два̀йсти|
 |30|трѝдесета, трѝйста|трѝдесети, трѝйсти|
-
-
 
 ## Ordinal Numerals
 

@@ -10,13 +10,13 @@ tags:
 
 >[!DEFINITION] Definition: Laplace Transform (Complex-Valued Functions of a Real Variable)
 >
->Let $f: \mathcal{D}_f \subseteq \mathbb{R} \to \mathbb{C}$ be a [complex-valued function of a real variable](./Complex-Valued%20Function%20of%20a%20Real%20Variable.md) and let $\mathcal{D}_F \subseteq \mathbb{C}$ be the [set](../../../Set%20Theory/Sets.md) of all $s \in \mathbb{C}$ for which the following [integral](./Definite%20Integrals%20(Complex-Valued%20Functions%20of%20a%20Real%20Variable).md) of the product between $f$ and the [complex exponential function](../Complex%20Functions/Complex%20Exponential%20Function.md) exists:
+>Let $f: \mathcal{D}_f \subseteq \mathbb{R} \to \mathbb{C}$ be a [complex-valued function of a real variable](./Complex-Valued%20Function%20of%20a%20Real%20Variable.md).
 >
->$$\int_{\mathcal{D}_f} f(t) \mathrm{e}^{-st}\,\mathrm{d}t$$
->
->The **Laplace transform** of $f$ is the [complex function](../Complex%20Functions/Complex%20Functions.md) $F: \mathcal{D}_F \subseteq \mathbb{C} \to \mathbb{C}$ defined as follows:
+>The **Laplace transform** of $f$ is the [complex function](../Complex%20Functions/Complex%20Functions.md) $F: \mathcal{D}_F \subseteq \mathbb{C} \to \mathbb{C}$ defined as
 >
 >$$F(s) \overset{\text{def}}{=} \int_{\mathcal{D}_f} f(t) \mathrm{e}^{-st}\,\mathrm{d}t$$
+>
+>for all $s \in \mathbb{C}$ for which the above [Lebesgue integral](./Lebesgue%20Integrals%20(Complex-Valued%20Functions%20of%20a%20Real%20Variable).md) exists.
 >
 >>[!NOTATION]
 >>
