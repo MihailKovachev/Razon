@@ -1347,6 +1347,68 @@ Each [conjugation class](#Present%20Forms) is divided into **subclasses** (**р�
 
 ### First-Conjugation Aorist Forms
 
+The first subclass of [conjugation I](#Present%20Tense) has an [aorist stem](#Aorist%20Forms) derived from the [present stem](#Present%20Tense) by replacing the thematic vowel ⟨е⟩ with the aorist thematic vowel ⟨о⟩ / ⟨е⟩. Specifically, the aorist thematic vowel remains ⟨е⟩ in the second- and third-person singular and is ⟨о⟩ in the rest of the [aorist forms](#Aorist%20Forms).
+
+- These are typically [verbs](./Verbs%20(Bulgarian).md) whose [present](#Present%20Tense) first-person singular ends in *-да*, *-та*, *-за*, *-са* or *-ка* with an etymologically non-palatalized ⟨д⟩, ⟨т⟩, ⟨з⟩, ⟨с⟩, ⟨к⟩.
+- In [verbs](./Verbs%20(Bulgarian).md) with a [present](#Present%20Tense) first-person singular ending in *-ка*, the ⟨к⟩ alternates with ⟨ч⟩ before the aorist thematic vowel ⟨е⟩.
+- If the [stress](./Phonology%20(Bulgarian).md#Stress) in the [present](#Present%20Tense) first-person singular falls on the ending, then it shifts one syllable back onto the [aorist stem](#Aorist%20Forms).
+- One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md).
+
+>[!EXAMPLE]- Example: Subclass 1 of Conjugation Class I
+>
+><table>
+><caption>бода̀, бодѐш, бо̀дох ('to sting', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">бо̀дох</td>
+><td style="text-align:center;vertical-align:middle">бо̀дохме</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>The stress shifts to the aorist stem since it falls on the ending in the present first-person singular.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">бо̀де</td>
+><td style="text-align:center;vertical-align:middle">бо̀дохте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">бо̀де</td>
+><td style="text-align:center;vertical-align:middle">бо̀доха</td>
+></tr>
+></table>
+>
+><table>
+><caption>съблека̀, съблечѐш, събля̀кох, съблѐче ('to take sth off', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">събля̀кох</td>
+><td style="text-align:center;vertical-align:middle">събля̀кохме</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>The stress shifts to the aorist stem since it falls on the ending in the present first-person singular. The variable ya is ⟨е⟩ in the second- and third-person singular since the next syllable contains ⟨е⟩. The ⟨к⟩ alternates with ⟨ч⟩ before the aorist thematic vowel ⟨е⟩.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">съблѐче</td>
+><td style="text-align:center;vertical-align:middle">събля̀кохте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">съблѐче</td>
+><td style="text-align:center;vertical-align:middle">събля̀коха</td>
+></tr>
+></table>
+>
+
 ### Second-Conjugation Aorist Forms
 
 ### Third-Conjugation Aorist Forms

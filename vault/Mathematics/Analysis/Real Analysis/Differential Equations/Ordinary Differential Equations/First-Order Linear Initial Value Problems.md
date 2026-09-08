@@ -122,7 +122,7 @@ flowchart TD
 >
 >$$\dot{x} + \alpha x = A \cos(\omega t + \varphi) \qquad x(t_0) = x_0$$
 >
->has exactly one [solution](./Initial%20Value%20Problems.md) on $\mathcal{I}$ whose [domain](../../../Functions/Functions.md) is $\mathcal{I}$.
+>has exactly one [solution](./Initial%20Value%20Problems.md) of the form $x: \mathcal{I} \to \mathbb{R}$.
 >
 >If $\alpha = 0$, then this [solution](./Initial%20Value%20Problems.md) is the following:
 >
@@ -130,7 +130,7 @@ flowchart TD
 >
 >If $\alpha \ne 0$, then this [solution](./Initial%20Value%20Problems.md) is
 >
->$$x(t) = e^{-\alpha(t - t_0)} \left( x_0 - \frac{A}{\sqrt{\alpha^2 + \omega^2}} \cos(\omega t_0 + \varphi - \delta) \right) + \frac{A}{\sqrt{\alpha^2 + \omega^2}} \cos(\omega t + \varphi - \delta),$$
+>$$x(t) = \left( x_0 - \frac{A}{\sqrt{\alpha^2 + \omega^2}} \cos(\omega t_0 + \varphi - \delta) \right) \mathrm{e}^{-\alpha(t - t_0)} + \frac{A}{\sqrt{\alpha^2 + \omega^2}} \cos(\omega t + \varphi - \delta),$$
 >
 >where $\delta$ is given by the [real arctangent function](../../Real%20Functions/Real%20Trigonometric%20Functions/Real%20Arctangent%20Function.md) as follows:
 >
@@ -142,10 +142,14 @@ flowchart TD
 >>
 >
 
-We explore only the [solutions](./Initial%20Value%20Problems.md) on $\mathbb{R}$, since [solutions](./Initial%20Value%20Problems.md) on other [intervals](../../../../Set%20Theory/Orderings/Interval.md) are just [restrictions](TODO) of the former.
+We explore only the [solutions](./Initial%20Value%20Problems.md) on $\mathbb{R}$, since [solutions](./Initial%20Value%20Problems.md) on other [intervals](../../../../Set%20Theory/Orderings/Interval.md) are just [restrictions](../../../Functions/Restriction%20(Functions).md) of the former.
 
 For $\alpha = 0$, the [solution](./Initial%20Value%20Problems.md) is a phase-shifted, scaled and offset version of the [input](#Constant%20Coefficients). Specifically, the phase is shifted by $-\frac{\pi}{2}$ radians, the amplitude is scaled by a factor of $\frac{1}{\omega}$ and the wave itself is oscillates along the horizontal line $x = x_0  - \frac{A}{\omega}\sin(\omega t_0 + \varphi)$. 
 
 TODO add diagram
 
-The scaling by $\omega^{-1}$ means the frequency $\omega$ has either a supressing or an amplifying effect on the amplitude of the oscillations 
+The scaling by $\omega^{-1}$ means the frequency $\omega$ has either a supressing or an amplifying effect on the amplitude of the oscillations.
+
+For $\alpha \neq 0$, the [solution](./Initial%20Value%20Problems.md) is the sum of an exponential term, known as the **transient response**, and a sinusoidal term, known as the **steady-state response**:
+
+$$x(t) = \underset{\text{Transient Response } x_{\text{transient}}(t)}{\underbrace{\left( x_0 - \frac{A}{\sqrt{\alpha^2 + \omega^2}} \cos(\omega t_0 + \varphi - \delta) \right) \mathrm{e}^{-\alpha(t - t_0)}}} + \underset{\text{Steady-State Response } x_{\text{steady-state}}(t)}{\underbrace{\frac{A}{\sqrt{\alpha^2 + \omega^2}} \cos(\omega t + \varphi - \delta)}}$$
