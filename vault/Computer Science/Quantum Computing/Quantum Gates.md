@@ -1,5 +1,4 @@
 ---
-title: Quantum Gates
 tags:
     - quantum-computing
     - computer-science

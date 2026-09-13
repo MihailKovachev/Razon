@@ -1,5 +1,4 @@
 ---
-title: Quantum Information
 tags:
   - quantum-computing
   - computer-science
@@ -9,7 +8,7 @@ tags:
 
 ## Qubits
 
-The fundamental unit of information for classical computers is the bit, which can be one of two numbers - zero or one. In contrast, the fundamental unit of information for [quantum computers](../../index.md) are [complex vectors](../../Mathematics/Algebra/Linear%20Algebra/Complex%20Vectors/Complex%20Vectors.md).
+The fundamental unit of information for classical computers is the bit, which can be one of two numbers - zero or one. In contrast, the fundamental unit of information for [quantum computers](../../Music/index.md) are [complex vectors](../../Mathematics/Algebra/Linear%20Algebra/Complex%20Vectors/Complex%20Vectors.md).
 
 >[!DEFINITION] Definition: Qubit
 >

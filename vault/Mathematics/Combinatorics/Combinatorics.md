@@ -1,5 +1,4 @@
 ---
-title: Combinatorics
 tags:
     - combinatorics
     - mathematics

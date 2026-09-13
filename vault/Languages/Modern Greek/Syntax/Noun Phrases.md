@@ -8,15 +8,15 @@ tags:
 # Introduction
 
 A [[TODO|noun phrase]] comprises a **nucleus** and optional **modifiers**. The nucleus is one of the following:
-- a [[../Nouns|noun]];
-- a [[../Pronouns|pronoun]], except for a [[../Pronouns#Personal Pronouns|weak personal pronoun]]
+- a [noun](../Nouns.md);
+- a [pronoun](../Pronouns.md), except for a [weak personal pronoun](../Pronouns.md#Personal%20Pronouns)
 - another word being treated as a noun.
 
 # Articles
 
-Similarly to the [[../../English/index|English]] articles "the" and "a(n)", [[../index|Modern Greek]] has a [[../Articles|definite article]] and an [[../Articles|indefinite article]].
+Similarly to the [English](../../English/English.md) articles "the" and "a(n)", [Modern Greek](../index.md) has a [definite article](../Articles.md) and an [indefinite article](../Articles.md).
 
-These [[../Articles|articles]] must agree with  the head of the noun phrase in [[TODO|gender]], [[TODO|case]] and [[TODO|number]].
+These [articles](../Articles.md) must agree with  the head of the noun phrase in [[TODO|gender]], [[TODO|case]] and [[TODO|number]].
 
 >[!EXAMPLE]- Example: Article Agreement
 >
@@ -29,7 +29,7 @@ These [[../Articles|articles]] must agree with  the head of the noun phrase in [
 >*oi* σκύλοι (masc. nom. pl.) *ενός* γείτονα (masc. gen. sg.) - the dogs of a neighbor
 >
 
-Both [[../Articles|articles]] always precede the head of the noun phrase. When there are adjectives before the head, the articles also precede them. Articles are generally not used with [[TODO|determiners]] but there is one major exception. The [[../Articles|definite article]] is obligatory when a [[TODO|demonstrative determiner]] (αυτός, εκείνος, etc.) or the [[TODO|determiner]] όλος is modifying the head of the noun phrase and is placed *after* the [[TODO|determiner]]
+Both [articles](../Articles.md) always precede the head of the noun phrase. When there are adjectives before the head, the articles also precede them. Articles are generally not used with [[TODO|determiners]] but there is one major exception. The [definite article](../Articles.md) is obligatory when a [[TODO|demonstrative determiner]] (αυτός, εκείνος, etc.) or the [[TODO|determiner]] όλος is modifying the head of the noun phrase and is placed *after* the [[TODO|determiner]]
 
 >[!EXAMPLE]- Example: Word order with articles
 >
@@ -52,9 +52,9 @@ Both [[../Articles|articles]] always precede the head of the noun phrase. When t
 
 ## The Definite Article
 
-Noun phrases which include the [[../Articles|definite article]] denote a specific items which have
+Noun phrases which include the [definite article](../Articles.md) denote a specific items which have
 already been mentioned, or are present before the participants in the conversation, or are
-assumed by the speaker to be easily identifiable in some other way. Here is a list of situation when the [[../Articles|definite article]] is used:
+assumed by the speaker to be easily identifiable in some other way. Here is a list of situation when the [definite article](../Articles.md) is used:
 - With proper names (names of people and places), heavenly bodies, parts of the day, days of the week, months, seasons and festivals, when referring to a known, specific thing.
 
 >[!EXAMPLE]- Example

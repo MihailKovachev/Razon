@@ -5,7 +5,7 @@ tags:
 ---
 
 
-# Introduction
+# Cryptography
 
 Cryptography is the study and application of techniques for secure communication and it is concerned with the confidentiality of data. Suppose that Alice wants to send Bob a secret message, but that there is also a malicious person Eve who also wants to read the message. The problem of how Alice can send the message to Bob without Eve finding out what its contents are lies at the core of all cryptography.
 

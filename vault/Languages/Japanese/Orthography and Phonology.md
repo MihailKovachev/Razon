@@ -7,13 +7,13 @@ tags:
 
 # Orthography
 
-The [[index|Japanese]] language makes use of three different scripts - two [[Writing Systems#Syllabaries|syllabaries]] and one [[Writing Systems#TODO|logographic]] script. The syllabaries, however, do not represent individual syllables. Instead, each character in them represents a single [[Orthography and Phonology#Moras|mora]].
+The [Japanese](./Japanese.md) language makes use of three different scripts - two [syllabaries](../../Linguistics/Writing%20Systems.md#Syllabaries) and one [logographic](../../Linguistics/Writing%20Systems.md#TODO) script. The syllabaries, however, do not represent individual syllables. Instead, each character in them represents a single [mora](#Moras).
 
 All three scripts are used simultaneously when writing but they usually serve different purposes. Japanase may be written either horizontally (left-to-right and top-to-bottom) or vertically (top-to-bottom and right-to-left).
 
 ## Kana
 
-**Kana** is the collective name used for the two [[Writing Systems#Syllabaries|syllabaries]] used in the [[index|Japanese]] writing system - **hiragana** and **katakana**. Each symbol in these syllabaries representes a single [[Orthography and Phonology#Moras|mora]] and both syllabaries represent the same set of sounds. However, they serve different purposes. Below are tables of both hiragana and katakana symbols, written together with their pronunciation and romanization.
+**Kana** is the collective name used for the two [syllabaries](../../Linguistics/Writing%20Systems.md#Syllabaries) used in the [Japanese](./Japanese.md) writing system - **hiragana** and **katakana**. Each symbol in these syllabaries representes a single [mora](#Moras) and both syllabaries represent the same set of sounds. However, they serve different purposes. Below are tables of both hiragana and katakana symbols, written together with their pronunciation and romanization.
 
 <table>
 <caption>Hiragana</caption>
@@ -283,7 +283,7 @@ All three scripts are used simultaneously when writing but they usually serve di
 
 Voiced kana are obtained by adding the diacritic ゛(濁点(だくてん, dakuten)) to the respective voiceless kana.
 
-Additionally, Smaller-sized versions of や, ゆ and よ for hiragana and ヤ, ユ and ヨ for katakana can be used in combination with other hiragana / katakana to form digraphs representing palatalized sounds. Each such digraph still corresponds to exactly one [[Orthography and Phonology#Moras|mora]].
+Additionally, Smaller-sized versions of や, ゆ and よ for hiragana and ヤ, ユ and ヨ for katakana can be used in combination with other hiragana / katakana to form digraphs representing palatalized sounds. Each such digraph still corresponds to exactly one [mora](#Moras).
 
 <table>
 <caption>Hiragana Digraphs (拗音 (ようおん))</caption>
@@ -455,7 +455,7 @@ Katakana is primarily used when writing words of foreign origin and onomatopoeia
 
 ### Long Vowels
 
-Writing long vowels in [[Orthography and Phonology#Kana|hiragana]] is done in the following ways:
+Writing long vowels in [hiragana](#Kana) is done in the following ways:
 
 <table>
 <caption>Representing Long Vowels in Hiragana</caption>
@@ -500,7 +500,7 @@ Writing long vowels in [[Orthography and Phonology#Kana|hiragana]] is done in th
 </tbody>
 </table>
 
-Writing long vowels in [[Orthography and Phonology#Kana|katakana]] depends on the word's origin. In loanwords, the symbol "ー" is used to represent any long vowel depending on the katakana symbol which precedes it. When native or Sino-Japanese words are written in katakana, the same conventions are used as with hiragana.
+Writing long vowels in [katakana](#Kana) depends on the word's origin. In loanwords, the symbol "ー" is used to represent any long vowel depending on the katakana symbol which precedes it. When native or Sino-Japanese words are written in katakana, the same conventions are used as with hiragana.
 
 >[!EXAMPLE]- Example: Long Vowels in Katakana
 >
@@ -526,7 +526,7 @@ Usually, only unvoiced consonants can be geminated. However, the consonants /n/ 
 
 ## Kanji 
 
-**Kanji** ((漢字(かんじ))) are the symbols which comprise the [[Writing Systems#Logographies|logographic]] script used by the Japanese writing system. Historically, these symbols were adapted from the [[TODO|Chinese]] script and, in contrast to [[Orthography and Phonology#Kana|kana]], they mostly represent meaning instead of sound. 
+**Kanji** ((漢字(かんじ))) are the symbols which comprise the [logographic](../../Linguistics/Writing%20Systems.md#Logographies) script used by the Japanese writing system. Historically, these symbols were adapted from the [[TODO|Chinese]] script and, in contrast to [kana](#Kana), they mostly represent meaning instead of sound. 
 
 Each kanji has a correct way of writing (stroke order) and memorizing it is crucial to being able to read and write handwritten kanji, although it is not necessary if you only plan on reading printed Japanese.
 
@@ -558,13 +558,13 @@ Kanji are composed of smaller graphical elements known as **radicals**. Some rad
 
 ### Furigana
 
-Kanji may sometimes be written alongside either [[Orthography and Phonology#Kana|hiragana]] or [[Orthography and Phonology#Kana|katakana]] to indicate their reading such as <ruby>漢<rt>かん</rt>字<rt>じ</rt></ruby>. This is usually done in educational contexts or when the reading of a kanji is ambiguous. Kana written in this way is known as **furigana**.
+Kanji may sometimes be written alongside either [hiragana](#Kana) or [katakana](#Kana) to indicate their reading such as <ruby>漢<rt>かん</rt>字<rt>じ</rt></ruby>. This is usually done in educational contexts or when the reading of a kanji is ambiguous. Kana written in this way is known as **furigana**.
 
 # Phonology
 
 ## Vowels
 
-[[index|Japanese]] has five [[TODO|vowel]] [[TODO|phonemes]].
+[Japanese](./Japanese.md) has five [[TODO|vowel]] [[TODO|phonemes]].
 
 <table>
 <caption>Japanese Vowel Phonemes</caption>
@@ -607,11 +607,11 @@ The vowels /i/ and /ɯ/ are often devoiced when they are between or after the co
 
 ## Moras
 
-The [[TODO|phonological]] system of [[index|Japanese]] is based on **moras**, not [[TODO|syllables]]. One can think of spoken Japanese as being accompanied by a regular pulse with a constant tempo. Each beat corresponds to exactly one mora. Unlike syllables, which can be either short or long, moras always have the same length. This means that a single syllable can be comprised of one or more moras.
+The [[TODO|phonological]] system of [Japanese](./Japanese.md) is based on **moras**, not [[TODO|syllables]]. One can think of spoken Japanese as being accompanied by a regular pulse with a constant tempo. Each beat corresponds to exactly one mora. Unlike syllables, which can be either short or long, moras always have the same length. This means that a single syllable can be comprised of one or more moras.
 
 ## Pitch Accent 
 
-English has a stress accent system in which each word has one syllable which is emphasized more than the rest by slightly increasing its length and volume. By contrast, [[index|Japanese]] has a pitch accent ((高低アクセント, kōtei akusento)) system. A [[Orthography and Phonology#Moras|mora]] is accented by pronouncing it with a high pitch followed by a drop in pitch on the next mora in the word. This drop in pitch is known as a **downstep**.
+English has a stress accent system in which each word has one syllable which is emphasized more than the rest by slightly increasing its length and volume. By contrast, [Japanese](./Japanese.md) has a pitch accent ((高低アクセント, kōtei akusento)) system. A [mora](#Moras) is accented by pronouncing it with a high pitch followed by a drop in pitch on the next mora in the word. This drop in pitch is known as a **downstep**.
 
 Each word has either no moras accented (unaccented words) or exactly one mora accented (accented words), which means that once tone falls from high to low, it cannot go back to high within the same word.
 
