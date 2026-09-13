@@ -254,7 +254,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">еба̀</td>
 ><td style="text-align:center;vertical-align:middle">ебѐм</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -332,7 +332,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">мета̀</td>
 ><td style="text-align:center;vertical-align:middle">метѐм</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -540,7 +540,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">сера̀</td>
 ><td style="text-align:center;vertical-align:middle">серѐм</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -592,7 +592,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">умра̀</td>
 ><td style="text-align:center;vertical-align:middle">умрѐм</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -618,7 +618,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">чета̀</td>
 ><td style="text-align:center;vertical-align:middle">четѐм</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -644,7 +644,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">сѐдна</td>
 ><td style="text-align:center;vertical-align:middle">сѐднем</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -711,7 +711,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ></table>
 >
 
-### Second-Conjugation Verbs
+### Second-Conjugation Present Forms
 
 [Verbs](./Verbs%20(Bulgarian).md) of the second conjugation take the following endings in the present forms:
 
@@ -756,7 +756,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">вървя̀</td>
 ><td style="text-align:center;vertical-align:middle">вървѝм</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -782,7 +782,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">въ̀рша</td>
 ><td style="text-align:center;vertical-align:middle">въ̀ршим</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -834,7 +834,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">мо̀ля</td>
 ><td style="text-align:center;vertical-align:middle">мо̀лим</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -886,7 +886,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">но̀ся</td>
 ><td style="text-align:center;vertical-align:middle">но̀сим</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -938,7 +938,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">свъ̀рша</td>
 ><td style="text-align:center;vertical-align:middle">свъ̀ршим</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -964,7 +964,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">седя̀</td>
 ><td style="text-align:center;vertical-align:middle">седѝм</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -990,7 +990,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">стоя̀</td>
 ><td style="text-align:center;vertical-align:middle">стоѝм</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -1042,7 +1042,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">пърдя̀</td>
 ><td style="text-align:center;vertical-align:middle">пърдѝм</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -1068,7 +1068,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">шумя̀</td>
 ><td style="text-align:center;vertical-align:middle">шумѝм</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -1096,7 +1096,7 @@ The [verb](./Verbs%20(Bulgarian).md) *съм* ('to be') is the only one with com
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">First Person</th>
-<td style="text-align:center;vertical-align:middle"><i>-м</i>,</td>
+<td style="text-align:center;vertical-align:middle"><i>-м</i></td>
 <td style="text-align:center;vertical-align:middle"><i>-ме</i></td>
 </tr>
 <tr>
@@ -1127,7 +1127,7 @@ An interesting phenomenon is that the present forms third-conjugation [verbs](./
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">а̀кам</td>
 ><td style="text-align:center;vertical-align:middle">а̀каме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -1153,7 +1153,7 @@ An interesting phenomenon is that the present forms third-conjugation [verbs](./
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">вѝждам</td>
 ><td style="text-align:center;vertical-align:middle">вѝждаме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -1179,7 +1179,7 @@ An interesting phenomenon is that the present forms third-conjugation [verbs](./
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">изпѝтам</td>
 ><td style="text-align:center;vertical-align:middle">изпѝтаме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -1205,7 +1205,7 @@ An interesting phenomenon is that the present forms third-conjugation [verbs](./
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">изпѝтвам</td>
 ><td style="text-align:center;vertical-align:middle">изпѝтваме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -1231,7 +1231,7 @@ An interesting phenomenon is that the present forms third-conjugation [verbs](./
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">отѝвам</td>
 ><td style="text-align:center;vertical-align:middle">отѝваме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -1257,7 +1257,7 @@ An interesting phenomenon is that the present forms third-conjugation [verbs](./
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">празну̀вам</td>
 ><td style="text-align:center;vertical-align:middle">празну̀ваме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -1283,7 +1283,7 @@ An interesting phenomenon is that the present forms third-conjugation [verbs](./
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">премѐствам</td>
 ><td style="text-align:center;vertical-align:middle">премѐстваме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -1309,7 +1309,7 @@ An interesting phenomenon is that the present forms third-conjugation [verbs](./
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">у̀дрям</td>
 ><td style="text-align:center;vertical-align:middle">у̀дряме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -1384,12 +1384,14 @@ Each [conjugation class](#Present%20Forms) is divided into **subclasses** (**р�
 
 ### First-Conjugation Aorist Forms
 
-The first subclass of [conjugation I](#Present%20Tense) contains the [verbs](../Serbo-Croatian/Verbs.md) whose [aorist stem](#Aorist%20Forms) is derived from the [present stem](#Present%20Forms) by replacing the present thematic vowel ⟨е⟩ with the aorist thematic vowel ⟨о⟩ / ⟨е⟩. Specifically, the aorist thematic vowel remains ⟨е⟩ in the second- and third-person singular and is ⟨о⟩ in the rest of the [aorist forms](#Aorist%20Forms). 
+[Verbs](./Verbs%20(Bulgarian).md) of the first [conjugation](#Present%20Forms) are divided into seven subclasses. Some of these subclases form the [aorist stem](#Aorist%20Forms) in a highly regular way but some are more invovled. 
+
+The first subclass of [conjugation I](#Present%20Forms) contains the [verbs](../Serbo-Croatian/Verbs.md) whose [aorist stem](#Aorist%20Forms) is derived from the [present stem](#Present%20Forms) by replacing the present thematic vowel ⟨е⟩ with the aorist thematic vowel ⟨о⟩ / ⟨е⟩. Specifically, the aorist thematic vowel remains ⟨е⟩ in the second- and third-person singular and is ⟨о⟩ in the rest of the [aorist forms](#Aorist%20Forms). 
 
 A few things to note:
 
-- These are typically [verbs](./Verbs%20(Bulgarian).md) whose [present](#Present%20Tense) first-person singular ends in *-да*, *-та*, *-за*, *-са* or *-ка* with an etymologically non-palatalized ⟨д⟩, ⟨т⟩, ⟨з⟩, ⟨с⟩, ⟨к⟩.
-- In [verbs](./Verbs%20(Bulgarian).md) with a [present](#Present%20Tense) first-person singular ending in *-ка*, the ⟨к⟩ alternates with ⟨ч⟩ before the aorist thematic vowel ⟨е⟩.
+- These are typically [verbs](./Verbs%20(Bulgarian).md) whose [present](#Present%20Forms) first-person singular ends in *-да*, *-та*, *-за*, *-са* or *-ка* with an etymologically non-palatalized ⟨д⟩, ⟨т⟩, ⟨з⟩, ⟨с⟩, ⟨к⟩.
+- In [verbs](./Verbs%20(Bulgarian).md) with a [present](#Present%20Forms) first-person singular ending in *-ка*, the ⟨к⟩ alternates with ⟨ч⟩ before the aorist thematic vowel ⟨е⟩.
 - If the [present stem](#Present%20Forms) is [stressed](./Phonology%20(Bulgarian).md#Stress) on the present thematic vowel, then the [aorist stem](#Aorist%20Forms) is [stressed](./Phonology%20(Bulgarian).md#Stress) on the syllable before the aorist thematic vowel.
 - If the [present stem](#Present%20Forms) is not [stressed](./Phonology%20(Bulgarian).md#Stress) on the present thematic vowel, then the [aorist stem](#Aorist%20Forms) is [stressed](./Phonology%20(Bulgarian).md#Stress) on the same place as the [present stem](#Present%20Forms).
 - One should beware changes in [variable ya](./Yat%20Reflex%20(Bulgarian).md).
@@ -1969,16 +1971,12 @@ A few things to note:
 ></table>
 >
 
-The second and third subclasses of [conjugation I](#Present%20Tense) contain the [verbs](./Verbs%20(Bulgarian).md) which satisfy the following conditions simultaneously:
+The second and third subclasses of [conjugation I](#Present%20Forms) contain the [verbs](./Verbs%20(Bulgarian).md) which satisfy the following conditions simultaneously:
 
-- The [present stem](#Present%20Tense) has an etymologycally non-[palatalized](TODO), non-[fricative](TODO) consonant before the present thematic vowel ⟨е⟩ and this consonant does not undergo alternations when forming the [aorist stem](#Aorist%20Forms).
+- The [present stem](#Present%20Forms) has an etymologycally non-[palatalized](TODO), non-[fricative](TODO) consonant before the present thematic vowel ⟨е⟩ and this consonant does not undergo alternations when forming the [aorist stem](#Aorist%20Forms).
 - The [aorist stem](#Aorist%20Forms) is derived from the [present stem](#Present%20Forms) by replacing the present thematic vowel ⟨е⟩ with the aorist thematic vowel ⟨а⟩.
 
-A few things to note:
-
-- [Verbs](./Verbs%20(Bulgarian).md) with a [present stem](#Present%20Forms) ending in *-ерѐ* drop the ⟨е⟩ before the ⟨р⟩ in the [aorist stem](#Aorist%20Forms).
-- The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) remains in the same place as the [stress](./Phonology%20(Bulgarian).md#Stress) of the [present stem](#Present%20Forms).
-- [Verbs](./Verbs%20(Bulgarian).md) without a prefix as well as all [imperfective](#Aspect) [verbs](./Verbs%20(Bulgarian).md) with a prefix are allowed to shift the [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) to the aorist thematic vowel. Both variations are equivalent but the latter forms are slowly being phased out.
+The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) remains in the same place as the [stress](./Phonology%20(Bulgarian).md#Stress) of the [present stem](#Present%20Forms). For [verbs](./Verbs%20(Bulgarian).md) without a prefix as well as for [imperfective](#Aspect) [verbs](./Verbs%20(Bulgarian).md) with a prefix, if the [stress](./Phonology%20(Bulgarian).md#md#Stress) of the [present stem](#Present%20Forms) falls on the syllable directly before the present thematic vowel, then the [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) is allowed to shift to the aorist thematic vowel. [Verbs](./Verbs%20(Bulgarian).md) with a [present stem](#Present%20Forms) ending in *-ерѐ* drop the ⟨е⟩ before the ⟨р⟩ in the [aorist stem](#Aorist%20Forms).
 
 >[!INFO] Info: Subclass 2 vs Subclass 3
 >
@@ -1999,7 +1997,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">а̀хнах, ахна̀х</td>
 ><td style="text-align:center;vertical-align:middle">а̀хнахме, ахна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2025,7 +2023,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">брах</td>
 ><td style="text-align:center;vertical-align:middle">бра̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The ⟨е⟩ before the ⟨р⟩ is dropped in the aorist stem. The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>The ⟨е⟩ before the ⟨р⟩ is dropped in the aorist stem.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2051,7 +2049,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">блѐснах, блесна̀х</td>
 ><td style="text-align:center;vertical-align:middle">блѐснахме, блесна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2077,7 +2075,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">блѝзнах, близна̀х</td>
 ><td style="text-align:center;vertical-align:middle">блѝзнахме, близна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2103,7 +2101,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">бо̀днах, бодна̀х</td>
 ><td style="text-align:center;vertical-align:middle">бо̀днахме, бодна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2129,7 +2127,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">бръ̀кнах, бръкна̀х</td>
 ><td style="text-align:center;vertical-align:middle">бръ̀кнахме, бръкна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2155,7 +2153,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">бръ̀снах, бръсна̀х</td>
 ><td style="text-align:center;vertical-align:middle">бръ̀снахме, бръсна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2181,7 +2179,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">бу̀тнах, бутна̀х</td>
 ><td style="text-align:center;vertical-align:middle">бу̀тнахме, бутна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2207,7 +2205,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">вдѝгнах, вдигна̀х</td>
 ><td style="text-align:center;vertical-align:middle">вдѝгнахме, вдигна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2259,7 +2257,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">грѐйнах, грейна̀х</td>
 ><td style="text-align:center;vertical-align:middle">грѐйнахме, грейна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2285,7 +2283,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">драх</td>
 ><td style="text-align:center;vertical-align:middle">дра̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The ⟨е⟩ before the ⟨р⟩ is dropped in the aorist stem. The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>The ⟨е⟩ before the ⟨р⟩ is dropped in the aorist stem.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2311,7 +2309,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">дря̀мах, дрема̀х</td>
 ><td style="text-align:center;vertical-align:middle">дря̀махме, дрема̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel. The shift in stress triggers changes in variable ya. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel. The shift in stress triggers changes in variable ya. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2337,7 +2335,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ду̀хнах, духна̀х</td>
 ><td style="text-align:center;vertical-align:middle">ду̀хнахме, духна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2363,7 +2361,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">еба̀х</td>
 ><td style="text-align:center;vertical-align:middle">еба̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2389,7 +2387,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">жѝлнах, жилна̀х</td>
 ><td style="text-align:center;vertical-align:middle">жѝлнахме, жилна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2415,7 +2413,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">забя̀гнах</td>
 ><td style="text-align:center;vertical-align:middle">забя̀гнахме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb is perfective with a prefix, the stress of the aorist stem remains in the same place as the stress of the present stem.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2441,7 +2439,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">звъ̀ннах, звънна̀х</td>
 ><td style="text-align:center;vertical-align:middle">звъ̀ннахме, звънна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2467,7 +2465,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">зова̀х</td>
 ><td style="text-align:center;vertical-align:middle">зова̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2493,7 +2491,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ка̀пнах, капна̀х</td>
 ><td style="text-align:center;vertical-align:middle">ка̀пнахме, капна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2519,7 +2517,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ка̀пах, капа̀х</td>
 ><td style="text-align:center;vertical-align:middle">ка̀пахме, капа̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2545,7 +2543,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">клю̀мна, клюмна̀х</td>
 ><td style="text-align:center;vertical-align:middle">клю̀мнахме, клюмна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2571,7 +2569,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">кова̀х</td>
 ><td style="text-align:center;vertical-align:middle">кова̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2597,7 +2595,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">кълва̀х</td>
 ><td style="text-align:center;vertical-align:middle">кълва̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2623,7 +2621,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">къ̀пах, къпа̀х</td>
 ><td style="text-align:center;vertical-align:middle">къ̀пахме, къпа̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2649,7 +2647,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">лѐгнах, легна̀х</td>
 ><td style="text-align:center;vertical-align:middle">лѐгнахме, легна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2675,7 +2673,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">лѐпнах, лепна̀х</td>
 ><td style="text-align:center;vertical-align:middle">лѐпнахме, лепна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2701,7 +2699,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ма̀хнах, махна̀х</td>
 ><td style="text-align:center;vertical-align:middle">ма̀хнахме, махна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2727,7 +2725,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ора̀х</td>
 ><td style="text-align:center;vertical-align:middle">ора̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2753,7 +2751,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">основа̀х</td>
 ><td style="text-align:center;vertical-align:middle">основа̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2779,7 +2777,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">па̀дна, падна̀х</td>
 ><td style="text-align:center;vertical-align:middle">па̀днахме, падна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2805,7 +2803,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">прах</td>
 ><td style="text-align:center;vertical-align:middle">пра̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The ⟨е⟩ before the ⟨р⟩ is dropped in the aorist stem. The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>The ⟨е⟩ before the ⟨р⟩ is dropped in the aorist stem.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2831,7 +2829,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">пръ̀днах, пръдна̀х</td>
 ><td style="text-align:center;vertical-align:middle">пръ̀днахме, пръдна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2857,7 +2855,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">рева̀х</td>
 ><td style="text-align:center;vertical-align:middle">рева̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2883,7 +2881,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">рѝтна, ритна̀х</td>
 ><td style="text-align:center;vertical-align:middle">рѝтнахме, ритна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2909,7 +2907,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">сѐдна, седна̀х</td>
 ><td style="text-align:center;vertical-align:middle">сѐднахме, седна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2935,7 +2933,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">срах</td>
 ><td style="text-align:center;vertical-align:middle">сра̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The ⟨е⟩ before the ⟨р⟩ is dropped in the aorist stem. The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>The ⟨е⟩ before the ⟨р⟩ is dropped in the aorist stem.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2961,7 +2959,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">сѝпах, сипа̀х</td>
 ><td style="text-align:center;vertical-align:middle">сѝпахме, сипа̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -2987,7 +2985,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ска̀пах, скапа̀х</td>
 ><td style="text-align:center;vertical-align:middle">ска̀пахме, скапа̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3013,7 +3011,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ску̀бах, скуба̀х</td>
 ><td style="text-align:center;vertical-align:middle">ску̀бахме, скуба̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3039,7 +3037,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">тѝкнах, тикна̀х</td>
 ><td style="text-align:center;vertical-align:middle">тѝкнахме, тикна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3065,7 +3063,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">тъка̀х</td>
 ><td style="text-align:center;vertical-align:middle">тъка̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3091,7 +3089,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ха̀пах, хапа̀х</td>
 ><td style="text-align:center;vertical-align:middle">ха̀пахме, хапа̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3117,7 +3115,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">хвръ̀кна, хвръкна̀х</td>
 ><td style="text-align:center;vertical-align:middle">хвръ̀кнахме, хвръкна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3143,7 +3141,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">цѐпнах, цепна̀х</td>
 ><td style="text-align:center;vertical-align:middle">цѐпнахме, цепна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3169,7 +3167,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">шѐпнах, шепна̀х</td>
 ><td style="text-align:center;vertical-align:middle">шѐпнахме, шепна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3195,7 +3193,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">щѝпах, щипа̀х</td>
 ><td style="text-align:center;vertical-align:middle">щѝпахме, щипа̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel. The verb belongs to subclass 3 since its dictionary form ends in <i>-я</i>.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3210,15 +3208,12 @@ A few things to note:
 ></table>
 >
 
-The fourth subclass of [conjugation I](#Present%20Tense) contains the [verbs](./Verbs%20(Bulgarian).md) which satisfy the following conditions simultaneously:
+The fourth subclass of [conjugation I](#Present%20Forms) contains the [verbs](./Verbs%20(Bulgarian).md) which satisfy the following conditions simultaneously:
 
 - The [aorist stem](#Aorist%20Forms) is derived from the [present stem](#Present%20Forms) by replacing the present thematic vowel ⟨е⟩ with the aorist thematic vowel ⟨а⟩.
-- The [present stem](#Present%20Tense) has an etymologycally non-[palatalized](TODO), non-[fricative](TODO) consonant before the thematic vowel ⟨е⟩ which undergoes the following alternations when forming the [aorist stem](#Aorist%20Forms): ⟨ж⟩ ~ ⟨з⟩, ⟨ж⟩ ~ ⟨г⟩, ⟨ч⟩ ~ ⟨к⟩ and ⟨ш⟩ ~ ⟨с⟩.
+- The [present stem](#Present%20Forms) has an etymologycally non-[palatalized](TODO), non-[fricative](TODO) consonant before the thematic vowel ⟨е⟩ which undergoes the following alternations when forming the [aorist stem](#Aorist%20Forms): ⟨ж⟩ ~ ⟨з⟩, ⟨ж⟩ ~ ⟨г⟩, ⟨ч⟩ ~ ⟨к⟩ and ⟨ш⟩ ~ ⟨с⟩.
 
-A few things to note:
-
-- The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) remains in the same place as the [stress](./Phonology%20(Bulgarian).md#Stress) of the [present stem](#Present%20Forms).
-- [Verbs](./Verbs%20(Bulgarian).md) without a prefix as well as all [imperfective](#Aspect) [verbs](./Verbs%20(Bulgarian).md) with a prefix are allowed to shift the [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) to the aorist thematic vowel. Both variations are equivalent but the latter forms are slowly being phased out.
+The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) remains in the same place as the [stress](./Phonology%20(Bulgarian).md#Stress) of the [present stem](#Present%20Forms). For [verbs](./Verbs%20(Bulgarian).md) without a prefix as well as for [imperfective](#Aspect) [verbs](./Verbs%20(Bulgarian).md) with a prefix, if the [stress](./Phonology%20(Bulgarian).md#md#Stress) of the [present stem](#Present%20Forms) falls on the syllable directly before the present thematic vowel, then the [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) is allowed to shift to the aorist thematic vowel.
 
 >[!EXAMPLE]- Example: Subclass 4 of Conjugation Class I
 >
@@ -3234,7 +3229,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">блѝзах, близа̀х</td>
 ><td style="text-align:center;vertical-align:middle">блѝзахме, близа̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨з⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨з⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3260,7 +3255,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">бъ̀рсах, бърса̀х</td>
 ><td style="text-align:center;vertical-align:middle">бъ̀рсахме, бърса̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ш⟩ ~ ⟨с⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ш⟩ ~ ⟨с⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3286,7 +3281,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">въ̀рзах, върза̀х</td>
 ><td style="text-align:center;vertical-align:middle">въ̀рзахме, върза̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨з⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨з⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3312,7 +3307,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">дъ̀вках, дъвка̀х</td>
 ><td style="text-align:center;vertical-align:middle">дъ̀вкахме, дъвка̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3338,7 +3333,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ка̀зах, каза̀х</td>
 ><td style="text-align:center;vertical-align:middle">ка̀захме, каза̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨з⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨з⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3364,7 +3359,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">лѝзах, лиза̀х</td>
 ><td style="text-align:center;vertical-align:middle">лѝзахме, лиза̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨з⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨з⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3390,7 +3385,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">лъ̀гах, лъга̀х</td>
 ><td style="text-align:center;vertical-align:middle">лъ̀гахме, лъга̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨г⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨г⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3416,7 +3411,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ма̀зах, маза̀х</td>
 ><td style="text-align:center;vertical-align:middle">ма̀захме, маза̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨з⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨з⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3442,7 +3437,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">мирѝсах, мириса̀х</td>
 ><td style="text-align:center;vertical-align:middle">мирѝсахме, мириса̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ш⟩ ~ ⟨с⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ш⟩ ~ ⟨с⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3468,7 +3463,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">натъ̀пках</td>
 ><td style="text-align:center;vertical-align:middle">натъ̀пкахме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3494,7 +3489,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">нѝзах, низа̀х</td>
 ><td style="text-align:center;vertical-align:middle">нѝзахме, низа̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨з⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨з⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3520,7 +3515,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">пѝсах, писа̀х</td>
 ><td style="text-align:center;vertical-align:middle">пѝсахме, писа̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ш⟩ ~ ⟨с⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ш⟩ ~ ⟨с⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3546,7 +3541,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">пла̀ках, плака̀х</td>
 ><td style="text-align:center;vertical-align:middle">пла̀кахме, плака̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3572,7 +3567,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">почѐсах</td>
 ><td style="text-align:center;vertical-align:middle">почѐсахме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ш⟩ ~ ⟨с⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ш⟩ ~ ⟨с⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3598,7 +3593,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ря̀зах, реза̀х</td>
 ><td style="text-align:center;vertical-align:middle">ря̀захме, реза̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨з⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel. A shift in the stress causes changes in the variable ya in the stem.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨з⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel. A shift in the stress causes changes in the variable ya in the stem.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3624,7 +3619,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">сму̀ках, смука̀х</td>
 ><td style="text-align:center;vertical-align:middle">сму̀кахме, смука̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3650,7 +3645,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">стрѝгах, стрига̀х</td>
 ><td style="text-align:center;vertical-align:middle">стрѝгахме, стрига̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨г⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨г⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3676,7 +3671,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">стъ̀пках</td>
 ><td style="text-align:center;vertical-align:middle">стъ̀пкахме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. Since the verb is perfective with a prefix, the stress of the aorist stem remains in the same place as the stress of the present stem.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. </td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3702,7 +3697,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">стъ̀ргах, стърга̀х</td>
 ><td style="text-align:center;vertical-align:middle">стъ̀ргахме, стърга̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨г⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ж⟩ ~ ⟨г⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3728,7 +3723,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">су̀ках, сука̀х</td>
 ><td style="text-align:center;vertical-align:middle">су̀кахме, сука̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3754,7 +3749,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">тъ̀пках, тъпка̀х</td>
 ><td style="text-align:center;vertical-align:middle">тъ̀пкахме, тъпка̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3780,7 +3775,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">усу̀ках</td>
 ><td style="text-align:center;vertical-align:middle">усу̀кахме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. Since the verb is perfective with a prefix, the stress of the aorist stem remains in the same place as the stress of the present stem.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ч⟩ ~ ⟨к⟩. </td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3806,7 +3801,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">чѐсах, чеса̀х</td>
 ><td style="text-align:center;vertical-align:middle">чѐсахме, чеса̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ш⟩ ~ ⟨с⟩. Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Alternation ⟨ш⟩ ~ ⟨с⟩. Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3821,14 +3816,12 @@ A few things to note:
 ></table>
 >
 
-The fifth subclass of [conjugation I](#Present%20Tense) contains the [verbs](./Verbs%20(Bulgarian).md) which satisfy the following conditions simultaneously:
+The fifth subclass of [conjugation I](#Present%20Forms) contains the [verbs](./Verbs%20(Bulgarian).md) which satisfy the following conditions simultaneously:
 
-- The [present](#Present%20Tense) first-person singular ends in *-а*.
+- The [present](#Present%20Forms) first-person singular ends in *-а*.
 - The [aorist stem](#Aorist%20Forms) is derived from the [present stem](#Present%20Forms) by replacing the present thematic vowel ⟨е⟩ with the aorist thematic vowel ⟨а⟩ combined with a historical palatalization of the preceding constonant, ultimately resulting in a thematic ⟨я⟩.
 
-This subclass contains only a handful of simple [verbs](./Verbs%20(Bulgarian).md) and their derivatives.
-
-The [aorist stem](#Aorist%20Forms) of these [verbs](./Verbs%20(Bulgarian).md) is always [stressed](./Phonology%20(Bulgarian).md#Stress) on the thematic ⟨я⟩.
+The [aorist stem](#Aorist%20Forms) is always [stressed](./Phonology%20(Bulgarian).md#Stress) on the thematic ⟨я⟩.
 
 >[!EXAMPLE]- Example: Subclass 5 of Conjugation Class I
 >
@@ -3844,7 +3837,7 @@ The [aorist stem](#Aorist%20Forms) of these [verbs](./Verbs%20(Bulgarian).md) is
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">врях</td>
 ><td style="text-align:center;vertical-align:middle">вря̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3870,7 +3863,7 @@ The [aorist stem](#Aorist%20Forms) of these [verbs](./Verbs%20(Bulgarian).md) is
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">допря̀х</td>
 ><td style="text-align:center;vertical-align:middle">допря̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3896,7 +3889,7 @@ The [aorist stem](#Aorist%20Forms) of these [verbs](./Verbs%20(Bulgarian).md) is
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">мрях</td>
 ><td style="text-align:center;vertical-align:middle">мря̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3922,7 +3915,7 @@ The [aorist stem](#Aorist%20Forms) of these [verbs](./Verbs%20(Bulgarian).md) is
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">навря̀х</td>
 ><td style="text-align:center;vertical-align:middle">навря̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3948,7 +3941,7 @@ The [aorist stem](#Aorist%20Forms) of these [verbs](./Verbs%20(Bulgarian).md) is
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">отщя̀х</td>
 ><td style="text-align:center;vertical-align:middle">отщя̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -3974,7 +3967,7 @@ The [aorist stem](#Aorist%20Forms) of these [verbs](./Verbs%20(Bulgarian).md) is
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">простря̀х</td>
 ><td style="text-align:center;vertical-align:middle">простря̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4000,7 +3993,7 @@ The [aorist stem](#Aorist%20Forms) of these [verbs](./Verbs%20(Bulgarian).md) is
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">спрях</td>
 ><td style="text-align:center;vertical-align:middle">спря̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4026,7 +4019,7 @@ The [aorist stem](#Aorist%20Forms) of these [verbs](./Verbs%20(Bulgarian).md) is
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">съзря̀х</td>
 ><td style="text-align:center;vertical-align:middle">съзря̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4052,7 +4045,7 @@ The [aorist stem](#Aorist%20Forms) of these [verbs](./Verbs%20(Bulgarian).md) is
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">умря̀х</td>
 ><td style="text-align:center;vertical-align:middle">умря̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4078,7 +4071,7 @@ The [aorist stem](#Aorist%20Forms) of these [verbs](./Verbs%20(Bulgarian).md) is
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">щях</td>
 ><td style="text-align:center;vertical-align:middle">щя̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4093,16 +4086,14 @@ The [aorist stem](#Aorist%20Forms) of these [verbs](./Verbs%20(Bulgarian).md) is
 ></table>
 >
 
-The sixth subclass of [conjugation I](#Present%20Tense) contains the [verbs](./Verbs%20(Bulgarian).md) which satisfy the following conditions simultaneously:
+The sixth subclass of [conjugation I](#Present%20Forms) contains the [verbs](./Verbs%20(Bulgarian).md) which satisfy the following conditions simultaneously:
 
-- The [present](#Present%20Tense) first-person singular ends in ⟨а⟩, ⟨ъ⟩, ⟨о⟩, ⟨у⟩, ⟨е⟩, ⟨и⟩, ⟨ю⟩ or ⟨я⟩ followed by *-я*.
+- The [present](#Present%20Forms) first-person singular ends in ⟨а⟩, ⟨ъ⟩, ⟨о⟩, ⟨у⟩, ⟨е⟩, ⟨и⟩, ⟨ю⟩ or ⟨я⟩ followed by *-я*.
 - The [aorist stem](#Aorist%20Forms) is derived from the [present stem](#Present%20Forms) by replacing the present thematic vowel ⟨е⟩ with a thematic ⟨я⟩ after non-[fricative](TODO) consonants and into ⟨а⟩ after [fricative](TODO) consonants.
 
-A few things to note:
+The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) remains in the same place as the [stress](./Phonology%20(Bulgarian).md#Stress) of the [present stem](#Present%20Forms). For [verbs](./Verbs%20(Bulgarian).md) without a prefix as well as for [imperfective](#Aspect) [verbs](./Verbs%20(Bulgarian).md) with a prefix, if the [stress](./Phonology%20(Bulgarian).md#md#Stress) of the [present stem](#Present%20Forms) falls on the syllable directly before the present thematic vowel, then the [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) is allowed to shift to the aorist thematic vowel.
 
-- The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) remains in the same place as the [stress](./Phonology%20(Bulgarian).md#Stress) of the [present stem](#Present%20Forms).
-- [Verbs](./Verbs%20(Bulgarian).md) without a prefix as well as all [imperfective](#Aspect) [verbs](./Verbs%20(Bulgarian).md) with a prefix are allowed to shift the [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) to the aorist thematic vowel. Both variations are equivalent but the latter forms are slowly being phased out.
-- Many of these also have [aorist forms](#Aorist%20Forms) according to subclass 7.
+Many of these also have [aorist forms](#Aorist%20Forms) according to subclass 7.
 
 >[!EXAMPLE]- Example: Subclass 6 of Conjugation Class I
 >
@@ -4118,7 +4109,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ба̀ях, бая̀х</td>
 ><td style="text-align:center;vertical-align:middle">ба̀яхме, бая̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4144,7 +4135,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">блѐях, блея̀х</td>
 ><td style="text-align:center;vertical-align:middle">блѐяхме, блея̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel. Increasingly conjugated as a verb of subclass 7.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel. Increasingly conjugated as a verb of subclass 7.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4170,7 +4161,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ва̀ях, вая̀х</td>
 ><td style="text-align:center;vertical-align:middle">ва̀яхме, вая̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4196,7 +4187,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">вѐях, вея̀х</td>
 ><td style="text-align:center;vertical-align:middle">вѐяхме, вея̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel. Increasingly conjugated as a verb of subclass 7.</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel. Increasingly conjugated as a verb of subclass 7.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4222,7 +4213,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">зѐях, зея̀х</td>
 ><td style="text-align:center;vertical-align:middle">зѐяхме, зея̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4274,7 +4265,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ка̀ях се, кая̀х се</td>
 ><td style="text-align:center;vertical-align:middle">ка̀яхме се, кая̀хме се</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4300,7 +4291,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ла̀ях, лая̀х</td>
 ><td style="text-align:center;vertical-align:middle">ла̀яхме, лая̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4326,7 +4317,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">неха̀ях, нехая̀х</td>
 ><td style="text-align:center;vertical-align:middle">неха̀яхме, нехая̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4352,7 +4343,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">отча̀ях</td>
 ><td style="text-align:center;vertical-align:middle">отча̀яхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb is perfective with a prefix, the stress of the aorist stem remains in the same place as the stress of the present stem.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4378,7 +4369,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">рѐях се, рея̀х се</td>
 ><td style="text-align:center;vertical-align:middle">рѐяхме се, рея̀хме се</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4404,7 +4395,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">тра̀ях, трая̀х</td>
 ><td style="text-align:center;vertical-align:middle">тра̀яхме, трая̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4419,7 +4410,7 @@ A few things to note:
 ></table>
 >
 
-The seventh subclass of [conjugation I](#Present%20Tense) contains [verbs](./Verbs%20(Bulgarian).md) characterized by the following:
+The seventh subclass of [conjugation I](#Present%20Forms) contains [verbs](./Verbs%20(Bulgarian).md) characterized by the following:
 
 - The [present](#Present%20Forms) first-person singular ends in *-а̀я*, *-ъ̀я*, *-о̀я*, *-у̀я*, *-ѝя*, *-ю̀я* or *-я̀я* and the [aorist stem](#Aorist%20Forms) is formed by removing the thematic vowel ⟨е⟩ from the [present stem](#Present%20Forms). 
 - The [present](#Present%20Forms) first-person singular ends in *-éя* and the [aorist stem](#Aorist%20Forms) is formed by removing the thematic vowel ⟨е⟩ from the [present stem](#Present%20Forms) and changing the preceding [stressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ into a [stressed](./Phonology%20(Bulgarian).md#Stress) ⟨я⟩.
@@ -4440,7 +4431,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">беля̀х</td>
 ><td style="text-align:center;vertical-align:middle">беля̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4466,7 +4457,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">бих</td>
 ><td style="text-align:center;vertical-align:middle">бѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4492,7 +4483,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">бледня̀х</td>
 ><td style="text-align:center;vertical-align:middle">бледня̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4544,7 +4535,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">блужда̀х</td>
 ><td style="text-align:center;vertical-align:middle">блужда̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4570,7 +4561,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">боза̀х</td>
 ><td style="text-align:center;vertical-align:middle">боза̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4596,7 +4587,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">венча̀х</td>
 ><td style="text-align:center;vertical-align:middle">венча̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4622,7 +4613,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">веща̀х</td>
 ><td style="text-align:center;vertical-align:middle">веща̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4674,7 +4665,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">вита̀х</td>
 ><td style="text-align:center;vertical-align:middle">вита̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4700,7 +4691,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">вих</td>
 ><td style="text-align:center;vertical-align:middle">вѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4726,7 +4717,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">влия̀х</td>
 ><td style="text-align:center;vertical-align:middle">влия̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4752,7 +4743,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">възмъжа̀х</td>
 ><td style="text-align:center;vertical-align:middle">възмъжа̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4778,7 +4769,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">върша̀х</td>
 ><td style="text-align:center;vertical-align:middle">върша̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4804,7 +4795,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">гада̀х</td>
 ><td style="text-align:center;vertical-align:middle">гада̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4830,7 +4821,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">гних</td>
 ><td style="text-align:center;vertical-align:middle">гнѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4856,7 +4847,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">гордя̀х се</td>
 ><td style="text-align:center;vertical-align:middle">гордя̀хме се</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4882,7 +4873,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">грях</td>
 ><td style="text-align:center;vertical-align:middle">гря̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4908,7 +4899,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">дебеля̀х</td>
 ><td style="text-align:center;vertical-align:middle">дебеля̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4934,7 +4925,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">дълба̀х</td>
 ><td style="text-align:center;vertical-align:middle">дълба̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4960,7 +4951,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">жела̀х</td>
 ><td style="text-align:center;vertical-align:middle">жела̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -4986,7 +4977,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">живя̀х</td>
 ><td style="text-align:center;vertical-align:middle">живя̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5012,7 +5003,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">занима̀х</td>
 ><td style="text-align:center;vertical-align:middle">занима̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5038,7 +5029,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">игра̀х</td>
 ><td style="text-align:center;vertical-align:middle">игра̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5064,7 +5055,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">колеба̀х се</td>
 ><td style="text-align:center;vertical-align:middle">колеба̀хме се</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5090,7 +5081,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">копа̀х</td>
 ><td style="text-align:center;vertical-align:middle">копа̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5116,7 +5107,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">крих</td>
 ><td style="text-align:center;vertical-align:middle">крѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5142,7 +5133,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ласка̀х</td>
 ><td style="text-align:center;vertical-align:middle">ласка̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5168,7 +5159,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">лях</td>
 ><td style="text-align:center;vertical-align:middle">ля̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5194,7 +5185,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">мечта̀х</td>
 ><td style="text-align:center;vertical-align:middle">мечта̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5220,7 +5211,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">мих</td>
 ><td style="text-align:center;vertical-align:middle">мѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5246,7 +5237,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">младя̀х</td>
 ><td style="text-align:center;vertical-align:middle">младя̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5272,7 +5263,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">мота̀х</td>
 ><td style="text-align:center;vertical-align:middle">мота̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5298,7 +5289,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">наду̀х</td>
 ><td style="text-align:center;vertical-align:middle">наду̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5324,7 +5315,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">нахлу̀х</td>
 ><td style="text-align:center;vertical-align:middle">нахлу̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5350,7 +5341,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">немя̀х</td>
 ><td style="text-align:center;vertical-align:middle">немя̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5376,7 +5367,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">нужда̀х се</td>
 ><td style="text-align:center;vertical-align:middle">нужда̀хме се</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5402,7 +5393,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">обеща̀х</td>
 ><td style="text-align:center;vertical-align:middle">обеща̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5428,7 +5419,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">облада̀х</td>
 ><td style="text-align:center;vertical-align:middle">облада̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5454,7 +5445,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">обося̀х</td>
 ><td style="text-align:center;vertical-align:middle">обося̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5480,7 +5471,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">обузда̀х</td>
 ><td style="text-align:center;vertical-align:middle">обузда̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5506,7 +5497,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">обу̀х</td>
 ><td style="text-align:center;vertical-align:middle">обу̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5532,7 +5523,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">оправда̀х</td>
 ><td style="text-align:center;vertical-align:middle">оправда̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5558,7 +5549,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">опроверга̀х</td>
 ><td style="text-align:center;vertical-align:middle">опроверга̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5584,7 +5575,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">пях</td>
 ><td style="text-align:center;vertical-align:middle">пя̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5610,7 +5601,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">пика̀х</td>
 ><td style="text-align:center;vertical-align:middle">пика̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5636,7 +5627,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">пих</td>
 ><td style="text-align:center;vertical-align:middle">пѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5662,7 +5653,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">плю̀х</td>
 ><td style="text-align:center;vertical-align:middle">плю̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5688,7 +5679,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">поевтиня̀х</td>
 ><td style="text-align:center;vertical-align:middle">поевтиня̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5714,7 +5705,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">позна̀х</td>
 ><td style="text-align:center;vertical-align:middle">позна̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5740,7 +5731,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">порица̀х</td>
 ><td style="text-align:center;vertical-align:middle">порица̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5766,7 +5757,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">пълня̀х</td>
 ><td style="text-align:center;vertical-align:middle">пълня̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5792,7 +5783,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">рида̀х</td>
 ><td style="text-align:center;vertical-align:middle">рида̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5818,7 +5809,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ропта̀х</td>
 ><td style="text-align:center;vertical-align:middle">ропта̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5844,7 +5835,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">руга̀х</td>
 ><td style="text-align:center;vertical-align:middle">руга̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5870,7 +5861,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">руменя̀х</td>
 ><td style="text-align:center;vertical-align:middle">руменя̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5896,7 +5887,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">сях</td>
 ><td style="text-align:center;vertical-align:middle">ся̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5922,7 +5913,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">синя̀х</td>
 ><td style="text-align:center;vertical-align:middle">синя̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5948,7 +5939,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">сия̀х</td>
 ><td style="text-align:center;vertical-align:middle">сия̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -5974,7 +5965,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">скуча̀х</td>
 ><td style="text-align:center;vertical-align:middle">скуча̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6000,7 +5991,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">стара̀х се</td>
 ><td style="text-align:center;vertical-align:middle">стара̀хме се</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6026,7 +6017,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">съчета̀х</td>
 ><td style="text-align:center;vertical-align:middle">съчета̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6052,7 +6043,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">трих</td>
 ><td style="text-align:center;vertical-align:middle">трѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6078,7 +6069,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">тъмня̀х</td>
 ><td style="text-align:center;vertical-align:middle">тъмня̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6104,7 +6095,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">уха̀х</td>
 ><td style="text-align:center;vertical-align:middle">уха̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6130,7 +6121,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">хубавя̀х</td>
 ><td style="text-align:center;vertical-align:middle">хубавя̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6156,7 +6147,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">черта̀х</td>
 ><td style="text-align:center;vertical-align:middle">черта̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6181,7 +6172,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">чух</td>
 ><td style="text-align:center;vertical-align:middle">чу̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6207,7 +6198,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ших</td>
 ><td style="text-align:center;vertical-align:middle">шѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6233,7 +6224,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">шля̀х се</td>
 ><td style="text-align:center;vertical-align:middle">шля̀хме се</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6259,7 +6250,7 @@ The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%2
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">щуря̀х</td>
 ><td style="text-align:center;vertical-align:middle">щуря̀хме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6403,15 +6394,9 @@ The [Verbs (Bulgarian)](./Verbs%20(Bulgarian).md) *кълна̀* ('to swear') ha
 
 ### Second-Conjugation Aorist Forms
 
-The first subclass of [conjugation II](#Present%20Forms) contains the [verbs](./Verbs%20(Bulgarian).md) whose [aorist stem](#Aorist%20Forms) is identical to the [present stem](#Present%20Forms). 
+[Verbs](./Verbs%20(Bulgarian).md) of the second [conjugation](#Present%20Forms) are divided into three subclasses and the formation of their [aorist stem](#Aorist%20Forms) is highly regular. The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) remains in the same place as the [stress](./Phonology%20(Bulgarian).md#Stress) of the [present stem](#Present%20Forms). For [verbs](./Verbs%20(Bulgarian).md) without a prefix as well as for [imperfective](#Aspect) [verbs](./Verbs%20(Bulgarian).md) with a prefix, if the [stress](./Phonology%20(Bulgarian).md#md#Stress) of the [present stem](#Present%20Forms) falls on the syllable directly before the present thematic vowel, then the [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) is allowed to shift to the aorist thematic vowel.
 
-- If the [present stem](#Present%20Forms) is [stressed](./Phonology%20(Bulgarian).md#Stress) on the present thematic vowel ⟨и⟩, then the [aorist stem](#Aorist%20Forms) is also [stressed](./Phonology%20(Bulgarian).md#Stress) on the aorist thematic vowel ⟨и⟩.
-- For [verbs](./Verbs%20(Bulgarian).md) without prefixes as well as [imperfective](#Aspect) [verbs](./Verbs%20(Bulgarian).md) with prefixes, if the [present stem](#Present%20Forms) is [stressed](./Phonology%20(Bulgarian).md#Stress) on the syllable before the present thematic vowel ⟨и⟩, then the [aorist stem](#Aorist%20Forms) can be [stressed](./Phonology%20(Bulgarian).md#Stress) on the same syllable or on the aorist thematic vowel ⟨и⟩. The latter forms are becoming increasingly rare.
-
-A few things to note:
-
-- The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) remains in the same place as the [stress](./Phonology%20(Bulgarian).md#Stress) of the [present stem](#Present%20Forms).
-- [Verbs](./Verbs%20(Bulgarian).md) without a prefix as well as all [imperfective](#Aspect) [verbs](./Verbs%20(Bulgarian).md) with a prefix are allowed to shift the [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) to the aorist thematic vowel. Both variations are equivalent but the latter forms are slowly being phased out.
+The first subclass of [conjugation II](#Present%20Forms) contains the [verbs](./Verbs%20(Bulgarian).md) whose [aorist stem](#Aorist%20Forms) is identical to the [present stem](#Present%20Forms).
 
 >[!EXAMPLE]- Example: Subclass 1 of Conjugation II
 >
@@ -6427,7 +6412,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ба̀вих, бавѝх</td>
 ><td style="text-align:center;vertical-align:middle">ба̀вихме, бавѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6453,7 +6438,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">благодарѝх</td>
 ><td style="text-align:center;vertical-align:middle">благодарѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6479,7 +6464,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">бо̀рих, борѝх</td>
 ><td style="text-align:center;vertical-align:middle">бо̀рихме, борѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6490,6 +6475,32 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">Third Person</th>
 ><td style="text-align:center;vertical-align:middle">бо̀ри, борѝ</td>
 ><td style="text-align:center;vertical-align:middle">бо̀риха, борѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>броя̀, броѝш, броѝх, броѝ ('to count', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">броѝх</td>
+><td style="text-align:center;vertical-align:middle">броѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">броѝ</td>
+><td style="text-align:center;vertical-align:middle">броѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">броѝ</td>
+><td style="text-align:center;vertical-align:middle">броѝха</td>
 ></tr>
 ></table>
 >
@@ -6505,7 +6516,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">варѝх</td>
 ><td style="text-align:center;vertical-align:middle">варѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6531,7 +6542,7 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">вѝрих, вирѝх</td>
 ><td style="text-align:center;vertical-align:middle">вѝрихме, вирѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6546,17 +6557,122 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>вла̀ча, вла̀чиш, вла̀чѝх, вла̀чѝ ('to drag', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">вла̀чих, влачѝх</td>
+><td style="text-align:center;vertical-align:middle">вла̀чихме, влачѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">вла̀чи, влачѝ</td>
+><td style="text-align:center;vertical-align:middle">вла̀чихте, влачѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">вла̀чи, влачѝ</td>
+><td style="text-align:center;vertical-align:middle">вла̀чиха, влачѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>вло̀жа, вло̀жиш, вло̀жѝх, вло̀жѝ ('to put in', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">вло̀жих, вложѝх</td>
+><td style="text-align:center;vertical-align:middle">вло̀жихме, вложѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">вло̀жи, вложѝ</td>
+><td style="text-align:center;vertical-align:middle">вло̀жихте, вложѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">вло̀жи, вложѝ</td>
+><td style="text-align:center;vertical-align:middle">вло̀жиха, вложѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>влоша̀, влошѝш, влошѝх, влошѝ ('to exacerbate', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">влошѝх</td>
+><td style="text-align:center;vertical-align:middle">влошѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">влошѝ</td>
+><td style="text-align:center;vertical-align:middle">влошѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">влошѝ</td>
+><td style="text-align:center;vertical-align:middle">влошѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>въ̀рша, въ̀ршиш, въ̀ршѝх, въ̀ршѝ ('to do', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">въ̀рших, вършѝх</td>
+><td style="text-align:center;vertical-align:middle">въ̀ршихме, вършѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">въ̀рши, вършѝ</td>
+><td style="text-align:center;vertical-align:middle">въ̀ршихте, вършѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">въ̀рши, вършѝ</td>
+><td style="text-align:center;vertical-align:middle">въ̀ршиха, вършѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>га̀зя, га̀зиш, га̀зѝх, га̀зѝ ('to stomp', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">га̀зих, газѝх</td>
 ><td style="text-align:center;vertical-align:middle">га̀зихме, газѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6576,12 +6692,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">гасѝх</td>
 ><td style="text-align:center;vertical-align:middle">гасѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6601,12 +6718,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">гла̀дих, гладѝх</td>
 ><td style="text-align:center;vertical-align:middle">гла̀дихме, гладѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6621,17 +6739,44 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>гноя̀, гноѝш, гноѝх, гноѝ ('to leak puss', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">гноѝх</td>
+><td style="text-align:center;vertical-align:middle">гноѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">гноѝ</td>
+><td style="text-align:center;vertical-align:middle">гноѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">гноѝ</td>
+><td style="text-align:center;vertical-align:middle">гноѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>гово̀ря, гово̀риш, гово̀рѝх, гово̀рѝ ('to speak', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">гово̀рих, говорѝх</td>
 ><td style="text-align:center;vertical-align:middle">гово̀рихме, говорѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6646,17 +6791,96 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>гоя̀, гоѝш, гоѝх, гоѝ ('', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">гоѝх</td>
+><td style="text-align:center;vertical-align:middle">гоѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">гоѝ</td>
+><td style="text-align:center;vertical-align:middle">гоѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">гоѝ</td>
+><td style="text-align:center;vertical-align:middle">гоѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>греша̀, грешѝш, грешѝх, грешѝ ('to err', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">грешѝх</td>
+><td style="text-align:center;vertical-align:middle">грешѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">грешѝ</td>
+><td style="text-align:center;vertical-align:middle">грешѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">грешѝ</td>
+><td style="text-align:center;vertical-align:middle">грешѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>грѝжа се, грѝжиш се, грѝжѝх се, грѝжѝ се ('to care', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">грѝжих се, грижѝх се</td>
+><td style="text-align:center;vertical-align:middle">грѝжихме се, грижѝхме се</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">грѝжи се, грижѝ се</td>
+><td style="text-align:center;vertical-align:middle">грѝжихте се, грижѝхте се</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">грѝжи се, грижѝ се</td>
+><td style="text-align:center;vertical-align:middle">грѝжиха се, грижѝха се</td>
+></tr>
+></table>
+>
+><table>
 ><caption>да̀вя, да̀виш, да̀вѝх, да̀вѝ ('to drown', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">да̀вих, давѝх</td>
 ><td style="text-align:center;vertical-align:middle">да̀вихме, давѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6676,12 +6900,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">дарѝх</td>
 ><td style="text-align:center;vertical-align:middle">дарѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6696,17 +6921,70 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>двоя̀ се, двоѝш се, двоѝх се, двоѝ се ('to split in half', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">двоѝх</td>
+><td style="text-align:center;vertical-align:middle">двоѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">двоѝ</td>
+><td style="text-align:center;vertical-align:middle">двоѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">двоѝ</td>
+><td style="text-align:center;vertical-align:middle">двоѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>двулѝчнича, двулѝчничиш, двулѝчничих, двулѝчничи ('to be duplicitous', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">двулѝчничих</td>
+><td style="text-align:center;vertical-align:middle">двулѝчнихме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">двулѝчничи</td>
+><td style="text-align:center;vertical-align:middle">двулѝчничихте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">двулѝчничи</td>
+><td style="text-align:center;vertical-align:middle">двулѝчничиха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>деля̀, делѝш, делѝх, делѝ ('to divide', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">делѝх</td>
 ><td style="text-align:center;vertical-align:middle">делѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6721,17 +6999,44 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>доя̀, доѝш, доѝх, доѝ ('to milk', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">доѝх</td>
+><td style="text-align:center;vertical-align:middle">доѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">доѝ</td>
+><td style="text-align:center;vertical-align:middle">доѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">доѝ</td>
+><td style="text-align:center;vertical-align:middle">доѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>дробя̀, дробѝш, дробѝх, дробѝ ('to fracture', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">дробѝх</td>
 ><td style="text-align:center;vertical-align:middle">дробѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6746,17 +7051,96 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>дружа̀, дружѝш, дружѝх, дружѝ ('to be a friend', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">дружѝх</td>
+><td style="text-align:center;vertical-align:middle">дружѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">дружѝ</td>
+><td style="text-align:center;vertical-align:middle">дружѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">дружѝ</td>
+><td style="text-align:center;vertical-align:middle">дружѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>ду̀пча, ду̀пчиш, ду̀пчѝх, ду̀пчѝ ('to perforate', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">ду̀пчих, дупчѝх</td>
+><td style="text-align:center;vertical-align:middle">ду̀пчихме, дупчѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">ду̀пчи, дупчѝ</td>
+><td style="text-align:center;vertical-align:middle">ду̀пчихте, дупчѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">ду̀пчи, дупчѝ</td>
+><td style="text-align:center;vertical-align:middle">ду̀пчиха, дупчѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>ду̀пя се, ду̀пиш се, ду̀пѝх се, ду̀пѝ се ('to show your ass', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">ду̀пих се, дупѝх се</td>
+><td style="text-align:center;vertical-align:middle">ду̀пихме се, дупѝхме се</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">ду̀пи се, дупѝ се</td>
+><td style="text-align:center;vertical-align:middle">ду̀пихте се, дупѝхте се</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">ду̀пи се, дупѝ се</td>
+><td style="text-align:center;vertical-align:middle">ду̀пиха се, дупѝха се</td>
+></tr>
+></table>
+>
+><table>
 ><caption>жа̀ля, жа̀лиш, жа̀лѝх, жа̀лѝ ('to spare', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">жа̀лих, жалѝх</td>
 ><td style="text-align:center;vertical-align:middle">жа̀лихме, жалѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6776,12 +7160,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">жѐних, женѝх</td>
 ><td style="text-align:center;vertical-align:middle">жѐнихме, женѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6801,12 +7186,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">заба̀вих</td>
 ><td style="text-align:center;vertical-align:middle">заба̀вихме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb is perfective with a prefix, the stress of the aorist stem remains in the same place as the stress of the present stem.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6826,12 +7212,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">завѝнтих</td>
 ><td style="text-align:center;vertical-align:middle">завѝнтихме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb is perfective with a prefix, the stress of the aorist stem remains in the same place as the stress of the present stem.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6851,12 +7238,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">запъ̀тих се</td>
 ><td style="text-align:center;vertical-align:middle">запъ̀тихме се</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb is perfective with a prefix, the stress of the aorist stem remains in the same place as the stress of the present stem.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6876,12 +7264,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">зашеметѝх</td>
 ><td style="text-align:center;vertical-align:middle">зашеметѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb is perfective with a prefix, the stress of the aorist stem remains in the same place as the stress of the present stem.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6901,12 +7290,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">зъ̀бих се, зъбѝх се</td>
 ><td style="text-align:center;vertical-align:middle">зъ̀бихме се, зъбѝхме се</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6926,12 +7316,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">изобретѝх</td>
 ><td style="text-align:center;vertical-align:middle">изобретѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb is perfective with a prefix, the stress of the aorist stem remains in the same place as the stress of the present stem.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6946,17 +7337,44 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>изопача̀, изопачѝш, изопачѝх, изопачѝ ('to distort', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">изопачѝх</td>
+><td style="text-align:center;vertical-align:middle">изопачѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">изопачѝ</td>
+><td style="text-align:center;vertical-align:middle">изопачѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">изопачѝ</td>
+><td style="text-align:center;vertical-align:middle">изопачѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>изясня̀, изяснѝш, изяснѝх, изяснѝ ('to clarify', perfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">изяснѝх</td>
 ><td style="text-align:center;vertical-align:middle">изяснѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -6976,12 +7394,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ка̀них, канѝх</td>
 ><td style="text-align:center;vertical-align:middle">ка̀нихме, канѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7001,12 +7420,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">кла̀тих, клатѝх</td>
 ><td style="text-align:center;vertical-align:middle">кла̀тихме, клатѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7026,12 +7446,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">клеветѝх</td>
 ><td style="text-align:center;vertical-align:middle">клеветѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7046,17 +7467,70 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>кроя̀, кроѝш, кроѝх, кроѝ ('to scheme', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">кроѝх</td>
+><td style="text-align:center;vertical-align:middle">кроѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">кроѝ</td>
+><td style="text-align:center;vertical-align:middle">кроѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">кроѝ</td>
+><td style="text-align:center;vertical-align:middle">кроѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>кръжа̀, кръжѝш, кръжѝх, кръжѝ ('to orbit', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">кръжѝх</td>
+><td style="text-align:center;vertical-align:middle">кръжѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">кръжѝ</td>
+><td style="text-align:center;vertical-align:middle">кръжѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">кръжѝ</td>
+><td style="text-align:center;vertical-align:middle">кръжѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>кръ̀стя, кръ̀стиш, кръ̀стѝх, кръ̀стѝ ('to name', perfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">кръ̀стих, кръстѝх</td>
 ><td style="text-align:center;vertical-align:middle">кръ̀стихме, кръстѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7076,12 +7550,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">къ̀рпих, кърпѝх</td>
 ><td style="text-align:center;vertical-align:middle">къ̀рпихме, кърпѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7096,17 +7571,44 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>къ̀рша, къ̀ршиш, къ̀ршѝх, къ̀ршѝ ('to snap', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">къ̀рших, кършѝх</td>
+><td style="text-align:center;vertical-align:middle">къ̀ршихме, кършѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">къ̀рши, кършѝ</td>
+><td style="text-align:center;vertical-align:middle">къ̀ршихте, кършѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">къ̀рши, кършѝ</td>
+><td style="text-align:center;vertical-align:middle">къ̀ршиха, кършѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>ла̀зя, ла̀зиш, ла̀зѝх, ла̀зѝ ('to crawl', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ла̀зих, лазѝх</td>
 ><td style="text-align:center;vertical-align:middle">ла̀зихме, лазѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7126,12 +7628,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">лепѝх</td>
 ><td style="text-align:center;vertical-align:middle">лепѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7146,17 +7649,44 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>лиша̀, лишѝш, лишѝх, лишѝ ('to deprive', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">лишѝх</td>
+><td style="text-align:center;vertical-align:middle">лишѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">лишѝ</td>
+><td style="text-align:center;vertical-align:middle">лишѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">лишѝ</td>
+><td style="text-align:center;vertical-align:middle">лишѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>ловя̀, ловѝш, ловѝх, ловѝ ('to hunt', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ловѝх</td>
 ><td style="text-align:center;vertical-align:middle">ловѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7171,17 +7701,44 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>любѐзнича, любѐзничиш, любѐзничих, любѐзничи ('to be excessively polite', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">любѐзничих</td>
+><td style="text-align:center;vertical-align:middle">любѐзничихме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">любѐзничи</td>
+><td style="text-align:center;vertical-align:middle">любѐзничихте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">любѐзничи</td>
+><td style="text-align:center;vertical-align:middle">любѐзничиха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>лю̀бя, лю̀биш, лю̀бѝх, лю̀бѝ ('to love', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">лю̀бих, любѝх</td>
 ><td style="text-align:center;vertical-align:middle">лю̀бихме, любѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7201,12 +7758,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">мѐрих, мерѝх</td>
 ><td style="text-align:center;vertical-align:middle">мѐрихме, мерѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7226,12 +7784,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">мѐстих, местѝх</td>
 ><td style="text-align:center;vertical-align:middle">мѐстихме, местѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7251,12 +7810,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">мѝслих, мислѝх</td>
 ><td style="text-align:center;vertical-align:middle">мѝслихме, мислѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7271,17 +7831,44 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>множа̀, множѝш, множѝх, множѝ ('to multiply', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">множѝх</td>
+><td style="text-align:center;vertical-align:middle">множѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">множѝ</td>
+><td style="text-align:center;vertical-align:middle">множѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">множѝ</td>
+><td style="text-align:center;vertical-align:middle">множѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>мо̀ля, мо̀лиш, мо̀лѝх, мо̀лѝ ('to ask'; 'to beg'; imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">мо̀лих, молѝх</td>
 ><td style="text-align:center;vertical-align:middle">мо̀лихме, молѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7301,12 +7888,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">мърсѝх</td>
 ><td style="text-align:center;vertical-align:middle">мърсѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7321,17 +7909,70 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>мъ̀ча, мъ̀чиш, мъ̀чѝх, мъ̀чѝ ('to torture', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">мъ̀чих, мъчѝх</td>
+><td style="text-align:center;vertical-align:middle">мъ̀чихме, мъчѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">мъ̀чи, мъчѝ</td>
+><td style="text-align:center;vertical-align:middle">мъ̀чихте, мъчѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">мъ̀чи, мъчѝ</td>
+><td style="text-align:center;vertical-align:middle">мъ̀чиха, мъчѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>насърча̀, насърчѝш, насърчѝх, насърчѝ ('to encourage', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">насърчѝх</td>
+><td style="text-align:center;vertical-align:middle">насърчѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">насърчѝ</td>
+><td style="text-align:center;vertical-align:middle">насърчѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">насърчѝ</td>
+><td style="text-align:center;vertical-align:middle">насърчѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>но̀ся, но̀сиш, но̀сѝх, но̀сѝ ('to carry', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">но̀сих, носѝх</td>
 ><td style="text-align:center;vertical-align:middle">но̀сихме, носѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7351,12 +7992,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">освободѝх</td>
 ><td style="text-align:center;vertical-align:middle">освободѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7376,12 +8018,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">о̀стрих, острѝх</td>
 ><td style="text-align:center;vertical-align:middle">о̀стрихме, острѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7401,12 +8044,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">па̀лих, палѝх</td>
 ><td style="text-align:center;vertical-align:middle">па̀лихме, палѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7426,12 +8070,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">па̀рих, парѝх</td>
 ><td style="text-align:center;vertical-align:middle">па̀рихме, парѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7451,12 +8096,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">пазарѝх се</td>
 ><td style="text-align:center;vertical-align:middle">пазарѝхме се</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7476,12 +8122,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">платѝх</td>
 ><td style="text-align:center;vertical-align:middle">платѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7496,17 +8143,70 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>пла̀ша, пла̀шиш, пла̀шѝх, пла̀шѝ ('to scare', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">пла̀ших, плашѝх</td>
+><td style="text-align:center;vertical-align:middle">пла̀шихме, плашѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">пла̀ши, плашѝ</td>
+><td style="text-align:center;vertical-align:middle">пла̀шихте, плашѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">пла̀ши, плашѝ</td>
+><td style="text-align:center;vertical-align:middle">пла̀шиха, плашѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>повиша̀, повишѝш, повишѝх, повишѝ ('to promote', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">повишѝх</td>
+><td style="text-align:center;vertical-align:middle">повишѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">повишѝ</td>
+><td style="text-align:center;vertical-align:middle">повишѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">повишѝ</td>
+><td style="text-align:center;vertical-align:middle">повишѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>подновя̀, подновѝш, подновѝх, подновѝ ('to renew', perfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">подновѝх</td>
 ><td style="text-align:center;vertical-align:middle">подновѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7521,17 +8221,44 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>поя̀, поѝш, поѝх, поѝ ('to water', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">поѝх</td>
+><td style="text-align:center;vertical-align:middle">поѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">поѝ</td>
+><td style="text-align:center;vertical-align:middle">поѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">поѝ</td>
+><td style="text-align:center;vertical-align:middle">поѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>пра̀вя, пра̀виш, пра̀вѝх, пра̀вѝ ('to do', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">пра̀вих, правѝх</td>
 ><td style="text-align:center;vertical-align:middle">пра̀вихме, правѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7546,17 +8273,96 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>пу̀ша, пу̀шиш, пу̀шѝх, пу̀шѝ ('to smoke', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">пу̀ших, пушѝх</td>
+><td style="text-align:center;vertical-align:middle">пу̀шихме, пушѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">пу̀ши, пушѝ</td>
+><td style="text-align:center;vertical-align:middle">пу̀шихте, пушѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">пу̀ши, пушѝ</td>
+><td style="text-align:center;vertical-align:middle">пу̀шиха, пушѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>пъ̀ржа, пъ̀ржиш, пъ̀ржѝх, пъ̀ржѝ ('to fry', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">пъ̀ржих, пържѝх</td>
+><td style="text-align:center;vertical-align:middle">пъ̀ржихме, пържѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">пъ̀ржи, пържѝ</td>
+><td style="text-align:center;vertical-align:middle">пъ̀ржихте, пържѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">пъ̀ржи, пържѝ</td>
+><td style="text-align:center;vertical-align:middle">пъ̀ржиха, пържѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>реша̀, решѝш, решѝх, решѝ ('to decide', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">решѝх</td>
+><td style="text-align:center;vertical-align:middle">решѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">решѝ</td>
+><td style="text-align:center;vertical-align:middle">решѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">решѝ</td>
+><td style="text-align:center;vertical-align:middle">решѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>родя̀, родѝш, родѝх, родѝ ('to give birth', perfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">родѝх</td>
 ><td style="text-align:center;vertical-align:middle">родѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7576,12 +8382,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ро̀них, ронѝх</td>
 ><td style="text-align:center;vertical-align:middle">ро̀нихме, ронѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7601,12 +8408,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">садѝх</td>
 ><td style="text-align:center;vertical-align:middle">садѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7626,12 +8434,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">свѝрих, свирѝх</td>
 ><td style="text-align:center;vertical-align:middle">свѝрихме, свирѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7646,27 +8455,80 @@ A few things to note:
 ></table>
 >
 ><table>
-><caption>спо̀ря, спо̀риш, спо̀рѝх, спо̀рѝ ('to argue', imperfective)</caption>
+><caption>своево̀лнича, своево̀лничиш, своево̀лничих, своево̀лничи ('to act wantonly', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
-><td style="text-align:center;vertical-align:middle">спо̀рих, спорѝх</td>
-><td style="text-align:center;vertical-align:middle">спо̀рихме, спорѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:center;vertical-align:middle">своево̀лничих</td>
+><td style="text-align:center;vertical-align:middle">своево̀лничихме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
-><td style="text-align:center;vertical-align:middle">спо̀ри, спорѝ</td>
-><td style="text-align:center;vertical-align:middle">спо̀рихте, спорѝхте</td>
+><td style="text-align:center;vertical-align:middle">своево̀лничи</td>
+><td style="text-align:center;vertical-align:middle">своево̀лничи</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Third Person</th>
-><td style="text-align:center;vertical-align:middle">спо̀ри, спорѝ</td>
-><td style="text-align:center;vertical-align:middle">спо̀риха, спорѝха</td>
+><td style="text-align:center;vertical-align:middle">своево̀лничи</td>
+><td style="text-align:center;vertical-align:middle">своево̀лничиха</td>
+></tr>
+></table>
+>
+><table>
+><caption>ско̀ча, ско̀чиш, ско̀чѝх, ско̀чѝ ('to jump', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">ско̀чих, скочѝх</td>
+><td style="text-align:center;vertical-align:middle">ско̀чихме, скочѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">ско̀чи, скочѝ</td>
+><td style="text-align:center;vertical-align:middle">ско̀чихте, скочѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">ско̀чи, скочѝ</td>
+><td style="text-align:center;vertical-align:middle">ско̀чиха, скочѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>слу̀жа, слу̀жиш, слу̀жѝх, слу̀жѝ ('to serve', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">слу̀жих, служѝх</td>
+><td style="text-align:center;vertical-align:middle">слу̀жихме, служѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">слу̀жи, служѝ</td>
+><td style="text-align:center;vertical-align:middle">слу̀жихте, служѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">слу̀жи, служѝ</td>
+><td style="text-align:center;vertical-align:middle">слу̀жиха, служѝха</td>
 ></tr>
 ></table>
 >
@@ -7676,12 +8538,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">солѝх</td>
 ><td style="text-align:center;vertical-align:middle">солѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7696,17 +8559,96 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>спо̀ря, спо̀риш, спо̀рѝх, спо̀рѝ ('to argue', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">спо̀рих, спорѝх</td>
+><td style="text-align:center;vertical-align:middle">спо̀рихме, спорѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">спо̀ри, спорѝ</td>
+><td style="text-align:center;vertical-align:middle">спо̀рихте, спорѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">спо̀ри, спорѝ</td>
+><td style="text-align:center;vertical-align:middle">спо̀риха, спорѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>строя̀, строѝш, строѝх, строѝ ('to build', imperfective; 'to line up' perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">строѝх</td>
+><td style="text-align:center;vertical-align:middle">строѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">строѝ</td>
+><td style="text-align:center;vertical-align:middle">строѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">строѝ</td>
+><td style="text-align:center;vertical-align:middle">строѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>суша̀, сушѝш, сушѝх, сушѝ ('to dry', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">сушѝх</td>
+><td style="text-align:center;vertical-align:middle">сушѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">сушѝ</td>
+><td style="text-align:center;vertical-align:middle">сушѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">сушѝ</td>
+><td style="text-align:center;vertical-align:middle">сушѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>съ̀дя, съ̀диш, съ̀дѝх, съ̀дѝ ('to judge', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">съ̀дих, съдѝх</td>
 ><td style="text-align:center;vertical-align:middle">съ̀дихме, съдѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7726,12 +8668,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">съживѝх</td>
 ><td style="text-align:center;vertical-align:middle">съживѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7751,12 +8694,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">състарѝх</td>
 ><td style="text-align:center;vertical-align:middle">състарѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7771,17 +8715,44 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>тая̀, таѝш, таѝх, таѝ ('to harbour', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">таѝх</td>
+><td style="text-align:center;vertical-align:middle">таѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">таѝ</td>
+><td style="text-align:center;vertical-align:middle">таѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">таѝ</td>
+><td style="text-align:center;vertical-align:middle">таѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>това̀ря, това̀риш, това̀рѝх, това̀рѝ ('to burden', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">това̀рих, товарѝх</td>
 ><td style="text-align:center;vertical-align:middle">това̀рихме, товарѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7801,12 +8772,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">топѝх</td>
 ><td style="text-align:center;vertical-align:middle">топѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7821,17 +8793,44 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>трево̀жа, трево̀жиш, трево̀жѝх, трево̀жѝ ('to worry', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">трево̀жих, тревожѝх</td>
+><td style="text-align:center;vertical-align:middle">трево̀жихме, тревожѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">трево̀жи, тревожѝ</td>
+><td style="text-align:center;vertical-align:middle">трево̀жихте, тревожѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">трево̀жи, тревожѝ</td>
+><td style="text-align:center;vertical-align:middle">трево̀жиха, тревожѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>тръбя̀, тръбѝш, тръбѝх, тръбѝ ('to announce', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">тръбѝх</td>
 ><td style="text-align:center;vertical-align:middle">тръбѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7846,17 +8845,200 @@ A few things to note:
 ></table>
 >
 ><table>
+><caption>тъжа̀, тъжѝш, тъжѝх, тъжѝ ('to be sad', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">тъжѝх</td>
+><td style="text-align:center;vertical-align:middle">тъжѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">тъжѝ</td>
+><td style="text-align:center;vertical-align:middle">тъжѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">тъжѝ</td>
+><td style="text-align:center;vertical-align:middle">тъжѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>увелича̀, увеличѝш, увеличѝх, увеличѝ ('to magnify', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">увеличѝх</td>
+><td style="text-align:center;vertical-align:middle">увеличѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">увеличѝ</td>
+><td style="text-align:center;vertical-align:middle">увеличѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">увеличѝ</td>
+><td style="text-align:center;vertical-align:middle">увеличѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>удвоя̀, удвоѝш, удвоѝх, удвоѝ ('to double', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">удвоѝх</td>
+><td style="text-align:center;vertical-align:middle">удвоѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">удвоѝ</td>
+><td style="text-align:center;vertical-align:middle">удвоѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">удвоѝ</td>
+><td style="text-align:center;vertical-align:middle">удвоѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>удостоя̀, удостоѝш, удостоѝх, удостоѝ ('to bestow', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">удостоѝх</td>
+><td style="text-align:center;vertical-align:middle">удостоѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">удостоѝ</td>
+><td style="text-align:center;vertical-align:middle">удостоѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">удостоѝ</td>
+><td style="text-align:center;vertical-align:middle">удостоѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>удължа̀, удължѝш, удължѝх, удължѝ ('to lengthen', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">удължѝх</td>
+><td style="text-align:center;vertical-align:middle">удължѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">удължѝ</td>
+><td style="text-align:center;vertical-align:middle">удължѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">удължѝ</td>
+><td style="text-align:center;vertical-align:middle">удължѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>усвоя̀, усвоѝш, усвоѝх, усвоѝ ('to acquire', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">усвоѝх</td>
+><td style="text-align:center;vertical-align:middle">усвоѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">усвоѝ</td>
+><td style="text-align:center;vertical-align:middle">усвоѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">усвоѝ</td>
+><td style="text-align:center;vertical-align:middle">усвоѝха</td>
+></tr>
+></table>
+>
+><table>
+><caption>утроя̀, утроѝш, утроѝх, утроѝ ('to triple', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">утроѝх</td>
+><td style="text-align:center;vertical-align:middle">утроѝхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">утроѝ</td>
+><td style="text-align:center;vertical-align:middle">утроѝхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">утроѝ</td>
+><td style="text-align:center;vertical-align:middle">утроѝха</td>
+></tr>
+></table>
+>
+><table>
 ><caption>хабя̀, хабѝш, хабѝх, хабѝ ('to waste', imperfective)</caption>
 ><tr>
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">хабѝх</td>
 ><td style="text-align:center;vertical-align:middle">хабѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7876,12 +9058,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">хва̀лих, хвалѝх</td>
 ><td style="text-align:center;vertical-align:middle">хва̀лихме, хвалѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7901,12 +9084,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">хра̀них, хранѝх</td>
 ><td style="text-align:center;vertical-align:middle">хра̀нихме, хранѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7926,12 +9110,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">цедѝх</td>
 ><td style="text-align:center;vertical-align:middle">цедѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7951,12 +9136,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">ценѝх</td>
 ><td style="text-align:center;vertical-align:middle">ценѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -7976,12 +9162,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">цѐпих, цепѝх</td>
 ><td style="text-align:center;vertical-align:middle">цѐпихме, цепѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -8001,12 +9188,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">числѝх</td>
 ><td style="text-align:center;vertical-align:middle">числѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -8026,12 +9214,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">чѝстих, чистѝх</td>
 ><td style="text-align:center;vertical-align:middle">чѝстихме, чистѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -8051,12 +9240,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">щадѝх</td>
 ><td style="text-align:center;vertical-align:middle">щадѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -8076,12 +9266,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">явѝх се</td>
 ><td style="text-align:center;vertical-align:middle">явѝхме се</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>The stress of the aorist forms falls on the aorist thematic vowel since the stress of the present stem falls on the present thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -8101,12 +9292,13 @@ A few things to note:
 ><th style="text-align:center;vertical-align:middle"></th>
 ><th style="text-align:center;vertical-align:middle">Singular</th>
 ><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">я̀здих, яздѝх</td>
 ><td style="text-align:center;vertical-align:middle">я̀здихме, яздѝхме</td>
-><td style="text-align:center;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem can fall on the same place as the stress of the present stem or it can shift to the aorist thematic vowel.</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3>Since the verb does not have prefixes, the stress of the aorist stem is allowed to shift to the aorist thematic vowel.</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -8121,4 +9313,1656 @@ A few things to note:
 ></table>
 >
 
+The second subclass of [conjugation II](#Present%20Forms) contains the [verbs](./Verbs%20(Bulgarian).md) whose [aorist stem](#Aorist%20Forms) is derived from the [present stem](#Present%20Forms) by replacing the present thematic vowel ⟨и⟩ with the aorist thematic ⟨я⟩. All of these [verbs](../Serbo-Croatian/Verbs.md) have a dictionary form ending in *-я*. The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) always falls on this thematic ⟨я⟩.
+
+>[!EXAMPLE]- Example: Subclass 2 of Conjugation II
+>
+><table>
+><caption>бдя, бдиш, бдях, бдя ('to watch over', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">бдях</td>
+><td style="text-align:center;vertical-align:middle">бдя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">бдя</td>
+><td style="text-align:center;vertical-align:middle">бдя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">бдя</td>
+><td style="text-align:center;vertical-align:middle">бдя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>блестя̀, блестѝш, блестя̀х, блестя̀ ('to shine', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">блестя̀х</td>
+><td style="text-align:center;vertical-align:middle">блестя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">блестя̀</td>
+><td style="text-align:center;vertical-align:middle">блестя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">блестя̀</td>
+><td style="text-align:center;vertical-align:middle">блестя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>боля̀, болѝш, боля̀х, боля̀ ('to hurt', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">боля̀х</td>
+><td style="text-align:center;vertical-align:middle">боля̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">боля̀</td>
+><td style="text-align:center;vertical-align:middle">боля̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">боля̀</td>
+><td style="text-align:center;vertical-align:middle">боля̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>боя̀ се, боѝш се, боя̀х се, боя̀ се ('to fear', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">боя̀х се</td>
+><td style="text-align:center;vertical-align:middle">боя̀хме се</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">боя̀ се</td>
+><td style="text-align:center;vertical-align:middle">боя̀хте се</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">боя̀ се</td>
+><td style="text-align:center;vertical-align:middle">боя̀ха се</td>
+></tr>
+></table>
+>
+><table>
+><caption>валя̀, валѝш, валя̀х, валя̀ ('to rain', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">валя̀х</td>
+><td style="text-align:center;vertical-align:middle">валя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">валя̀</td>
+><td style="text-align:center;vertical-align:middle">валя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">валя̀</td>
+><td style="text-align:center;vertical-align:middle">валя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>вѝдя, вѝдиш, видя̀х, видя̀ ('to see', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">видя̀х</td>
+><td style="text-align:center;vertical-align:middle">видя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">видя̀</td>
+><td style="text-align:center;vertical-align:middle">видя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">видя̀</td>
+><td style="text-align:center;vertical-align:middle">видя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>воня̀, вонѝш, воня̀х, воня̀ ('to reek', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">воня̀х</td>
+><td style="text-align:center;vertical-align:middle">воня̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">воня̀</td>
+><td style="text-align:center;vertical-align:middle">воня̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">воня̀</td>
+><td style="text-align:center;vertical-align:middle">воня̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>вървя̀, вървѝш, вървя̀х, вървя̀ ('to walk', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">вървя̀х</td>
+><td style="text-align:center;vertical-align:middle">вървя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">вървя̀</td>
+><td style="text-align:center;vertical-align:middle">вървя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">вървя̀</td>
+><td style="text-align:center;vertical-align:middle">вървя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>въртя̀, въртѝш, въртя̀х, въртя̀ ('to spin', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">въртя̀х</td>
+><td style="text-align:center;vertical-align:middle">въртя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">въртя̀</td>
+><td style="text-align:center;vertical-align:middle">въртя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">въртя̀</td>
+><td style="text-align:center;vertical-align:middle">въртя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>горя̀, горѝш, горя̀х, горя̀ ('to burn', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">горя̀х</td>
+><td style="text-align:center;vertical-align:middle">горя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">горя̀</td>
+><td style="text-align:center;vertical-align:middle">горя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">горя̀</td>
+><td style="text-align:center;vertical-align:middle">горя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>грухтя̀, грухтѝш, грухтя̀х, грухтя̀ ('to grunt', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">грухтя̀х</td>
+><td style="text-align:center;vertical-align:middle">грухтя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">грухтя̀</td>
+><td style="text-align:center;vertical-align:middle">грухтя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">грухтя̀</td>
+><td style="text-align:center;vertical-align:middle">грухтя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>гърмя̀, гърмѝш, гърмя̀х, гърмя̀ ('to thunder', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">гърмя̀х</td>
+><td style="text-align:center;vertical-align:middle">гърмя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">гърмя̀</td>
+><td style="text-align:center;vertical-align:middle">гърмя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">гърмя̀</td>
+><td style="text-align:center;vertical-align:middle">гърмя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>димя̀, димѝш, димя̀х, димя̀ ('to smoke', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">димя̀х</td>
+><td style="text-align:center;vertical-align:middle">димя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">димя̀</td>
+><td style="text-align:center;vertical-align:middle">димя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">димя̀</td>
+><td style="text-align:center;vertical-align:middle">димя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>жумя̀, жумѝш, жумя̀х, жумя̀ ('to squint', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">жумя̀х</td>
+><td style="text-align:center;vertical-align:middle">жумя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">жумя̀</td>
+><td style="text-align:center;vertical-align:middle">жумя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">жумя̀</td>
+><td style="text-align:center;vertical-align:middle">жумя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>звъня̀, звънѝш, звъня̀х, звъня̀ ('to ring', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">звъня̀х</td>
+><td style="text-align:center;vertical-align:middle">звъня̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">звъня̀</td>
+><td style="text-align:center;vertical-align:middle">звъня̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">звъня̀</td>
+><td style="text-align:center;vertical-align:middle">звъня̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>кипя̀, кипѝш, кипя̀х, кипя̀ ('to boil', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">кипя̀х</td>
+><td style="text-align:center;vertical-align:middle">кипя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">кипя̀</td>
+><td style="text-align:center;vertical-align:middle">кипя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">кипя̀</td>
+><td style="text-align:center;vertical-align:middle">кипя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>крещя̀, крещѝш, крещя̀х, крещя̀ ('to shout', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">крещя̀х</td>
+><td style="text-align:center;vertical-align:middle">крещя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">крещя̀</td>
+><td style="text-align:center;vertical-align:middle">крещя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">крещя̀</td>
+><td style="text-align:center;vertical-align:middle">крещя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>кънтя̀, кънтѝш, кънтя̀х, кънтя̀ ('to echo', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">кънтя̀х</td>
+><td style="text-align:center;vertical-align:middle">кънтя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">кънтя̀</td>
+><td style="text-align:center;vertical-align:middle">кънтя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">кънтя̀</td>
+><td style="text-align:center;vertical-align:middle">кънтя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>летя̀, летѝш, летя̀х, летя̀ ('to fly', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">летя̀х</td>
+><td style="text-align:center;vertical-align:middle">летя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">летя̀</td>
+><td style="text-align:center;vertical-align:middle">летя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">летя̀</td>
+><td style="text-align:center;vertical-align:middle">летя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>лъщя̀, лъщѝш, лъщя̀х, лъщя̀ ('to shine', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">лъщя̀х</td>
+><td style="text-align:center;vertical-align:middle">лъщя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">лъщя̀</td>
+><td style="text-align:center;vertical-align:middle">лъщя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">лъщя̀</td>
+><td style="text-align:center;vertical-align:middle">лъщя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>лютя̀, лютѝш, лютя̀х, лютя̀ ('to bd spicy', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">лютя̀х</td>
+><td style="text-align:center;vertical-align:middle">лютя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">лютя̀</td>
+><td style="text-align:center;vertical-align:middle">лютя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">лютя̀</td>
+><td style="text-align:center;vertical-align:middle">лютя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>мързѝ, мързя̀ ('to be lazy', imperfective, only third-person singular)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle"></td>
+><td style="text-align:center;vertical-align:middle"></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle"></td>
+><td style="text-align:center;vertical-align:middle"></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">мързя̀</td>
+><td style="text-align:center;vertical-align:middle"></td>
+></tr>
+></table>
+>
+><table>
+><caption>пищя̀, пищѝш, пищя̀х, пищя̀ ('to squeak', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">пищя̀х</td>
+><td style="text-align:center;vertical-align:middle">пищя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">пищя̀</td>
+><td style="text-align:center;vertical-align:middle">пищя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">пищя̀</td>
+><td style="text-align:center;vertical-align:middle">пищя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>пламтя̀, пламтѝш, пламтя̀х, пламтя̀ ('to burn', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">пламтя̀х</td>
+><td style="text-align:center;vertical-align:middle">пламтя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">пламтя̀</td>
+><td style="text-align:center;vertical-align:middle">пламтя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">пламтя̀</td>
+><td style="text-align:center;vertical-align:middle">пламтя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>плющя̀, плющѝш, плющя̀х, плющя̀ ('to devour', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">плющя̀х</td>
+><td style="text-align:center;vertical-align:middle">плющя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">плющя̀</td>
+><td style="text-align:center;vertical-align:middle">плющя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">плющя̀</td>
+><td style="text-align:center;vertical-align:middle">плющя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>пращя̀, пращѝш, пращя̀х, пращя̀ ('to crackle', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">пращя̀х</td>
+><td style="text-align:center;vertical-align:middle">пращя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">пращя̀</td>
+><td style="text-align:center;vertical-align:middle">пращя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">пращя̀</td>
+><td style="text-align:center;vertical-align:middle">пращя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>пуфтя̀, пуфтѝш, пуфтя̀х, пуфтя̀ ('to puff', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">пуфтя̀х</td>
+><td style="text-align:center;vertical-align:middle">пуфтя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">пуфтя̀</td>
+><td style="text-align:center;vertical-align:middle">пуфтя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">пуфтя̀</td>
+><td style="text-align:center;vertical-align:middle">пуфтя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>пълзя̀, пълзѝш, пълзя̀х, пълзя̀ ('to crawl', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">пълзя̀х</td>
+><td style="text-align:center;vertical-align:middle">пълзя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">пълзя̀</td>
+><td style="text-align:center;vertical-align:middle">пълзя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">пълзя̀</td>
+><td style="text-align:center;vertical-align:middle">пълзя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>пърдя̀, пърдѝш, пърдя̀х, пърдя̀ ('to fart', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">пърдя̀х</td>
+><td style="text-align:center;vertical-align:middle">пърдя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">пърдя̀</td>
+><td style="text-align:center;vertical-align:middle">пърдя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">пърдя̀</td>
+><td style="text-align:center;vertical-align:middle">пърдя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>седя̀, седѝш, седя̀х, седя̀ ('to sit', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">седя̀х</td>
+><td style="text-align:center;vertical-align:middle">седя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">седя̀</td>
+><td style="text-align:center;vertical-align:middle">седя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">седя̀</td>
+><td style="text-align:center;vertical-align:middle">седя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>смърдя̀, смърдѝш, смърдя̀х, смърдя̀ ('to reek', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">смърдя̀х</td>
+><td style="text-align:center;vertical-align:middle">смърдя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">смърдя̀</td>
+><td style="text-align:center;vertical-align:middle">смърдя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">смърдя̀</td>
+><td style="text-align:center;vertical-align:middle">смърдя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>стоя̀, стоѝш, стоя̀х, стоя̀ ('to stand', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">стоя̀х</td>
+><td style="text-align:center;vertical-align:middle">стоя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">стоя̀</td>
+><td style="text-align:center;vertical-align:middle">стоя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">стоя̀</td>
+><td style="text-align:center;vertical-align:middle">стоя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>сърбѝ, сърбя̀ ('to itch', imperfective, only third-person)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle"></td>
+><td style="text-align:center;vertical-align:middle"></td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle"></td>
+><td style="text-align:center;vertical-align:middle"></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">сърбя̀</td>
+><td style="text-align:center;vertical-align:middle">сърбя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>твърдя̀, твърдѝш, твърдя̀х, твърдя̀ ('to state', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">твърдя̀х</td>
+><td style="text-align:center;vertical-align:middle">твърдя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">твърдя̀</td>
+><td style="text-align:center;vertical-align:middle">твърдя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">твърдя̀</td>
+><td style="text-align:center;vertical-align:middle">твърдя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>трептя̀, трептѝш, трептя̀х, трептя̀ ('to vibrate', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">трептя̀х</td>
+><td style="text-align:center;vertical-align:middle">трептя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">трептя̀</td>
+><td style="text-align:center;vertical-align:middle">трептя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">трептя̀</td>
+><td style="text-align:center;vertical-align:middle">трептя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>туптя̀, туптѝш, туптя̀х, туптя̀ ('to beat', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">туптя̀х</td>
+><td style="text-align:center;vertical-align:middle">туптя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">туптя̀</td>
+><td style="text-align:center;vertical-align:middle">туптя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">туптя̀</td>
+><td style="text-align:center;vertical-align:middle">туптя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>търпя̀, търпѝш, търпя̀х, търпя̀ ('to endure', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">търпя̀х</td>
+><td style="text-align:center;vertical-align:middle">търпя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">търпя̀</td>
+><td style="text-align:center;vertical-align:middle">търпя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">търпя̀</td>
+><td style="text-align:center;vertical-align:middle">търпя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>цъфтя̀, цъфтѝш, цъфтя̀х, цъфтя̀ ('to blossom', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">цъфтя̀х</td>
+><td style="text-align:center;vertical-align:middle">цъфтя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">цъфтя̀</td>
+><td style="text-align:center;vertical-align:middle">цъфтя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">цъфтя̀</td>
+><td style="text-align:center;vertical-align:middle">цъфтя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>шептя̀, шептѝш, шептя̀х, шептя̀ ('to whisper', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">шептя̀х</td>
+><td style="text-align:center;vertical-align:middle">шептя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">шептя̀</td>
+><td style="text-align:center;vertical-align:middle">шептя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">шептя̀</td>
+><td style="text-align:center;vertical-align:middle">шептя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>шумя̀, шумѝш, шумя̀х, шумя̀ ('to make noise', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">шумя̀х</td>
+><td style="text-align:center;vertical-align:middle">шумя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">шумя̀</td>
+><td style="text-align:center;vertical-align:middle">шумя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">шумя̀</td>
+><td style="text-align:center;vertical-align:middle">шумя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>шуртя̀, шуртѝш, шуртя̀х, шуртя̀ ('to gush', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">шуртя̀х</td>
+><td style="text-align:center;vertical-align:middle">шуртя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">шуртя̀</td>
+><td style="text-align:center;vertical-align:middle">шуртя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">шуртя̀</td>
+><td style="text-align:center;vertical-align:middle">шуртя̀ха</td>
+></tr>
+></table>
+>
+
+The third subclass of [conjugation II](#Present%20Forms) contains the [verbs](./Verbs%20(Bulgarian).md) whose [aorist stem](#Aorist%20Forms) is derived from the [present stem](#Present%20Forms) by replacing the present thematic vowel ⟨и⟩ with the aorist thematic vowel ⟨а⟩. All of these [verbs](../Serbo-Croatian/Verbs.md) have a dictionary form ending in either *-жа̀* or *-ча̀*. The [stress](./Phonology%20(Bulgarian).md#Stress) of the [aorist stem](#Aorist%20Forms) always falls on this thematic ⟨я⟩.
+
+>[!EXAMPLE]- Example: Subclass 3 of Conjugation II
+>
+><table>
+><caption>бръмча̀, бръмчѝш, бръмча̀х, бръмча̀ ('to drone', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">бръмча̀х</td>
+><td style="text-align:center;vertical-align:middle">бръмча̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">бръмча̀</td>
+><td style="text-align:center;vertical-align:middle">бръмча̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">бръмча̀</td>
+><td style="text-align:center;vertical-align:middle">бръмча̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>буча̀, бучѝш, буча̀х, буча̀ ('to rumble', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">буча̀х</td>
+><td style="text-align:center;vertical-align:middle">буча̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">буча̀</td>
+><td style="text-align:center;vertical-align:middle">буча̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">буча̀</td>
+><td style="text-align:center;vertical-align:middle">буча̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>горча̀, горчѝш, горча̀х, горча̀ ('to be sour', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">горча̀х</td>
+><td style="text-align:center;vertical-align:middle">горча̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">горча̀</td>
+><td style="text-align:center;vertical-align:middle">горча̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">горча̀</td>
+><td style="text-align:center;vertical-align:middle">горча̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>гъмжа̀, гъмжѝш, гъмжа̀х, гъмжа̀ ('to swarm', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">гъмжа̀х</td>
+><td style="text-align:center;vertical-align:middle">гъмжа̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">гъмжа̀</td>
+><td style="text-align:center;vertical-align:middle">гъмжа̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">гъмжа̀</td>
+><td style="text-align:center;vertical-align:middle">гъмжа̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>дрънча̀, дрънчѝш, дрънча̀х, дрънча̀ ('to clatter', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">дрънча̀х</td>
+><td style="text-align:center;vertical-align:middle">дрънча̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">дрънча̀</td>
+><td style="text-align:center;vertical-align:middle">дрънча̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">дрънча̀</td>
+><td style="text-align:center;vertical-align:middle">дрънча̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>държа̀, държѝш, държа̀х, държа̀ ('to hold', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">държа̀х</td>
+><td style="text-align:center;vertical-align:middle">държа̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">държа̀</td>
+><td style="text-align:center;vertical-align:middle">държа̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">държа̀</td>
+><td style="text-align:center;vertical-align:middle">държа̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>жужа̀, жужѝш, жужа̀х, жужа̀ ('to buzz', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">жужа̀х</td>
+><td style="text-align:center;vertical-align:middle">жужа̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">жужа̀</td>
+><td style="text-align:center;vertical-align:middle">жужа̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">жужа̀</td>
+><td style="text-align:center;vertical-align:middle">жужа̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>звуча̀, звучѝш, звуча̀х, звуча̀ ('to sound', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">звуча̀х</td>
+><td style="text-align:center;vertical-align:middle">звуча̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">звуча̀</td>
+><td style="text-align:center;vertical-align:middle">звуча̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">звуча̀</td>
+><td style="text-align:center;vertical-align:middle">звуча̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>квича̀, квичѝш, квича̀х, квича̀ ('to squeak', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">квича̀х</td>
+><td style="text-align:center;vertical-align:middle">квича̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">квича̀</td>
+><td style="text-align:center;vertical-align:middle">квича̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">квича̀</td>
+><td style="text-align:center;vertical-align:middle">квича̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>клеча̀, клечѝш, клеча̀х, клеча̀ ('to squat', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">клеча̀х</td>
+><td style="text-align:center;vertical-align:middle">клеча̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">клеча̀</td>
+><td style="text-align:center;vertical-align:middle">клеча̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">клеча̀</td>
+><td style="text-align:center;vertical-align:middle">клеча̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>лежа̀, лежѝш, лежа̀х, лежа̀ ('to lie down', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">лежа̀х</td>
+><td style="text-align:center;vertical-align:middle">лежа̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">лежа̀</td>
+><td style="text-align:center;vertical-align:middle">лежа̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">лежа̀</td>
+><td style="text-align:center;vertical-align:middle">лежа̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>лича̀, личѝш, лича̀х, лича̀ ('to seem', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">лича̀х</td>
+><td style="text-align:center;vertical-align:middle">лича̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">лича̀</td>
+><td style="text-align:center;vertical-align:middle">лича̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">лича̀</td>
+><td style="text-align:center;vertical-align:middle">лича̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>мълча̀, мълчѝш, мълча̀х, мълча̀ ('to be silent', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">мълча̀х</td>
+><td style="text-align:center;vertical-align:middle">мълча̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">мълча̀</td>
+><td style="text-align:center;vertical-align:middle">мълча̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">мълча̀</td>
+><td style="text-align:center;vertical-align:middle">мълча̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>ръмжа̀, ръмжѝш, ръмжа̀х, ръмжа̀ ('to growl', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">ръмжа̀х</td>
+><td style="text-align:center;vertical-align:middle">ръмжа̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">ръмжа̀</td>
+><td style="text-align:center;vertical-align:middle">ръмжа̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">ръмжа̀</td>
+><td style="text-align:center;vertical-align:middle">ръмжа̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>стърча̀, стърчѝш, стърча̀х, стърча̀ ('to jut out', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">стърча̀х</td>
+><td style="text-align:center;vertical-align:middle">стърча̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">стърча̀</td>
+><td style="text-align:center;vertical-align:middle">стърча̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">стърча̀</td>
+><td style="text-align:center;vertical-align:middle">стърча̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>тежа̀, тежѝш, тежа̀х, тежа̀ ('to weigh', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">тежа̀х</td>
+><td style="text-align:center;vertical-align:middle">тежа̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">тежа̀</td>
+><td style="text-align:center;vertical-align:middle">тежа̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">тежа̀</td>
+><td style="text-align:center;vertical-align:middle">тежа̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>търча̀, търчѝш, търча̀х, търча̀ ('to run around', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">търча̀х</td>
+><td style="text-align:center;vertical-align:middle">търча̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">търча̀</td>
+><td style="text-align:center;vertical-align:middle">търча̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">търча̀</td>
+><td style="text-align:center;vertical-align:middle">търча̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>фуча̀, фучѝш, фуча̀х, фуча̀ ('to blow', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">фуча̀х</td>
+><td style="text-align:center;vertical-align:middle">фуча̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">фуча̀</td>
+><td style="text-align:center;vertical-align:middle">фуча̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">фуча̀</td>
+><td style="text-align:center;vertical-align:middle">фуча̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>хвърча̀, хвърчѝш, хвърча̀х, хвърча̀ ('to fly', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">хвърча̀х</td>
+><td style="text-align:center;vertical-align:middle">хвърча̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">хвърча̀</td>
+><td style="text-align:center;vertical-align:middle">хвърча̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">хвърча̀</td>
+><td style="text-align:center;vertical-align:middle">хвърча̀ха</td>
+></tr>
+></table>
+>
+
+The [verbs](./Verbs%20(Bulgarian).md) *спя*, *коля* and *реша* have an irregular [aorist stem](#Aorist%20Forms):
+
+<table>
+<caption>спя̀, спѝш, спа̀х, спа̀ ('to sleep', imperfective)</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
+<th style="text-align:center;vertical-align:middle">Notes</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">First Person</th>
+<td style="text-align:center;vertical-align:middle">спах</td>
+<td style="text-align:center;vertical-align:middle">спа̀хме</td>
+<td style="text-align:left;vertical-align:middle" rowspan=3></td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Second Person</th>
+<td style="text-align:center;vertical-align:middle">спа</td>
+<td style="text-align:center;vertical-align:middle">спа̀хте</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Third Person</th>
+<td style="text-align:center;vertical-align:middle">спа</td>
+<td style="text-align:center;vertical-align:middle">спа̀ха</td>
+</tr>
+</table>
+
+<table>
+<caption>ко̀ля, ко̀лиш, клах, кла ('to slaughter', imperfective)</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
+<th style="text-align:center;vertical-align:middle">Notes</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">First Person</th>
+<td style="text-align:center;vertical-align:middle">клах</td>
+<td style="text-align:center;vertical-align:middle">кла̀хме</td>
+<td style="text-align:left;vertical-align:middle" rowspan=3></td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Second Person</th>
+<td style="text-align:center;vertical-align:middle">кла</td>
+<td style="text-align:center;vertical-align:middle">кла̀хте</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Third Person</th>
+<td style="text-align:center;vertical-align:middle">кла</td>
+<td style="text-align:center;vertical-align:middle">кла̀ха</td>
+</tr>
+</table>
+
+<table>
+<caption>рѐша, рѐшиш, рѐсах, рѐса ('to comb', imperfective)</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
+<th style="text-align:center;vertical-align:middle">Notes</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">First Person</th>
+<td style="text-align:center;vertical-align:middle">рѐсах</td>
+<td style="text-align:center;vertical-align:middle">рѐсахме</td>
+<td style="text-align:left;vertical-align:middle" rowspan=3></td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Second Person</th>
+<td style="text-align:center;vertical-align:middle">рѐса</td>
+<td style="text-align:center;vertical-align:middle">рѐсахте</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Third Person</th>
+<td style="text-align:center;vertical-align:middle">рѐса</td>
+<td style="text-align:center;vertical-align:middle">рѐсаха</td>
+</tr>
+</table>
+
 ### Third-Conjugation Aorist Forms
+
+The [aorist stem](#Aorist%20Forms) of each [verb](./Verbs%20(Bulgarian).md) of the third [conjugation](#Present%20Forms)  is identical to its [present stem](#Present%20Forms). 
