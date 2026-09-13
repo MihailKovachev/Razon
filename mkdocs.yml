@@ -10,7 +10,6 @@ copyright: Copyright &copy; 2026 <a href="https://github.com/MihailKovachev">Mih
 docs_dir: vault
 
 markdown_extensions:
-  - nl2br
   - admonition
   - tables
   - def_list
