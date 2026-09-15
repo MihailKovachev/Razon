@@ -7,7 +7,7 @@ tags:
 
 # Introduction
 
-Nouns in [[./index|Latin]] are words which refer to people, places, things and ideas. There are two types of nouns:
+Nouns in [Latin](./Latin.md) are words which refer to people, places, things and ideas. There are two types of nouns:
 - **Proper nouns** are the names of particular people or places such as "Caesar" and "Rōma".
 - All other nouns are known as **common nouns**.
 
@@ -16,7 +16,7 @@ Nouns in [[./index|Latin]] are words which refer to people, places, things and i
 Every noun in Latin has a [[TODO|grammatical gender]] which can be either masculine, feminine or neuter. For the most part, each word needs to be learnt together with its gender, although there are certain rules which can sometimes make it possible to predict the gender of a given noun:
 - The names of male people, rivers, winds, months and mountains are generally masculine - "pater", "Iūlius", "Tiberis", "auster", "Iānuārius", "Apennīnus".
 - The names of female people, cities, countries, plants, trees, gems, many animals (especially birds) and most nouns which refer to abstract concepts are usually feminine - "māter" (mother), Iūlia (Julia), "Rōma" (Rome), "Ītalia" (Italy), "rosa" (rose), "pīnus" (pine), "sapphīrus" (sapphire), "anas" (duck), "vēritās" (truth).
-- [[Nouns#Declension|Indeclinable]] nouns, infinitives, terms or phrases used as nouns, and quoted words are usually neuter - "fās" (right), "nihil" (nothing), "gummī" (gum), "scīre" (lit. "a knowing", knowledge), "valē" (a goodbye, a farewell).
+- [Indeclinable](#Declension) nouns, infinitives, terms or phrases used as nouns, and quoted words are usually neuter - "fās" (right), "nihil" (nothing), "gummī" (gum), "scīre" (lit. "a knowing", knowledge), "valē" (a goodbye, a farewell).
 
 >[!WARNING] Warning
 >
@@ -25,7 +25,7 @@ Every noun in Latin has a [[TODO|grammatical gender]] which can be either mascul
 
 ## Number
 
-Most [[Nouns#Introduction|Nouns]] can be in one of two numbers - singular or plural. Singular nouns are used to refer to only one instance of something, while plural nouns refer to multiple instances. Whether a noun is singular or plural is reflected by its [[Nouns#Declension|ending]].
+Most [Nouns](#Introduction) can be in one of two numbers - singular or plural. Singular nouns are used to refer to only one instance of something, while plural nouns refer to multiple instances. Whether a noun is singular or plural is reflected by its [ending](#Declension).
 
 >[!NOTE] Note: singulāria tantum
 >
@@ -39,15 +39,15 @@ Most [[Nouns#Introduction|Nouns]] can be in one of two numbers - singular or plu
 
 ## Case
 
-Every [[Nouns#Introduction|noun]] can be in one of seven [[TODO|cases]] depending on its role in a given sentence. This is reflected by its [[Nouns#Declension|ending]].
+Every [noun](#Introduction) can be in one of seven [[TODO|cases]] depending on its role in a given sentence. This is reflected by its [ending](#Declension).
 
 # Morphology
 
 ## Declension
 
-The vast majority of [[Nouns#Introduction|nouns]] change their form to reflect their [[Nouns#Case|case]] and [[Nouns#Number|number]], in a process known as **declining**. In dictionaries, [[Nouns#Introduction|nouns]] are listed by their [[TODO|nominative]] [[Nouns#Number|singular]] form followed by their [[TODO|genitive]] [[Nouns#Number|singular]] form and you must learn both forms for each noun. 
+The vast majority of [nouns](#Introduction) change their form to reflect their [case](#Case) and [number](#Number), in a process known as **declining**. In dictionaries, [nouns](#Introduction) are listed by their [[TODO|nominative]] [singular](#Number) form followed by their [[TODO|genitive]] [singular](#Number) form and you must learn both forms for each noun. 
 
-[[Nouns#Introduction|Nouns]] are divided into five groups known as **declensions** depending on their [[TODO|genitive]] [[TODO|singular]] ending. Each ending stands for a combination of [[Nouns#Case|case]] and [[Nouns#Number|number]] and, for the most part, nouns belonging to the same declension use the same set of endings. To decline a noun, you just attach the appropriate ending to its stem. The stem is obtained by removing the ending from the noun's [[TODO|genitive]] [[Nouns#Number|singular]] form. For [[Nouns#Number|plūrālia tantum]] nouns, the [[TODO|genitive]] [[Nouns#Number|plural]] is used instead.
+[Nouns](#Introduction) are divided into five groups known as **declensions** depending on their [[TODO|genitive]] [[TODO|singular]] ending. Each ending stands for a combination of [case](#Case) and [number](#Number) and, for the most part, nouns belonging to the same declension use the same set of endings. To decline a noun, you just attach the appropriate ending to its stem. The stem is obtained by removing the ending from the noun's [[TODO|genitive]] [singular](#Number) form. For [plūrālia tantum](#Number) nouns, the [[TODO|genitive]] [plural](#Number) is used instead.
 
 <table>
 <caption>Declensions Chart</caption>
@@ -88,15 +88,15 @@ The vast majority of [[Nouns#Introduction|nouns]] change their form to reflect t
 
 As you see, the stem can differ quite a lot from the nominative form.
 
-Since there are seven [[TODO|cases]] and two [[Nouns#Number|numbers]], a single [[Nouns#Introduction|noun]] may have up to 14 forms. Moreover, there are five declensions for a total number of $14 \times 5 = 70$ endings. Luckily, many endings are identical and there are some rules which can help you memorize them:
-- The [[TODO|nominative]] and [[TODO|accusative]] of [[Nouns#Gender|neuter]] nouns are always the same and end in *-a* in the [[Nouns#Number|plural]]. This is one of the few rules with absolutely no exceptions.
-- The [[TODO|dative]] and [[TODO|ablative]] [[Nouns#Number|plural]] of a given noun are always the same.
-- The [[TODO|genitive]] [[Nouns#Number|plural]] always ends in *-um*.
-- The [[TODO|vocative]] is always the same as the [[TODO|nominative]] except for [[Nouns#Declension|second declension]] [[Nouns#Number|singular]] nouns ending in *-us*.
+Since there are seven [[TODO|cases]] and two [numbers](#Number), a single [noun](#Introduction) may have up to 14 forms. Moreover, there are five declensions for a total number of $14 \times 5 = 70$ endings. Luckily, many endings are identical and there are some rules which can help you memorize them:
+- The [[TODO|nominative]] and [[TODO|accusative]] of [neuter](#Gender) nouns are always the same and end in *-a* in the [plural](#Number). This is one of the few rules with absolutely no exceptions.
+- The [[TODO|dative]] and [[TODO|ablative]] [plural](#Number) of a given noun are always the same.
+- The [[TODO|genitive]] [plural](#Number) always ends in *-um*.
+- The [[TODO|vocative]] is always the same as the [[TODO|nominative]] except for [second declension](#Declension) [singular](#Number) nouns ending in *-us*.
 
 ## First Declension
 
-These are the endings used by nouns belonging to the first [[Nouns#Declension|declension]].
+These are the endings used by nouns belonging to the first [declension](#Declension).
 
 <table>
 <caption>First Declension Endings Chart</caption>
@@ -204,18 +204,18 @@ These are the endings used by nouns belonging to the first [[Nouns#Declension|de
 >[!WARNING]- Warning: Exceptions
 >
 >There are a few exceptions to the above endings but they are quite rare:
->- In Old Latin, the [[TODO|genitive]] [[Nouns#Number|singular]] ended in *-āī*. This form is still occasionally found in some words such as "aulāī".
->- The word "familia" has preserved the old form "familiās" of the [[TODO|genitive]] [[Nouns#Number|singular]].
->- The [[TODO|genitive]] [[Nouns#Number|plural]] is sometimes just *-um* instead of *-ārum*, especially in Greek words meaning "descendants of" (such as "Aenaedum") and in compounds with *-cola* and *-gena* which signify provenance or dwelling (such as "caelicolum" or "Trōiugenum").
->- The [[TODO|dative]] and [[TODO|ablative]] [[Nouns#Number|plural]] of "dea" ("goddess") and "fīlia" ("daughter") end in *-ābus* ("deābus", "fīliābus") to distinguish them from the corresponding cases of "deus" ("god") and "fīlius" ("son").
->- Some words borrowed from Greek can retain some of their original Greek forms in the [[Nouns#Number|singular]]. These are best learnt on a case-by-case basis.
+>- In Old Latin, the [[TODO|genitive]] [singular](#Number) ended in *-āī*. This form is still occasionally found in some words such as "aulāī".
+>- The word "familia" has preserved the old form "familiās" of the [[TODO|genitive]] [singular](#Number).
+>- The [[TODO|genitive]] [plural](#Number) is sometimes just *-um* instead of *-ārum*, especially in Greek words meaning "descendants of" (such as "Aenaedum") and in compounds with *-cola* and *-gena* which signify provenance or dwelling (such as "caelicolum" or "Trōiugenum").
+>- The [[TODO|dative]] and [[TODO|ablative]] [plural](#Number) of "dea" ("goddess") and "fīlia" ("daughter") end in *-ābus* ("deābus", "fīliābus") to distinguish them from the corresponding cases of "deus" ("god") and "fīlius" ("son").
+>- Some words borrowed from Greek can retain some of their original Greek forms in the [singular](#Number). These are best learnt on a case-by-case basis.
 >
 
-The vast majority of [[Nouns#First Declension|first-declension]] nouns are [[Nouns#Gender|feminine]]. The only exceptions are nouns signifying male people such as "nauta" ("sailor") and "agricola" ("farmer") - these are [[Nouns#Gender|masculine]]. There are also some family and personal names, such as "Mūrēna", "Dolābella", "Scaevola" and "Hadria", which are also These are the endings used by nouns belonging to the first [[Nouns#Declension|declension]]. No [[Nouns#Gender|neuter]] nouns belong to the [[Nouns#First Declension|first declension]].
+The vast majority of [first-declension](#First%20Declension) nouns are [feminine](#Gender). The only exceptions are nouns signifying male people such as "nauta" ("sailor") and "agricola" ("farmer") - these are [masculine](#Gender). There are also some family and personal names, such as "Mūrēna", "Dolābella", "Scaevola" and "Hadria", which are also These are the endings used by nouns belonging to the first [declension](#Declension). No [neuter](#Gender) nouns belong to the [first declension](#First%20Declension).
 
 ## Second Declension
 
-There are two sets of endings used by nouns belonging to the second [[Nouns#Declension|declension]] depending on [[Nouns#Gender|gender]].
+There are two sets of endings used by nouns belonging to the second [declension](#Declension) depending on [gender](#Gender).
 
 <table>
 <caption>Second Declension Endings Chart (Masculine and Feminine)</caption>
@@ -267,7 +267,7 @@ There are two sets of endings used by nouns belonging to the second [[Nouns#Decl
 </tbody>
 </table>
 
-If the noun ends in *-us*, then its [[TODO|vocative]] [[Nouns#Number|singular]] ends in *-e*. The [[TODO|vocative]] and [[TODO|nominative]] forms of nouns ending in *-er* / *-ir* are identical . If a proper noun ends in *-ius*, then its [[TODO|vocative]] [[Nouns#Number|singular]] ends in *-ī* and not *-iī* (i.e. "Vergilius" becomes "Vergilī"), but the [[Orthography and Phonology#Stress Accent|stress]] remains on the same syllable as in the [[TODO|nominative]] [[Nouns#Number|singular]]. The same applies for the words "fīlius" ("son") and "genius" ("divine guardian").
+If the noun ends in *-us*, then its [[TODO|vocative]] [singular](#Number) ends in *-e*. The [[TODO|vocative]] and [[TODO|nominative]] forms of nouns ending in *-er* / *-ir* are identical . If a proper noun ends in *-ius*, then its [[TODO|vocative]] [singular](#Number) ends in *-ī* and not *-iī* (i.e. "Vergilius" becomes "Vergilī"), but the [stress](./Orthography%20and%20Phonology.md#Stress%20Accent) remains on the same syllable as in the [[TODO|nominative]] [singular](#Number). The same applies for the words "fīlius" ("son") and "genius" ("divine guardian").
 
 Some nouns ending in *-er* do not have the *-e* in the stem, while others do.
 
@@ -476,7 +476,7 @@ Some nouns ending in *-er* do not have the *-e* in the stem, while others do.
 
 >[!WARNING]- Warning: Exceptions
 >
->The [[Nouns#Case|genitive]] [[Nouns#Number|plural]] is often just *-um* (or *-om* after *v*) instead of *-ōrum*, especially in poetry, in compounds of "vir" and in many words related to money, measure and weight: "deum", "superum", "dīvom", "virum", "Sēvirum", "nummum", "iūgerum", etc.
+>The [genitive](#Case) [plural](#Number) is often just *-um* (or *-om* after *v*) instead of *-ōrum*, especially in poetry, in compounds of "vir" and in many words related to money, measure and weight: "deum", "superum", "dīvom", "virum", "Sēvirum", "nummum", "iūgerum", etc.
 >
 >The word "deus" has many alternative forms:
 >
@@ -533,7 +533,7 @@ Some nouns ending in *-er* do not have the *-e* in the stem, while others do.
 >There are also many Greek nouns which may retain some of their original forms. These are best learnt on a case-by-case basis.
 >
 
-Most nouns ending in *-us*, *-er* and *-ir* are [[Nouns#Gender|masculine]]. The major exceptions are the names of many countries and towns ending in *-us* ("Aegyptus", "Corinthus"), the names of many plants and gems ("alvus", "carbasus", "colus", "humus", "vannus") and many Greek nouns which retain their original gender ("arctus", "methodus") - all these are [[Nouns#Gender|feminine]]. There also the three nouns "pelagus" ("sea"), "vīrus" ("poison") and "vulgus" ("crowd") which are [[Nouns#Gender|neuter]]. Their [[Nouns#Case|nominative]] and [[Nouns#Case|accusative]] forms are identical, as with all neuters.
+Most nouns ending in *-us*, *-er* and *-ir* are [masculine](#Gender). The major exceptions are the names of many countries and towns ending in *-us* ("Aegyptus", "Corinthus"), the names of many plants and gems ("alvus", "carbasus", "colus", "humus", "vannus") and many Greek nouns which retain their original gender ("arctus", "methodus") - all these are [feminine](#Gender). There also the three nouns "pelagus" ("sea"), "vīrus" ("poison") and "vulgus" ("crowd") which are [neuter](#Gender). Their [nominative](#Case) and [accusative](#Case) forms are identical, as with all neuters.
 
 <table>
 <caption>Second Declension Endings Chart (Neuter)</caption>
@@ -638,11 +638,11 @@ Most nouns ending in *-us*, *-er* and *-ir* are [[Nouns#Gender|masculine]]. The 
 ></table>
 >
 
-All nouns ending in *-um* are [[Nouns#Gender|neuter]].
+All nouns ending in *-um* are [neuter](#Gender).
 
 ## Third Declension
 
-The third [[Nouns#Declension|declension]] is the most diverse and complicated of all the declensions. 
+The third [declension](#Declension) is the most diverse and complicated of all the declensions. 
 
 <table>
 <caption>Third Declension Endings (Masculine and Feminine)</caption>
@@ -957,13 +957,13 @@ The third [[Nouns#Declension|declension]] is the most diverse and complicated of
 >Also, some Greek nouns may retain some of their original forms. These are best learnt on a case-by-case basis.
 >
 
-Most nouns ending in *-or*, *-ōs*, *-er*, *-es* (gen. *-itis*), *-ex* (gen. *-icis*) are [[Nouns#Gender|masculine]]. Nouns ending in a [[TODO|consonant]] + *-ō*, *-ās*, *-ēs*, *-is*, *-ūs*, *-x* or *-s* are usually [[Nouns#Gender|feminine]]. Nouns ending in *-a*, *-e*, *-l*, *-n*, *-ar*, *-ur* or *-us* are predominantly [[Nouns#Gender|neuter]].
+Most nouns ending in *-or*, *-ōs*, *-er*, *-es* (gen. *-itis*), *-ex* (gen. *-icis*) are [masculine](#Gender). Nouns ending in a [[TODO|consonant]] + *-ō*, *-ās*, *-ēs*, *-is*, *-ūs*, *-x* or *-s* are usually [feminine](#Gender). Nouns ending in *-a*, *-e*, *-l*, *-n*, *-ar*, *-ur* or *-us* are predominantly [neuter](#Gender).
 
 ### i-Stems
 
-There is a special subset of [[Nouns#Third Declension|third-declension]] nouns known as **i-stems**. These are a remnant of Old Latin and use slightly different endings. Moreover, there exist two types of i-stem nouns:
+There is a special subset of [third-declension](#Third%20Declension) nouns known as **i-stems**. These are a remnant of Old Latin and use slightly different endings. Moreover, there exist two types of i-stem nouns:
 - **pure i-stems** - these use all of the i-stem endings;
-- **mixed i-stems** - these use the i-stem endings only in the [[Nouns#Number|plural]].
+- **mixed i-stems** - these use the i-stem endings only in the [plural](#Number).
 
 <table>
 <caption>Third Declension i-Stem Endings (Masculine and Feminine)</caption>
@@ -1067,7 +1067,7 @@ There is a special subset of [[Nouns#Third Declension|third-declension]] nouns k
 
 If multiple forms are present, then the one outside parentheses is preferred.
 
-Most [[Nouns#Gender|masculine]] and [[Nouns#Gender|feminine]] [[Nouns#Introduction|nouns]] which have the same number of [[TODO|syllables]] in the [[Nouns#Case|nominative]] and [[Nouns#Case|genitive]] [[Nouns#Number|singular]] are [[Nouns#i-Stems|pure i-stems]]. [[Nouns#Gender|Neuter]] [[Nouns#Introduction|nouns]] ending in *-e*, *-al* or *-ar* are also usually [[Nouns#i-Stems|pure i-stems]].
+Most [masculine](#Gender) and [feminine](#Gender) [nouns](#Introduction) which have the same number of [[TODO|syllables]] in the [nominative](#Case) and [genitive](#Case) [singular](#Number) are [pure i-stems](#i-Stems). [Neuter](#Gender) [nouns](#Introduction) ending in *-e*, *-al* or *-ar* are also usually [pure i-stems](#i-Stems).
 
 >[!EXAMPLE]- Example: Pure i-Stems
 >
@@ -1172,12 +1172,12 @@ Most [[Nouns#Gender|masculine]] and [[Nouns#Gender|feminine]] [[Nouns#Introducti
 ></table>
 >
 
-The following words are usually [[Nouns#i-Stems|mixed i-stems]]:
-- [[Nouns#Introduction|Nouns]] ending in *-ēs* such as "mēlēs," "nūbēs", "vulpēs", etc.;
-- [[Nouns#Introduction|Nouns]] whose [[Nouns#Case|nominative]] [[Nouns#Number|singular]] has only one [[TODO|syllable]] and ends in a [[TODO|consonant]] + *-s* or *-x*, such as "ars", "pōns", "arx", etc.;
-- [[Nouns#Introduction|Nouns]] whose [[Nouns#Case|nominative]] [[Nouns#Number|singular]] has more than one [[TODO|syllable]] and ends in *-ns* or *-rs*, such as "cliēns" and "cohors";
-- [[Nouns#Introduction|Nouns]] whose [[Nouns#Case|nominative]] [[Nouns#Number|singular]] ends in *-tās* and whose [[Nouns#Case|genitive]] [[Nouns#Number|singular]] ends in *-tātis*, such as "cīvitās";
-- The words "Penātēs", "optimātēs" as well as nouns denoting birth whose [[Nouns#Case|nominative]] [[Nouns#Number|singular]] in *-ās*, *-īs* (with plural *-ātēs*, *-ītēs*), such as "Arpīnās" and "Quirīs";
+The following words are usually [mixed i-stems](#i-Stems):
+- [Nouns](#Introduction) ending in *-ēs* such as "mēlēs," "nūbēs", "vulpēs", etc.;
+- [Nouns](#Introduction) whose [nominative](#Case) [singular](#Number) has only one [[TODO|syllable]] and ends in a [[TODO|consonant]] + *-s* or *-x*, such as "ars", "pōns", "arx", etc.;
+- [Nouns](#Introduction) whose [nominative](#Case) [singular](#Number) has more than one [[TODO|syllable]] and ends in *-ns* or *-rs*, such as "cliēns" and "cohors";
+- [Nouns](#Introduction) whose [nominative](#Case) [singular](#Number) ends in *-tās* and whose [genitive](#Case) [singular](#Number) ends in *-tātis*, such as "cīvitās";
+- The words "Penātēs", "optimātēs" as well as nouns denoting birth whose [nominative](#Case) [singular](#Number) in *-ās*, *-īs* (with plural *-ātēs*, *-ītēs*), such as "Arpīnās" and "Quirīs";
 - The words "dōs", "fraus", "glīs", "līs", "mās", "mūs", "nix", "nox", "strix", "vīs".
 
 >[!EXAMPLE]- Example: Mixed i-Stems
@@ -1235,7 +1235,7 @@ The following words are usually [[Nouns#i-Stems|mixed i-stems]]:
 
 ## Fourth Declension
 
-These are the endings used by nouns belonging to the fourth [[Nouns#Declension|declension]].
+These are the endings used by nouns belonging to the fourth [declension](#Declension).
 
 <table>
 <caption>Fourth Declension Endings (Masculine and Feminine)</caption>
@@ -1443,11 +1443,11 @@ These are the endings used by nouns belonging to the fourth [[Nouns#Declension|d
 ></table>
 >
 
-The vast majority of [[Nouns#Fourth Declension|fourth-declension]] nouns are [[Nouns#Gender|masculine]]. However, some names of trees and plants as well as the words "acus", "anus", "colus", "domus", "manus", "nurus", "porticus", "socrus" and "tribus" are [[Nouns#Gender|feminine]]. The only [[Nouns#Gender|neuter]] nouns are "cornū", "genū", "pecū" and "verū". 
+The vast majority of [fourth-declension](#Fourth%20Declension) nouns are [masculine](#Gender). However, some names of trees and plants as well as the words "acus", "anus", "colus", "domus", "manus", "nurus", "porticus", "socrus" and "tribus" are [feminine](#Gender). The only [neuter](#Gender) nouns are "cornū", "genū", "pecū" and "verū". 
 
 ## Fifth Declension
 
-These are the endings used by nouns belonging to the fifth [[Nouns#Declension|declension]].
+These are the endings used by nouns belonging to the fifth [declension](#Declension).
 
 <table>
 <caption>Fifth Declension Endings</caption>
@@ -1499,7 +1499,7 @@ These are the endings used by nouns belonging to the fifth [[Nouns#Declension|de
 </tbody>
 </table>
 
-The [[Nouns#Case|locative]] is only encountered in the [[Nouns#Number|singular]] and even then only in very specific expressions. The *-ēī* ending of the [[Nouns#Case|genitive]] and [[Nouns#Case|dative]] [[Nouns#Number|singular]] for the words "fidēs", "spēs" and "rēs" is shortened to just *-eī*.
+The [locative](#Case) is only encountered in the [singular](#Number) and even then only in very specific expressions. The *-ēī* ending of the [genitive](#Case) and [dative](#Case) [singular](#Number) for the words "fidēs", "spēs" and "rēs" is shortened to just *-eī*.
 
 >[!EXAMPLE]- Example: Fifth-Declension Nouns
 >
@@ -1554,4 +1554,4 @@ The [[Nouns#Case|locative]] is only encountered in the [[Nouns#Number|singular]]
 ></table>
 >
 
-All [[Nouns#Fifth Declension|fifth-declension]] nouns are [[Nouns#Gender|feminine]] except for "diēs" ("day") and "merīdiēs" ("noon"), which are [[Nouns#Gender|masculine]].
+All [fifth-declension](#Fifth%20Declension) nouns are [feminine](#Gender) except for "diēs" ("day") and "merīdiēs" ("noon"), which are [masculine](#Gender).

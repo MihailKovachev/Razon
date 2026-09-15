@@ -213,7 +213,7 @@ The [plural](#Number) of all native words ends in *-s*:
 |[Nouns (Spanish)](./Nouns%20(Spanish).md) ending in a [stressed](./Orthography%20and%20Phonology.md#Stress) [vowel](./Orthography%20and%20Phonology.md#Vowels) or [diphthong](./Orthography%20and%20Phonology.md#Vowels) which does not end in *-y*|Add *-es*|champú -> champúes<br>tabú -> tabúes<br>However, some exceptions exist: bebé -> bebés; buró -> burós; café -> cafés; cliché -> clichés; dominó -> dominós; gachó -> gachós; sofá -> sofás|
 |[Nouns (Spanish)](./Nouns%20(Spanish).md) ending in *-z*|Replace *-z* with *-ces*|cruz -> cruces<br>desliz -> deslices<br>juez -> jueces<br>lápiz -> lápices<br>raíz -> raíces|
 |Pollysyllabic [nouns](./Nouns%20(Spanish).md) ending in an [unstressed](./Orthography%20and%20Phonology.md#Stress) *-is*, *-es* or *-us*|Same as [singular](#Number)|análisis -> análisis<br>caries -> caries<br>cactus -> cactus|
-|[Latin](../Latin/index.md) terms|Same as [singular](#Number)|currículum -> currículum<br>déficit -> déficit<br>dosis -> dosis<br>ítem -> ítem|
+|[Latin](../Latin/Latin.md) terms|Same as [singular](#Number)|currículum -> currículum<br>déficit -> déficit<br>dosis -> dosis<br>ítem -> ítem|
 |Family names which are not [stressed](./Orthography%20and%20Phonology.md#Stress) on the ultima but end in *-z*|Same as [singular](#Number)|Martínez -> Martínez<br>Fernández -> Fernández|
 |[Nouns (Spanish)](./Nouns%20(Spanish).md) ending in a [consonant](./Orthography%20and%20Phonology.md#Consonants) other than *-z*|Add *-es*|álbum -> álbumes<br>árbol -> árboles<br>jardín -> jardines<br>mártir -> mártires<br>autor -> autores<br>canal -> canales|
 

@@ -7,11 +7,11 @@ tags:
 
 # Orthography
 
-The [writing system](../../Linguistics/Writing%20Systems.md) of the [Latin](../../index.md) language is an [alphabet](../../Linguistics/Writing%20Systems.md#Alphabets) with a variable number of letters depending on whether one is using [Classical Latin](../../index.md) or [Ecclesiastical Latin](../../index.md).
+The [writing system](../../Linguistics/Writing%20Systems.md) of the [Latin](../../Music/index.md) language is an [alphabet](../../Linguistics/Writing%20Systems.md#Alphabets) with a variable number of letters depending on whether one is using [Classical Latin](../../Music/index.md) or [Ecclesiastical Latin](../../Music/index.md).
 
 ## Classical Latin
 
-[Classical Latin](../../index.md) employed the following [alphabet](../../Linguistics/Writing%20Systems.md#Alphabets) with 23 letters.
+[Classical Latin](../../Music/index.md) employed the following [alphabet](../../Linguistics/Writing%20Systems.md#Alphabets) with 23 letters.
 
 <table>
 <caption>The Classical Latin Alphabet</caption>
@@ -139,14 +139,14 @@ The [writing system](../../Linguistics/Writing%20Systems.md) of the [Latin](../.
 </tbody>
 </table>
 
-Historically, there was no distinction between lowercase and uppercase letters in [Classical Latin](../../index.md). Words were separated by **interpuncts** (`·`) instead of spaces. A sentence in [Classical Latin](../../index.md) would have thus looked something like this:
+Historically, there was no distinction between lowercase and uppercase letters in [Classical Latin](../../Music/index.md). Words were separated by **interpuncts** (`·`) instead of spaces. A sentence in [Classical Latin](../../Music/index.md) would have thus looked something like this:
 
 >[!EXAMPLE] Example: Classical Latin Sentence
 >
 >CAESAR·NON·SVPRA·GRAMMATICOS·EST
 >
 
-Additionally, long vowels were sometimes marked by an **apex** (`´`), although this was not a regular practice. When the letter `I` represented a long vowel, it was not written with an apex but was instead just written longer. A sentence in [Classical Latin](../../index.md) with long vowels marked would have thus looked something like this:
+Additionally, long vowels were sometimes marked by an **apex** (`´`), although this was not a regular practice. When the letter `I` represented a long vowel, it was not written with an apex but was instead just written longer. A sentence in [Classical Latin](../../Music/index.md) with long vowels marked would have thus looked something like this:
 
 >[!EXAMPLE] Example: Classical Latin Sentence
 >
@@ -155,7 +155,7 @@ Additionally, long vowels were sometimes marked by an **apex** (`´`), although 
 
 ### Modern Conventions
 
-Nowadays, people have developed more modern conventions when writing in [Classical Latin](../../index.md) in order to make the process easier and more comprehensible, especially for educational purposes. 
+Nowadays, people have developed more modern conventions when writing in [Classical Latin](../../Music/index.md) in order to make the process easier and more comprehensible, especially for educational purposes. 
 
 Both uppercase and lowercase letters are used. The letter `U u` may be introduced. The letter `V v` is usually only used to represent consonants sounds, while the letter `U u` is used to represent a vowel sound. However, some authors do not add `U` and just use `u` as the lowercase version of `V`. Words are separated by spaces and sentences are separated by periods or question marks (for questions). Capital letters are only used at the beginning of the first word of a sentence and at the beginning of proper names. **Macrons** (`¯`) are consistently used to indicate long vowels (Ā ā, Ē ē, Ī ī, Ō ō, V̄ Ū ū). Short vowels may optionally be indicated by **breves**: Ă ă, Ĕ ĕ, Ĭ ĭ, Ŏ ŏ, V̆ Ŭ ŭ. A sentence following these conventions would look like the following:
 
@@ -166,7 +166,7 @@ Both uppercase and lowercase letters are used. The letter `U u` may be introduce
 
 ## Ecclesiastical Latin
 
-[Ecclesiastical Latin](../../index.md) employed the following [alphabet](../../Linguistics/Writing%20Systems.md#Alphabets) with 25 letters - exactly the same as [[TODO|English]] without the letter `W w`.
+[Ecclesiastical Latin](../../Music/index.md) employed the following [alphabet](../../Linguistics/Writing%20Systems.md#Alphabets) with 25 letters - exactly the same as [[TODO|English]] without the letter `W w`.
 
 <table>
 <caption>The Ecclesiastical Latin Alphabet</caption>
@@ -308,11 +308,11 @@ Both uppercase and lowercase letters are used. The letter `U u` may be introduce
 
 # Classical Latin Phonology
 
-The pronunciation of [Classical Latin](../../index.md) is very simple and predictable, since its [orthography](#Orthography) is largely phonemic, especially when the [modern conventions](#Modern%20Conventions) are obeyed.
+The pronunciation of [Classical Latin](../../Music/index.md) is very simple and predictable, since its [orthography](#Orthography) is largely phonemic, especially when the [modern conventions](#Modern%20Conventions) are obeyed.
 
 ## Vowels
 
-[Classical Latin](./index.md) had five [[TODO|vowel]] [[TODO|phonemes]] and [[TODO|phonemic vowel length]].
+[Classical Latin](./Latin.md) had five [[TODO|vowel]] [[TODO|phonemes]] and [[TODO|phonemic vowel length]].
 
 <table>
 <caption>Classical Latin Vowels</caption>
@@ -358,7 +358,7 @@ In both scenarios, the nasal consonant itself was not pronounced. Additionally, 
 
 ### Diphthongs
 
-[Classical Latin](./index.md) had five [[TODO|diphthongs]] - /ae̯/, /oe̯/, /au̯/, /ei̯/, /eu̯/, represented by ⟨ae⟩, ⟨oe⟩, ⟨au⟩, ⟨ei⟩ and ⟨eu⟩, respectively. In some words such as "cui" and "huic", ⟨ui⟩ represented a sixth [[TODO|diphthong]] /ui̯/, but this was the exception rather than the rule. When the two vowels do not represent a diphthong, the modern convention is to put a [[TODO|diaeresis]] (◌̈) on the second vowel - ⟨aë⟩ [ä.ɛ], ⟨aü⟩ [a.ʊ], ⟨eü⟩ [e.ʊ] and ⟨oë⟩ [ɔ.ɛ]. However, when ⟨eu⟩ spans a [[TODO|morpheme]] border, the diaeresis is usually omitted - "meus".
+[Classical Latin](./Latin.md) had five [[TODO|diphthongs]] - /ae̯/, /oe̯/, /au̯/, /ei̯/, /eu̯/, represented by ⟨ae⟩, ⟨oe⟩, ⟨au⟩, ⟨ei⟩ and ⟨eu⟩, respectively. In some words such as "cui" and "huic", ⟨ui⟩ represented a sixth [[TODO|diphthong]] /ui̯/, but this was the exception rather than the rule. When the two vowels do not represent a diphthong, the modern convention is to put a [[TODO|diaeresis]] (◌̈) on the second vowel - ⟨aë⟩ [ä.ɛ], ⟨aü⟩ [a.ʊ], ⟨eü⟩ [e.ʊ] and ⟨oë⟩ [ɔ.ɛ]. However, when ⟨eu⟩ spans a [[TODO|morpheme]] border, the diaeresis is usually omitted - "meus".
 
 ## Consonants
 
@@ -366,7 +366,7 @@ In both scenarios, the nasal consonant itself was not pronounced. Additionally, 
 
 # Ecclesiastical Latin Phonology
 
-Since [Ecclesiastical Latin](../../index.md) never had any native speakers, it had no single pronunciation. Instead, every speaker had their own pronunciation depending on where they were from and what languages they spoke.
+Since [Ecclesiastical Latin](../../Music/index.md) never had any native speakers, it had no single pronunciation. Instead, every speaker had their own pronunciation depending on where they were from and what languages they spoke.
 
 However, around the end of the 19th century and the early 20th century, a pronunciation based on Italian become a universal standard used by the Catholic Church. This pronunciation is decribed below.
 
@@ -638,4 +638,4 @@ However, around the end of the 19th century and the early 20th century, a pronun
 </tr>
 </table>
 
-In [Ecclesiastical Latin](../../index.md), the distinction between long and short vowels is not made - all vowels are short.
+In [Ecclesiastical Latin](../../Music/index.md), the distinction between long and short vowels is not made - all vowels are short.

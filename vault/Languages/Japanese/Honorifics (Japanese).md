@@ -6,11 +6,11 @@ tags:
 
 # Honorifics (Japanese)
 
-[Japanese](./index.md) has a very complex system of honorifics. 
+[Japanese](./Japanese.md) has a very complex system of honorifics. 
 
 # Speech Registers
 
-There are five essential **speech registers** or **styles** of [Japanese](./index.md) (<ruby>文<rt>ぶん</rt>体<rt>たい</rt></ruby>の<ruby>種<rt>しゅ</rt>類<rt>るい</rt></ruby>). Each affects the way different words and phrases are expressed.
+There are five essential **speech registers** or **styles** of [Japanese](./Japanese.md) (<ruby>文<rt>ぶん</rt>体<rt>たい</rt></ruby>の<ruby>種<rt>しゅ</rt>類<rt>るい</rt></ruby>). Each affects the way different words and phrases are expressed.
 
 <table>
 <caption>Japanese Speech Registers</caption>
@@ -44,4 +44,4 @@ There are five essential **speech registers** or **styles** of [Japanese](./inde
 </tbody>
 </table>
 
-The first three registers comprise [Japanese](./index.md)'s system of Honorific speech known as <ruby>敬<rt>けい</rt>語<rt>ご</rt></ruby>.
+The first three registers comprise [Japanese](./Japanese.md)'s system of Honorific speech known as <ruby>敬<rt>けい</rt>語<rt>ご</rt></ruby>.

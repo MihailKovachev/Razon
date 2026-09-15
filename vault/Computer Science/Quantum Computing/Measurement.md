@@ -1,5 +1,4 @@
 ---
-title: Measurement
 tags:
     - quantum-computing
     - computer-science

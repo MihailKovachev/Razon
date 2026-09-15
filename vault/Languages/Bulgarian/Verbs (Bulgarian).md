@@ -10965,4 +10965,1729 @@ The [verbs](./Verbs%20(Bulgarian).md) *спя*, *коля* and *реша* have a
 
 ### Third-Conjugation Aorist Forms
 
-The [aorist stem](#Aorist%20Forms) of each [verb](./Verbs%20(Bulgarian).md) of the third [conjugation](#Present%20Forms)  is identical to its [present stem](#Present%20Forms). 
+The [aorist stem](#Aorist%20Forms) of each [verb](./Verbs%20(Bulgarian).md) of the third [conjugation](#Present%20Forms)  is identical to its [present stem](#Present%20Forms). The division into two subclasses lies only in the fact that [verbs](./Verbs%20(Bulgarian).md) in the first subclass have an [aorist stem](#Aorist%20Forms) ending in *-а*, while those in the second subclass have an [aorist stem](#Aorist%20Forms) ending in *-я*. 
+
+>[!EXAMPLE]- Example: Subclass 1 of Conjugation III
+>
+><table>
+><caption>абонѝрам, абонѝраш, абонѝрах, абонѝра ('to subscribe', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">абонѝрах</td>
+><td style="text-align:center;vertical-align:middle">абонѝрахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">абонѝра</td>
+><td style="text-align:center;vertical-align:middle">абонѝрахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">абонѝра</td>
+><td style="text-align:center;vertical-align:middle">абонѝраха</td>
+></tr>
+></table>
+>
+><table>
+><caption>а̀кам, а̀каш, а̀ках, а̀ка ('to poop', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">а̀ках</td>
+><td style="text-align:center;vertical-align:middle">а̀кахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">а̀ка</td>
+><td style="text-align:center;vertical-align:middle">а̀кахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">а̀ка</td>
+><td style="text-align:center;vertical-align:middle">а̀каха</td>
+></tr>
+></table>
+>
+><table>
+><caption>боядѝсам, боядѝсаш, боядѝсах, боядѝса ('to paint', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">боядѝсах</td>
+><td style="text-align:center;vertical-align:middle">боядѝсахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">боядѝса</td>
+><td style="text-align:center;vertical-align:middle">боядѝсахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">боядѝса</td>
+><td style="text-align:center;vertical-align:middle">боядѝсаха</td>
+></tr>
+></table>
+>
+><table>
+><caption>бъ̀рзам, бъ̀рзаш, бъ̀рзах, бъ̀рза ('to hurry', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">бъ̀рзах</td>
+><td style="text-align:center;vertical-align:middle">бъ̀рзахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">бъ̀рза</td>
+><td style="text-align:center;vertical-align:middle">бъ̀рзахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">бъ̀рза</td>
+><td style="text-align:center;vertical-align:middle">бъ̀рзаха</td>
+></tr>
+></table>
+>
+><table>
+><caption>вя̀рвам, вя̀рваш, вя̀рвах, вя̀рва ('to believe', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">вя̀рвах</td>
+><td style="text-align:center;vertical-align:middle">вя̀рвахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">вя̀рва</td>
+><td style="text-align:center;vertical-align:middle">вя̀рвахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">вя̀рва</td>
+><td style="text-align:center;vertical-align:middle">вя̀рваха</td>
+></tr>
+></table>
+>
+><table>
+><caption>госту̀вам, госту̀ваш, госту̀вах, госту̀ва ('to be a guest', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">госту̀вах</td>
+><td style="text-align:center;vertical-align:middle">госту̀вахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">госту̀ва</td>
+><td style="text-align:center;vertical-align:middle">госту̀вахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">госту̀ва</td>
+><td style="text-align:center;vertical-align:middle">госту̀ваха</td>
+></tr>
+></table>
+>
+><table>
+><caption>дя̀лкам, дя̀лкаш, дя̀лках, дя̀лка ('to carve', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">дя̀лках</td>
+><td style="text-align:center;vertical-align:middle">дя̀лкахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">дя̀лка</td>
+><td style="text-align:center;vertical-align:middle">дя̀лкахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">дя̀лка</td>
+><td style="text-align:center;vertical-align:middle">дя̀лкаха</td>
+></tr>
+></table>
+>
+><table>
+><caption>евакуѝрам, евакуѝраш, евакуѝрах, евакуѝра ('to evacuate', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">евакуѝрах</td>
+><td style="text-align:center;vertical-align:middle">евакуѝрахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">евакуѝра</td>
+><td style="text-align:center;vertical-align:middle">евакуѝрахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">евакуѝра</td>
+><td style="text-align:center;vertical-align:middle">евакуѝраха</td>
+></tr>
+></table>
+>
+><table>
+><caption>идеализѝрам, идеализѝраш, идеализѝрах, идеализѝра ('to idealize', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">идеализѝрах</td>
+><td style="text-align:center;vertical-align:middle">идеализѝрахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">идеализѝра</td>
+><td style="text-align:center;vertical-align:middle">идеализѝрахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">идеализѝра</td>
+><td style="text-align:center;vertical-align:middle">идеализѝраха</td>
+></tr>
+></table>
+>
+><table>
+><caption>клату̀шкам, клату̀шкаш, клату̀шках, клату̀шка ('to rock', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">клату̀шках</td>
+><td style="text-align:center;vertical-align:middle">клату̀шкахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">клату̀шка</td>
+><td style="text-align:center;vertical-align:middle">клату̀шкахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">клату̀шка</td>
+><td style="text-align:center;vertical-align:middle">клату̀шкаха</td>
+></tr>
+></table>
+>
+><table>
+><caption>короня̀сам, короня̀саш, короня̀сах, короня̀са ('to crown', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">короня̀сах</td>
+><td style="text-align:center;vertical-align:middle">короня̀сахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">короня̀са</td>
+><td style="text-align:center;vertical-align:middle">короня̀сахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">короня̀са</td>
+><td style="text-align:center;vertical-align:middle">короня̀саха</td>
+></tr>
+></table>
+>
+><table>
+><caption>кръсто̀сам, кръсто̀саш, кръсто̀сах, кръсто̀са ('to intercross', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">кръсто̀сах</td>
+><td style="text-align:center;vertical-align:middle">кръсто̀сахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">кръсто̀са</td>
+><td style="text-align:center;vertical-align:middle">кръсто̀сахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">кръсто̀са</td>
+><td style="text-align:center;vertical-align:middle">кръсто̀саха</td>
+></tr>
+></table>
+>
+><table>
+><caption>кръсто̀свам, кръсто̀сваш, кръсто̀свах, кръсто̀сва ('to intercross', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">кръсто̀свах</td>
+><td style="text-align:center;vertical-align:middle">кръсто̀свахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">кръсто̀сва</td>
+><td style="text-align:center;vertical-align:middle">кръсто̀свахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">кръсто̀сва</td>
+><td style="text-align:center;vertical-align:middle">кръсто̀сваха</td>
+></tr>
+></table>
+>
+><table>
+><caption>купу̀вам, купу̀ваш, купу̀вах, купу̀ва ('to buy', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">купу̀вах</td>
+><td style="text-align:center;vertical-align:middle">купу̀вахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">купу̀ва</td>
+><td style="text-align:center;vertical-align:middle">купу̀вахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">купу̀ва</td>
+><td style="text-align:center;vertical-align:middle">купу̀ваха</td>
+></tr>
+></table>
+>
+><table>
+><caption>ку̀цам, ку̀цаш, ку̀цах, ку̀ца ('to limp', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">ку̀цах</td>
+><td style="text-align:center;vertical-align:middle">ку̀цахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">ку̀ца</td>
+><td style="text-align:center;vertical-align:middle">ку̀цахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">ку̀ца</td>
+><td style="text-align:center;vertical-align:middle">ку̀цаха</td>
+></tr>
+></table>
+>
+><table>
+><caption>любопѝтствам, любопѝтстваш, любопѝтствах, любопѝтства ('to be curious', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">любопѝтствах</td>
+><td style="text-align:center;vertical-align:middle">любопѝтствахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">любопѝтства</td>
+><td style="text-align:center;vertical-align:middle">любопѝтствахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">любопѝтства</td>
+><td style="text-align:center;vertical-align:middle">любопѝтстваха</td>
+></tr>
+></table>
+>
+><table>
+><caption>марино̀вам, марино̀ваш, марино̀вах, марино̀ва ('to marinate', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">марино̀вах</td>
+><td style="text-align:center;vertical-align:middle">марино̀вахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">марино̀ва</td>
+><td style="text-align:center;vertical-align:middle">марино̀вахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">марино̀ва</td>
+><td style="text-align:center;vertical-align:middle">марино̀ваха</td>
+></tr>
+></table>
+>
+><table>
+><caption>ма̀чкам, ма̀чкаш, ма̀чках, ма̀чка ('to squash', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">ма̀чках</td>
+><td style="text-align:center;vertical-align:middle">ма̀чкахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">ма̀чка</td>
+><td style="text-align:center;vertical-align:middle">ма̀чкахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">ма̀чка</td>
+><td style="text-align:center;vertical-align:middle">ма̀чкаха</td>
+></tr>
+></table>
+>
+><table>
+><caption>мотивѝрам, мотивѝраш, мотивѝрах, мотивѝра ('to motivate', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">мотивѝрах</td>
+><td style="text-align:center;vertical-align:middle">мотивѝрахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">мотивѝра</td>
+><td style="text-align:center;vertical-align:middle">мотивѝрахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">мотивѝра</td>
+><td style="text-align:center;vertical-align:middle">мотивѝраха</td>
+></tr>
+></table>
+>
+><table>
+><caption>нощу̀вам, нощу̀ваш, нощу̀вах, нощу̀ва ('to spend the night', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">нощу̀вах</td>
+><td style="text-align:center;vertical-align:middle">нощу̀вахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">нощу̀ва</td>
+><td style="text-align:center;vertical-align:middle">нощу̀вахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">нощу̀ва</td>
+><td style="text-align:center;vertical-align:middle">нощу̀ваха</td>
+></tr>
+></table>
+>
+><table>
+><caption>ня̀мам, ня̀маш, ня̀мах, ня̀ма ('to lack', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">ня̀мах</td>
+><td style="text-align:center;vertical-align:middle">ня̀махме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">ня̀ма</td>
+><td style="text-align:center;vertical-align:middle">ня̀махте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">ня̀ма</td>
+><td style="text-align:center;vertical-align:middle">ня̀маха</td>
+></tr>
+></table>
+>
+><table>
+><caption>обѝчам, обѝчаш, обѝчах, обѝча ('to love', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">обѝчах</td>
+><td style="text-align:center;vertical-align:middle">обѝчахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">обѝча</td>
+><td style="text-align:center;vertical-align:middle">обѝчахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">обѝча</td>
+><td style="text-align:center;vertical-align:middle">обѝчаха</td>
+></tr>
+></table>
+>
+><table>
+><caption>обя̀двам, обя̀дваш, обя̀двах, обя̀два ('to have lunch', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">обя̀двах</td>
+><td style="text-align:center;vertical-align:middle">обя̀двахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">обя̀два</td>
+><td style="text-align:center;vertical-align:middle">обя̀двахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">обя̀два</td>
+><td style="text-align:center;vertical-align:middle">обя̀дваха</td>
+></tr>
+></table>
+>
+><table>
+><caption>организѝрам, организѝраш, организѝрах, организѝра ('to organize', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">организѝрах</td>
+><td style="text-align:center;vertical-align:middle">организѝрахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">организѝра</td>
+><td style="text-align:center;vertical-align:middle">организѝрахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">организѝра</td>
+><td style="text-align:center;vertical-align:middle">организѝраха</td>
+></tr>
+></table>
+>
+><table>
+><caption>пѝтам, пѝташ, пѝтах, пѝта ('to ask', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">пѝтах</td>
+><td style="text-align:center;vertical-align:middle">пѝтахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">пѝта</td>
+><td style="text-align:center;vertical-align:middle">пѝтахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">пѝта</td>
+><td style="text-align:center;vertical-align:middle">пѝтаха</td>
+></tr>
+></table>
+>
+><table>
+><caption>плесеня̀сам, плесеня̀саш, плесеня̀сах, плесеня̀са ('to catch mold', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">плесеня̀сах</td>
+><td style="text-align:center;vertical-align:middle">плесеня̀сахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">плесеня̀са</td>
+><td style="text-align:center;vertical-align:middle">плесеня̀сахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">плесеня̀са</td>
+><td style="text-align:center;vertical-align:middle">плесеня̀саха</td>
+></tr>
+></table>
+>
+><table>
+><caption>позѝрам, позѝраш, позѝрах, позѝра ('to pose', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">позѝрах</td>
+><td style="text-align:center;vertical-align:middle">позѝрахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">позѝра</td>
+><td style="text-align:center;vertical-align:middle">позѝрахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">позѝра</td>
+><td style="text-align:center;vertical-align:middle">позѝраха</td>
+></tr>
+></table>
+>
+><table>
+><caption>пра̀щам, пра̀щаш, пра̀щах, пра̀ща ('to send', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">пра̀щах</td>
+><td style="text-align:center;vertical-align:middle">пра̀щахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">пра̀ща</td>
+><td style="text-align:center;vertical-align:middle">пра̀щахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">пра̀ща</td>
+><td style="text-align:center;vertical-align:middle">пра̀щаха</td>
+></tr>
+></table>
+>
+><table>
+><caption>пу̀кам, пу̀каш, пу̀ках, пу̀ка ('to pop', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">пу̀ках</td>
+><td style="text-align:center;vertical-align:middle">пу̀кахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">пу̀ка</td>
+><td style="text-align:center;vertical-align:middle">пу̀кахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">пу̀ка</td>
+><td style="text-align:center;vertical-align:middle">пу̀каха</td>
+></tr>
+></table>
+>
+><table>
+><caption>реша̀вам, реша̀ваш, реша̀вах, реша̀ва ('to decide', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">реша̀вах</td>
+><td style="text-align:center;vertical-align:middle">реша̀вахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">реша̀ва</td>
+><td style="text-align:center;vertical-align:middle">реша̀вахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">реша̀ва</td>
+><td style="text-align:center;vertical-align:middle">реша̀ваха</td>
+></tr>
+></table>
+>
+><table>
+><caption>рѝтам, рѝташ, рѝтах, рѝта ('to kick', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">рѝтах</td>
+><td style="text-align:center;vertical-align:middle">рѝтахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">рѝта</td>
+><td style="text-align:center;vertical-align:middle">рѝтахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">рѝта</td>
+><td style="text-align:center;vertical-align:middle">рѝтаха</td>
+></tr>
+></table>
+>
+><table>
+><caption>свиру̀кам, свиру̀каш, свиру̀ках, свиру̀ка ('to whistle', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">свиру̀ках</td>
+><td style="text-align:center;vertical-align:middle">свиру̀кахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">свиру̀ка</td>
+><td style="text-align:center;vertical-align:middle">свиру̀кахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">свиру̀ка</td>
+><td style="text-align:center;vertical-align:middle">свиру̀каха</td>
+></tr>
+></table>
+>
+><table>
+><caption>сигнализѝрам, сигнализѝраш, сигнализѝрах, сигнализѝра ('to signal', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">сигнализѝрах</td>
+><td style="text-align:center;vertical-align:middle">сигнализѝрахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">сигнализѝра</td>
+><td style="text-align:center;vertical-align:middle">сигнализѝрахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">сигнализѝра</td>
+><td style="text-align:center;vertical-align:middle">сигнализѝраха</td>
+></tr>
+></table>
+>
+><table>
+><caption>сѝпвам, сѝпваш, сѝпвах, сѝпва ('to pour', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">сѝпвах</td>
+><td style="text-align:center;vertical-align:middle">сѝпвахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">сѝпва</td>
+><td style="text-align:center;vertical-align:middle">сѝпвахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">сѝпва</td>
+><td style="text-align:center;vertical-align:middle">сѝпваха</td>
+></tr>
+></table>
+>
+><table>
+><caption>съну̀вам, съну̀ваш, съну̀вах, съну̀ва ('to sleep', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">съну̀вах</td>
+><td style="text-align:center;vertical-align:middle">съну̀вахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">съну̀ва</td>
+><td style="text-align:center;vertical-align:middle">съну̀вахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">съну̀ва</td>
+><td style="text-align:center;vertical-align:middle">съну̀ваха</td>
+></tr>
+></table>
+>
+><table>
+><caption>тананѝкам, тананѝкаш, тананѝках, тананѝка ('to hum', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">тананѝках</td>
+><td style="text-align:center;vertical-align:middle">тананѝкахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">тананѝка</td>
+><td style="text-align:center;vertical-align:middle">тананѝкахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">тананѝка</td>
+><td style="text-align:center;vertical-align:middle">тананѝкаха</td>
+></tr>
+></table>
+>
+><table>
+><caption>управля̀вам, управля̀ваш, управля̀вах, управля̀ва ('to rule', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">управля̀вах</td>
+><td style="text-align:center;vertical-align:middle">управля̀вахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">управля̀ва</td>
+><td style="text-align:center;vertical-align:middle">управля̀вахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">управля̀ва</td>
+><td style="text-align:center;vertical-align:middle">управля̀ваха</td>
+></tr>
+></table>
+>
+><table>
+><caption>фиксѝрам, фиксѝраш, фиксѝрах, фиксѝра ('to fix', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">фиксѝрах</td>
+><td style="text-align:center;vertical-align:middle">фиксѝрахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">фиксѝра</td>
+><td style="text-align:center;vertical-align:middle">фиксѝрахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">фиксѝра</td>
+><td style="text-align:center;vertical-align:middle">фиксѝраха</td>
+></tr>
+></table>
+>
+><table>
+><caption>хло̀пам, хло̀паш, хло̀пах, хло̀па ('to bang', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">хло̀пах</td>
+><td style="text-align:center;vertical-align:middle">хло̀пахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">хло̀па</td>
+><td style="text-align:center;vertical-align:middle">хло̀пахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">хло̀па</td>
+><td style="text-align:center;vertical-align:middle">хло̀паха</td>
+></tr>
+></table>
+>
+><table>
+><caption>шегу̀вам се, шегу̀ваш се, шегу̀вах се, шегу̀ва се ('to joke', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">шегу̀вах се</td>
+><td style="text-align:center;vertical-align:middle">шегу̀вахме се</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">шегу̀ва се</td>
+><td style="text-align:center;vertical-align:middle">шегу̀вахте се</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">шегу̀ва се</td>
+><td style="text-align:center;vertical-align:middle">шегу̀ваха се</td>
+></tr>
+></table>
+>
+><table>
+><caption>щурму̀вам, щурму̀ваш, щурму̀вах, щурму̀ва ('to storm', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">щурму̀вах</td>
+><td style="text-align:center;vertical-align:middle">щурму̀вахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">щурму̀ва</td>
+><td style="text-align:center;vertical-align:middle">щурму̀вахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">щурму̀ва</td>
+><td style="text-align:center;vertical-align:middle">щурмуваха</td>
+></tr>
+></table>
+>
+><table>
+><caption>щра̀кам, щра̀каш, щра̀ках, щра̀ка ('to snap', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">щра̀ках</td>
+><td style="text-align:center;vertical-align:middle">щра̀кахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">щра̀ка</td>
+><td style="text-align:center;vertical-align:middle">щра̀кахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">щра̀ка</td>
+><td style="text-align:center;vertical-align:middle">щра̀каха</td>
+></tr>
+></table>
+>
+><table>
+><caption>ядо̀сам, ядо̀саш, ядо̀сах, ядо̀са ('to anger', perfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">ядо̀сах</td>
+><td style="text-align:center;vertical-align:middle">ядо̀сахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">ядо̀са</td>
+><td style="text-align:center;vertical-align:middle">ядо̀сахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">ядо̀са</td>
+><td style="text-align:center;vertical-align:middle">ядо̀саха</td>
+></tr>
+></table>
+>
+><table>
+><caption>ядо̀свам, ядо̀сваш, ядо̀свах, ядо̀сва ('to anger', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">ядо̀свах</td>
+><td style="text-align:center;vertical-align:middle">ядо̀свахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">ядо̀сва</td>
+><td style="text-align:center;vertical-align:middle">ядо̀свахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">ядо̀сва</td>
+><td style="text-align:center;vertical-align:middle">ядо̀сваха</td>
+></tr>
+></table>
+>
+
+>[!EXAMPLE]- Example: Subclass 2 of Conjugation III
+>
+><table>
+><caption>вечѐрям, вечѐряш, вечѐрях, вечѐря ('to have dinner', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">вечѐрях</td>
+><td style="text-align:center;vertical-align:middle">вечѐряхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">вечѐря</td>
+><td style="text-align:center;vertical-align:middle">вечѐряхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">вечѐря</td>
+><td style="text-align:center;vertical-align:middle">вечѐряха</td>
+></tr>
+></table>
+>
+><table>
+><caption>върга̀лям, върга̀ляш, върга̀лях, върга̀ля ('to wallow', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">върга̀лях</td>
+><td style="text-align:center;vertical-align:middle">върга̀ляхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">върга̀ля</td>
+><td style="text-align:center;vertical-align:middle">върга̀ляхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">върга̀ля</td>
+><td style="text-align:center;vertical-align:middle">върга̀ляха</td>
+></tr>
+></table>
+>
+><table>
+><caption>дона̀сям, дона̀сяш, дона̀сях, дона̀ся ('to bring', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">дона̀сях</td>
+><td style="text-align:center;vertical-align:middle">дона̀сяхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">дона̀ся</td>
+><td style="text-align:center;vertical-align:middle">дона̀сяхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">дона̀ся</td>
+><td style="text-align:center;vertical-align:middle">дона̀сяха</td>
+></tr>
+></table>
+>
+><table>
+><caption>забра̀вям, забра̀вяш, забра̀вях, забра̀вя ('to forget', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">забра̀вях</td>
+><td style="text-align:center;vertical-align:middle">забра̀вяхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">забра̀вя</td>
+><td style="text-align:center;vertical-align:middle">забра̀вяхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">забра̀вя</td>
+><td style="text-align:center;vertical-align:middle">забра̀вяха</td>
+></tr>
+></table>
+>
+><table>
+><caption>закрѝлям, закрѝляш, закрѝлях, закрѝля ('to protect', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">закрѝлях</td>
+><td style="text-align:center;vertical-align:middle">закрѝляхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">закрѝля</td>
+><td style="text-align:center;vertical-align:middle">закрѝляхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">закрѝля</td>
+><td style="text-align:center;vertical-align:middle">закрѝляха</td>
+></tr>
+></table>
+>
+><table>
+><caption>затва̀рям, затва̀ряш, затва̀рях, затва̀ря ('to close', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">затва̀рях</td>
+><td style="text-align:center;vertical-align:middle">затва̀ряхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">затва̀ря</td>
+><td style="text-align:center;vertical-align:middle">затва̀ряхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">затва̀ря</td>
+><td style="text-align:center;vertical-align:middle">затва̀ряха</td>
+></tr>
+></table>
+>
+><table>
+><caption>избѝстрям, избѝстряш, избѝстрях, избѝстря ('to clear up', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">избѝстрях</td>
+><td style="text-align:center;vertical-align:middle">избѝстряхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">избѝстря</td>
+><td style="text-align:center;vertical-align:middle">избѝстряхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">избѝстря</td>
+><td style="text-align:center;vertical-align:middle">избѝстряха</td>
+></tr>
+></table>
+>
+><table>
+><caption>измѝслям, измѝсляш, измѝслях, измѝсля ('to come up with sth', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">измѝслях</td>
+><td style="text-align:center;vertical-align:middle">измѝсляхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">измѝсля</td>
+><td style="text-align:center;vertical-align:middle">измѝсляхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">измѝсля</td>
+><td style="text-align:center;vertical-align:middle">измѝсляха</td>
+></tr>
+></table>
+>
+><table>
+><caption>ка̀шлям, ка̀шляш, ка̀шлях, ка̀шля ('to cough', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">ка̀шлях</td>
+><td style="text-align:center;vertical-align:middle">ка̀шляхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">ка̀шля</td>
+><td style="text-align:center;vertical-align:middle">ка̀шляхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">ка̀шля</td>
+><td style="text-align:center;vertical-align:middle">ка̀шляха</td>
+></tr>
+></table>
+>
+><table>
+><caption>намо̀крям, намо̀кряш, намо̀крях, намо̀кря ('to wet', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">намо̀крях</td>
+><td style="text-align:center;vertical-align:middle">намо̀кряхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">намо̀кря</td>
+><td style="text-align:center;vertical-align:middle">намо̀кряхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">намо̀кря</td>
+><td style="text-align:center;vertical-align:middle">намо̀кряха</td>
+></tr>
+></table>
+>
+><table>
+><caption>нахвъ̀рлям, нахвъ̀рляш, нахвъ̀рлях, нахвъ̀рля ('to draft', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">нахвъ̀рлях</td>
+><td style="text-align:center;vertical-align:middle">нахвъ̀рляхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">нахвъ̀рля</td>
+><td style="text-align:center;vertical-align:middle">нахвъ̀рляхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">нахвъ̀рля</td>
+><td style="text-align:center;vertical-align:middle">нахвъ̀рляха</td>
+></tr>
+></table>
+>
+><table>
+><caption>обика̀лям, обика̀ляш, обика̀лях, обика̀ля ('to go around', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">обика̀лях</td>
+><td style="text-align:center;vertical-align:middle">обика̀ляхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">обика̀ля</td>
+><td style="text-align:center;vertical-align:middle">обика̀ляхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">обика̀ля</td>
+><td style="text-align:center;vertical-align:middle">обика̀ляха</td>
+></tr>
+></table>
+>
+><table>
+><caption>отра̀вям, отра̀вяш, отра̀вях, отра̀вя ('to dig up', imperfective; 'to poison', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">отра̀вях</td>
+><td style="text-align:center;vertical-align:middle">отра̀вяхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">отра̀вя</td>
+><td style="text-align:center;vertical-align:middle">отра̀вяхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">отра̀вя</td>
+><td style="text-align:center;vertical-align:middle">отра̀вяха</td>
+></tr>
+></table>
+>
+><table>
+><caption>офо̀рмям, офо̀рмяш, офо̀рмях, офо̀рмя ('to shape', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">офо̀рмях</td>
+><td style="text-align:center;vertical-align:middle">офо̀рмяхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">офо̀рмя</td>
+><td style="text-align:center;vertical-align:middle">офо̀рмяхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">офо̀рмя</td>
+><td style="text-align:center;vertical-align:middle">офо̀рмяха</td>
+></tr>
+></table>
+>
+><table>
+><caption>повта̀рям, повта̀ряш, повта̀рях, повта̀ря ('to repeat', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">повта̀рях</td>
+><td style="text-align:center;vertical-align:middle">повта̀ряхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">повта̀ря</td>
+><td style="text-align:center;vertical-align:middle">повта̀ряхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">повта̀ря</td>
+><td style="text-align:center;vertical-align:middle">повта̀ряха</td>
+></tr>
+></table>
+>
+><table>
+><caption>прогова̀рям, прогова̀ряш, прогова̀рях, прогова̀ря ('to start speaking', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">прогова̀рях</td>
+><td style="text-align:center;vertical-align:middle">прогова̀ряхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">прогова̀ря</td>
+><td style="text-align:center;vertical-align:middle">прогова̀ряхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">прогова̀ря</td>
+><td style="text-align:center;vertical-align:middle">прогова̀ряха</td>
+></tr>
+></table>
+>
+><table>
+><caption>раздѐлям, раздѐляш, раздѐлях, раздѐля ('to divide', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">раздѐлях</td>
+><td style="text-align:center;vertical-align:middle">раздѐляхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">раздѐля</td>
+><td style="text-align:center;vertical-align:middle">раздѐляхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">раздѐля</td>
+><td style="text-align:center;vertical-align:middle">раздѐляха</td>
+></tr>
+></table>
+>
+><table>
+><caption>сто̀плям, сто̀пляш, сто̀плях, сто̀пля ('to warm up', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">сто̀плях</td>
+><td style="text-align:center;vertical-align:middle">сто̀пляхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">сто̀пля</td>
+><td style="text-align:center;vertical-align:middle">сто̀пляхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">сто̀пля</td>
+><td style="text-align:center;vertical-align:middle">сто̀пляха</td>
+></tr>
+></table>
+>
+><table>
+><caption>стрѐлям, стрѐляш, стрѐлях, стрѐля ('to shoot', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">стрѐлях</td>
+><td style="text-align:center;vertical-align:middle">стрѐляхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">стрѐля</td>
+><td style="text-align:center;vertical-align:middle">стрѐляхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">стрѐля</td>
+><td style="text-align:center;vertical-align:middle">стрѐляха</td>
+></tr>
+></table>
+>
+><table>
+><caption>съба̀рям, съба̀ряш, съба̀рях, съба̀ря ('to topple', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">съба̀рях</td>
+><td style="text-align:center;vertical-align:middle">съба̀ряхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">съба̀ря</td>
+><td style="text-align:center;vertical-align:middle">съба̀ряхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">съба̀ря</td>
+><td style="text-align:center;vertical-align:middle">съба̀ряха</td>
+></tr>
+></table>
+>
+><table>
+><caption>уда̀вям, уда̀вяш, уда̀вях, уда̀вя ('to drown', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">уда̀вях</td>
+><td style="text-align:center;vertical-align:middle">уда̀вяхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">уда̀вя</td>
+><td style="text-align:center;vertical-align:middle">уда̀вяхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">уда̀вя</td>
+><td style="text-align:center;vertical-align:middle">уда̀вяха</td>
+></tr>
+></table>
+>
+><table>
+><caption>хвъ̀рлям, хвъ̀рляш, хвъ̀рлях, хвъ̀рля ('to throw', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">хвъ̀рлях</td>
+><td style="text-align:center;vertical-align:middle">хвъ̀рляхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">хвъ̀рля</td>
+><td style="text-align:center;vertical-align:middle">хвъ̀рляхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">хвъ̀рля</td>
+><td style="text-align:center;vertical-align:middle">хвъ̀рляха</td>
+></tr>
+></table>
+>
+
+## Imperfect Forms
+

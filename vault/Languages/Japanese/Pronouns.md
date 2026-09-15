@@ -7,15 +7,15 @@ tags:
 
 # Introduction
 
-Certain [[./index|Japanese]] [[Nouns|nouns]] called 代名詞(だいめいし, daimeishi, [dai.meꜜi.ɕi, -meꜜː-]) can be used as [[TODO|pronouns]]. However, since these are grammatically indistinguishable from [[Nouns|nouns]], it is largely debated whether they should be considered a separate [[TODO|part of speech]] or not.
+Certain [Japanese](./Japanese.md) [nouns](./Nouns.md) called 代名詞(だいめいし, daimeishi, [dai.meꜜi.ɕi, -meꜜː-]) can be used as [[TODO|pronouns]]. However, since these are grammatically indistinguishable from [nouns](./Nouns.md), it is largely debated whether they should be considered a separate [[TODO|part of speech]] or not.
 
 The correct use of 代名詞 is rather nuanced and complex. Different pronouns are usually used in different contexts depending on who is speaking to whom and in what situation.
 
 # Personal Pronouns
 
-[[Pronouns|代名詞]] used to refer to people are known as 人称代名詞(にんしょうだいめいし).
+[代名詞](./Pronouns.md) used to refer to people are known as 人称代名詞(にんしょうだいめいし).
 
-There are three basic first-person [[Pronouns|人称代名詞]] with which a single speaker may refer to themselves (similar to the English pronoun "I").
+There are three basic first-person [人称代名詞](./Pronouns.md) with which a single speaker may refer to themselves (similar to the English pronoun "I").
 
 <table>
 <caption>First-Person 人称代名詞</caption>
