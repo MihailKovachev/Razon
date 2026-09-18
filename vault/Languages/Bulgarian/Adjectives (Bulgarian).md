@@ -10,7 +10,7 @@ The dictionary form is the indefinite masculine singular.
 
 ## Gender
 
-Every adjective has a form for each gender - masculine, feminine and neuter. The dictionary form is the indefinite masculine singular, while the indefinite feminine singular and the indefinite neuter singular are built from the dictionary form in a fairly regular manner by attaching different endings. There are no [stress](./Phonology%20(Bulgarian).md#Stress) shifts but one should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ.md) and a few other rules. Luckily, these rules are always consistent between the feminine and neuter forms.
+Every adjective has a form for each gender - masculine, feminine and neuter. The dictionary form is the indefinite masculine singular, while the indefinite feminine singular and the indefinite neuter singular are built from the dictionary form in a fairly regular manner by attaching different endings. There are no [stress](./Phonology%20(Bulgarian).md#Stress) shifts but one should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ%20(Bulgarian).md) and a few other rules. Luckily, these rules are always consistent between the feminine and neuter forms.
 
 ### Masculine Adjectives
 
@@ -79,7 +79,7 @@ Some adjectives have both an unaugmented form ending in a consonant as well as a
 
 Most adjectives build the feminine singular by appending *-а* to the masculine form. This is always done with the unaugmented masculine form if it exists. Otherwise, this is done after removing the *-и* from the augmented form.
 
-- One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ.md).
+- One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ%20(Bulgarian).md).
 - Most adjectives whose masculine singular ends in an [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨ен⟩ drop the ⟨е⟩ in the feminine form, but many do not. 
 - The vast majority of adjectives whose masculine singular ends in the suffix *-ен* preceded by ⟨а⟩, ⟨ъ⟩, ⟨о⟩, ⟨у⟩, ⟨е⟩ or ⟨и⟩ replace the ⟨е⟩ from the suffix with ⟨й⟩, but some retain it.
 - Adjective whose masculine singular ends in one of the suffixes *-ъв*, *-ък*, *-ъл* or *-ър* drop the ⟨ъ⟩ from the suffix.
@@ -120,7 +120,7 @@ Most adjectives build the feminine singular by appending *-а* to the masculine 
 >|добъ̀р (good)|добра̀|The ⟨ъ⟩ from the suffix *-ър* is dropped.|
 >|друг (other, another)|дру̀га||
 >|дъ̀рвен (wooden)|дъ̀рвена|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix *-ен* is retained.|
->|дъ̀рзък (daring)|дръ̀зка|The ⟨ъ⟩ from the suffix *-ък* is dropped. [Mobile ъ](./Mobile%20Ъ.md) transitions from ⟨ър⟩ into ⟨ръ⟩.|
+>|дъ̀рзък (daring)|дръ̀зка|The ⟨ъ⟩ from the suffix *-ък* is dropped. [Mobile ъ](./Mobile%20Ъ%20(Bulgarian).md) transitions from ⟨ър⟩ into ⟨ръ⟩.|
 >|ѐдър (large)|ѐдра|The ⟨ъ⟩ from the suffix *-ър* is dropped.|
 >|естѐствен (natural)|естѐствена|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix *-ен* is retained.|
 >|желѐзен (of iron)|желя̀зна|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix *-ен* is dropped. The [variable ya](./Yat%20Reflex%20(Bulgarian).md) is ⟨я⟩ and not ⟨е⟩ since all necessary conditions are fulfilled.|
@@ -205,7 +205,7 @@ A few adjectives build the feminine singular by appending *-я* to the masculine
 
 ### Neuter Adjectives
 
-Most adjectives build the neuter singular by appending *-о* to the masculine form. This is always done with the unaugmented masculine form if it exists. Otherwise, this is done after removing the *-и* from the augmented form. One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ.md).
+Most adjectives build the neuter singular by appending *-о* to the masculine form. This is always done with the unaugmented masculine form if it exists. Otherwise, this is done after removing the *-и* from the augmented form. One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ%20(Bulgarian).md).
 
 - Most adjectives whose masculine singular ends in an [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨ен⟩ drop the ⟨е⟩ in the feminine form, but many do not. 
 - The vast majority of adjectives whose masculine singular ends in the suffix ⟨ен⟩ preceded by ⟨а⟩, ⟨ъ⟩, ⟨о⟩, ⟨у⟩, ⟨е⟩ or ⟨и⟩ replace the ⟨е⟩ from the suffix with ⟨й⟩, but some retain it.
@@ -247,7 +247,7 @@ Most adjectives build the neuter singular by appending *-о* to the masculine fo
 >|добъ̀р (good)|добро̀|The ⟨ъ⟩ from the suffix ⟨ър⟩ is dropped.|
 >|друг (other, another)|дру̀го||
 >|дъ̀рвен (wooden)|дъ̀рвено|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained.|
->|дъ̀рзък (daring)|дръ̀зко|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped. [Mobile ъ](./Mobile%20Ъ.md) transitions from ⟨ър⟩ into ⟨ръ⟩.|
+>|дъ̀рзък (daring)|дръ̀зко|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped. [Mobile ъ](./Mobile%20Ъ%20(Bulgarian).md) transitions from ⟨ър⟩ into ⟨ръ⟩.|
 >|ѐдър (large)|ѐдро|The ⟨ъ⟩ from the suffix ⟨ър⟩ is dropped.|
 >|естѐствен (natural)|естѐствено|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained.|
 >|желѐзен (of iron)|желя̀зно|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is dropped. The [variable ya](./Yat%20Reflex%20(Bulgarian).md) transitions from ⟨е⟩ to ⟨я⟩ because all necessary conditions are fulfilled.|
@@ -342,7 +342,7 @@ Adjectives that only have an augmented form whose *-и* is preceded by ⟨ж⟩,
 >|о̀вчи (related to sheep)|о̀вчо, о̀вче|The augmented form is used because there is no unaugmented one. Forms in both ⟨о⟩ and ⟨е⟩, since the masculine singular has only an augmented form and there is ⟨ч⟩ before ⟨и⟩.|
 >
 
-Very few adjectives build the neuter singular by appending *-ьо*. This is always done with the unaugmented masculine form if it exists. Otherwise, this is done after removing the ⟨и⟩ from the augmented form. One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ.md).
+Very few adjectives build the neuter singular by appending *-ьо*. This is always done with the unaugmented masculine form if it exists. Otherwise, this is done after removing the ⟨и⟩ from the augmented form. One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ%20(Bulgarian).md).
 
 >[!EXAMPLE]- Example: Neuter Adjectives in *-ьо*
 >
@@ -357,7 +357,7 @@ Adjectives also have a plural form which is used with plural [nouns](./Nouns%20(
 
 The plural is built by appending *-и* to the unaugmented masculine singular if it exists. Otherwise, the plural form is identical to the augmented masculine singular.
 
-- One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ.md).
+- One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ%20(Bulgarian).md).
 - Most adjectives whose masculine singular ends in an [unstressed](./Phonology%20(Bulgarian).md#Stress) *-ен* drop the ⟨е⟩ in the feminine form, but many do not. 
 - The vast majority of adjectives whose masculine singular ends in the suffix *-ен* preceded by ⟨а⟩, ⟨ъ⟩, ⟨о⟩, ⟨у⟩, ⟨е⟩ or ⟨и⟩ replace the ⟨е⟩ from the suffix with ⟨й⟩, but some retain it.
 - Adjective whose masculine singular ends in one of the suffixes *-ъв*, *-ък*, *-ъл* or *-ър* drop the ⟨ъ⟩ from the suffix.
@@ -398,7 +398,7 @@ The plural is built by appending *-и* to the unaugmented masculine singular if 
 >|добъ̀р (good)|добрѝ|The ⟨ъ⟩ from the suffix ⟨ър⟩ is dropped.|
 >|друг (other, another)|дру̀ги||
 >|дъ̀рвен (wooden)|дъ̀рвени|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained.|
->|дъ̀рзък (daring)|дръ̀зки|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped. [Mobile ъ](./Mobile%20Ъ.md) transitions from ⟨ър⟩ into ⟨ръ⟩.|
+>|дъ̀рзък (daring)|дръ̀зки|The ⟨ъ⟩ from the suffix ⟨ък⟩ is dropped. [Mobile ъ](./Mobile%20Ъ%20(Bulgarian).md) transitions from ⟨ър⟩ into ⟨ръ⟩.|
 >|ѐдър (large)|ѐдри|The ⟨ъ⟩ from the suffix ⟨ър⟩ is dropped.|
 >|естѐствен (natural)|естѐствени|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is retained.|
 >|желѐзен (of iron)|желѐзни|The [unstressed](./Phonology%20(Bulgarian).md#Stress) ⟨е⟩ in the suffix ⟨ен⟩ is dropped. The [variable ya](./Yat%20Reflex%20(Bulgarian).md) is ⟨е⟩ instead of ⟨я⟩, since the next syllable contains ⟨и⟩.|

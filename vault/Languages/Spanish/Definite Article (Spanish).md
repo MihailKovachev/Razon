@@ -7,7 +7,7 @@ tags:
 
 # Definite Article (Spanish)
 
-[Spanish](./index.md) uses an article to express definiteness.
+[Spanish](./Spanish.md) uses an article to express definiteness.
 
 ## The Definite Article
 

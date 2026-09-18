@@ -32,7 +32,7 @@ Nouns can take any one of the forms *-а*, *-ът*, *-я*, *-ят*, *-та*, *-�
 All masculine singular nouns ending in an etymologically non-palatalized consonant build the definite singular form by appending *-а*, *-ът* to the indefinite singular. 
 
 - Pollysyllabic masculine nouns do not experience a [stress](./Phonology%20(Bulgarian).md#Stress) shift, but monosyllabic ones may. 
-- One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [movable ъ](./Mobile%20Ъ.md).
+- One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [movable ъ](./Mobile%20Ъ%20(Bulgarian).md).
 - Nouns ending in the suffix *-зъм* drop the ⟨ъ⟩ when the definite article is attached.
 
 >[!EXAMPLE]- Example: Masculine Nouns with Definite Article *-а*, *-ът*
@@ -71,7 +71,7 @@ All masculine singular nouns ending in an etymologically non-palatalized consona
 >|внос (import)|вно̀са (the import)|вно̀сът (the importl||
 >|враг (enemy)|врага̀ (the enemy)|врагъ̀т (the enemy)||
 >|врат (neck)|врата̀ (the neck)|вратъ̀т (the neck)||
->|връх (peak)|върха̀ (the peak)|върхъ̀т (the peak)|[Movable ъ](./Mobile%20Ъ.md) changes ⟨ръ⟩ to ⟨ър⟩.|
+>|връх (peak)|върха̀ (the peak)|върхъ̀т (the peak)|[Movable ъ](./Mobile%20Ъ%20(Bulgarian).md) changes ⟨ръ⟩ to ⟨ър⟩.|
 >|вълк (wolf)|вълка̀ (the wolf)|вълкъ̀т (the wolf)||
 >|вя̀тър (wind)|вя̀търа (the wind)|вя̀търът (the wind)|
 >|героѝзъм (heroism)|героѝзма (the heroism)|героѝзмът (the heroism)||
@@ -82,9 +82,9 @@ All masculine singular nouns ending in an etymologically non-palatalized consona
 >|град (city)|града̀ (the city)|градъ̀т (the city)||
 >|грим (make-up)|грѝма (make-up)|грѝмът (make-up)||
 >|гроб (grave)|гро̀ба (the grave)|гро̀бът (the grave)||
->|гръб (back)|гърба̀ (the back)|гърбъ̀т (the back)|[Movable ъ](./Mobile%20Ъ.md) changes ⟨ръ⟩ to ⟨ър⟩.|
->|грък (Greek)|гърка̀ (the Greek)|гъркъ̀т (the Greek)|[Movable ъ](./Mobile%20Ъ.md) changes ⟨ръ⟩ to ⟨ър⟩.|
->|гръм (thunder)|гърма̀ (the thunder)|гърмъ̀т (the thunder)|[Movable ъ](./Mobile%20Ъ.md) changes ⟨ръ⟩ to ⟨ър⟩.|
+>|гръб (back)|гърба̀ (the back)|гърбъ̀т (the back)|[Movable ъ](./Mobile%20Ъ%20(Bulgarian).md) changes ⟨ръ⟩ to ⟨ър⟩.|
+>|грък (Greek)|гърка̀ (the Greek)|гъркъ̀т (the Greek)|[Movable ъ](./Mobile%20Ъ%20(Bulgarian).md) changes ⟨ръ⟩ to ⟨ър⟩.|
+>|гръм (thunder)|гърма̀ (the thunder)|гърмъ̀т (the thunder)|[Movable ъ](./Mobile%20Ъ%20(Bulgarian).md) changes ⟨ръ⟩ to ⟨ър⟩.|
 >|грях (sin)|греха̀ (the sin)|грехъ̀т (the sin)|[Variable ya](./Yat%20Reflex%20(Bulgarian).md) transitions from ⟨я⟩ into ⟨е⟩, since it is no longer [stressed](./Phonology%20(Bulgarian).md#Stress).|
 >|двор|дво̀ра|дво̀рът||
 >|джоб (pocket)|джо̀ба (the pocket)|джо̀бът (the pocket)||
@@ -147,7 +147,7 @@ All masculine singular nouns ending in an etymologically non-palatalized consona
 All masculine singular nouns ending in an etymologically palatalized consonant build the definite singular form by appending *-я*, *-ят* to the indefinite singular. 
 
 - Pollysyllabic masculine nouns do not experience a [stress](./Phonology%20(Bulgarian).md#Stress) shift, but monosyllabic ones may. 
-- One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [movable ъ](./Mobile%20Ъ.md).
+- One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [movable ъ](./Mobile%20Ъ%20(Bulgarian).md).
 
 >[!EXAMPLE]- Example: Masculine Singular Nouns with Definite Article *-я*, *-ят*
 >
@@ -319,7 +319,7 @@ Adjectives use the following [articles](./Definite%20Article%20(Bulgarian).md) d
 
 - If the [adjective](./Adjectives%20(Bulgarian).md) has only an [augmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives), then the [article](./Definite%20Article%20(Bulgarian).md) is appended directly to it.
 - If the [adjective](./Adjectives%20(Bulgarian).md) has an [unaugmented form](./Adjectives%20(Bulgarian).md#Masculine%20Adjectives), then this form is augmented by appending ⟨и⟩ and the [definite article](./Definite%20Article%20(Bulgarian).md) is then appended to this form.
-- One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ.md).
+- One should beware changes due to [variable ya](./Yat%20Reflex%20(Bulgarian).md) and [mobile ъ](./Mobile%20Ъ%20(Bulgarian).md).
 - Most masculine singular adjectives ending in an [unstressed](./Phonology%20(Bulgarian).md#Stress) *-ен* drop the ⟨е⟩ when the [article](./Definite%20Article%20(Bulgarian).md) is attached, but many do not. 
 - The vast majority of masculine singular adjectives ending in the suffix *-ен* preceded by ⟨а⟩, ⟨ъ⟩, ⟨о⟩, ⟨у⟩, ⟨е⟩ or ⟨и⟩ replace the ⟨е⟩ from the suffix with ⟨й⟩, but some retain it.
 - Masculine singular adjectives ending in one of the suffixes *-ъв*, *-ък*, *-ъл* or *-ър* drop the ⟨ъ⟩ from the suffix.

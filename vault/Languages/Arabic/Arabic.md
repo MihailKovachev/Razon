@@ -1,7 +1,7 @@
 ---
 tags:
-    - latin-language
+    - arabic-language
     - languages
 ---
 
-# Latin
+# Arabic
