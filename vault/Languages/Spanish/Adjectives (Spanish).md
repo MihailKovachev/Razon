@@ -6,11 +6,11 @@ tags:
 
 # Adjectives (Spanish)
 
-[Adjectives](TODO) in [Spanish](./index.md) [inflect](TODO) for [gender](TODO) and [number](TODO). They retain the same [stress](./Orthography%20and%20Phonology.md#Stress) in all forms, which can lead to an [acute accent](./Orthography%20and%20Phonology.md#Diacritics) appearing in some forms but not in others. 
+[Adjectives](TODO) in [Spanish](./Spanish.md) [inflect](TODO) for [gender](TODO) and [number](TODO). They retain the same [stress](./Orthography%20(Spanish).md#Stress) in all forms, which can lead to an [acute accent](./Orthography%20(Spanish).md#Diacritics) appearing in some forms but not in others. 
 
 ## Gender
 
-[Adjectives](TODO) in [Spanish](./index.md) are listed by their [masculine](#Gender) [singular](#Number) form and can be divided into a few categories:
+[Adjectives](TODO) in [Spanish](./Spanish.md) are listed by their [masculine](#Gender) [singular](#Number) form and can be divided into a few categories:
 
 <table>
 <caption>Adjective Inflection</caption>
@@ -73,15 +73,15 @@ Almost all [adjectives](./Adjectives%20(Spanish).md) fall into one of the above 
 
 |Category|Plural|Example|
 |:--|:--|:--|
-|[Adjectives (Spanish)](./Adjectives%20(Spanish).md) ending in an [unstressed](./Orthography%20and%20Phonology.md#Stress) [vowel](./Orthography%20and%20Phonology.md#Vowels) or [diphthong](./Orthography%20and%20Phonology.md#Vowels) which does not end in *-y*|Add *-s*|rojo -> rojos, roja -> rojas (red); grande -> grandes|
-|[Adjectives (Spanish)](./Adjectives%20(Spanish).md) ending in a [stressed](./Orthography%20and%20Phonology.md#Stress) *-í* or *-ú*|Add *-es*|israelí -> israelíes; hindú -> hindúes|
-|[Adjectives (Spanish)](./Adjectives%20(Spanish).md) ending in a [stressed](./Orthography%20and%20Phonology.md#Stress) *-á*, *-ó* or *-é*|Add *-s*|calé -> calés (gypsy)|
-|[Adjectives (Spanish)](./Adjectives%20(Spanish).md) ending in a [consonant](./Orthography%20and%20Phonology.md#Consonants)|Add *-es*|cortés -> corteses (polite); útil -> útiles (useful)|
+|[Adjectives (Spanish)](./Adjectives%20(Spanish).md) ending in an [unstressed](./Orthography%20(Spanish).md#Stress) [vowel](./Orthography%20(Spanish).md#Vowels) or [diphthong](./Orthography%20(Spanish).md#Vowels) which does not end in *-y*|Add *-s*|rojo -> rojos, roja -> rojas (red); grande -> grandes|
+|[Adjectives (Spanish)](./Adjectives%20(Spanish).md) ending in a [stressed](./Orthography%20(Spanish).md#Stress) *-í* or *-ú*|Add *-es*|israelí -> israelíes; hindú -> hindúes|
+|[Adjectives (Spanish)](./Adjectives%20(Spanish).md) ending in a [stressed](./Orthography%20(Spanish).md#Stress) *-á*, *-ó* or *-é*|Add *-s*|calé -> calés (gypsy)|
+|[Adjectives (Spanish)](./Adjectives%20(Spanish).md) ending in a [consonant](./Orthography%20(Spanish).md#Consonants)|Add *-es*|cortés -> corteses (polite); útil -> útiles (useful)|
 |[Adjectives (Spanish)](./Adjectives%20(Spanish).md) ending in *-z*|Replace *-z* with *-ces*|feliz -> felices|
 
 ## Comparative
 
-The [comparative](TODO) in [Spanish](./index.md) is built periphrastically using the following construction:
+The [comparative](TODO) in [Spanish](./Spanish.md) is built periphrastically using the following construction:
 
 ```
 "más" ("more") / "menos" ("less") + adjective
@@ -121,7 +121,7 @@ Comparisons of inequality are done using the construction [comparative](#Compara
 
 ## Superlative
 
-There are two [superlatives](TODO) in [Spanish](./index.md).
+There are two [superlatives](TODO) in [Spanish](./Spanish.md).
 
 The **relative superlative** expresses the idea of the highest or lowest possible degree of a given quality within a given context. It is expressed using the [definite article](./Definite%20Article%20(Spanish).md) and the [comparative](./Adjectives%20(Spanish).md). The [preposition](./Prepositions.md) "de" can optionally be used to introduce the context of the [relative superlative](#Superlative).
 
@@ -136,7 +136,7 @@ The **relative superlative** expresses the idea of the highest or lowest possibl
 >Es el más alto. (It is the tallest.)
 >
 
-The **absolute superlative** expresses the idea of a very great or extreme degree. It is built by adding the suffix *-ísimo/a/os/as* to the [positive](./Adjectives%20(Spanish).md). If the [positive](./Adjectives%20(Spanish).md) ends in a [vowel](./Orthography%20and%20Phonology.md#Vowel), then it is dropped before adding the suffix. If the letter before the suffix is "c", "g" or "z", then it changes to "qu", "qu" or "c", respectively, in order to retain the pronunciation.
+The **absolute superlative** expresses the idea of a very great or extreme degree. It is built by adding the suffix *-ísimo/a/os/as* to the [positive](./Adjectives%20(Spanish).md). If the [positive](./Adjectives%20(Spanish).md) ends in a [vowel](./Orthography%20(Spanish).md#Vowel), then it is dropped before adding the suffix. If the letter before the suffix is "c", "g" or "z", then it changes to "qu", "qu" or "c", respectively, in order to retain the pronunciation.
 
 >[!EXAMPLE]- Example: Absolute Superlative
 >

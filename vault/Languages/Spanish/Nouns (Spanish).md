@@ -6,11 +6,11 @@ tags:
 
 # Nouns (Spanish)
 
-Each [noun](TODO) in [Spanish](./index.md) has [gender](TODO) and [number](TODO).
+Each [noun](TODO) in [Spanish](./Spanish.md) has [gender](TODO) and [number](TODO).
 
 ## Gender
 
-[Spanish](./index.md) has two [genders](TODO) - **masculine** and **feminine**. The [gender](#Gender) of a [noun](./Nouns%20(Spanish).md) always must be learned with the [noun](./Nouns%20(Spanish).md) itself, although there are a few patterns which can help you guess it.
+[Spanish](./Spanish.md) has two [genders](TODO) - **masculine** and **feminine**. The [gender](#Gender) of a [noun](./Nouns%20(Spanish).md) always must be learned with the [noun](./Nouns%20(Spanish).md) itself, although there are a few patterns which can help you guess it.
 
 <table>
 <caption>Masculine Noun Patterns</caption>
@@ -201,22 +201,22 @@ Some [nouns](./Nouns%20(Spanish).md) can also occur in both [genders](#Gender) w
 
 ## Number
 
-[Spanish](./index.md) has two [numbers](TODO) - **singular** and **plural**. The vast majority of [nouns](./Nouns%20(Spanish).md) inflect to show their [number](TODO). 
+[Spanish](./Spanish.md) has two [numbers](TODO) - **singular** and **plural**. The vast majority of [nouns](./Nouns%20(Spanish).md) inflect to show their [number](TODO). 
 
 The [plural](#Number) of all native words ends in *-s*:
 
 |Category|Plural|Example|
 |:--|:--|:--|
-|Monosyllabic [nouns](./Nouns%20(Spanish).md) ending in a [vowel](./Orthography%20and%20Phonology.md#Vowels) or [diphthong](./Orthography%20and%20Phonology.md#Vowels)|Add *-s*|fe -> fes<br>bici -> bicis<br>pie -> pies<br>té -> tés|
-|[Nouns (Spanish)](./Nouns%20(Spanish).md) ending in a [diphthong](./Orthography%20and%20Phonology.md#Diphthongs) ending in *-y*|Add *-es*|convoy -> convoyes<br>rey -> reyes<br>grey -> greyes|
-|[Nouns (Spanish)](./Nouns%20(Spanish).md) ending in an [unstressed](./Orthography%20and%20Phonology.md#Stress) [vowel](./Orthography%20and%20Phonology.md#Vowels) or [diphthong](./Orthography%20and%20Phonology.md#Vowels) which does not end in *-y*|Add *-s*|agua -> aguas<br>casa -> casas<br>tribu -> tribus|
-|[Nouns (Spanish)](./Nouns%20(Spanish).md) ending in a [stressed](./Orthography%20and%20Phonology.md#Stress) [vowel](./Orthography%20and%20Phonology.md#Vowels) or [diphthong](./Orthography%20and%20Phonology.md#Vowels) which does not end in *-y*|Add *-es*|champú -> champúes<br>tabú -> tabúes<br>However, some exceptions exist: bebé -> bebés; buró -> burós; café -> cafés; cliché -> clichés; dominó -> dominós; gachó -> gachós; sofá -> sofás|
+|Monosyllabic [nouns](./Nouns%20(Spanish).md) ending in a [vowel](./Orthography%20(Spanish).md#Vowels) or [diphthong](./Orthography%20(Spanish).md#Vowels)|Add *-s*|fe -> fes<br>bici -> bicis<br>pie -> pies<br>té -> tés|
+|[Nouns (Spanish)](./Nouns%20(Spanish).md) ending in a [diphthong](./Orthography%20(Spanish).md#Diphthongs) ending in *-y*|Add *-es*|convoy -> convoyes<br>rey -> reyes<br>grey -> greyes|
+|[Nouns (Spanish)](./Nouns%20(Spanish).md) ending in an [unstressed](./Orthography%20(Spanish).md#Stress) [vowel](./Orthography%20(Spanish).md#Vowels) or [diphthong](./Orthography%20(Spanish).md#Vowels) which does not end in *-y*|Add *-s*|agua -> aguas<br>casa -> casas<br>tribu -> tribus|
+|[Nouns (Spanish)](./Nouns%20(Spanish).md) ending in a [stressed](./Orthography%20(Spanish).md#Stress) [vowel](./Orthography%20(Spanish).md#Vowels) or [diphthong](./Orthography%20(Spanish).md#Vowels) which does not end in *-y*|Add *-es*|champú -> champúes<br>tabú -> tabúes<br>However, some exceptions exist: bebé -> bebés; buró -> burós; café -> cafés; cliché -> clichés; dominó -> dominós; gachó -> gachós; sofá -> sofás|
 |[Nouns (Spanish)](./Nouns%20(Spanish).md) ending in *-z*|Replace *-z* with *-ces*|cruz -> cruces<br>desliz -> deslices<br>juez -> jueces<br>lápiz -> lápices<br>raíz -> raíces|
-|Pollysyllabic [nouns](./Nouns%20(Spanish).md) ending in an [unstressed](./Orthography%20and%20Phonology.md#Stress) *-is*, *-es* or *-us*|Same as [singular](#Number)|análisis -> análisis<br>caries -> caries<br>cactus -> cactus|
+|Pollysyllabic [nouns](./Nouns%20(Spanish).md) ending in an [unstressed](./Orthography%20(Spanish).md#Stress) *-is*, *-es* or *-us*|Same as [singular](#Number)|análisis -> análisis<br>caries -> caries<br>cactus -> cactus|
 |[Latin](../Latin/Latin.md) terms|Same as [singular](#Number)|currículum -> currículum<br>déficit -> déficit<br>dosis -> dosis<br>ítem -> ítem|
-|Family names which are not [stressed](./Orthography%20and%20Phonology.md#Stress) on the ultima but end in *-z*|Same as [singular](#Number)|Martínez -> Martínez<br>Fernández -> Fernández|
-|[Nouns (Spanish)](./Nouns%20(Spanish).md) ending in a [consonant](./Orthography%20and%20Phonology.md#Consonants) other than *-z*|Add *-es*|álbum -> álbumes<br>árbol -> árboles<br>jardín -> jardines<br>mártir -> mártires<br>autor -> autores<br>canal -> canales|
+|Family names which are not [stressed](./Orthography%20(Spanish).md#Stress) on the ultima but end in *-z*|Same as [singular](#Number)|Martínez -> Martínez<br>Fernández -> Fernández|
+|[Nouns (Spanish)](./Nouns%20(Spanish).md) ending in a [consonant](./Orthography%20(Spanish).md#Consonants) other than *-z*|Add *-es*|álbum -> álbumes<br>árbol -> árboles<br>jardín -> jardines<br>mártir -> mártires<br>autor -> autores<br>canal -> canales|
 
 The [plurals](#Number) of foreign words vary a lot and must be learned on a case by case basis.
 
-The vast majority of [nouns](./Nouns%20(Spanish).md) have the same [stress](./Orthography%20and%20Phonology.md#Stess) in both the [singular](#Number) and [plural](#Plural). This can lead to an [acute accent](./Orthography%20and%20Phonology.md#Diacritics) either appearing or disappearing in one of the forms: autobús -> autobuses; balcón -> balcónes; margen -> márgenes; origen -> orígenes.
+The vast majority of [nouns](./Nouns%20(Spanish).md) have the same [stress](./Orthography%20(Spanish).md#Stess) in both the [singular](#Number) and [plural](#Plural). This can lead to an [acute accent](./Orthography%20(Spanish).md#Diacritics) either appearing or disappearing in one of the forms: autobús -> autobuses; balcón -> balcónes; margen -> márgenes; origen -> orígenes.

@@ -145,7 +145,7 @@ Some monosyllabic masculine nouns form the plural by appending *-и*.
 >|вълк (wolf)|въ̀лци (wolves)|The final *-к* transitions into ⟨ц⟩.|
 >|глист|глѝсти||
 >|гост (guest)|го̀сти (guests)||
->|грък|гъ̀рци|The final *-к* transitions into ⟨ц⟩. [Movable ъ](./Mobile%20Ъ.md) transitions from ⟨ръ⟩ into ⟨ър⟩.|
+>|грък|гъ̀рци|The final *-к* transitions into ⟨ц⟩. [Movable ъ](./Mobile%20Ъ%20(Bulgarian).md) transitions from ⟨ръ⟩ into ⟨ър⟩.|
 >|дар (gift)|да̀ри, да̀рове (gifts)|Usually *да̀рове*.|
 >|двор|дво̀ри, дворо̀ве|Usually *дворо̀ве*. The form *дво̀ри* is literary.|
 >|звук (sound)|зву̀ци, зву̀кове (sounds)||

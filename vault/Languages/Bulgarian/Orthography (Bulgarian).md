@@ -76,7 +76,7 @@ Bulgarian features
 
 ## Vowels
 
-There are six [[TODO|vowel]] [[TODO|phonemes]] in [Bulgarian](../../Music/index.md).
+There are six [[TODO|vowel]] [[TODO|phonemes]] in [Bulgarian](../../Music/Music.md).
 
 <table>
 <caption>Bulgarian Vowel Phonemes</caption>

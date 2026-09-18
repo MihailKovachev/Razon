@@ -1,10 +1,9 @@
 ---
-title: Sound
 tags:
-    - music-production
+    - music
 ---
 
-# The Physics of Sound
+# Sound
 
 > [!DEFINITION] Definition: Sound
 >
