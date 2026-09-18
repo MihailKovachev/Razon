@@ -695,3 +695,6 @@ In [compound ordinal numerals](./Numerals%20(Bulgarian).md#Compound%20Ordinal%20
 <td style="text-align:center; vertical-align:middle">тѐхните</td>
 </tr>
 </table>
+
+## Participles
+

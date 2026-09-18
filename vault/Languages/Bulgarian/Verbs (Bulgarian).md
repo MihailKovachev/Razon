@@ -12691,3 +12691,311 @@ The [aorist stem](#Aorist%20Forms) of each [verb](./Verbs%20(Bulgarian).md) of t
 
 ## Imperfect Forms
 
+The imperfect forms of a [verb](./Verbs%20(Bulgarian).md) are constructed by attaching the appropriate ending to the imperfect stem.
+
+<table>
+<caption>Imperfect Endings</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">First Person</th>
+<td style="text-align:center;vertical-align:middle"><i>-х</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-хме</i></td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Second Person</th>
+<td style="text-align:center;vertical-align:middle"><i>-ше</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-хте</i></td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Third Person</th>
+<td style="text-align:center;vertical-align:middle"><i>-ше</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-ха</i></td>
+</tr>
+</table>
+
+The [imperfect stem](#Imperfect%20Forms) is derived in a regular manner from the [present stem](#Present%20Forms). This process of formation combined with the fact that the [imperfect endings](#Imperfect%20Forms) are almost identical to the [aorist endings](#Aorist%20Forms) often yields identical [imperfect](#Imperfect%20Forms) and [aorist](#Aorist%20Forms) forms.
+
+<table>
+<caption>съм ('to be', imperfective)</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
+<th style="text-align:center;vertical-align:middle">Notes</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">First Person</th>
+<td style="text-align:center;vertical-align:middle">бях</td>
+<td style="text-align:center;vertical-align:middle">бя̀хме</td>
+<td style="text-align:left;vertical-align:middle" rowspan=3></td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Second Person</th>
+<td style="text-align:center;vertical-align:middle">бѐше</td>
+<td style="text-align:center;vertical-align:middle">бя̀хте</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Third Person</th>
+<td style="text-align:center;vertical-align:middle">бѐше</td>
+<td style="text-align:center;vertical-align:middle">бя̀ха</td>
+</tr>
+</table>
+
+<table>
+<caption>бъ̀да ('to be', perfective)</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
+<th style="text-align:center;vertical-align:middle">Notes</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">First Person</th>
+<td style="text-align:center;vertical-align:middle">бъ̀дех</td>
+<td style="text-align:center;vertical-align:middle">бъ̀дехме</td>
+<td style="text-align:left;vertical-align:middle" rowspan=3></td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Second Person</th>
+<td style="text-align:center;vertical-align:middle">бъ̀деше</td>
+<td style="text-align:center;vertical-align:middle">бъ̀дехте</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Third Person</th>
+<td style="text-align:center;vertical-align:middle">бъ̀деше</td>
+<td style="text-align:center;vertical-align:middle">бъ̀деха</td>
+</tr>
+</table>
+
+
+### First- and Second-Conjugation Imperfect Forms
+
+For [verbs](./Verbs%20(Bulgarian).md) of [conjugations](#Present%20Forms) I and II:
+
+- If the [present stem](#Present%20Forms) is not [stressed](./Phonology%20(Bulgarian).md#Stress) on the present thematic vowel, then the [imperfect stem](#Imperfect%20Forms) is formed by replacing the present thematic vowel with ⟨е⟩.
+- If the [present stem](#Present%20Forms) is [stressed](./Phonology%20(Bulgarian).md#Stress) on the present thematic vowel and the latter is not directly preceded by ⟨ж⟩, ⟨ч⟩ or ⟨ш⟩, then the [imperfect stem](#Imperfect%20Forms) is formed by replacing the present thematic vowel with ⟨е⟩ (in the second- and third-person singular) / ⟨я⟩ (in the rest of the forms).
+- If the [present stem](#Present%20Forms) is [stressed](./Phonology%20(Bulgarian).md#Stress) on the present thematic vowel and the latter is directly preceded by ⟨ж⟩, ⟨ч⟩ or ⟨ш⟩, then the [imperfect stem](#Imperfect%20Forms) is formed by replacing the present thematic vowel with ⟨е⟩ (in the second- and third-person singular) / ⟨а⟩ (in the rest of the forms).
+
+The [stress](./Phonology%20(Bulgarian).md#Stress) of the [imperfect stem](#Imperfect%20Forms) remains in the same place as that of the [present stem](#Present%20Forms).
+
+>[!EXAMPLE]- Example: Imperfect Forms of Conjugations I and II
+>
+><table>
+><caption>броя̀, броѝш ('to count', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">броя̀х</td>
+><td style="text-align:center;vertical-align:middle">броя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">броѐше</td>
+><td style="text-align:center;vertical-align:middle">броя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">броѐше</td>
+><td style="text-align:center;vertical-align:middle">броя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>вървя̀, вървѝш ('to walk', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">вървя̀х</td>
+><td style="text-align:center;vertical-align:middle">вървя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">вървѐше</td>
+><td style="text-align:center;vertical-align:middle">вървя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">вървѐше</td>
+><td style="text-align:center;vertical-align:middle">вървя̀ха</td>
+></tr>
+></table>
+>
+><table>
+><caption>но̀ся, но̀сиш ('to write', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">но̀сех</td>
+><td style="text-align:center;vertical-align:middle">но̀сехме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">но̀сеше</td>
+><td style="text-align:center;vertical-align:middle">но̀сехте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">но̀сеше</td>
+><td style="text-align:center;vertical-align:middle">но̀сеха</td>
+></tr>
+></table>
+>
+><table>
+><caption>пѝша, пѝшеш ('to writr', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">пѝшех</td>
+><td style="text-align:center;vertical-align:middle">пѝшехме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">пѝшеше</td>
+><td style="text-align:center;vertical-align:middle">пѝшехте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">пѝшеше</td>
+><td style="text-align:center;vertical-align:middle">пѝшеха</td>
+></tr>
+></table>
+>
+><table>
+><caption>стоя̀, стоѝш ('to stand', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">стоя̀х</td>
+><td style="text-align:center;vertical-align:middle">стоя̀хме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">стоѐше</td>
+><td style="text-align:center;vertical-align:middle">стоя̀хте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">стоѐше</td>
+><td style="text-align:center;vertical-align:middle">стоя̀ха</td>
+></tr>
+></table>
+>
+
+### Third-Conjugation Imperfect Forms
+
+The [imperfect stem](#Imperfect%20Forms) of each [verb](./Verbs%20(Bulgarian).md) of [conjugation](#Present%20Forms) III is identical to its [present stem](#Present%20Forms).
+
+>[!EXAMPLE]- Example: Imperfect Forms of Conjugation III
+>
+><table>
+><caption>вѝкам, вѝкаш ('to shout', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">вѝках</td>
+><td style="text-align:center;vertical-align:middle">вѝкахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">вѝкаше</td>
+><td style="text-align:center;vertical-align:middle">вѝкахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">вѝкаше</td>
+><td style="text-align:center;vertical-align:middle">вѝкаха</td>
+></tr>
+></table>
+>
+><table>
+><caption>пѝтам, пѝташ ('to ask', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">пѝтах</td>
+><td style="text-align:center;vertical-align:middle">пѝтахме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">пѝташе</td>
+><td style="text-align:center;vertical-align:middle">пѝтахте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">пѝташе</td>
+><td style="text-align:center;vertical-align:middle">пѝтаха</td>
+></tr>
+></table>
+>
+><table>
+><caption>хвъ̀рлям, хвъ̀рляш ('to throw', imperfective)</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">хвъ̀рлях</td>
+><td style="text-align:center;vertical-align:middle">хвъ̀рляхме</td>
+><td style="text-align:left;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">хвъ̀рляше</td>
+><td style="text-align:center;vertical-align:middle">хвъ̀рляхте</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">хвъ̀рляше</td>
+><td style="text-align:center;vertical-align:middle">хвъ̀рляха</td>
+></tr>
+></table>
+>
