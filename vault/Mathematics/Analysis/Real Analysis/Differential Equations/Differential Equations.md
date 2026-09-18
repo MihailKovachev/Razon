@@ -1,5 +1,4 @@
 ---
-title: Differential Equations
 tags:
     - differential-equations
     - equations
@@ -7,3 +6,4 @@ tags:
     - mathematics
 ---
 
+# Differential Equations
