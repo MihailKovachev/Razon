@@ -1,0 +1,6 @@
+---
+tags:
+    - linguistics
+---
+
+# Palatalization
