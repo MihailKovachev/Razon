@@ -62,7 +62,7 @@ There are no [stress](./Phonology%20(Bulgarian).md#Stresd) shifts.
 >|купу̀вам, купу̀ваш ('to buy', imperfective)|купу̀ва-|купу̀ващ|купу̀ваща|купу̀ващо|купу̀ващи|
 >
 
-## Past Active Aorist Participle
+## Past Active Aorist Participles
 
 A past active imperfect participle is formed from the first-person singular [aorist](./Verbs%20(Bulgarian).md#Aorist%20Forms) by replacing the ending *-х* with one of the following endings:
 

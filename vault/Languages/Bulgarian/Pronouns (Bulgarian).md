@@ -11,7 +11,7 @@ tags:
 All personal pronouns have the [grammatical categories](TODO) [person](TODO) (first, second, third), [number](TODO) (singular and plural) and [case](TODO) (nominative, accusative, dative). The third person singular personal pronouns also have [gender](TODO).
 
 <table>
-<caption>Possessive Pronouns (Nominative Case)</caption>
+<caption>Personal Pronouns (Nominative Case)</caption>
 <tr>
 <th style="text-align:center; vertical-align:middle" colspan=2></th>
 <th style="text-align:center; vertical-align:middle">Singular</th>
