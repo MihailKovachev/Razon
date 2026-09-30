@@ -4,4 +4,4 @@ tags:
     - physics
 ---
 
-# Schrödinger's Equation
+# Elementary Particle (Quantum Mechanics)

@@ -1,7 +1,6 @@
 ---
 tags:
-    - phonetics
     - linguistics
 ---
 
-# Consonants
+# Approximant

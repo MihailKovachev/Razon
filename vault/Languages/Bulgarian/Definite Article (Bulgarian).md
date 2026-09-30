@@ -698,3 +698,17 @@ In [compound ordinal numerals](./Numerals%20(Bulgarian).md#Compound%20Ordinal%20
 
 ## Participles
 
+[Present active participles](./Participles%20(Bulgarian).md#Present%20Active%20Participles), [past active aorist participled](./Participles%20(Bulgarian).md#Past%20Active%20Aorist%20Participles) and [past passive participles](./Participles%20(Bulgarian).md#Past%20Passive%20Participles) can also take the [definite article](./Definite%20Article%20(Bulgarian).md).
+
+### Present Active Participles
+
+For [present active participles](./Participles%20(Bulgarian).md#Present%20Active%20Participles), the appropriate [definite article](./Definite%20Article%20(Bulgarian).md) is appended directly. The masculine singular form is augmented with ⟨и⟩ before the [definite article](./Definite%20Article%20(Bulgarian).md). There are no [stress](./Phonology%20(Bulgarian).md#Stress) shifts.
+
+|Masculine Singular|Feminine Singular|Neuter Singular|Plural|
+|:--:|:--:|:--:|:--:|
+|-я, -ят|-та|-то|-те|
+
+>[!EXAMPLE]- Example: Definite Forms of Present Active Participles
+>
+>
+>

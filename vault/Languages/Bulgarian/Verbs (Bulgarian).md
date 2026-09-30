@@ -10891,13 +10891,11 @@ The [verbs](./Verbs%20(Bulgarian).md) *спя*, *коля* and *реша* have a
 <th style="text-align:center;vertical-align:middle"></th>
 <th style="text-align:center;vertical-align:middle">Singular</th>
 <th style="text-align:center;vertical-align:middle">Plural</th>
-<th style="text-align:center;vertical-align:middle">Notes</th>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">First Person</th>
 <td style="text-align:center;vertical-align:middle">спах</td>
 <td style="text-align:center;vertical-align:middle">спа̀хме</td>
-<td style="text-align:left;vertical-align:middle" rowspan=3></td>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -10917,13 +10915,11 @@ The [verbs](./Verbs%20(Bulgarian).md) *спя*, *коля* and *реша* have a
 <th style="text-align:center;vertical-align:middle"></th>
 <th style="text-align:center;vertical-align:middle">Singular</th>
 <th style="text-align:center;vertical-align:middle">Plural</th>
-<th style="text-align:center;vertical-align:middle">Notes</th>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">First Person</th>
 <td style="text-align:center;vertical-align:middle">клах</td>
 <td style="text-align:center;vertical-align:middle">кла̀хме</td>
-<td style="text-align:left;vertical-align:middle" rowspan=3></td>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -10943,13 +10939,11 @@ The [verbs](./Verbs%20(Bulgarian).md) *спя*, *коля* and *реша* have a
 <th style="text-align:center;vertical-align:middle"></th>
 <th style="text-align:center;vertical-align:middle">Singular</th>
 <th style="text-align:center;vertical-align:middle">Plural</th>
-<th style="text-align:center;vertical-align:middle">Notes</th>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">First Person</th>
 <td style="text-align:center;vertical-align:middle">рѐсах</td>
 <td style="text-align:center;vertical-align:middle">рѐсахме</td>
-<td style="text-align:left;vertical-align:middle" rowspan=3></td>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -12725,13 +12719,11 @@ The [imperfect stem](#Imperfect%20Forms) is derived in a regular manner from the
 <th style="text-align:center;vertical-align:middle"></th>
 <th style="text-align:center;vertical-align:middle">Singular</th>
 <th style="text-align:center;vertical-align:middle">Plural</th>
-<th style="text-align:center;vertical-align:middle">Notes</th>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">First Person</th>
 <td style="text-align:center;vertical-align:middle">бях</td>
 <td style="text-align:center;vertical-align:middle">бя̀хме</td>
-<td style="text-align:left;vertical-align:middle" rowspan=3></td>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -12751,13 +12743,11 @@ The [imperfect stem](#Imperfect%20Forms) is derived in a regular manner from the
 <th style="text-align:center;vertical-align:middle"></th>
 <th style="text-align:center;vertical-align:middle">Singular</th>
 <th style="text-align:center;vertical-align:middle">Plural</th>
-<th style="text-align:center;vertical-align:middle">Notes</th>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">First Person</th>
 <td style="text-align:center;vertical-align:middle">бъ̀дех</td>
 <td style="text-align:center;vertical-align:middle">бъ̀дехме</td>
-<td style="text-align:left;vertical-align:middle" rowspan=3></td>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Second Person</th>
@@ -12999,3 +12989,51 @@ The [imperfect stem](#Imperfect%20Forms) of each [verb](./Verbs%20(Bulgarian).md
 ></tr>
 ></table>
 >
+
+## Imperative Forms
+
+[Verbs](./Verbs%20(Bulgarian).md) have two imperative forms: for the second-person singular and second-person plural. These are constructed by attaching an appropriate ending to an [imperative stem](#Imperative%20Forms):
+
+<table>
+<caption>Imperative Endings</caption>
+<thead>
+<th style="text-align:center;vertical-align:middle">Second-Person Singular</th>
+<th style="text-align:center;vertical-align:middle">Second-Person Plural</th>
+</thead>
+<tbody>
+<td style="text-align:center;vertical-align:middle"><i>-и</i>; <i>-й</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-ете</i>; <i>-йте</i></td>
+</tbody>
+</table>
+
+The endings *-и*, *-ете* are used whenever the [imperative stem](#Imperative%20Forms) ends in a [consonant](./Phonology%20(Bulgarian).md#Consonants), while *-й* and *-йте* are used otherwise.
+
+The [imperative stem](#Imperative%20Forms) of [first-conjugation](#Present%20Forms) and [second-conjugation](#Present%20Forms) [verbs](./Verbs%20(Bulgarian).md) is obtained from the [present stem](#Present%20Forms) by dropping the thematic ⟨е⟩ / ⟨и⟩. The [imperative stem](#Imperative%20Forms) of [third-conjugation](#Present%20Forms) [verbs](./Verbs%20(Bulgarian).md) is identical to the [present stem](#Present%20Stem). 
+
+There are no [stress](./Phonology%20(Bulgarian).md#Stress) shifts for the forms using *-й*, *-йте* but there forms using *-и*, *-ете* are always [stressed](./Phonology%20(Bulgarian).md#Stress) on the ending, specifically *-ѝ*, *-ѐте*.
+
+>[!EXAMPLE]- Example: Imperative Forms
+>
+>|Verb|Present Stem|Imperative Stem|Singular|Plural|
+>|:--:|:--:|:--:|:--:|:--:|
+>|глѐдам, глѐдаш ('to watch', imperfective)|глѐда-|глѐда-|глѐдай|глѐдайте|
+>|отва̀рям, отва̀ряш ('to open', imperfective)|отва̀ря-|отва̀ря-|отва̀ряй|отва̀ряйте|
+>|пѐя, пѐеш ('to sing', imperfective)|пѐе-|пе-|пей|пѐйте|
+>|спя, спиш ('to sleep', imperfective)|спи-|сп-|спи|спѐте|
+>|стоя̀, стоѝш ('to stand', imperfective)|стоѝ-|сто-|стой|сто̀йте|
+>|чета̀, четѐш ('to read', imperfective)|четѐ-|чет-|четѝ|четѐте|
+>|хо̀дя, хо̀диш ('to walk', imperfective)|хо̀ди-|ход-|ходѝ|ходѐте|
+>
+
+A few [verbs](./Verbs%20(Bulgarian).md) have irregular [imperative forms](#Imperative%20Forms):
+
+|Verb|Singular|Plural|
+|:--:|:--:|:--:|
+|вѝдя, вѝдиш ('to see', perfective)|виж|вѝжте|
+|дам, дадѐш ('to give', perfective)|дай|дайте|
+|до̀йда, до̀йдеш ('to come', perfective)|ела̀|ела̀те|
+|държа̀, държѝш ('to hold', imperfective)|дръж|дръ̀жте|
+|вля̀за, влѐзеш ('to enter', perfective)|влез|влѐзте|
+|изля̀за, излѐзеш ('to exit', perfective)|излѐз|излѐзте|
+|сля̀за, слѐзеш ('to go down', perfective)|слез|слѐзте|
+|ям, ядѐш ('to eat', imperfective)|яж|я̀жте|
