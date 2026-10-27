@@ -9,7 +9,7 @@ tags:
 
 >[!DEFINITION] Definition: Nullor
 >
->A **nullor** is a [strictly linear two-port](./Linear%20Two-Ports.md#Strictly%20Linear%20Two-Ports) which has the following [implicit representation](../Ports.md#Representations):
+>A **nullor** is a [strictly linear two-port](./Strictly%20Linear%20Resistive%20Two-Ports.md#Strictly%20Linear%20Two-Ports) which has the following [implicit representation](../Ports.md#Representations):
 >
 >$$
 >\begin{bmatrix}1 & 0 \\ 0 & 0\end{bmatrix}\boldsymbol{v} + \begin{bmatrix}0 & 0 \\ 1 & 0\end{bmatrix}\boldsymbol{i} = \boldsymbol{0}

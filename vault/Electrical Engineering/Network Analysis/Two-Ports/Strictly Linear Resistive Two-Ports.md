@@ -1,13 +1,31 @@
 ---
-title: Linear Two-Ports
 tags:
     - circuit-theory
     - electrical-engineering
 ---
 
-# Linear Two-Ports
+# Strictly Linear Resistive Two-Ports
 
 A [two-port](./Two-Ports.md) is [strictly linear](../Strictly%20Linear%20Multiports.md) if its [I-V characteristic](./Two-Ports.md#I-V%20Characteristic) is a [two-dimensional](../../../Mathematics/Algebra/Vector%20Spaces/Hamel%20Bases.md) [subspace](../../../Mathematics/Algebra/Vector%20Spaces/Linear%20Subspaces.md) of $\mathbb{R}^4$.
+
+>[!DEFINITION] Definition: Input Resistance
+>
+>$$R_{\text{in}} \overset{\text{def}}{=} \frac{V_1}{I_1}$$
+>
+
+>[!DEFINITION] Definition: Output Resistance
+>
+>$$R_{\text{out}} \overset{\text{def}}{=} \frac{V_2}{I_2}$$
+>
+
+## Resistance Representation
+
+>[!DEFINITION] Definition:
+>
+>$$\begin{bmatrix} v_1 \\ v_2 \end{bmatrix} = \underset{\boldsymbol{R}}{\underbrace{\begin{bmatrix}R_{11} & R_{12} \\ R_{21} & R_{22}\end{bmatrix}}}\begin{bmatrix} i_1 \\ i_2 \end{bmatrix}$$
+>
+
+>[!THEOREM] Theorem: Re
 
 ## Representations
 
@@ -94,7 +112,7 @@ A [two-port](./Two-Ports.md) is [strictly linear](../Strictly%20Linear%20Multipo
 
 >[!THEOREM] Theorem: Ratios of Reciprocal Two-Ports
 >
->Let $\mathcal{F}$ be a [strictly linear two-port](./Linear%20Two-Ports.md).
+>Let $\mathcal{F}$ be a [strictly linear two-port](./Strictly%20Linear%20Resistive%20Two-Ports.md).
 >
 >If $\mathcal{F}$ is [reciprocal](../Strictly%20Linear%20Multiports.md#Reciprocity), then we have the following properties:
 >- The ratio of $v_1$ to $v_2$ whenever $i_1 = 0$ is the same as the negative of the ratio of $i_2$ to $i_1$ whenever $v_2 = 0$.
@@ -203,7 +221,7 @@ A [two-port](./Two-Ports.md) is [strictly linear](../Strictly%20Linear%20Multipo
 
 >[!THEOREM] Theorem: Symmetry $\implies$ Reciprocity
 >
->If a [strictly linear two-port](./Linear%20Two-Ports.md) [two-port](./Two-Ports.md) is [symmetrical](./Two-Ports.md#Symmetry), then it is also [reciprocal](../Strictly%20Linear%20Multiports.md#Reciprocity).
+>If a [strictly linear two-port](./Strictly%20Linear%20Resistive%20Two-Ports.md) [two-port](./Two-Ports.md) is [symmetrical](./Two-Ports.md#Symmetry), then it is also [reciprocal](../Strictly%20Linear%20Multiports.md#Reciprocity).
 >
 >>[!PROOF]-
 >>

@@ -28,7 +28,7 @@ tags:
 
 >[!THEOREM] Theorem: Strict Linearity
 >
->Every [transformer](#Theoretic%20Model) is [strictly linear](../../Network%20Analysis/Two-Ports/Linear%20Two-Ports.md#Strictly%20Linear%20Two-Ports).
+>Every [transformer](#Theoretic%20Model) is [strictly linear](../../Network%20Analysis/Two-Ports/Strictly%20Linear%20Resistive%20Two-Ports.md#Strictly%20Linear%20Two-Ports).
 >
 >>[!PROOF]-
 >>

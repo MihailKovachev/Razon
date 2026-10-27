@@ -23,12 +23,6 @@ The inputs are labelled $R$ and $S$ because the [SR NOR latch](#SR%20NOR%20Latch
 
 The [SR NOR latch](#SR%20NOR%20Latches) can be in one of the following states:
 
-|State|$R$|$S$|$Q$|$\overline{Q}$|Description|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|Memory|$0$|$0$|$Q_{prev}$|$\overline{Q}_{prev}$|Maintains the previous state.|
-|Set|$0$|$1$|$1$|$0$|Sets $Q = 1$ and $\overline{Q} = 0$.|
-|Reset|$1$|$0$|$0$|$1$|Sets $Q = 0$ and $\overline{Q} = 1$.|
-|Invalid|$1$|$1$|$0$|$0$|Invalid because $Q = \overline{Q}$.|
 
 The problem with the invalid state is that the [SR NOR latch](#SR%20NOR%20Latches) cannot safely enter the memory state from it. It is perfectly safe to enter the set or reset state from the invalid state, but trying to directly enter the memory state by simultaneously setting $R = 0$ and $S = 0$ results in unpredictable behavior. 
 

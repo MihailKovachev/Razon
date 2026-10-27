@@ -33,7 +33,7 @@ tags:
 
 >[!THEOREM] Theorem: Strict Linearity
 >
->Every [gyrator](#Theoretical%20Model) is [strictly linear](../../Network%20Analysis/Two-Ports/Linear%20Two-Ports.md).
+>Every [gyrator](#Theoretical%20Model) is [strictly linear](../../Network%20Analysis/Two-Ports/Strictly%20Linear%20Resistive%20Two-Ports.md).
 >
 >>[!PROOF]-
 >>

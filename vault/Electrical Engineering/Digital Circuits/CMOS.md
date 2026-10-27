@@ -6,7 +6,7 @@ tags:
 
 # CMOS
 
-**Complementary MOS** (**CMOS**) refers to the use of both [PMOS](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) and [NMOS](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) to build [digital circuits](./Digital%20Circuits.md).
+**Complementary MOS** (**CMOS**) refers to the use of both [PMOS](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) and [NMOS](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) to build [digital circuits](./Digital%20Circuits.md).
 
 There are many reasons why [CMOS](./CMOS.md) dominates [digital circuits](./Digital%20Circuits.md) in today's world.
 
@@ -32,21 +32,21 @@ Every [Boolean function](../../Mathematics/Algebra/Boolean%20Algebra/Boolean%20F
 >
 >We are given an arbitrary [Boolean expression](../../Mathematics/Algebra/Boolean%20Algebra/Boolean%20Expressions.md) of a [Boolean function](../../Mathematics/Algebra/Boolean%20Algebra/Boolean%20Functions.md) $f: \{0,1\}^n \to \{0,1\}$ and want to implement $f$ via [CMOS](./CMOS.md):
 >
->1. Create a **pull-up network** (**PUN**) from [PMOS transistors](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) by traversing the expression recursively.
+>1. Create a **pull-up network** (**PUN**) from [PMOS transistors](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) by traversing the expression recursively.
 >
 >    - Each [conjunction (AND)](../../Mathematics/Algebra/Boolean%20Algebra/Boolean%20Expressions.md) in the expression is physically implemented by arranging the corresponding sub-networks in parallel.
 >    - Each [disjunction (OR)](../../Mathematics/Algebra/Boolean%20Algebra/Boolean%20Expressions.md) in the expression is physically implemented by arranging the corresponding sub-networks in series.
->    - The [gate](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) of each [PMOS](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) is connected to exactly one [literal](../../Mathematics/Algebra/Boolean%20Algebra/Boolean%20Expressions.md).
->    - The [sources](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) of the top-most [PMOS transistors](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) are connected to the supply $V_{\text{DD}}$.
+>    - The [gate](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) of each [PMOS](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) is connected to exactly one [literal](../../Mathematics/Algebra/Boolean%20Algebra/Boolean%20Expressions.md).
+>    - The [sources](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) of the top-most [PMOS transistors](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) are connected to the supply $V_{\text{DD}}$.
 >
->2. Create a **pull-down network** (**PDN**) from [NMOS transistors](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) by traversing the expression recursively.
+>2. Create a **pull-down network** (**PDN**) from [NMOS transistors](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) by traversing the expression recursively.
 >
 >    - Each [conjunction (AND)](../../Mathematics/Algebra/Boolean%20Algebra/Boolean%20Expressions.md) in the expression is physically implemented by arranging the corresponding sub-networks in series.
 >    - Each [disjunction (OR)](../../Mathematics/Algebra/Boolean%20Algebra/Boolean%20Expressions.md) in the expression is physically implemented by arranging the corresponding sub-networks in parallel.
->    - The [gate](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) of each [NMOS](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) is connected to exactly one [literal](../../Mathematics/Algebra/Boolean%20Algebra/Boolean%20Expressions.md).
->    - The [sources](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) of the bottom-most [NMOS transistors](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) are connected to [ground](TODO).
+>    - The [gate](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) of each [NMOS](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) is connected to exactly one [literal](../../Mathematics/Algebra/Boolean%20Algebra/Boolean%20Expressions.md).
+>    - The [sources](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) of the bottom-most [NMOS transistors](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) are connected to [ground](TODO).
 >
->3. Connect the two networks by connecting the [drains](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) of the bottom-most [PMOS transistors](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) to the [drains](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) of the top-most [NMOS transistors](../Analog%20Circuits/Transistors/MOSFET.md#Enhancement-Mode%20MOSFET) and drives this common connection into an [inverter](./Logic%20Gates/Inverters.md).
+>3. Connect the two networks by connecting the [drains](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) of the bottom-most [PMOS transistors](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) to the [drains](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) of the top-most [NMOS transistors](../Transistors/Enhancement-Mode%20Metal-Oxide-Semiconductor%20Field-Effect%20Transistor.md#Enhancement-Mode%20MOSFET) and drives this common connection into an [inverter](./Logic%20Gates/Inverters.md).
 >
 >    - The output of this [inverter](./Logic%20Gates/Inverters.md) is $f$.
 >
