@@ -155,3 +155,61 @@ The **absolute superlative** expresses the idea of a very great or extreme degre
 
 ## Position
 
+## Possessive Adjectives
+
+<table>
+<caption>Possessive Pronouns</caption>
+<thead>
+<tr>
+<th style="text-align:center;vertical-align:middle" colspan=4></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th style="text-align:center;vertical-align:middle" rowspan=3 colspan=2>Singular</th>
+<th style="text-align:center;vertical-align:middle" colspan=2>First Person</th>
+<td style="text-align:center;vertical-align:middle">mi</td>
+<td style="text-align:center;vertical-align:middle">mis</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle" colspan=2>Second Person</th>
+<td style="text-align:center;vertical-align:middle">tu</td>
+<td style="text-align:center;vertical-align:middle">tus</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle" colspan=2>Third Person</th>
+<td style="text-align:center;vertical-align:middle">su</td>
+<td style="text-align:center;vertical-align:middle">sus</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle" rowspan=5 colspan=2>Plural</th>
+<th style="text-align:center;vertical-align:middle" rowspan=2>First Person</th>
+<th style="text-align:center;vertical-align:middle">>=1 Masculine</th>
+<td style="text-align:center;vertical-align:middle">nuestro</td>
+<td style="text-align:center;vertical-align:middle">nuestros</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Only Feminine</th>
+<td style="text-align:center;vertical-align:middle">nuestra</td>
+<td style="text-align:center;vertical-align:middle">nuestras</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle" rowspan=2>Second Person</th>
+<th style="text-align:center;vertical-align:middle">>=1 Masculine</th>
+<td style="text-align:center;vertical-align:middle">vuestro</td>
+<td style="text-align:center;vertical-align:middle">vuestros</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Only Feminine</th>
+<td style="text-align:center;vertical-align:middle">vuestra</td>
+<td style="text-align:center;vertical-align:middle">vuestras</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle" colspan=2>Third Person</th>
+<td style="text-align:center;vertical-align:middle">su, sus</td>
+<td style="text-align:center;vertical-align:middle">sus</td>
+</tr>
+</tbody>
+</table>
