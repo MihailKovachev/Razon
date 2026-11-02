@@ -14,54 +14,89 @@ Every [verb](./Verbs%20(Spanish).md) in [Spanish](./Spanish.md) has an [infiniti
 - *-er* conjugation;
 - *-ir* conjugation.
 
-### Present Indicative Forms
+## Present Indicative Forms
 
 The **present indicative forms** are constructed by attaching an appropriate ending to the [present stem](#Present%20Forms).
 
 <table>
-<caption>Present Indicative Endings</caption>
+<caption>Present Indicative Endings (<i>-ar</i> Conjugation)</caption>
 <tr>
-<th style="text-align:center;vertical-align:middle" colspan=2></th>
-<th style="text-align:center;vertical-align:middle">First Conjugation (<i>-ar</i>)</th>
-<th style="text-align:center;vertical-align:middle">Second Conjugation (<i>-er</i>)</th>
-<th style="text-align:center;vertical-align:middle">Third Conjugation (<i>-ir</i>)</th>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
 </tr>
 <tr>
-<th style="text-align:center;vertical-align:middle" rowspan=3>Singular</th>
 <th style="text-align:center;vertical-align:middle">First Person</th>
-<td style="text-align:center;vertical-align:middle" colspan=3><i>-o</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-o</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-amos</i></td>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Second Person</th>
 <td style="text-align:center;vertical-align:middle"><i>-as</i></td>
-<td style="text-align:center;vertical-align:middle" colspan=2><i>-es</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-áis</i></td>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Third Person</th>
 <td style="text-align:center;vertical-align:middle"><i>-a</i></td>
-<td style="text-align:center;vertical-align:middle" colspan=2><i>-e</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-an</i></td>
+</tr>
+</table>
+
+<table>
+<caption>Present Indicative Endings (<i>-er</i> Conjugation)</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
 </tr>
 <tr>
-<th style="text-align:center;vertical-align:middle" rowspan=3>Plural</th>
 <th style="text-align:center;vertical-align:middle">First Person</th>
-<td style="text-align:center;vertical-align:middle"><i>-amos</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-o</i></td>
 <td style="text-align:center;vertical-align:middle"><i>-emos</i></td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Second Person</th>
+<td style="text-align:center;vertical-align:middle"><i>-es</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-éis</i></td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Third Person</th>
+<td style="text-align:center;vertical-align:middle"><i>-e</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-en</i></td>
+</tr>
+</table>
+
+<table>
+<caption>Present Indicative Endings (<i>-ir</i> Conjugation)</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">First Person</th>
+<td style="text-align:center;vertical-align:middle"><i>-o</i></td>
 <td style="text-align:center;vertical-align:middle"><i>-imos</i></td>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Second Person</th>
-<td style="text-align:center;vertical-align:middle"><i>-áis</i></td>
-<td style="text-align:center;vertical-align:middle"><i>-éis</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-es</i></td>
 <td style="text-align:center;vertical-align:middle"><i>-ís</i></td>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Third Person</th>
-<td style="text-align:center;vertical-align:middle"><i>-an</i></td>
-<td style="text-align:center;vertical-align:middle" colspan=2><i>-en</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-e</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-en</i></td>
 </tr>
 </table>
 
-Some [verbs](./Verbs%20(Spanish).md) experiences a [vowel](../../Linguistics/Vowel.md) [alternation](TODO) (⟨e⟩ ~ ⟨ie⟩, ⟨e⟩ ~ ⟨i⟩, ⟨i⟩ ~ ⟨ie⟩, ⟨o⟩ ~ ⟨ue⟩ or ⟨u⟩ ~ ⟨ue⟩) in the forms with [stress](./Phonology%20(Spanish).md#Stress) on the [present stem](#Present%20Forms).
+A few [verbs](./Verbs%20(Spanish).md) experience a [vowel](../../Linguistics/Vowel.md) [alternation](TODO) in the forms with [stress](./Phonology%20(Spanish).md#Stress) on the [present stem](#Present%20Forms).:
+
+- ⟨e⟩ ~ ⟨ie⟩
+- ⟨e⟩ ~ ⟨i⟩
+- ⟨i⟩ ~ ⟨ie⟩
+- ⟨o⟩ ~ ⟨ue⟩
+- ⟨u⟩ ~ ⟨ue⟩ 
 
 >[!EXAMPLE]- Example: Present Indicative Stem Vowel Alternation ⟨e⟩ ~ ⟨ie⟩
 >
@@ -678,6 +713,396 @@ Some [verbs](./Verbs%20(Spanish).md) experiences a [vowel](../../Linguistics/Vow
 ></table>
 >
 
+[Verbs](./Verbs%20(Spanish).md) undergo regular spelling changes in the first-person singular, mostly to preserve pronunciation:
+
+|Infinitive|First-Person Singular|
+|:--:|:--:|
+|Vowel + *-cer* / *-cir*|*-zco* (most common), *-zo* (less common)|
+|Consonant + *-cer* / *-cir*|*-zo*|
+|*-ger* / *-gir*|*-jo*|
+|*-guir*|*-go*|
+|*-quir*|*-co*|
+
+>[!EXAMPLE]- Example: Vowel + *-cer* / *-cir* -> *-zco*
+>
+><table>
+><caption>conocer ('to know')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">conozco</td>
+><td style="text-align:center;vertical-align:middle">conocemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">conoces</td>
+><td style="text-align:center;vertical-align:middle">conocéis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">conoce</td>
+><td style="text-align:center;vertical-align:middle">conocen</td>
+></tr>
+></table>
+>
+><table>
+><caption>parecer ('to seem')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">parezco</td>
+><td style="text-align:center;vertical-align:middle">parecemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">pareces</td>
+><td style="text-align:center;vertical-align:middle">parecéis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">parece</td>
+><td style="text-align:center;vertical-align:middle">parecen</td>
+></tr>
+></table>
+>
+><table>
+><caption>producir ('to produce')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">produzco</td>
+><td style="text-align:center;vertical-align:middle">producimos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">produces</td>
+><td style="text-align:center;vertical-align:middle">producís</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">produce</td>
+><td style="text-align:center;vertical-align:middle">producen</td>
+></tr>
+></table>
+>
+
+>[!EXAMPLE]- Example: Consonant + *-cer* / *-cir* -> *-zo*
+>
+><table>
+><caption>ejercer ('to exercise')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">ejerzo</td>
+><td style="text-align:center;vertical-align:middle">ejercemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">ejerces</td>
+><td style="text-align:center;vertical-align:middle">ejercéis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">ejerce</td>
+><td style="text-align:center;vertical-align:middle">ejercen</td>
+></tr>
+></table>
+>
+><table>
+><caption>vencer ('to defeat')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">venzo</td>
+><td style="text-align:center;vertical-align:middle">vencemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">vences</td>
+><td style="text-align:center;vertical-align:middle">vencéis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">vence</td>
+><td style="text-align:center;vertical-align:middle">vencen</td>
+></tr>
+></table>
+>
+
+>[!EXAMPLE]- Example: *-ger* / *-gir* -> *-jo*
+>
+><table>
+><caption>coger ('to catch')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">cojo</td>
+><td style="text-align:center;vertical-align:middle">cogemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">coges</td>
+><td style="text-align:center;vertical-align:middle">cogéis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">coge</td>
+><td style="text-align:center;vertical-align:middle">cogen</td>
+></tr>
+></table>
+>
+><table>
+><caption>dirigir ('to direct')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">dirijo</td>
+><td style="text-align:center;vertical-align:middle">dirigimos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">diriges</td>
+><td style="text-align:center;vertical-align:middle">dirigéis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">dirige</td>
+><td style="text-align:center;vertical-align:middle">dirigen</td>
+></tr>
+></table>
+>
+
+>[!EXAMPLE]- Example: *-guir* -> *-go*
+>
+><table>
+><caption>conseguir ('to achieve')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">consigo</td>
+><td style="text-align:center;vertical-align:middle">conseguimos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">consigues</td>
+><td style="text-align:center;vertical-align:middle">consegís</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">consigue</td>
+><td style="text-align:center;vertical-align:middle">consiguen</td>
+></tr>
+></table>
+>
+><table>
+><caption>distinguir ('to distinguish')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">distingo</td>
+><td style="text-align:center;vertical-align:middle">distinguimos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">distingues</td>
+><td style="text-align:center;vertical-align:middle">distinguéis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">distingue</td>
+><td style="text-align:center;vertical-align:middle">distinguen</td>
+></tr>
+></table>
+>
+
+>[!EXAMPLE]- Example: *-quir* -> *-co*
+>
+><table>
+><caption>delinquir ('to commit a crime')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">delinco</td>
+><td style="text-align:center;vertical-align:middle">delinquimos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">delinques</td>
+><td style="text-align:center;vertical-align:middle">delinquís</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">delinque</td>
+><td style="text-align:center;vertical-align:middle">delinquen</td>
+></tr>
+></table>
+>
+
+A few [verbs](./Verbs%20(Spanish).md) have an unpredictable first-person singular form.
+
+>[!EXAMPLE]- Example: Unpredictable First-Person Singular
+>
+><table>
+><caption>hacer ('to do')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">hago</td>
+><td style="text-align:center;vertical-align:middle">hacemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">haces</td>
+><td style="text-align:center;vertical-align:middle">hacéis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">hace</td>
+><td style="text-align:center;vertical-align:middle">hacen</td>
+></tr>
+></table>
+>
+><table>
+><caption>saber ('to know')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">sé</td>
+><td style="text-align:center;vertical-align:middle">sabemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">sabes</td>
+><td style="text-align:center;vertical-align:middle">sabéis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">sabe</td>
+><td style="text-align:center;vertical-align:middle">saben</td>
+></tr>
+></table>
+>
+><table>
+><caption>salir ('to go out')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">salgo</td>
+><td style="text-align:center;vertical-align:middle">salimos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">sales</td>
+><td style="text-align:center;vertical-align:middle">salís</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">sale</td>
+><td style="text-align:center;vertical-align:middle">salen</td>
+></tr>
+></table>
+>
+><table>
+><caption>tener ('to have')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">tengo</td>
+><td style="text-align:center;vertical-align:middle">tenemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">tienes</td>
+><td style="text-align:center;vertical-align:middle">tenéis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">tiene</td>
+><td style="text-align:center;vertical-align:middle">tienen</td>
+></tr>
+></table>
+>
+><table>
+><caption>ver ('to see')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">veo</td>
+><td style="text-align:center;vertical-align:middle">vemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">ves</td>
+><td style="text-align:center;vertical-align:middle">veis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">ve</td>
+><td style="text-align:center;vertical-align:middle">ven</td>
+></tr>
+></table>
+>
+
 A few [verbs](./Verbs%20(Spanish).md) have highly irregular [present indicative forms](#Present%20Indcative%20Forms).
 
 <table>
@@ -1022,6 +1447,81 @@ The **imperfect indicative forms** are constructed by appending an appropriate e
 </tr>
 </table>
 
+>[!EXAMPLE]- Example: Imperfect Indicative Forms 
+>
+><table>
+><caption>andar ('to walk')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">andaba</td>
+><td style="text-align:center;vertical-align:middle">andábamos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">andabas</td>
+><td style="text-align:center;vertical-align:middle">andabais</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">andaba</td>
+><td style="text-align:center;vertical-align:middle">andaban</td>
+></tr>
+></table>
+>
+><table>
+><caption>beber ('to drink')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">bebía</td>
+><td style="text-align:center;vertical-align:middle">bebíamos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">bebías</td>
+><td style="text-align:center;vertical-align:middle">bebíais</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">bebía</td>
+><td style="text-align:center;vertical-align:middle">bebían</td>
+></tr>
+></table>
+>
+><table>
+><caption>venir ('to come')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">venía</td>
+><td style="text-align:center;vertical-align:middle">veníamos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">venías</td>
+><td style="text-align:center;vertical-align:middle">veníais</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">venía</td>
+><td style="text-align:center;vertical-align:middle">venían</td>
+></tr>
+></table>
+>
+
 Only the following [verbs](./Verbs%20(Spanish).md) have irregular [imperfect indicative forms](#Imperfect%20Indicative%20Forms).
 
 <table>
@@ -1128,7 +1628,273 @@ The ⟨r⟩ and ⟨s⟩ endings are equivalent.
 
 The [imperfect subjunctive stem](#Imperfect%20Subjunctive%20Forms) is obtained by dropping the *-ron* ending of the third-person plural [preterite](#Preterite%20Forms).
 
+Thd [stress](./Phonology%20(Spanish).md#Stress) always falls on the syllable before the ending, which introduces an accent in the third-person plural form.
+
 >[!EXAMPLE]- Example: Imperfect Subjunctive Forms
+>
+><table>
+><caption>andar ('to walk')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">anduviera, anduviese</td>
+><td style="text-align:center;vertical-align:middle">anduviéramos, anduviésemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">anduvieras, anduvieses</td>
+><td style="text-align:center;vertical-align:middle">anduvierais, anduvieseis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">anduviera, anduviese</td>
+><td style="text-align:center;vertical-align:middle">anduvieran, anduviesen</td>
+></tr>
+></table>
+>
+><table>
+><caption>caber ('to fit')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">cupiera, cupiese</td>
+><td style="text-align:center;vertical-align:middle">cupiéramos, cupiésemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">cupieras, cupieses</td>
+><td style="text-align:center;vertical-align:middle">cupierais, cupieseis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">cupiera, cupiese</td>
+><td style="text-align:center;vertical-align:middle">cupieran, cupiesen</td>
+></tr>
+></table>
+>
+><table>
+><caption>decir ('to say')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">dijera, dijese</td>
+><td style="text-align:center;vertical-align:middle">dijéramos, dijésemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">dijeras, dijeses</td>
+><td style="text-align:center;vertical-align:middle">dijerais, dijeseis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">dijera, dijese</td>
+><td style="text-align:center;vertical-align:middle">dijeran, dijesen</td>
+></tr>
+></table>
+>
+><table>
+><caption>estar ('to be')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">estuviera, estuviese</td>
+><td style="text-align:center;vertical-align:middle">estuviéramos, estuviésemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">estuvieras, estuvieses</td>
+><td style="text-align:center;vertical-align:middle">estuvierais, estuvieseis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">estuviera, estuviese</td>
+><td style="text-align:center;vertical-align:middle">estuvieran, estuviesen</td>
+></tr>
+></table>
+>
+><table>
+><caption>haber ('to have')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">hubiera, hubiese</td>
+><td style="text-align:center;vertical-align:middle">hubiéramos, hubiésemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">hubieras, hubieses</td>
+><td style="text-align:center;vertical-align:middle">hubierais, hubieseis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">hubiera, hubiese</td>
+><td style="text-align:center;vertical-align:middle">hubieran, hubiesen</td>
+></tr>
+></table>
+>
+><table>
+><caption>hacer ('to do')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">hiciera, hiciese</td>
+><td style="text-align:center;vertical-align:middle">hiciéramos, hiciésemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">hicieras, hicieses</td>
+><td style="text-align:center;vertical-align:middle">hicierais, hicieseis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">hiciera, hiciese</td>
+><td style="text-align:center;vertical-align:middle">hicieran, hiciesen</td>
+></tr>
+></table>
+>
+><table>
+><caption>poder ('to be able to')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">pudiera, pudiese</td>
+><td style="text-align:center;vertical-align:middle">pudiéramos, pudiésemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">pudieras, pudieses</td>
+><td style="text-align:center;vertical-align:middle">pudierais, pudieseis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">pudiera, pudiese</td>
+><td style="text-align:center;vertical-align:middle">pudieran, pudiesen</td>
+></tr>
+></table>
+>
+><table>
+><caption>poner ('to put')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">pusiera, pusiese</td>
+><td style="text-align:center;vertical-align:middle">pusiéramos, pusiésemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">pusieras, pusieses</td>
+><td style="text-align:center;vertical-align:middle">pusierais, pusieseis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">pusiera, pusiese</td>
+><td style="text-align:center;vertical-align:middle">pusieran, pusiesen</td>
+></tr>
+></table>
+>
+><table>
+><caption>producir ('to produce')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">produjera, produjese</td>
+><td style="text-align:center;vertical-align:middle">produjéramos, produjésemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">produjeras, produjeses</td>
+><td style="text-align:center;vertical-align:middle">produjerais, produjeseis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">produjera, produjese</td>
+><td style="text-align:center;vertical-align:middle">produjeran, produjesen</td>
+></tr>
+></table>
+>
+><table>
+><caption>querer ('to want')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">quisiera, quisiese</td>
+><td style="text-align:center;vertical-align:middle">quisiéramos, quisiésemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">quisieras, quisieses</td>
+><td style="text-align:center;vertical-align:middle">quisierais, quisieseis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">quisiera, quisiese</td>
+><td style="text-align:center;vertical-align:middle">quisieran, quisiesen</td>
+></tr>
+></table>
+>
+><table>
+><caption>saber ('to know')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">supiera, supiese</td>
+><td style="text-align:center;vertical-align:middle">supiéramos, supiésemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">supieras, supieses</td>
+><td style="text-align:center;vertical-align:middle">supierais, supieseis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">supiera, supiese</td>
+><td style="text-align:center;vertical-align:middle">supieran, supiesen</td>
+></tr>
+></table>
 >
 ><table>
 ><caption>servir ('to serve')</caption>
@@ -1140,17 +1906,89 @@ The [imperfect subjunctive stem](#Imperfect%20Subjunctive%20Forms) is obtained b
 ><tr>
 ><th style="text-align:center;vertical-align:middle">First Person</th>
 ><td style="text-align:center;vertical-align:middle">sirviera, sirviese</td>
-><td style="text-align:center;vertical-align:middle">sirvieramos, sirviesemos</td>
+><td style="text-align:center;vertical-align:middle">sirviéramos, sirviésemos</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Second Person</th>
-><td style="text-align:center;vertical-align:middle">servíste</td>
-><td style="text-align:center;vertical-align:middle">servisteis</td>
+><td style="text-align:center;vertical-align:middle">sirvieras, sirvieses</td>
+><td style="text-align:center;vertical-align:middle">sirvierais, sirvieseis</td>
 ></tr>
 ><tr>
 ><th style="text-align:center;vertical-align:middle">Third Person</th>
-><td style="text-align:center;vertical-align:middle">sirvió</td>
-><td style="text-align:center;vertical-align:middle">sirvieron</td>
+><td style="text-align:center;vertical-align:middle">sirviera, sirviese</td>
+><td style="text-align:center;vertical-align:middle">sirvieran, sirviesen</td>
+></tr>
+></table>
+>
+><table>
+><caption>tener ('to have')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">tuviera, tuviese</td>
+><td style="text-align:center;vertical-align:middle">tuviéramos, tuviésemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">tuvieras, tuvieses</td>
+><td style="text-align:center;vertical-align:middle">tuvierais, tuvieseis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">tuviera, tuviese</td>
+><td style="text-align:center;vertical-align:middle">tuvieran, tuviesen</td>
+></tr>
+></table>
+>
+><table>
+><caption>traer ('to bring')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">trajera, trajese</td>
+><td style="text-align:center;vertical-align:middle">trajéramos, trajésemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">trajeras, trajeses</td>
+><td style="text-align:center;vertical-align:middle">trajerais, trajeseis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">trajera, trajese</td>
+><td style="text-align:center;vertical-align:middle">trajeran, trajesen</td>
+></tr>
+></table>
+>
+><table>
+><caption>venir ('to come')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">viniera, viniese</td>
+><td style="text-align:center;vertical-align:middle">viniéramos, viniésemos</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">vinieras, vinieses</td>
+><td style="text-align:center;vertical-align:middle">vinierais, vinieseis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">viniera, viniese</td>
+><td style="text-align:center;vertical-align:middle">vinieran, viniesen</td>
 ></tr>
 ></table>
 >
@@ -1160,48 +1998,54 @@ The [imperfect subjunctive stem](#Imperfect%20Subjunctive%20Forms) is obtained b
 Regular [verbs](./Verbs%20(Spanish).md) construct the **preterite forms** by appending an appropriate ending to the [infinitive stem](#Infinitive%20Forms).
 
 <table>
-<caption>Preterite Endings</caption>
+<caption>Preterite Endings (<i>-ar</i> Conjugation)</caption>
 <tr>
-<th style="text-align:center;vertical-align:middle" colspan=2></th>
-<th style="text-align:center;vertical-align:middle">First Conjugation (<i>-ar</i>)</th>
-<th style="text-align:center;vertical-align:middle">Second Conjugation (<i>-er</i>)</th>
-<th style="text-align:center;vertical-align:middle">Third Conjugation (<i>-ir</i>)</th>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
 </tr>
 <tr>
-<th style="text-align:center;vertical-align:middle" rowspan=3>Singular</th>
 <th style="text-align:center;vertical-align:middle">First Person</th>
 <td style="text-align:center;vertical-align:middle"><i>-é</i></td>
-<td style="text-align:center;vertical-align:middle" colspan=2><i>-í</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-amos</i></td>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Second Person</th>
 <td style="text-align:center;vertical-align:middle"><i>-aste</i></td>
-<td style="text-align:center;vertical-align:middle" colspan=2><i>-iste</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-asteis</i></td>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Third Person</th>
 <td style="text-align:center;vertical-align:middle"><i>-ó</i></td>
-<td style="text-align:center;vertical-align:middle" colspan=2><i>-ió</i></td>
-</tr>
-<tr>
-<th style="text-align:center;vertical-align:middle" rowspan=3>Plural</th>
-<th style="text-align:center;vertical-align:middle">First Person</th>
-<td style="text-align:center;vertical-align:middle"><i>-amos</i></td>
-<td style="text-align:center;vertical-align:middle" colspan=2><i>-imos</i></td>
-</tr>
-<tr>
-<th style="text-align:center;vertical-align:middle">Second Person</th>
-<td style="text-align:center;vertical-align:middle"><i>-asteis</i></td>
-<td style="text-align:center;vertical-align:middle" colspan=2><i>-isteis</i></td>
-</tr>
-<tr>
-<th style="text-align:center;vertical-align:middle">Third Person</th>
 <td style="text-align:center;vertical-align:middle"><i>-aron</i></td>
-<td style="text-align:center;vertical-align:middle" colspan=2><i>-ieron</i></td>
 </tr>
 </table>
 
-To preserve pronunciation, some [verbs](./Verbs%20(Spanish).md) experience alternations in the first-person singular form:
+<table>
+<caption>Preterite Endings (<i>-er</i> and <i>-ir</i> Conjugation)</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">First Person</th>
+<td style="text-align:center;vertical-align:middle"><i>-í</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-imos</i></td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Second Person</th>
+<td style="text-align:center;vertical-align:middle"><i>-iste</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-isteis</i></td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Third Person</th>
+<td style="text-align:center;vertical-align:middle"><i>-ió</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-ieron</i></td>
+</tr>
+</table>
+
+To preserve pronunciation, [verbs](./Verbs%20(Spanish).md) experience alternations in the first-person singular form:
 
 - In [verbs](./Verbs%20(Spanish).md) with an [infinitive](#Infinitve%20Forms) in *-car*, the ⟨c⟩ alternates with ⟨qu⟩.
 - In [verbs](./Verbs%20(Spanish).md) with an [infinitive](#Infinitve%20Forms) in *-gar*, the ⟨g⟩ alternates with ⟨gu⟩.
@@ -1237,30 +2081,6 @@ If the last syllable of a regular *-ir* [verb](./Verbs%20(Spanish).md) contains 
 >
 
 The following [verbs](./Verbs%20(Spanish).md) and their derivatives have irregular [preterite forms](#Preterite%20Forms).
-
-<table>
-<caption>andar ('to walk')</caption>
-<tr>
-<th style="text-align:center;vertical-align:middle">Preterite Forms</th>
-<th style="text-align:center;vertical-align:middle">Singular</th>
-<th style="text-align:center;vertical-align:middle">Plural</th>
-</tr>
-<tr>
-<th style="text-align:center;vertical-align:middle">First Person</th>
-<td style="text-align:center;vertical-align:middle">anduve</td>
-<td style="text-align:center;vertical-align:middle">anduvimos</td>
-</tr>
-<tr>
-<th style="text-align:center;vertical-align:middle">Second Person</th>
-<td style="text-align:center;vertical-align:middle">anduviste</td>
-<td style="text-align:center;vertical-align:middle">anduvisteis</td>
-</tr>
-<tr>
-<th style="text-align:center;vertical-align:middle">Third Person</th>
-<td style="text-align:center;vertical-align:middle">anduvo</td>
-<td style="text-align:center;vertical-align:middle">anduvieron</td>
-</tr>
-</table>
 
 <table>
 <caption>andar ('to walk')</caption>

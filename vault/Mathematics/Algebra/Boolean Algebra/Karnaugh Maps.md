@@ -40,3 +40,6 @@ A table constructed in this manner fully describes $f$ and is known as a **Karna
 >
 >![Filled Karnaugh Map Example](./res/Filled%20Karnaugh%20Map%20Example.svg)
 >
+
+## Map-Entered Variables
+
