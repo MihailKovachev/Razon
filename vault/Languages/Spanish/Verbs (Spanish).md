@@ -90,7 +90,7 @@ The **present indicative forms** are constructed by attaching an appropriate end
 </tr>
 </table>
 
-A few [verbs](./Verbs%20(Spanish).md) experience a [vowel](../../Linguistics/Vowel.md) [alternation](TODO) in the forms with [stress](./Phonology%20(Spanish).md#Stress) on the [present stem](#Present%20Forms).:
+A few [verbs](./Verbs%20(Spanish).md) experience a [vowel](../../Linguistics/Vowel.md) [alternation](TODO) in the forms with [stress](./Phonology%20(Spanish).md#Stress) on the [present stem](#Present%20Forms):
 
 - ⟨e⟩ ~ ⟨ie⟩
 - ⟨e⟩ ~ ⟨i⟩
@@ -1205,51 +1205,277 @@ A few [verbs](./Verbs%20(Spanish).md) have highly irregular [present indicative 
 
 The **present subjunctive forms** are constructed by appending an appropriate ending to the **present subjunctive stem**.
 
-The [present subjunctive stem](#Present%20Subjunctive%20Forms) is formed by dropping the *-o* ending of the first-person singular [present indicative form](#Present%20Indicative%20Forms).
-
 <table>
-<caption>Present Subjunctive Endings</caption>
+<caption>Present Subjunctive Endings (<i>-ar</i> Conjugation)</caption>
 <tr>
-<th style="text-align:center;vertical-align:middle" colspan=2></th>
-<th style="text-align:center;vertical-align:middle">First Conjugation (<i>-ar</i>)</th>
-<th style="text-align:center;vertical-align:middle">Second Conjugation (<i>-er</i>)</th>
-<th style="text-align:center;vertical-align:middle">Third Conjugation (<i>-ir</i>)</th>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
 </tr>
 <tr>
-<th style="text-align:center;vertical-align:middle" rowspan=3>Singular</th>
 <th style="text-align:center;vertical-align:middle">First Person</th>
 <td style="text-align:center;vertical-align:middle"><i>-e</i></td>
-<td style="text-align:center;vertical-align:middle" colspan=2><i>-a</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-emos</i></td>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Second Person</th>
 <td style="text-align:center;vertical-align:middle"><i>-es</i></td>
-<td style="text-align:center;vertical-align:middle" colspan=2><i>-as</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-éis</i></td>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Third Person</th>
 <td style="text-align:center;vertical-align:middle"><i>-e</i></td>
-<td style="text-align:center;vertical-align:middle" colspan=2><i>-a</i></td>
-</tr>
-<tr>
-<th style="text-align:center;vertical-align:middle" rowspan=3>Plural</th>
-<th style="text-align:center;vertical-align:middle">First Person</th>
-<td style="text-align:center;vertical-align:middle"><i>-emos</i></td>
-<td style="text-align:center;vertical-align:middle" colspan=2><i>-amos</i></td>
-</tr>
-<tr>
-<th style="text-align:center;vertical-align:middle">Second Person</th>
-<td style="text-align:center;vertical-align:middle"><i>-éis</i></td>
-<td style="text-align:center;vertical-align:middle" colspan=2><i>-áis</i></td>
-</tr>
-<tr>
-<th style="text-align:center;vertical-align:middle">Third Person</th>
 <td style="text-align:center;vertical-align:middle"><i>-en</i></td>
-<td style="text-align:center;vertical-align:middle" colspan=2><i>-an</i></td>
 </tr>
 </table>
 
-The following [verbs](./Verbs%20(Spanish).md) have highly irregular [present subjunctive forms](#Present%20Subjunctive%20Forms).
+<table>
+<caption>Present Indicative Endings (<i>-er</i> and <i>-ir</i> Conjugation)</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">First Person</th>
+<td style="text-align:center;vertical-align:middle"><i>-a</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-amos</i></td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Second Person</th>
+<td style="text-align:center;vertical-align:middle"><i>-as</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-áis</i></td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Third Person</th>
+<td style="text-align:center;vertical-align:middle"><i>-a</i></td>
+<td style="text-align:center;vertical-align:middle"><i>-an</i></td>
+</tr>
+</table>
+
+If a [verb](./Verbs%20(Spanish).md) has an irregular first-person singular [present indicative](#Present%20Indicative%20Forms) with an insertion of ⟨g⟩ or ⟨z⟩, then the [present subjunctive stem](#Present%20Subjunctive%20Forms) is derived from this form by dropping the *-o* ending and undergoes no further changes during conjugation.
+
+For all other [verbs](./Verbs%20(Spanish).md), the [present subjunctive stem](#Present%20Subjunctive%20Forms) is identical to the [present indicative stem](#Present%20Indicative%20Stem) and inherits all patterns of stem vowel alterations. Furthermore, *-ir* [verbs](./Verbs%20(Spanish).md) are subject to the additional alterations ⟨e⟩ ~ ⟨i⟩ or ⟨o⟩ ~ ⟨u⟩ in the first- and second-person plural.
+
+[First-conjugation](#Infinitives) [verbs](./Verbs%20(Spanish).md) undergo regular orthographic changes in the last letter of the [present subjunctive stem](#Present%20Subjunctive%20Forms) to preserve pronunciation.
+
+- ⟨c⟩ ~ ⟨qu⟩
+- ⟨g⟩ ~ ⟨gu⟩
+- ⟨z⟩ ~ ⟨c⟩
+
+>[!EXAMPLE]- Example: Present Subjunctive Forms
+>
+><table>
+><caption>comer ('to eat')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">coma</td>
+><td style="text-align:center;vertical-align:middle">comamos</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">comes</td>
+><td style="text-align:center;vertical-align:middle">coméis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">come</td>
+><td style="text-align:center;vertical-align:middle">comen</td>
+></tr>
+></table>
+>
+><table>
+><caption>conducir ('to drive')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">conduzca</td>
+><td style="text-align:center;vertical-align:middle">conduzcamos</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Irregular first-person singular present indicative <i>conduzco</i> results in the present subjunctive stem <i>conduzc-</i> in all forms due to insertion of ⟨z⟩.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">conduzcas</td>
+><td style="text-align:center;vertical-align:middle">conduzcáis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">conduzca</td>
+><td style="text-align:center;vertical-align:middle">conduzcan</td>
+></tr>
+></table>
+>
+><table>
+><caption>costar ('to cost')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">cueste</td>
+><td style="text-align:center;vertical-align:middle">costemos</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>TODO</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">cuestes</td>
+><td style="text-align:center;vertical-align:middle">costéis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">cueste</td>
+><td style="text-align:center;vertical-align:middle">cuesten</td>
+></tr>
+></table>
+>
+><table>
+><caption>decir ('to say')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">diga</td>
+><td style="text-align:center;vertical-align:middle">digamos</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Irregular first-person singular present indicative <i>digo</i> results in the present subjunctive stem <i>dig-</i> in all forms due to insertion of ⟨g⟩.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">digas</td>
+><td style="text-align:center;vertical-align:middle">digáis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">diga</td>
+><td style="text-align:center;vertical-align:middle">digan</td>
+></tr>
+></table>
+>
+><table>
+><caption>hablar ('to speak')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">hable</td>
+><td style="text-align:center;vertical-align:middle">hablemos</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3></td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">hables</td>
+><td style="text-align:center;vertical-align:middle">habléis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">hable</td>
+><td style="text-align:center;vertical-align:middle">hablen</td>
+></tr>
+></table>
+>
+><table>
+><caption>poner ('to put')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">ponga</td>
+><td style="text-align:center;vertical-align:middle">pongamos</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Irregular first-person singular present indicative <i>pongo</i> results in the present subjunctive stem <i>pong-</i> in all forms due to insertion of ⟨g⟩.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">pongas</td>
+><td style="text-align:center;vertical-align:middle">pongáis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">ponga</td>
+><td style="text-align:center;vertical-align:middle">pongan</td>
+></tr>
+></table>
+>
+><table>
+><caption>salir ('to go out')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">salga</td>
+><td style="text-align:center;vertical-align:middle">salgamos</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Irregular first-person singular present indicative <i>salgo</i> results in the present subjunctive stem <i>salg-</i> in all forms due to insertion of ⟨g⟩.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">salgas</td>
+><td style="text-align:center;vertical-align:middle">salgáis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">salga</td>
+><td style="text-align:center;vertical-align:middle">salgan</td>
+></tr>
+></table>
+>
+>
+><table>
+><caption>tener ('to have')</caption>
+><tr>
+><th style="text-align:center;vertical-align:middle"></th>
+><th style="text-align:center;vertical-align:middle">Singular</th>
+><th style="text-align:center;vertical-align:middle">Plural</th>
+><th style="text-align:center;vertical-align:middle">Notes</th>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">First Person</th>
+><td style="text-align:center;vertical-align:middle">tenga</td>
+><td style="text-align:center;vertical-align:middle">tengamos</td>
+><td style="text-align:center;vertical-align:middle" rowspan=3>Irregular first-person singular present indicative <i>tengo</i> results in the present subjunctive stem <i>teng-</i> in all forms due to insertion of ⟨g⟩.</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Second Person</th>
+><td style="text-align:center;vertical-align:middle">tengas</td>
+><td style="text-align:center;vertical-align:middle">tengáis</td>
+></tr>
+><tr>
+><th style="text-align:center;vertical-align:middle">Third Person</th>
+><td style="text-align:center;vertical-align:middle">tenga</td>
+><td style="text-align:center;vertical-align:middle">tengan</td>
+></tr>
+></table>
+>
+
+The following [verbs](./Verbs%20(Spanish).md) have highly irregular [present subjunctive forms](#Present%20Subjunctive%20Forms) since their first-person singular [present indicative](#Present%20Subjunctive%20Forms) does not end in *-o*.
 
 <table>
 <caption>dar ('to give')</caption>
@@ -2223,6 +2449,30 @@ The following [verbs](./Verbs%20(Spanish).md) and their derivatives have irregul
 <th style="text-align:center;vertical-align:middle">Third Person</th>
 <td style="text-align:center;vertical-align:middle">hizo</td>
 <td style="text-align:center;vertical-align:middle">hicieron</td>
+</tr>
+</table>
+
+<table>
+<caption>ir ('to go')</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle">Preterite Forms</th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">First Person</th>
+<td style="text-align:center;vertical-align:middle">fui</td>
+<td style="text-align:center;vertical-align:middle">fuimos</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Second Person</th>
+<td style="text-align:center;vertical-align:middle">fuiste</td>
+<td style="text-align:center;vertical-align:middle">fuisteis</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Third Person</th>
+<td style="text-align:center;vertical-align:middle">fue</td>
+<td style="text-align:center;vertical-align:middle">fueron</td>
 </tr>
 </table>
 
